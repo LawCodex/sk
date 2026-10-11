@@ -1,0 +1,58 @@
+---
+title: "Ústavný zákon, ktorým sa mení a dopĺňa Ústava Slovenskej republiky č. 460/1992 Zb. v znení neskorších predpisov"
+identifier: "92/2006 Z. z."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2006/92/"
+type: constitutional_act
+jurisdiction: sk
+language: sk
+date: 2006-02-21
+last_amended: 2006-04-01
+status: in_force
+consolidated_version: "/SK/ZZ/2006/92/20060401"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2006/92/20060401"
+retrieved: 2026-10-12
+---
+
+# Ústavný zákon, ktorým sa mení a dopĺňa Ústava Slovenskej republiky č. 460/1992 Zb. v znení neskorších predpisov
+
+**92**
+
+**ÚSTAVNÝ ZÁKON**
+
+**z 3. februára 2006,**
+
+**ktorým sa mení a dopĺňa Ústava Slovenskej republiky č. 460/1992 Zb. v znení neskorších predpisov**
+
+Národná rada Slovenskej republiky sa uzniesla na tomto ústavnom zákone:
+
+## Čl. I
+
+Ústava Slovenskej republiky č. 460/1992 Zb. v znení ústavného zákona č. 244/1998 Z. z., ústavného zákona č. 9/1999 Z. z., ústavného zákona č. 90/2001 Z. z., ústavného zákona č. 140/2004 Z. z., ústavného zákona č. 323/2004 Z. z. a ústavného zákona č. 463/2005 Z. z. sa mení a dopĺňa takto:
+
+1. V čl. 130 ods. 1 sa za písmeno e) vkladá nové písmeno f), ktoré znie:
+
+> „f) verejný ochranca práv vo veciach súladu právnych predpisov podľa čl. 125 ods. 1, ak ich ďalšie uplatňovanie môže ohroziť základné práva alebo slobody alebo ľudské práva a základné slobody vyplývajúce z medzinárodnej zmluvy, ktorú Slovenská republika ratifikovala a ktorá bola vyhlásená spôsobom ustanoveným zákonom,“.
+
+Doterajšie písmená f), g) a h) sa označujú ako písmená g), h) a i).
+
+2. V čl. 151a odsek 1 znie:
+
+> „(1) Verejný ochranca práv je nezávislý orgán Slovenskej republiky, ktorý v rozsahu a spôsobom ustanoveným zákonom chráni základné práva a slobody fyzických osôb a právnických osôb v konaní pred orgánmi verejnej správy a ďalšími orgánmi verejnej moci, ak je ich konanie, rozhodovanie alebo nečinnosť v rozpore s právnym poriadkom. V zákonom ustanovených prípadoch sa verejný ochranca práv môže podieľať na uplatnení zodpovednosti osôb pôsobiacich v orgánoch verejnej moci, ak tieto osoby porušili základné právo alebo slobodu fyzických osôb a právnických osôb. Všetky orgány verejnej moci poskytnú verejnému ochrancovi práv potrebnú súčinnosť.“.
+
+3. V čl. 151a sa za odsek 1 vkladá nový odsek 2, ktorý znie:
+
+> „(2) Verejný ochranca práv môže predložiť Ústavnému súdu Slovenskej republiky návrh na začatie konania podľa čl. 125, ak všeobecne záväzný právny predpis porušuje základné právo alebo slobodu priznanú fyzickej osobe alebo právnickej osobe.“.
+
+Doterajšie odseky 2 až 5 sa označujú ako odseky 3 až 6.
+
+4. V čl. 151a ods. 6 sa za slová „o spôsobe právnej ochrany“ vkladá čiarka a slová „o predkladaní návrhov na začatie konania pred Ústavným súdom Slovenskej republiky podľa čl. 130 ods. 1 písm. f)“.
+
+## Čl. II
+
+Tento ústavný zákon nadobúda účinnosť 1. apríla 2006.
+
+Ivan Gašparovič v. r.
+
+Pavol Hrušovský v. r.
+
+Mikuláš Dzurinda v. r.

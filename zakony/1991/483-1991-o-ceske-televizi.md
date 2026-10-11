@@ -1,0 +1,178 @@
+---
+title: "Zákon České národní rady o České televizi"
+identifier: "483/1991 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1991/483/"
+type: act
+jurisdiction: sk
+language: cs
+date: 1991-11-29
+last_amended: 1993-01-01
+status: in_force
+consolidated_version: "/SK/ZZ/1991/483/19930101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1991/483/19930101"
+retrieved: 2026-10-12
+---
+
+# Zákon České národní rady o České televizi
+
+**483**
+
+**ZÁKON**
+
+**České národní rady**
+
+**ze dne 7. listopadu 1991**
+
+**o České televizi**
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## § 1
+
+(1) Zřizuje se Česká televize se sídlem v Praze.
+
+(2) Česká televize je právnickou osobou, která hospodaří s vlastním majetkem, jehož základem je majetek převedený z Československé televize.<sup>1</sup>) Česká televize vlastními úkony nabývá práv a zavazuje se. Česká televize se nezapisuje do podnikového rejstříku.
+
+(3) Stát neodpovídá za závazky České televize a Česká televize neodpovídá za závazky státu.
+
+## § 2
+
+Česká televize poskytuje službu veřejnosti České republiky tvorbou a šířením televizních programů na celém území České republiky. Jejím posláním je poskytovat objektivní, ověřené, všestranné a vyvážené informace pro svobodné vytváření názorů, rozvíjet kulturní identitu českého národa a národnostních a etnických menšin v České republice, zprostředkovávat ekologické informace, sloužit vzdělávání, výchově mladé generace a přispívat k zábavě diváků.
+
+## § 3
+
+Česká televize naplňuje poslání podle § 2 tohoto zákona zejména tím, že:
+
+a) provozuje televizní vysílání na vlastním vysílacím okruhu,
+
+b) v dohodě se Slovenskou televizí a Československou televizí se může podílet na programové skladbě federálního vysílacího okruhu,
+
+c) zřizuje síť vlastních zpravodajů,
+
+d) vytváří archivní fondy, udržuje je a podílí se na jejich využívání jako součásti národního kulturního bohatství.
+
+## Rada České televize
+
+### § 4
+
+(1) Orgánem, jímž se uplatňuje právo veřejnosti na kontrolu tvorby a šíření programů České televize je Rada České televize (dále jen „Rada“). Rada má devět členů. Členy Rady volí a odvolává Česká národní rada, a to tak, aby v ní byly zastoupeny významné regionální, politické, sociální a kulturní názorové proudy.
+
+(2) Členové Rady jsou voleni na funkční období pěti let, a to i opětovně. V takovém případě však ne na více než na dvě po sobě jdoucí funkční období. Na místa uprázdněná uplynutím funkčního období jsou voleni noví členové na období pěti let, na místa uprázdněná z jiného důvodu jsou voleni noví členové na dobu zbývající do konce funkčního období toho člena, jehož místo se uprázdnilo.
+
+(3) Rada je ze své činnosti odpovědna České národní radě.
+
+(4) Členství v Radě je veřejnou funkcí.<sup>2</sup>) V souvislosti s jejím výkonem přísluší členům Rady odměna, jejíž výši určí svým usnesením předsednictvo České národní rady.
+
+(5) Rada volí ze svého středu předsedu a odvolává ho.
+
+### § 5
+
+(1) Členství v Radě je neslučitelné s funkcí prezidenta České a Slovenské Federativní Republiky, poslance, předsedy nebo místopředsedy vlády, ministra, vedoucího jiného ústředního orgánu státní správy nebo jejich náměstků.
+
+(2) Člen Rady nesmí mít funkce v politických stranách nebo v politických hnutích, ani nesmí působit v jejich prospěch při výkonu své funkce v Radě; dále nesmí být členem orgánů společností, které působí v oblasti televizního vysílání, ani zastupovat obchodní zájmy, které by mohly být v rozporu s výkonem jeho funkce nebo by mohly nepříznivě ovlivňovat jeho nestrannost a objektivitu rozhodování. Člen Rady nebo osoby jemu blízké<sup>3</sup>) nesmějí mít žádný finanční zájem na provozování televizního vysílání daný vlastnictvím či jinak.
+
+### § 6
+
+(1) Členství v Radě zaniká:
+
+a) uplynutím funkčního období,
+
+b) odstoupením z funkce,
+
+c) odvoláním z funkce,
+
+d) zbavením nebo omezením způsobilosti k právním úkonům,
+
+e) úmrtím.
+
+(2) Česká národní rada člena Rady z funkce odvolá:
+
+a) zaniknou-li předpoklady pro výkon funkce uvedené v § 5 tohoto zákona,
+
+b) byl-li pravomocně odsouzen pro úmyslný trestný čin,
+
+c) nevykonává-li po dobu více než šesti měsíců svou funkci.
+
+(3) Česká národní rada může odvolat Radu, neplní-li Rada opakovaně své povinnosti podle § 8 odst. 1 písm. a), b) a c), § 8 odst. 2 tohoto zákona, anebo konstatuje-li Česká národní rada v průběhu šesti měsíců svými usneseními opakovaně, že Česká televize neplní své poslání podle § 2 tohoto zákona.
+
+### § 7
+
+(1) Činnost Rady se řídí jednacím řádem, který Rada přijme do třiceti dnů od začátku funkčního období.
+
+(2) Rada přijímá rozhodnutí nadpoloviční většinou hlasů všech svých členů.
+
+### § 8
+
+(1) Do působnosti Rady náleží:
+
+a) jmenovat a odvolávat generálního ředitele České televize (dále jen „ředitel“) a na jeho návrh ředitele televizních studií,
+
+b) schvalovat rozpočet a závěrečný účet České televize,
+
+c) schvalovat na návrh ředitele Statut České televize,
+
+d) zřizovat a zrušovat televizní studia České televize (dále jen „televizní studia“), s výjimkou Televizního studia Praha, Televizního studia Brno a Televizního studia Ostrava,
+
+e) rozhodovat o stížnostech týkajících se ředitele.
+
+(2) Rada předkládá České národní radě výroční zprávu o činnosti a hospodaření České televize. Rada hospodaří podle vlastního rozpočtu.
+
+(3) Náklady na činnost Rady a odměny jejích členů se hradí z prostředků České televize.
+
+### § 9 — Ředitel
+
+(1) Statutárním orgánem České televize je ředitel. Při jeho jmenování a odvolání se použije § 5 tohoto zákona obdobně. Ředitel nemůže být členem Rady. Ze své činnosti je odpovědný Radě a má právo se zúčastňovat jejího zasedání.
+
+(2) Ředitel je jmenován Radou na funkční období šesti let.
+
+(3) Ředitel může být Radou odvolán tajným hlasováním před uplynutím funkčního období, vysloví-li se pro jeho odvolání alespoň dvě třetiny členů Rady. Odvolání vstoupí v platnost jmenováním nového ředitele.
+
+### § 10 — Financování České televize
+
+Finančními zdroji České televize jsou zejména:
+
+a) výnos ze sazeb za používání televizních přijímačů podléhajících evidenci placených poplatníky s trvalým pobytem nebo sídlem v České republice,
+
+b) příjem z vlastní podnikatelské činnosti.
+
+### § 11
+
+(1) Česká televize je oprávněna vykonávat za podmínek stanovených právními předpisy podnikatelskou činnost, která souvisí s předmětem její činnosti a která nesmí ohrozit její poslání (§ 2 tohoto zákona). Finanční příjmy získané podnikatelskou činností používá Česká televize k financování své činnosti (§ 2 tohoto zákona).
+
+(2) V televizním vysílání čas vyhrazený reklamě nesmí přesáhnout jedno procento denního vysílacího času.
+
+### § 12 — Televizní studia
+
+(1) Součástí České televize jsou zejména Televizní studio Praha, Televizní studio Brno, Televizní studio Ostrava, případně televizní studia zřízená na základě § 8 odst. 1 písm. d) tohoto zákona.
+
+(2) Ředitel televizního studia je oprávněn činit jménem České televize právní úkony týkající se televizního studia, s výjimkou zcizení a zatížení nemovitostí. Ředitel televizního studia je za činnost televizního studia odpovědný řediteli.
+
+(3) Televizní studia mají v rámci své činnosti oprávnění obdobná podle § 3 tohoto zákona.
+
+### § 13
+
+Česká televize může v přiměřeném rozsahu poskytnout technickou a výrobní základnu pro potřeby Československé televize a Slovenské televize. Rozsah se stanoví v ročních smlouvách uzavíraných mezi Českou televizí a Československou televizí nebo Slovenskou televizí.
+
+## Ustanovení společná a závěrečná
+
+### § 14
+
+(1) Česká národní rada zvolí do jednoho měsíce ode dne účinnosti tohoto zákona Radu. Rada jmenuje do jednoho měsíce ode dne svého zvolení ředitele.
+
+(2) Do doby jmenování ředitele řídí Českou televizi prozatímní ředitel, kterého volí Česká národní rada. Prozatímnímu řediteli nepříslušejí oprávnění podle § 8 odst. 1 tohoto zákona.
+
+### § 15
+
+Tento zákon nabývá účinnosti, s výjimkou § 11 odst. 2, dnem 1. ledna 1992. Ustanovení § 11 odst. 2 tohoto zákona nabývá účinnosti dnem 1. ledna 1993.
+
+Burešová v. r.
+
+Pithart v. r.
+
+## Poznámky pod čiarou
+
+1) § 4 zákona č. 136/1991 Sb., o rozdělení působnosti mezi Českou a Slovenskou Federativní Republikou a Českou republikou a Slovenskou republikou ve věcech tisku a jiných informačních prostředků.
+
+2) § 124 odst. 1 zákoníku práce.
+
+3) § 116 občanského zákoníku.

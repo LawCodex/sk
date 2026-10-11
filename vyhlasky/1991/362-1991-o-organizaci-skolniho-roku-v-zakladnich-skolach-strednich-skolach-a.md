@@ -1,0 +1,98 @@
+---
+title: "Vyhláška ministerstva školství, mládeže a tělovýchovy České republiky o organizaci školního roku v základních školách, středních školách a speciálních školách"
+identifier: "362/1991 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1991/362/"
+type: decree
+jurisdiction: sk
+language: cs
+date: 1991-09-13
+last_amended: 1991-09-15
+status: in_force
+consolidated_version: "/SK/ZZ/1991/362/19910915"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1991/362/19910915"
+retrieved: 2026-10-12
+---
+
+# Vyhláška ministerstva školství, mládeže a tělovýchovy České republiky o organizaci školního roku v základních školách, středních školách a speciálních školách
+
+**362**
+
+**VYHLÁŠKA**
+
+**ministerstva školství, mládeže a tělovýchovy České republiky**
+
+**ze dne 21. srpna 1991**
+
+**o organizaci školního roku v základních školách, středních školách a speciálních školách**
+
+Ministerstvo školství, mládeže a tělovýchovy České republiky stanoví podle § 38 odst. 2 zákona č. 29/1984 Sb., o soustavě základních a středních škol (školský zákon), ve znění pozdějších předpisů:
+
+## § 1 — Základní ustanovení
+
+Vyhláška upravuje organizaci školního roku v základních školách, středních školách a speciálních školách (dále jen „školy“).
+
+## § 2 — Období školního vyučování
+
+(1) Období školního vyučování ve školním roce začíná 1. září a končí 30. června následujícího kalendářního roku; člení se na první pololetí a druhé pololetí.
+
+(2) První pololetí začíná 1. září a končí 31. ledna následujícího kalendářního roku. Druhé pololetí začíná 1. února a končí 30. června.
+
+(3) Připadne-li začátek prvního pololetí na pátek, začíná vyučování následující pondělí. Připadne-li konec druhého pololetí na pondělí, končí vyučování předcházející pátek.
+
+(4) Ve středních odborných školách, středních odborných učilištích, odborných učilištích a učilištích, kde je v učebních plánech v měsíci červenci a srpnu zařazena odborná (umělecká) praxe,<sup>1</sup>) končí vyučování ve druhém pololetí dříve před termínem stanoveným podle odstavců 2 a 3 o počet vyučovacích dnů odpovídajících délce odborné (umělecké) praxe.
+
+(5) V posledním vyučovacím dnu každého pololetí se předává žákům vysvědčení. V závěrečných ročnících středních škol a odborných učilišť se předává žákům vysvědčení v posledním vyučovacím dnu posledního týdne vyučování před zahájením maturitní zkoušky nebo závěrečné zkoušky nebo absolutoria.<sup>2</sup>)
+
+(6) Dojde-li v období školního vyučování k přesunu dnů pracovního klidu na jiné dny,<sup>3</sup>) vztahuje se tento přesun i na vyučovací dny.
+
+(7) Na školách uvedených v § 1 se vyučuje v pětidenním vyučovacím týdnu.
+
+## § 3 — Období školních prázdnin
+
+(1) Období školních prázdnin tvoří podzimní prázdniny, vánoční prázdniny, pololetní prázdniny, jarní prázdniny, velikonoční prázdniny a hlavní prázdniny.
+
+(2) Podzimní prázdniny trvají dva dny a přičleňují se ke státnímu svátku 28. října; jejich počátek stanoví pro každý školní rok ministerstvo školství, mládeže a tělovýchovy České republiky (dále jen „ministerstvo“).
+
+(3) Vánoční prázdniny trvají od 23. prosince do 2. ledna následujícího kalendářního roku včetně. Připadne-li 23. prosince na úterý, začínají prázdniny již předcházejícím pondělím. Jestliže 3. leden připadne na pátek, končí prázdniny tímto pátkem.
+
+(4) Pololetní prázdniny trvají jeden den a připadají na nejbližší pracovní den po ukončení prvního pololetí. Ředitel školy může podle provozních podmínek školy přesunout tento den tak, aby navazoval na nejbližší sobotu a neděli.
+
+(5) Jarní prázdniny trvají jeden týden a jejich termín stanoví nejpozději do konce května pro příští školní rok pro školy ve své územní působnosti školský úřad, a to v rozmezí od prvního úplného týdne února do posledního úplného týdne března. Jarní prázdniny se nestanoví v týdnu, na který připadnou velikonoční prázdniny.
+
+(6) Velikonoční prázdniny připadají na čtvrtek a pátek, které předcházejí Pondělí velikonočnímu.
+
+(7) Hlavní prázdniny trvají od skončení druhého pololetí školního vyučování do zahájení prvního pololetí v novém školním roce.
+
+## § 4
+
+(1) Ze závažných důvodů, zejména organizačních a technických, může ředitel školy vyhlásit pro žáky volné dny, a to v jednom školním roce nejvíce čtyři.
+
+(2) Ředitel internátní speciální školy nebo internátní zvláštní školy nebo internátní pomocné školy zajistí provoz internátu o volných dnech vyhlášených podle odstavce 1.
+
+## § 5
+
+Ředitel školy zajistí v období školních prázdnin a ve volných dnech vyhlášených podle § 4 odstavce 1 podle místních podmínek provoz školní družiny, popřípadě školního klubu a projedná s vedoucím školní jídelny zajištění provozu školní jídelny.
+
+## § 6
+
+Ředitel školy může stanovit po projednání se zástupci rodičů nebo jiných zákonných zástupců žáků, po dohodě se zřizovatelem a se souhlasem ministerstva ze závažných důvodů odlišnou organizaci školního roku; ve středních zdravotnických školách se souhlasem ministerstva zdravotnictví.
+
+## § 7 — Zrušovací ustanovení
+
+Zrušuje se vyhláška ministerstva školství České socialistické republiky č. 47/1987 Sb., o organizaci školního roku v základních školách, středních školách a školách pro mládež vyžadující zvláštní péči.
+
+## § 8
+
+Vyhláška nabývá účinnosti dnem 15. září 1991.
+
+Ministr:
+
+Vopěnka v. r.
+
+## Poznámky pod čiarou
+
+1) § 22 zákona č. 29/1984 Sb., o soustavě základních a středních škol (školský zákon), ve znění pozdějších předpisů.
+
+2) Vyhláška ministerstva školství, mládeže a tělovýchovy ČSR č. 119/1989 Sb., o ukončování studia ve středních školách a ukončování přípravy ve zvláštních odborných učilištích.
+
+3) § 94 zákoníku práce, ve znění pozdějších předpisů.

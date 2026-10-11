@@ -1,0 +1,582 @@
+---
+title: "Zákon, ktorým sa mení a dopĺňa zákon č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov a ktorým sa menia a dopĺňajú niektoré zákony"
+identifier: "324/2012 Z. z."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2012/324/"
+type: act
+jurisdiction: sk
+language: sk
+date: 2012-10-23
+last_amended: 2014-09-01
+status: in_force
+consolidated_version: "/SK/ZZ/2012/324/20140901"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2012/324/20140901"
+retrieved: 2026-10-12
+---
+
+# Zákon, ktorým sa mení a dopĺňa zákon č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov a ktorým sa menia a dopĺňajú niektoré zákony
+
+**324**
+
+**ZÁKON**
+
+**z 20. septembra 2012,**
+
+**ktorým sa mení a dopĺňa zákon č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov a ktorým sa menia a dopĺňajú niektoré zákony**
+
+Národná rada Slovenskej republiky sa uzniesla na tomto zákone:
+
+## Čl. I
+
+Zákon č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov sa mení a dopĺňa takto:
+
+1. V § 2 ods. 2 písm. a) prvom bode sa za slovo „školstva“ vkladá čiarka a slová „vedy, výskumu a športu“.
+
+2. V § 2 ods. 2 písm. a) sa vypúšťa šiesty bod.
+
+Doterajší siedmy až desiaty bod sa označí ako šiesty až deviaty bod.
+
+3. V § 2 ods. 2 písm. a) šiesty a siedmy bod znejú:
+
+> „6. Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky,
+>
+> 7. Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky,“.
+
+4. V § 2 ods. 2 písm. c) sa za slová „lesnícka komora“ vkladá čiarka a slová „Slovenská banská komora“.
+
+5. Poznámka pod čiarou k odkazu 2 znie:
+
+> „2) Napríklad § 12 ods. 1 písm. g) zákona č. 442/2004 Z. z. o súkromných veterinárnych lekároch, o Komore veterinárnych lekárov Slovenskej republiky a o zmene a doplnení zákona č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov v znení neskorších predpisov, § 43 až 78 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+6. V § 2 sa odsek 3 dopĺňa písmenom f), ktoré znie:
+
+> „f) zriaďovatelia<sup>6a</sup>) stredných škôl.“.
+
+Poznámka pod čiarou k odkazu 6a znie:
+
+> „6a) § 19 ods. 2 písm. d) a e) zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov.“.
+
+7. V § 3 ods. 1 písmeno c) znie:
+
+> „c) v spolupráci s Ministerstvom práce, sociálnych vecí a rodiny Slovenskej republiky, stavovskými organizáciami, profesijnými organizáciami a odborovými organizáciami určuje zoznam študijných odborov a učebných odborov, ktoré sú nad rozsah potrieb trhu práce, a zoznam študijných odborov a učebných odborov s nedostatočným počtom absolventov pre potreby trhu práce,“.
+
+8. V § 3 sa odsek 1 dopĺňa písmenom d), ktoré znie:
+
+> „d) schvaľuje metodiku účasti zástupcu stavovskej organizácie alebo profesijnej organizácie na teoretickej časti odbornej zložky maturitnej skúšky, praktickej časti odbornej zložky maturitnej skúšky, absolventskej skúške alebo záverečnej skúške.“.
+
+9. V § 3 sa za odsek 1 vkladá nový odsek 2, ktorý znie:
+
+> „(2) Ministerstvo školstva môže vo verejnom záujme na návrh zriaďovateľa strednej školy a po prerokovaní so samosprávnym krajom rozhodnúť o zvýšení počtu tried prvého ročníka stredných škôl určeného podľa § 4 ods. 2 písm. c).“.
+
+10. V § 3 odsek 4 znie:
+
+> „(4) Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky
+>
+> a) zverejňuje v spolupráci s ministerstvom školstva dvakrát ročne na svojom webovom sídle informáciu o uplatnení absolventov stredných škôl na trhu práce podľa jednotlivých krajov, stredných škôl, študijných odborov a učebných odborov,
+>
+> b) plní úlohy podľa osobitného predpisu.<sup>8</sup>)“.
+
+11. V § 3 ods. 5 sa slovo „desiateho“ nahrádza slovom „deviateho“.
+
+12. V § 4 ods. 2 písmeno a) znie:
+
+> „a) vytvára regionálnu stratégiu výchovy a vzdelávania v stredných školách v súlade s analýzami a prognózami o vývoji trhu práce v súčinnosti so subjektmi podľa § 2 ods. 3 písm. a), c) až f), ktorú každoročne aktualizuje,“.
+
+13. V § 4 ods. 2 písmeno c) znie:
+
+> „c) určuje všeobecne záväzným nariadením po prerokovaní v Krajskej rade pre odborné vzdelávanie a prípravu (ďalej len „krajská rada“) najneskôr do 30. septembra počet tried prvého ročníka stredných škôl financovaných podľa osobitného predpisu<sup>10a</sup>) vo svojej územnej pôsobnosti pre prijímacie konanie v nasledujúcom školskom roku v súlade s regionálnou stratégiou výchovy a vzdelávania v stredných školách a analýzami a prognózami o vývoji trhu práce;<sup>11</sup>) to sa nevzťahuje na gymnáziá s osemročným vzdelávacím programom v jeho územnej pôsobnosti a stredné školy v jeho územnej pôsobnosti, ktorých zriaďovateľom je krajský školský úrad. Počet tried prvého ročníka stredných škôl určuje aj podľa
+>
+> 1. percentuálneho podielu evidovaných nezamestnaných absolventov na úradoch práce, sociálnych vecí a rodiny vo vzťahu k počtu absolventov strednej školy v danom študijnom odbore alebo učebnom odbore,
+>
+> 2. materiálno-technického a priestorového zabezpečenia strednej školy,
+>
+> 3. výsledkov monitorovania a hodnotenia kvality výchovy a vzdelávania vykonaných Štátnou školskou inšpekciou podľa osobitného predpisu,<sup>11a</sup>)
+>
+> 4. výsledkov hodnotenia externej časti maturitnej skúšky a písomnej formy internej časti maturitnej skúšky,
+>
+> 5. výsledkov teoretickej časti odbornej zložky maturitnej skúšky, praktickej časti odbornej zložky maturitnej skúšky, absolventskej skúšky a záverečnej skúšky,
+>
+> 6. percentuálneho podielu prijatých žiakov do 1. ročníka vzhľadom na stanovený počet tried na predchádzajúci školský rok,
+>
+> 7. personálneho zabezpečenia školy,
+>
+> 8. výsledkov z celoslovenských kôl súťaží alebo predmetových olympiád a výsledkov medzinárodných kôl súťaží alebo predmetových olympiád,
+>
+> 9. účasti strednej školy v medzinárodných projektoch alebo medzinárodných programoch.“.
+
+Poznámky pod čiarou k odkazom 10a až 11a znejú:
+
+> „10a) § 4, § 6 ods. 1 a § 6a ods. 1 zákona č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení neskorších predpisov.
+>
+> 11) § 13 ods. 1 písm. aa) zákona č. 5/2004 Z. z. v znení neskorších predpisov.
+>
+> 11a) § 154 ods. 7 zákona č. 245/2008 Z. z.“.
+
+14. V § 4 ods. 2 sa vypúšťa písmeno d).
+
+15. V § 5 ods. 3 písmeno a) znie:
+
+> „a) spolupracuje s Ústredím práce, sociálnych vecí a rodiny pri tvorbe analýz a prognóz vývoja na trhu práce,“.
+
+16. V § 5 ods. 3 písm. b) sa slovo „predkladá“ nahrádza slovom „vypracúva“ a vypúšťajú sa slová „rade pre odborné vzdelávanie a prípravu“.
+
+17. V § 5 ods. 3 písm. d) a § 11 ods. 2 písm. b) sa slová „priestorovej, materiálnej a prístrojovej vybavenosti“ nahrádzajú slovami „materiálno-technického a priestorového zabezpečenia“.
+
+18. V § 5 ods. 3 písm. e) sa slová „odbornej zložky maturitnej skúšky“ nahrádzajú slovami „teoretickej časti odbornej zložky maturitnej skúšky, obsahu praktickej časti odbornej zložky maturitnej skúšky, obsahu absolventskej skúšky“.
+
+19. V § 5 ods. 3 písmeno h) znie:
+
+> „h) môže zabezpečiť odborníka z praxe na účel kontinuálneho vzdelávania učiteľov odborných predmetov a majstrov odbornej výchovy podľa osobitného predpisu,<sup>14a</sup>)“.
+
+Poznámka pod čiarou k odkazu 14a znie:
+
+> „14a) § 35 až 40 zákona č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení zákona č. 390/2011 Z. z.“.
+
+20. V § 5 ods. 3 písm. j) sa slová „odbornú zložku maturitnej skúšky“ nahrádzajú slovami „teoretickú časť odbornej zložky maturitnej skúšky, praktickú časť odbornej zložky maturitnej skúšky, absolventskej skúšky“.
+
+21. V § 5 sa odsek 3 dopĺňa písmenom l), ktoré znie:
+
+> „l) vypracúva metodiku účasti zástupcu stavovskej organizácie alebo profesijnej organizácie na teoretickej časti odbornej zložky maturitnej skúšky, praktickej časti odbornej zložky maturitnej skúšky, absolventskej skúške alebo záverečnej skúške.“.
+
+22. V § 5 sa vypúšťa odsek 4.
+
+Doterajší odsek 5 sa označuje ako odsek 4.
+
+23. § 6 vrátane nadpisu znie:
+
+> **„§ 6 — Zástupcovia zamestnancov**
+>
+> Odborové zväzy,<sup>4</sup>) odborové organizácie a zamestnanecké rady sa v oblasti odborného vzdelávania a prípravy vyjadrujú k
+>
+> a) finančnému zabezpečeniu a hmotnému zabezpečeniu žiakov,
+>
+> b) sústave odborov vzdelávania,
+>
+> c) obsahu odborného vzdelávania a prípravy.“.
+
+24. § 23 sa dopĺňa odsekom 3, ktorý znie:
+
+> „(3) Na konanie podľa § 3 ods. 2 sa vzťahuje všeobecný predpis o správnom konaní.<sup>33</sup>)“.
+
+Poznámka pod čiarou k odkazu 33 znie:
+
+> „33) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.“.
+
+## Čl. II
+
+Zákon Slovenskej národnej rady č. 9/1992 Zb. o obchodných a priemyselných komorách v znení zákona Národnej rady Slovenskej republiky č. 121/1996 Z. z., zákona č. 126/1998 Z. z., zákona č. 286/2008 Z. z. a zákona č. 184/2009 Z. z. sa dopĺňa takto:
+
+V § 5 ods. 2 písm. r) sa za slová „maturitných komisií v stredných odborných školách“ vkladá čiarka a slová „do skúšobných komisií pri absolventských skúškach v stredných odborných školách“.
+
+## Čl. III
+
+Zákon Slovenskej národnej rady č. 30/1992 Zb. o Slovenskej poľnohospodárskej a potravinárskej komore v znení zákona č. 448/2001 Z. z., zákona č. 546/2004 Z. z., zákona č. 172/2008 Z. z. a zákona č. 184/2009 Z. z. sa dopĺňa takto:
+
+V § 4 ods. 2 písm. b) sa za slová „maturitných komisií v stredných odborných školách“ vkladá čiarka a slová „do skúšobných komisií pri absolventských skúškach v stredných odborných školách“.
+
+## Čl. IV
+
+Zákon Národnej rady Slovenskej republiky č. 259/1993 Z. z. o Slovenskej lesníckej komore v znení zákona č. 464/2002 Z. z., zákona č. 176/2004 Z. z., zákona č. 545/2004 Z. z. a zákona č. 184/2009 Z. z. sa dopĺňa takto:
+
+V § 5a písm. b) sa za slová „maturitných komisií v stredných odborných školách“ vkladá čiarka a slová „do skúšobných komisií pri absolventských skúškach v stredných odborných školách“.
+
+## Čl. V
+
+Zákon č. 59/1998 Z. z. o Slovenskej banskej komore v znení zákona č. 184/2009 Z. z. sa dopĺňa takto:
+
+V § 5 ods. 3 písm. b) sa za slová „maturitných komisií v stredných odborných školách“ vkladá čiarka a slová „do skúšobných komisií pri absolventských skúškach v stredných odborných školách“.
+
+## Čl. VI
+
+Zákon č. 126/1998 Z. z. o Slovenskej živnostenskej komore a o zmene a doplnení niektorých zákonov v znení zákona č. 279/2001 Z. z., zákona č. 284/2002 Z. z., zákona č. 184/2009 Z. z. a zákona č. 568/2009 Z. z. sa dopĺňa takto:
+
+V § 3 ods. 3 písm. b) sa za slová „maturitných komisií v stredných odborných školách“ vkladá čiarka a slová „do skúšobných komisií pri absolventských skúškach v stredných odborných školách“.
+
+## Čl. VII
+
+Zákon č. 5/2004 Z. z. o službách v zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 191/2004 Z. z., zákona č. 365/2004 Z. z., zákona č. 585/2004 Z. z., zákona č. 614/2004 Z. z., zákona č. 1/2005 Z. z., zákona č. 82/2005 Z. z., zákona č. 528/2005 Z. z., zákona č. 573/2005 Z. z., zákona č. 310/2006 Z. z., zákona č. 693/2006 Z. z., zákona č. 561/2007 Z. z., zákona č. 139/2008 Z. z., zákona č. 233/2008 Z. z., zákona č. 263/2008 Z. z., zákona č. 460/2008 Z. z., zákona č. 562/2008 Z. z., zákona č. 49/2009 Z. z., zákona č. 108/2009 Z. z., zákona č. 266/2009 Z. z., zákona č. 463/2009 Z. z., zákona č. 594/2009 Z. z., zákona č. 52/2010 Z. z., zákona č. 136/2010 Z. z., zákona č. 373/2010 Z. z., zákona č. 120/2011 Z. z., zákona č. 223/2011 Z. z., zákona č. 231/2011 Z. z., zákona č. 257/2011 Z. z. a zákona č. 468/2011 Z. z. sa dopĺňa takto:
+
+1. V § 12 písm. aa) sa na konci pripájajú tieto slová „a zverejňovať ich na svojom webovom sídle“.
+
+2. V § 13 ods. 1 písm. aa) sa za slovo „obvode“ vkladá čiarka a slová „zverejňovať ich na svojom webovom sídle“.
+
+3. V § 18 sa odsek 1 dopĺňa písmenom c), ktoré znie:
+
+> „c) analýzy a prognózy o vývoji trhu práce podľa § 13 ods. 1 písm. aa).“.
+
+## Čl. VIII
+
+Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 720/2004 Z. z., zákona č. 351/2005 Z. z., zákona č. 538/2005 Z. z., zákona č. 282/2006 Z. z., zákona č. 527/2006 Z. z., zákona č. 673/2006 Z. z., zákona č. 18/2007 Z. z., zákona č. 272/2007 Z. z., zákona č. 330/2007 Z. z., zákona č. 464/2007 Z. z., zákona č. 653/2007 Z. z., zákona č. 206/2008 Z. z., zákona č. 284/2008 Z. z., zákona č. 447/2008 Z. z., zákona č. 461/2008 Z. z., zákona č. 560/2008 Z. z., zákona č. 192/2009 Z. z., zákona č. 214/2009 Z. z., zákona č. 8/2010 Z. z., zákona č. 133/2010 Z. z., zákona č. 34/2011 Z. z., zákona č. 250/2011 Z. z., zákona č. 362/2011 Z. z., zákona č. 390/2011 Z. z., zákona č. 512/2011 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 5/2012 Z. z., zákona č. 185/2012 Z. z. a zákona č. 313/2012 Z. z. sa dopĺňa takto:
+
+V § 49 sa odsek 2 dopĺňa písmenami j) a k), ktoré znejú:
+
+> „j) navrhuje zástupcov komory do predmetových maturitných komisií v stredných odborných školách, do skúšobných komisií pri absolventských skúškach v stredných odborných školách a do skúšobných komisií pri záverečných skúškach v stredných odborných školách,<sup>36b</sup>)
+>
+> k) plní úlohy podľa osobitného predpisu.<sup>36c</sup>)“.
+
+Poznámky pod čiarou k odkazom 36b a 36c znejú:
+
+> „36b) § 80 ods. 6 a § 83 ods. 2 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+>
+> 36c) § 5 ods. 3 zákona č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov v znení zákona č. 324/2012 Z. z.“.
+
+## Čl. IX
+
+Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 462/2008 Z. z., zákona č. 37/2009 Z. z., zákona č. 184/2009 Z. z., zákona č. 37/2011 Z. z. a zákona č. 390/2011 Z. z. sa mení a dopĺňa takto:
+
+1. V § 7 odsek 2 znie:
+
+> „(2) Školský vzdelávací program vydáva riaditeľ školy po prerokovaní v pedagogickej rade školy a v rade školy. Školský vzdelávací program pre odborné vzdelávanie prerokuje riaditeľ školy aj s fyzickými osobami alebo právnickými osobami, pre ktoré sa žiaci pripravujú na povolanie. Ak sa žiaci nepripravujú na povolanie pre žiadnu konkrétnu fyzickú osobu alebo právnickú osobu, riaditeľ školy prerokuje školský vzdelávací program pre odborné vzdelávanie so subjektom koordinácie odborného vzdelávania a prípravy na úrovni samosprávneho kraja podľa osobitného predpisu.<sup>6a</sup>)“.
+
+Poznámka pod čiarou k odkazu 6a znie:
+
+> „6a) § 2 ods. 3 písm. c) zákona č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov v znení zákona č. 324/2012 Z. z.“.
+
+2. V § 7 ods. 4 písm. d) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „v stredných odborných školách aj profil absolventa,“.
+
+3. V § 16 ods. 3 písm. b) sa za slovami „osemročného vzdelávacieho programu odboru vzdelávania v strednej škole“ vypúšťa čiarka a slová „alebo absolvovaním tretieho ročníka vzdelávacieho programu praktickej školy“.
+
+4. V § 16 ods. 4 písm. a) sa za slová „záverečnou skúškou“ vkladá čiarka a slová „alebo absolvovaním tretieho ročníka vzdelávacieho programu praktickej školy“ a na konci sa čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „dokladom o získanom stupni vzdelania v praktickej škole je záverečné vysvedčenie,“.
+
+5. V § 19 ods. 4 prvej vete sa vypúšťajú slová „a pochádza zo sociálne znevýhodneného prostredia“.
+
+6. V § 28 ods. 5 sa slovo „príspevku“ nahrádza slovami „mesačného príspevku zákonného zástupcu na čiastočnú úhradu výdavkov“.
+
+7. V § 28 odseky 10 a 11 znejú:
+
+> „(10) Ak sú splnené požiadavky podľa osobitného predpisu,<sup>32a</sup>) najvyšší počet detí v triede podľa odseku 9 sa môže zvýšiť o tri deti z dôvodu
+>
+> a) zmeny trvalého pobytu dieťaťa,
+>
+> b) zaradenia dieťaťa len na adaptačný pobyt alebo len na diagnostický pobyt v materskej škole,
+>
+> c) odkladu plnenia povinnej školskej dochádzky alebo dodatočného odkladu plnenia povinnej školskej dochádzky alebo
+>
+> d) zvýšeného záujmu zákonných zástupcov detí o výchovu a vzdelávanie v materskej škole.
+>
+> (11) Pri určovaní počtu detí v triede podľa odseku 10 sa môže zohľadniť počet detí v triede mladších ako tri roky.“.
+
+8. V § 29 odsek 13 znie:
+
+> „(13) Ak sú splnené požiadavky podľa osobitného predpisu,<sup>32a</sup>) najvyšší počet žiakov v triede podľa odseku 5 sa môže zvýšiť o troch žiakov z dôvodu
+>
+> a) zmeny trvalého pobytu žiaka,
+>
+> b) opakovania ročníka žiakom,
+>
+> c) prestupu žiaka z inej školy,
+>
+> d) osobitného spôsobu plnenia školskej dochádzky žiaka podľa § 23 písm. a) až e),
+>
+> e) preradenia žiaka do vyššieho ročníka bez absolvovania predchádzajúceho ročníka alebo
+>
+> f) preradenia žiaka do základnej školy.“.
+
+9. V § 29 sa vypúšťa odsek 14.
+
+10. V § 30 ods. 2 sa slová „len s ročníkmi prvého stupňa“ nahrádzajú slovami „na prvom stupni“.
+
+11. V § 31 ods. 2 sa slová „školského registra podľa § 157 ods. 3 písm. b)“ nahrádzajú slovami „Centrálneho registra detí, žiakov a poslucháčov podľa § 157 (ďalej len „centrálny register“)“.
+
+12. V § 33 odsek 2 znie:
+
+> „(2) Ak sú splnené požiadavky podľa osobitného predpisu,<sup>32a</sup>) najvyšší počet žiakov v triede podľa odseku 1 sa môže zvýšiť o troch žiakov z dôvodu
+>
+> a) zmeny trvalého pobytu žiaka,
+>
+> b) opakovania ročníka žiakom,
+>
+> c) pokračovania štúdia žiaka po prerušení štúdia,
+>
+> d) prestupu žiaka z inej školy,
+>
+> e) osobitného spôsobu plnenia školskej dochádzky žiaka podľa § 23 písm. a) až e),
+>
+> f) prijatia žiaka do vyššieho ročníka,
+>
+> g) preradenia žiaka do vyššieho ročníka bez absolvovania predchádzajúceho ročníka alebo
+>
+> h) zmeny študijného odboru alebo učebného odboru žiakom.“.
+
+13. V § 33 sa vypúšťa odsek 3.
+
+Doterajšie odseky 4 až 6 sa označujú ako odseky 3 až 5.
+
+14. V § 35 ods. 5, § 36 ods. 3 a § 39 ods. 1 sa slová „školského registra podľa § 157 ods. 3 písm. b)“ nahrádzajú slovami „centrálneho registra“.
+
+15. § 40 sa vypúšťa.
+
+16. § 42 sa dopĺňa odsekom 6, ktorý znie:
+
+> „(6) Pre fyzické osoby, ktoré nezískali nižšie stredné vzdelanie podľa § 16 ods. 3 písm. b), môže stredná odborná škola organizovať vzdelávanie na získanie tohto stupňa vzdelania, ktoré sa končí komisionálnou skúškou zo všetkých vyučovacích predmetov okrem vyučovacích predmetov s výchovným zameraním. Po úspešnom vykonaní komisionálnej skúšky vydá stredná odborná škola fyzickej osobe vysvedčenie s doložkou, na ktorej sa uvedie získaný stupeň vzdelania.“.
+
+17. V § 48 ods. 1 sa za slovo „konzervatórií“ vkladá čiarka a slová „typy stredných odborných škôl, pri ktorých sa môže uviesť prívlastok charakterizujúci prevládajúce študijné odbory a učebné odbory, v ktorých škola poskytuje odborné vzdelávanie a prípravu“ a druhá veta znie: „Sústavu odborov vzdelávania pre stredné školy ustanoví ministerstvo školstva po dohode s ministerstvom zdravotníctva a Ministerstvom vnútra Slovenskej republiky (ďalej len „ministerstvo vnútra“).“.
+
+18. V § 49 ods. 4 sa slovo „príspevku“ nahrádza slovami „mesačného príspevku na čiastočnú úhradu výdavkov na štúdium“.
+
+19. V § 57 ods. 1 sa vypúšťa písmeno i).
+
+Doterajšie písmená j) až l) sa označujú ako písmená i) až k).
+
+20. V § 57 sa odsek 1 dopĺňa písmenom l), ktoré znie:
+
+> „l) vo vzdelávaní v stredných odborných školách na získanie nižšieho stredného vzdelania podľa § 42 ods. 6.“.
+
+21. V § 62 odsek 1 znie:
+
+> „(1) Do prvého ročníka štvorročného vzdelávacieho programu v gymnáziách môže byť prijatý uchádzač, ktorý spĺňa tieto podmienky:
+>
+> a) nemá priemerný prospech z povinných vyučovacích predmetov určených rámcovým učebným plánom pre druhý stupeň základných škôl, okrem vyučovacích predmetov s výchovným zameraním, na konci druhého polroku ôsmeho ročníka a na konci prvého polroku deviateho ročníka horší ako 2,0,
+>
+> b) splnil podmienky prijímacieho konania,
+>
+> c) získal nižšie stredné vzdelanie podľa § 16 ods. 3 písm. b) a nemá priemerný prospech z povinných vyučovacích predmetov určených rámcovým učebným plánom pre druhý stupeň základných škôl, okrem vyučovacích predmetov s výchovným zameraním, na konci druhého polroku deviateho ročníka horší ako 2,0.“.
+
+22. V § 62 odsek 3 znie:
+
+> „(3) Do prvého ročníka päťročného vzdelávacieho programu bilingválneho vzdelávania môže byť prijatý uchádzač, ktorý spĺňa tieto podmienky:
+>
+> a) úspešne ukončil ôsmy ročník vzdelávacieho programu základnej školy a
+>
+> 1. nemá priemerný prospech z povinných vyučovacích predmetov určených rámcovým učebným plánom pre druhý stupeň základných škôl, okrem vyučovacích predmetov s výchovným zameraním, na konci druhého polroku siedmeho ročníka a na konci prvého polroku ôsmeho ročníka horší ako 2,0,
+>
+> 2. splnil podmienky prijímacieho konania,
+>
+> 3. získal primárne vzdelanie podľa § 16 ods. 3 písm. a) a nemá priemerný prospech z povinných vyučovacích predmetov určených rámcovým učebným plánom pre druhý stupeň základných škôl, okrem vyučovacích predmetov s výchovným zameraním, na konci druhého polroku ôsmeho ročníka horší ako 2,0 alebo
+>
+> b) úspešne ukončil deviaty ročník vzdelávacieho programu základnej školy a
+>
+> 1. nemá priemerný prospech z povinných vyučovacích predmetov určených rámcovým učebným plánom pre druhý stupeň základných škôl, okrem vyučovacích predmetov s výchovným zameraním, na konci druhého polroku ôsmeho ročníka a na konci prvého polroku deviateho ročníka horší ako 2,0,
+>
+> 2. splnil podmienky prijímacieho konania,
+>
+> 3. získal nižšie stredné vzdelanie podľa § 16 ods. 3 písm. b) a nemá priemerný prospech z povinných vyučovacích predmetov určených rámcovým učebným plánom pre druhý stupeň základných škôl, okrem vyučovacích predmetov s výchovným zameraním, na konci druhého polroku deviateho ročníka horší ako 2,0.“.
+
+23. V § 62 odsek 6 znie:
+
+> „(6) Do prvého ročníka vzdelávacieho programu úplného stredného odborného vzdelávania môže byť prijatý uchádzač, ktorý spĺňa tieto podmienky:
+>
+> a) nemá priemerný prospech z povinných vyučovacích predmetov určených rámcovým učebným plánom pre druhý stupeň základných škôl, okrem vyučovacích predmetov s výchovným zameraním, na konci druhého polroku ôsmeho ročníka a na konci prvého polroku deviateho ročníka horší ako 2,75,
+>
+> b) splnil podmienky prijímacieho konania,
+>
+> c) získal nižšie stredné vzdelanie podľa § 16 ods. 3 písm. b) a nemá priemerný prospech z povinných vyučovacích predmetov určených rámcovým učebným plánom pre druhý stupeň základných škôl, okrem vyučovacích predmetov s výchovným zameraním, na konci druhého polroku deviateho ročníka horší ako 2,75.“.
+
+24. V § 64 ods. 2 sa slová „30. júna“ nahrádzajú slovami „15. júna“, nad slová „Zriaďovateľ strednej školy“ sa umiestňuje odkaz 47a, vypúšťajú sa slová „na vyjadrenie“ a slová „15. júla“ sa nahrádzajú slovami „30. júna“.
+
+Poznámka pod čiarou k odkazu 47a znie:
+
+> „47a) § 19 ods. 2 písm. d) a e) zákona č. 596/2003 Z. z.“.
+
+25. V § 64 odsek 3 znie:
+
+> „(3) Orgán miestnej štátnej správy v školstve rozhodne o návrhu počtu tried prvého ročníka stredných škôl vo svojej zriaďovateľskej pôsobnosti pre prijímacie konanie v nasledujúcom školskom roku do 30. septembra.“.
+
+26. V § 65 ods. 3 sa za slovo „strednej“ vkladá slovo „odbornej“ a za slovo „časti“ sa vkladajú slová „do prvého ročníka vzdelávacieho programu nižšieho stredného odborného vzdelávania a do prvého ročníka vzdelávacieho programu stredného odborného vzdelávania“.
+
+27. V § 80 ods. 6 sa slová „stavovskej organizácie“ nahrádzajú slovami „subjektu koordinácie odborného vzdelávania a prípravy podľa osobitného predpisu<sup>49a</sup>) (ďalej len „stavovská organizácia“)“.
+
+Poznámka pod čiarou k odkazu 49a znie:
+
+> „49a) § 2 ods. 2 písm. c) zákona č. 184/2009 Z. z. v znení zákona č. 324/2012 Z. z.“.
+
+28. V § 83 ods. 2 štvrtá veta znie: „Stálym členom skúšobnej komisie pre záverečnú skúšku a skúšobnej komisie pre absolventskú skúšku je aj zástupca stavovskej organizácie s odbornou spôsobilosťou v príslušnom alebo príbuznom odbore vzdelávania, ak ho stavovská organizácia deleguje; na strednej zdravotníckej škole musí mať delegovaný zástupca odbornú spôsobilosť v príslušnom odbore vzdelávania.“.
+
+29. V § 83 ods. 3 písmeno a) znie:
+
+> „a) pre záverečnú skúšku v strednej odbornej škole a v odbornom učilišti majster odbornej výchovy a učiteľ odborných predmetov, v príslušných odboroch výchovy a vzdelávania strednej odbornej školy a odborného učilišťa učiteľ odbornej praxe a učiteľ teoretických odborných predmetov,“.
+
+30. V § 99 ods. 11 sa za slovo „stredné“ vkladá slovo „odborné“.
+
+31. V § 103 ods. 11 sa za slovami „jazyková škola“ vypúšťa čiarka a slová „školské stredisko záujmovej činnosti“.
+
+32. V § 110 ods. 2 sa slová „Ministerstvo vnútra Slovenskej republiky (ďalej len „ministerstvo vnútra“)“ nahrádzajú slovami „ministerstvo vnútra“.
+
+33. V § 111 ods. 6 sa slová „až 40“ nahrádzajú slovami „až 39“.
+
+34. V § 113 sa vypúšťa písmeno b).
+
+Doterajšie písmená c) až f) sa označujú ako písmená b) až e).
+
+35. V § 114 odsek 1 znie:
+
+> „(1) Školský klub detí zabezpečuje pre deti, ktoré plnia povinnú školskú dochádzku na základnej škole, činnosť podľa výchovného programu školského zariadenia zameranú na ich prípravu na vyučovanie a na oddych v čase mimo vyučovania a v čase školských prázdnin. Činnosť, ktorú zabezpečuje školský klub detí, nie je totožná s činnosťou zabezpečovanou centrom voľného času podľa § 116.“.
+
+36. § 115 sa vypúšťa.
+
+37. V § 119 sa za slovom „detí“ vypúšťa čiarka a slová „školských stredísk záujmovej činnosti“.
+
+38. V § 134 ods. 1 a § 135 ods. 1 sa slová „§ 113 písm. d)“ nahrádzajú slovami „§ 113 písm. c)“.
+
+39. V § 154 sa za odsek 6 vkladá nový odsek 7, ktorý znie:
+
+> „(7) Na účely plnenia úloh podľa odsekov 5 a 6 Národný ústav certifikovaných meraní vzdelávania má právo získavať a spracúvať osobné údaje o
+>
+> a) žiakovi v rozsahu
+>
+> 1. meno a priezvisko,
+>
+> 2. dátum narodenia,
+>
+> 3. rodné číslo,
+>
+> 4. trieda, ktorú navštevuje,
+>
+> 5. ročník, do ktorého je zaradený,
+>
+> 6. názov školy, ktorú navštevuje,
+>
+> 7. špeciálne výchovno-vzdelávacie potreby,
+>
+> b) pedagogickom zamestnancovi v rozsahu
+>
+> 1. meno a priezvisko,
+>
+> 2. dátum a miesto narodenia,
+>
+> 3. adresa zamestnávateľa,
+>
+> 4. adresa bydliska a druh pobytu.“.
+
+40. Nadpis nad § 157 znie:
+
+> „Registrácia detí, žiakov a poslucháčov“.
+
+41. § 157 vrátane nadpisu a § 158 znejú:
+
+> **„§ 157 — Centrálny register**
+>
+> (1) Centrálny register je zoznam osobných údajov o deťoch, žiakoch a poslucháčoch, ktorí sa zúčastňujú na výchovno-vzdelávacom procese v školách, školských zariadeniach, strediskách praktického vyučovania a pracoviskách praktického vyučovania, ako aj zoznam osobných údajov o zákonných zástupcoch týchto detí, žiakov a poslucháčov.
+>
+> (2) Centrálny register je informačným systémom verejnej správy,<sup>92</sup>) ktorého správcom a prevádzkovateľom<sup>11</sup>) je ministerstvo školstva.
+>
+> (3) V centrálnom registri sa vedú tieto osobné údaje:
+>
+> a) ak ide o dieťa, žiaka alebo poslucháča,
+>
+> 1. meno a priezvisko, rodné priezvisko,
+>
+> 2. dátum, miesto, okres a štát narodenia,
+>
+> 3. dátum a miesto úmrtia alebo údaj o vyhlásení za mŕtveho alebo zrušení vyhlásenia za mŕtveho,
+>
+> 4. rodné číslo,
+>
+> 5. pohlavie,
+>
+> 6. národnosť,
+>
+> 7. štátne občianstvo,
+>
+> 8. spôsobilosť na právne úkony,
+>
+> 9. rodinný stav,
+>
+> 10. adresa bydliska a druh pobytu,
+>
+> 11. zákaz pobytu,
+>
+> 12. kontakt na účely komunikácie,
+>
+> 13. adresa bydliska, z ktorého dochádza do školy,
+>
+> 14. skutočnosti podľa § 144 ods. 7 písm. d),
+>
+> 15. prijatie, zaradenie a forma organizácie výchovy a vzdelávania v škole, školskom zariadení, stredisku praktického vyučovania alebo pracovisku praktického vyučovania a údaje o účasti na aktivitách v nich,
+>
+> 16. dosiahnutý stupeň vzdelania a dosiahnuté výsledky vzdelávania,
+>
+> 17. počet vyučovacích hodín, ktoré neabsolvoval bez ospravedlnenia, a to za každý kalendárny mesiac školského roka,
+>
+> 18. rozhodnutia týkajúce sa výchovy a starostlivosti,
+>
+> b) ak ide o zákonného zástupcu dieťaťa, žiaka alebo poslucháča,
+>
+> 1. osobné údaje v rozsahu podľa písmena a) prvého až dvanásteho bodu,
+>
+> 2. dosiahnuté vzdelanie,
+>
+> 3. adresa sídla alebo miesta podnikania zákonného zástupcu alebo jeho zamestnávateľa.
+>
+> (4) Ministerstvo školstva je oprávnené po zmene osobných údajov v centrálnom registri spracúvať podľa tohto zákona aj osobné údaje vedené v centrálnom registri aj pred touto zmenou, a to po dobu podľa odseku 11.
+>
+> (5) Ministerstvo školstva zabezpečí všetky technické rozhrania v rozsahu potrebnom na plnenie povinností škôl, školských zariadení, stredísk praktického vyučovania a pracovísk praktického vyučovania podľa § 158 ods. 1.
+>
+> (6) Osobné údaje spracúvané v centrálnom registri sú rozhodujúce pre potreby škôl, školských zariadení, stredísk praktického vyučovania, pracovísk praktického vyučovania, zriaďovateľov škôl, zriaďovateľov školských zariadení, štátnych orgánov, orgánov územnej samosprávy a iných orgánov verejnej správy.
+>
+> (7) Centrálny register je neverejný a ministerstvo školstva spracúva a poskytuje osobné údaje z centrálneho registra v rozsahu potrebnom na plnenie úloh podľa osobitných predpisov<sup>93</sup>) len osobám podľa odseku 8, a to na účely
+>
+> a) zabezpečovania a kontroly financovania výchovy a vzdelávania v školách, školských zariadeniach, strediskách praktického vyučovania a pracoviskách praktického vyučovania,
+>
+> b) overovania dokladov o vzdelaní a dosiahnutom stupni vzdelania podľa osobitného predpisu,<sup>93a</sup>)
+>
+> c) overovania dokladov o vzdelaní a o získanom stupni vzdelania alebo kvalifikácii na účel poskytovania štipendií podľa tohto zákona,
+>
+> d) štatistických spracovaní údajov vrátane medzinárodných porovnaní a na rozpočtové účely,
+>
+> e) zabezpečovania výkonu zdravotného poistenia, sociálneho poistenia a starobného dôchodkového sporenia alebo
+>
+> f) plánovania a zabezpečovania úloh na úseku verejnej dopravy.
+>
+> (8) Ministerstvo školstva sprístupní osobné údaje v centrálnom registri pre
+>
+> a) školy, školské zariadenia, strediská praktického vyučovania a pracoviská praktického vyučovania, ktoré sa ich týkajú alebo ktoré sa týkajú žiakov, detí a poslucháčov, ktorým zabezpečujú výchovu a vzdelávanie,
+>
+> b) zriaďovateľov, ktoré sa týkajú nimi zriadených škôl, školských zariadení, stredísk praktického vyučovania a pracovísk praktického vyučovania,
+>
+> c) orgány štátnej správy v školstve v rozsahu ich pôsobnosti podľa osobitných predpisov,
+>
+> d) iné orgány štátnej správy, orgány územnej samosprávy, Štatistický úrad Slovenskej republiky, Sociálnu poisťovňu, zdravotné poisťovne a vysoké školy na účely plnenia ich úloh, a to na základe písomnej dohody medzi ministerstvom školstva a týmto subjektom.
+>
+> (9) Školy, školské zariadenia a orgány miestnej štátnej správy v školstve sú oprávnené spracúvať osobné údaje podľa odseku 3 vo svojich informačných systémoch na účely plnenia ich úloh podľa osobitných predpisov;<sup>93</sup>) to platí aj pre osobné údaje o žiakoch, ktorí sa zúčastňujú na výchovno-vzdelávacom procese v strediskách praktického vyučovania a pracoviskách praktického vyučovania, vo vzťahu ku ktorým tieto osobné údaje spracúvajú tie školy, ktorých žiakom tieto strediská praktického vyučovania a pracoviská praktického vyučovania poskytujú praktické vyučovanie.
+>
+> (10) Na spracúvanie osobných údajov v centrálnom registri a osobných údajov podľa odseku 9 sa vzťahuje osobitný predpis.<sup>11</sup>) Na uchovávanie osobných údajov z centrálneho registra sa vzťahuje osobitný predpis.<sup>94</sup>)
+>
+> (11) Osobné údaje podľa odseku 3 možno v centrálnom registri spracúvať najdlhšie do jedného roka od smrti dotknutej osoby alebo jej vyhlásenia za mŕtvu.
+>
+> (12) Údaje v centrálnom registri môžu spracúvať len osobitne poverení zamestnanci subjektov uvedených v odseku 6. Na účely prevádzky centrálneho registra je ministerstvo školstva oprávnené spracúvať osobné údaje týchto osobitne poverených zamestnancov v rozsahu titul a osobné údaje podľa odseku 3 písm. a) prvého, druhého, štvrtého, desiateho a dvanásteho bodu. Na spracúvanie týchto osobných údajov sa vzťahujú odseky 4, 10 a 11 rovnako.
+>
+> **§ 158**
+>
+> (1) Školy, školské zariadenia, strediská praktického vyučovania a pracoviská praktického vyučovania poskytujú do centrálneho registra osobné údaje v rozsahu podľa § 157 ods. 3, a to do posledného dňa kalendárneho mesiaca, v ktorom došlo k rozhodujúcej udalosti alebo v ktorom sa dozvedia o zmene osobných údajov v rozsahu podľa § 157 ods. 3, ak v odseku 2 nie je ustanovené inak. Povinnosť podľa prvej vety plnia za strediská praktického vyučovania a pracoviská praktického vyučovania tie školy, ktorých žiakom tieto strediská praktického vyučovania a pracoviská praktického vyučovania poskytujú praktické vyučovanie.
+>
+> (2) Ak ide o poskytovanie osobných údajov v rozsahu podľa § 157 ods. 3, vo vzťahu ku ktorým došlo k rozhodujúcej udalosti alebo k zmene v čase medzi koncom školského roka a 1. septembrom príslušného kalendárneho roka, lehota podľa odseku 1 uplynie 30. septembra tohto príslušného kalendárneho roka. Ak ide o osobné údaje v rozsahu podľa § 157 ods. 3 písm. a) sedemnásteho bodu, poskytujú sa do centrálneho registra najneskôr piaty deň kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, za ktorý sa poskytujú.
+>
+> (3) Povinnosť podľa odseku 1 plnia školy a školské zariadenia elektronickou formou a spôsobom, ktorý určí ministerstvo školstva.
+>
+> (4) Ministerstvo školstva zabezpečuje porovnanie osobných údajov poskytovaných do centrálneho registra podľa odseku 1 s osobnými údajmi vedenými v registri obyvateľov Slovenskej republiky<sup>95</sup>) a v prípade rozporu medzi osobnými údajmi v centrálnom registri a osobnými údajmi v registri obyvateľov Slovenskej republiky zabezpečí opravu osobných údajov v centrálnom registri podľa osobných údajov v registri obyvateľov Slovenskej republiky. Na účely podľa prvej vety poskytne ministerstvo vnútra ministerstvu školstva osobné údaje z registra obyvateľov Slovenskej republiky, a to spôsobom umožňujúcim automatizovaný prístup k týmto osobným údajom a automatizované porovnanie s osobnými údajmi v centrálnom registri; podrobnosti upravia ministerstvo školstva a ministerstvo vnútra vo vzájomnej dohode.
+>
+> (5) Zriaďovateľ alebo orgán miestnej štátnej správy v školstve je povinný na základe požiadania ministerstvom školstva vykonať vo vzťahu k osobným údajom poskytnutým do centrálneho registra školou, školským zariadením, strediskom praktického vyučovania a pracoviskom praktického vyučovania v ich pôsobnosti kontrolu poskytovaných osobných údajov a potvrdiť ich správnosť a úplnosť.“.
+
+Poznámky pod čiarou k odkazom 93 až 95 znejú:
+
+> „93) Napríklad zákon č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov, zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 596/2003 Z. z. v znení neskorších predpisov, zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení zákona č. 390/2011 Z. z.
+>
+> 93a) § 31 zákona č. 596/2003 Z. z. v znení zákona č. 5/2005 Z. z.
+>
+> 94) Zákon č. 395/2002 Z. z. v znení neskorších predpisov.
+>
+> 95) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.“.
+
+42. Za § 161a sa vkladá § 161b, ktorý vrátane nadpisu znie:
+
+> **„§ 161b — Prechodné ustanovenia k úpravám účinným od 1. januára 2013**
+>
+> (1) Školské stredisko záujmovej činnosti zriadené podľa predpisov účinných do 31. decembra 2012 je centrum voľného času podľa tohto zákona. Práva a povinnosti z pracovnoprávnych vzťahov zamestnancov, majetkovoprávnych a iných právnych vzťahov školského strediska záujmovej činnosti prechádzajú na príslušné centrum voľného času.
+>
+> (2) Žiak alebo iná fyzická osoba, ktorá sa prihlásila na skúšku z jednotlivých vyučovacích predmetov alebo na vykonanie maturitnej skúšky do 31. decembra 2012, vykoná túto skúšku podľa doterajších predpisov.
+>
+> (3) Najvyšší počet detí v triede materskej školy, najvyšší počet žiakov v triede základnej školy a najvyšší počet žiakov v triede strednej školy určený podľa predpisov účinných do 31. decembra 2012 sa zachová do ukončenia výchovy a vzdelávania týchto detí a žiakov.
+>
+> (4) Stupeň vzdelania získaný absolvovaním tretieho ročníka vzdelávacieho programu praktickej školy podľa doterajších predpisov zostáva zachovaný. Žiaci, ktorí začali vzdelávanie v praktickej škole pred 1. januárom 2013, dokončia svoje vzdelávanie podľa doterajších predpisov. Na účely prijímacieho konania na stredné školy sa žiaci podľa tohto ustanovenia považujú za žiakov, ktorí dosiahli nižšie stredné odborné vzdelanie.“.
+
+43. Slová „detašovaná trieda“ vo všetkých tvaroch sa v celom texte zákona nahrádzajú slovami „elokované pracovisko“ v príslušnom tvare.
+
+## Čl. X
+
+Tento zákon nadobúda účinnosť 1. januára 2013 okrem čl. IX siedmeho až deviateho bodu, dvanásteho a trinásteho bodu, ktoré nadobúdajú účinnosť 1. septembra 2013, a čl. IX dvadsiateho prvého až dvadsiateho tretieho bodu, ktoré nadobúdajú účinnosť 1. septembra 2014.
+
+Ivan Gašparovič v. r.
+
+Pavol Paška v. r.
+
+Robert Fico v. r.

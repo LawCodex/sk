@@ -1,0 +1,140 @@
+---
+title: "Vyhláška ministerstva zdravotnictví České republiky o úhradě léčiv a prostředků zdravotnické techniky"
+identifier: "426/1992 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1992/426/"
+type: decree
+jurisdiction: sk
+language: cs
+date: 1992-08-31
+last_amended: 1992-09-15
+status: in_force
+consolidated_version: "/SK/ZZ/1992/426/19920915"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1992/426/19920915"
+retrieved: 2026-10-12
+---
+
+# Vyhláška ministerstva zdravotnictví České republiky o úhradě léčiv a prostředků zdravotnické techniky
+
+**426**
+
+**VYHLÁŠKA**
+
+**ministerstva zdravotnictví České republiky**
+
+**ze dne 27. července 1992**
+
+**o úhradě léčiv a prostředků zdravotnické techniky**
+
+Ministerstvo zdravotnictví České republiky v dohodě s ministerstvem financí České republiky po dohodovacím řízení s Českou lékárnickou komorou a Všeobecnou zdravotní pojišťovnou a po projednání se zástupci smluvních zdravotnických zařízení a profesními organizacemi zřízenými zvláštním zákonem stanoví podle § 11 odst. 4 zákona č. 20/1966 Sb., o péči o zdraví lidu, ve znění zákona č. 548/1991 Sb., a § 13 odst. 4 zákona České národní rady č. 550/1991 Sb., o všeobecném zdravotním pojištění:
+
+## § 1 — Úvodní ustanovení
+
+(1) Příslušná zdravotní pojišťovna (dále jen „pojišťovna“) hradí zařízením lékárenské péče léčiva a prostředky zdravotnické techniky na základě předloženého lékařského předpisu vystaveného smluvními zdravotnickými zařízeními.<sup>1</sup>)
+
+(2) Výše úhrad podle odstavce 1 vyplývá ze seznamu léčiv a prostředků zdravotnické techniky uvedeného v příloze, která je součástí této vyhlášky.<sup>2</sup>) Seznam léčiv a prostředků zdravotnické techniky obsahuje soubor léčiv a prostředků zdravotnické techniky s uvedením
+
+a) cen stanovených příslušnými cenovými orgány,<sup>3</sup>)
+
+b) výše úhrady pojišťovnou.
+
+(3) Rozdíl mezi cenou léčiva nebo prostředku zdravotnické techniky stanovenou podle předchozího odstavce a výší její úhrady pojišťovnou hradí osoba, pro kterou byly předepsány.
+
+(4) Seznam léčiv a prostředků zdravotnické techniky je uložen k nahlédnutí u
+
+a) pojišťoven a jejich organizačních složek,
+
+b) okresních (obvodních) úřadů,
+
+c) Magistrátního úřadu hl. m. Prahy, magistrátů v územně členěných statutárních městech a úřadů ostatních statutárních měst.
+
+## § 2 — Zásady hrazení léčiv a prostředků zdravotnické techniky pojišťovnou
+
+(1) Pojišťovny hradí pouze léčiva a prostředky zdravotnické techniky uvedené v jejich seznamu v rozsahu jím stanoveném s výjimkami uvedenými v § 4 písm. d).
+
+(2) V plném rozsahu hradí pojišťovna pouze prostředky zdravotnické techniky v základním provedení, čímž se rozumí takové provedení, které pojištěnci funkčně plně vyhovuje a splňuje podmínky nejmenší ekonomické náročnosti.
+
+(3) Pojišťovna nehradí
+
+a) léčiva, které osoba požaduje, aniž jsou z lékařského hlediska indikovány, pokud revizní lékař pojišťovny nerozhodne jinak,
+
+b) prostředky zdravotnické techniky, které osoba požaduje, aniž jsou z lékařského hlediska indikovány nebo v indikovaných případech překračují rámec základního provedení, pokud revizní lékař pojišťovny nerozhodne jinak. Hodnota základního provedení se v indikovaných případech odečítá, jestliže poskytnuté prostředky zdravotnické techniky překračují rámec základního provedení.
+
+(4) Jestliže příslušné cenové orgány<sup>3</sup>) stanoví novou cenu léčiv, popřípadě prostředků zdravotnické techniky hrazených plně pojišťovnou, hradí pojišťovna takto dotčená léčiva, popřípadě prostředky zdravotnické techniky ve výši nově stanovené ceny, a to od nabytí účinnosti příslušného výměru.<sup>3</sup>)
+
+## Úhrada léčiv a prostředků zdravotnické techniky pojišťovnou ve zvláštních případech
+
+### § 3
+
+(1) Jestliže lékárna nemá předepsané léčivo k dispozici a nelze takové léčivo v době platnosti předloženého lékařského předpisu (výpisu) obstarat, popřípadě je-li nezbytné jeho okamžité vydání, nahradí je v souladu se zvláštním předpisem<sup>4</sup>) jiným léčivem hrazeným stejným způsobem.
+
+(2) V zařízeních ústavní péče poskytnutá léčiva a prostředky zdravotnické techniky osobám z řad
+
+a) pojištěnců<sup>5</sup>) hradí pojišťovna, která s tímto zdravotnickým zařízením uzavřela smlouvu o poskytování zdravotní péče pojištěncům,
+
+b) jiných osob než pojištěnců se hradí podle zvláštních předpisů.<sup>6</sup>)
+
+### § 4
+
+Pojišťovny rovněž hradí
+
+a) individuálně připravovaná léčiva, a to ve výši sjednaných cen mezi zařízením lékárenské péče a pojišťovnou podle zvláštních předpisů,<sup>7</sup>)
+
+b) náklady spojené s úpravou radioaktivních léčiv (do jejich aplikační formy),
+
+c) krev a krevní deriváty zpracovávané a dodávané transfúzními stanicemi do výše sjednané ceny mezi jimi a pojišťovnou; u krevních derivátů, pro které nebyla ministerstvem financí České republiky a pojišťovnami stanovena jednotná úhrada, hradí cenu sjednanou podle zvláštních předpisů,<sup>7</sup>)
+
+d) prostředky zdravotnické techniky dovážené ze zahraničí, jestliže tuzemskými je nelze nahradit tak, aby odpovídaly zdravotnímu stavu osob, kterým byly předepsány, a to jen do výše ceny přiměřeného tuzemského prostředku v základním provedení,
+
+e) protetické náhrady v plném rozsahu, jestliže jsou zhotoveny ze standardních materiálů
+
+1. osobám mladším 18 let,
+
+2. osobám, u nichž je tato náhrada nutná v důsledku pracovního úrazu,
+
+3. vojákům v základní službě, jestliže důvody k poskytnutí těchto náhrad souvisejí s výkonem vojenské základní služby,
+
+f) drahé dentální kovy použité v případech
+
+1. rekonstrukce klinické korunky zubů u dětí do 15 let,
+
+2. rekonstrukce klinické korunky zubů a vrozených nebo dědičných poruch tvorby tvrdých zubních tkání,
+
+3. zhotovení fixních náhrad za chybějící zuby u vrozených nebo dědičných poruch vývoje a erupce zubů,
+
+4. zhotovení fixních náhrad při celkové rekonstrukci skusů u čelistních anomálií, u kterých již nelze dosáhnout zlepšení ortodontickou léčbou, ale kde protetickou úpravou chrupu lze dosáhnout zlepšení funkce žvýkacího ústrojí,
+
+a to ve výši 500 Kčs na jeden gram ryzího zlata obsaženého ve slitině,
+
+g) snímací ortodontické náhrady osobám mladším 18 let; podíl těchto osob na úhradě činí 100 Kčs na jeden ortodontický aparát.
+
+## § 5 — Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 15. září 1992.
+
+Ministr:
+
+MUDr. Lom CSc. v. r.
+
+## Poznámky pod čiarou
+
+1) § 13 odst. 1, 2 a 4 zákona ČNR č. 550/1991 Sb., o všeobecném zdravotním pojištění.
+
+2) Seznam se uveřejňuje jako samostatná příloha Sbírky zákonů (bude vydán jako zvláštní publikace a. s. SEVT Praha).
+
+3) Výměr federálního ministerstva financí, ministerstva financí ČR a ministerstva financí SR vydaný podle § 10 zákona č. 526/1990 Sb., o cenách.
+
+Výměr ministerstva financí ČR vydaný podle § 2 odst. 2 písm. e) zákona ČNR č. 265/1991 Sb., o působnosti orgánů České republiky v oblasti cen.
+
+Výměr ministerstva financí SR vydaný podle § 2 odst. 2 písm. e) zákona SNR č. 127/1991 Sb., o působnosti orgánů Slovenské republiky v oblasti cen.
+
+4) § 8 odst. 7 vyhlášky č. 427/1992 Sb., kterou se mění a doplňuje vyhláška č. 61/1990 Sb., o hospodaření s léky a zdravotnickými potřebami.
+
+5) § 3 odst. 1 zákona ČNR č. 550/1991 Sb.
+
+6) § 30 zákona č. 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších předpisů.
+
+§ 3 odst. 2 zákona ČNR č. 550/1991 Sb.
+
+7) Zákon č. 526/1990 Sb., o cenách.
+
+Cenový výměr federálního ministerstva financí, ministerstva financí ČR a ministerstva financí SR č. 02/1992, část II.

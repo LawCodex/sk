@@ -1,0 +1,50 @@
+---
+title: "Vyhláška Ministerstva financií Slovenskej republiky, ktorou sa zrušujú vyhlášky upravujúce poistné podmienky zmluvného poistenia"
+identifier: "364/1991 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1991/364/"
+type: decree
+jurisdiction: sk
+language: sk
+date: 1991-09-13
+last_amended: 1991-11-01
+status: in_force
+consolidated_version: "/SK/ZZ/1991/364/19911101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1991/364/19911101"
+retrieved: 2026-10-12
+---
+
+# Vyhláška Ministerstva financií Slovenskej republiky, ktorou sa zrušujú vyhlášky upravujúce poistné podmienky zmluvného poistenia
+
+**364**
+
+**VYHLÁŠKA**
+
+**Ministerstva financií Slovenskej republiky**
+
+**z 12. augusta 1991,**
+
+**ktorou sa zrušujú vyhlášky upravujúce poistné podmienky zmluvného poistenia**
+
+Ministerstvo financií Slovenskej republiky podľa § 508 ods. 1 Občianskeho zákonníka č. 40/1964 Zb. v znení neskorších predpisov a podľa § 391 ods. 2 Hospodárskeho zákonníka č. 109/1964 Zb. v znení neskorších predpisov ustanovuje:
+
+## § 1 — Zrušujú sa
+
+1. vyhláška Ministerstva financií č. 49/1964 Zb. o poistných podmienkach pre poistenie osôb v znení vyhlášky Ministerstva financií Slovenskej socialistickej republiky č. 56/1979 Zb.,
+
+2. vyhláška Ministerstva financií Slovenskej socialistickej republiky č. 13/1983 Zb. o poistných podmienkach pre poistenie majetku,
+
+3. vyhláška Ministerstva financií Slovenskej socialistickej republiky č. 14/1983 Zb. o poistných podmienkach pre poistenie zodpovednosti za škody,
+
+4. s platnosťou pre územie Slovenskej republiky vyhláška Federálneho ministerstva financií č. 179/1982 Zb. o rozsahu a podmienkach zmluvného poistenia socialistických organizácií.
+
+## § 2
+
+Právne vzťahy zo zmluvných poistení, ktoré vznikli podľa predpisov uvedených v § 1 pred účinnosťou tejto vyhlášky, sa posudzujú podľa doterajších predpisov, pokiaľ sa zmluvné strany nedohodnú inak.
+
+## § 3
+
+Táto vyhláška nadobúda účinnosť 1. novembrom 1991.
+
+Minister:
+
+Doc. Ing. Dančo CSc. v. r.

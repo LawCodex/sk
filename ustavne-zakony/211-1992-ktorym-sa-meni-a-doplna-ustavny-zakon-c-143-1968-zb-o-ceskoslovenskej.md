@@ -1,0 +1,62 @@
+---
+title: "Ústavný zákon, ktorým sa mení a dopĺňa ústavný zákon č. 143/1968 Zb. o československej federácii v znení neskorších ústavných zákonov"
+identifier: "211/1992 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1992/211/"
+type: constitutional_act
+jurisdiction: sk
+language: sk
+date: 1992-05-22
+last_amended: 1993-01-01
+status: in_force
+consolidated_version: "/SK/ZZ/1992/211/19930101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1992/211/19930101"
+retrieved: 2026-10-12
+---
+
+# Ústavný zákon, ktorým sa mení a dopĺňa ústavný zákon č. 143/1968 Zb. o československej federácii v znení neskorších ústavných zákonov
+
+**211**
+
+**ÚSTAVNÝ ZÁKON**
+
+**z 15. apríla 1992,**
+
+**ktorým sa mení a dopĺňa ústavný zákon č. 143/1968 Zb. o československej federácii v znení neskorších ústavných zákonov**
+
+Federálne zhromaždenie Českej a Slovenskej Federatívnej Republiky sa uznieslo na tomto ústavnom zákone:
+
+## Čl. I
+
+Ústavný zákon č. 143/1968 Zb. o československej federácii v znení ústavných zákonov č. 57/1969 Zb., č. 125/1970 Zb., č. 43/1971 Zb., č. 50/1975 Zb., č. 161/1989 Zb., č. 182/1989 Zb., č. 46/1990 Zb., č. 100/1990 Zb., č. 101/1990 Zb., č. 158/1990 Zb., č. 159/1990 Zb., č. 294/1990 Zb., č. 295/1990 Zb., č. 556/1990 Zb., č. 23/1991 Zb., č. 91/1991 Zb. a č. 327/1991 Zb. sa mení a dopĺňa takto:
+
+1. V článku 12 ods. 2 sa za písmeno b) vkladajú nové písmená c) a d), ktoré znejú:
+
+> „c) daň z pridanej hodnoty,
+>
+> d) spotrebné dane,“.
+
+2. V článku 12 ods. 4 sa za slová „s výnimkou“ vkladajú slová „vecí uvedených v odseku 5 a s výnimkou“.
+
+3. V článku 12 sa dopĺňa nový odsek 5, ktorý znie:
+
+> „(5) Orgánom colnej správy prislúcha správa, výkon a kontrola
+>
+> a) daní uvedených v odseku 2 písm. c) a d) vyberaných pri dovoze,
+>
+> b) poplatkov spojených s dovozom alebo vývozom,
+>
+> c) cestnej dane u platiteľov tejto dane so sídlom alebo bydliskom v zahraničí.“.
+
+4. Článok 13 ods. 2 znie:
+
+> „(2) V oblasti colníctva patrí do pôsobnosti Českej a Slovenskej Federatívnej Republiky colná politika, colné zákonodarstvo, včítane vydávania vykonávacích predpisov, ustanovovanie colných taríf a netarifných opatrení, colná štatistika a výkon štátnej správy v uvedených oblastiach.“.
+
+## Čl. II
+
+Tento ústavný zákon nadobúda účinnosť 1. januára 1993.
+
+Havel v. r.
+
+Dubček v. r.
+
+Čalfa v. r.

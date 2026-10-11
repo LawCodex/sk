@@ -1,0 +1,208 @@
+---
+title: "Vyhláška ministerstva hospodářství České republiky o podrobnostech placení úhrad z dobývacích prostorů a z vydobytých vyhrazených nerostů"
+identifier: "617/1992 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1992/617/"
+type: decree
+jurisdiction: sk
+language: cs
+date: 1992-12-31
+last_amended: 1992-12-31
+status: in_force
+consolidated_version: "/SK/ZZ/1992/617/19921231"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1992/617/19921231"
+retrieved: 2026-10-12
+---
+
+# Vyhláška ministerstva hospodářství České republiky o podrobnostech placení úhrad z dobývacích prostorů a z vydobytých vyhrazených nerostů
+
+**617**
+
+**VYHLÁŠKA**
+
+**ministerstva hospodářství České republiky**
+
+**ze dne 3. prosince 1992**
+
+**o podrobnostech placení úhrad z dobývacích prostorů a z vydobytých vyhrazených nerostů**
+
+Ministerstvo hospodářství České republiky stanoví v dohodě s ministerstvem financí České republiky a s Českým báňským úřadem podle § 32a odst. 2 a 9 zákona č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve znění zákona České národní rady č. 541/1991 Sb.:
+
+## ČÁST PRVNÍ — ZÁKLADNÍ USTANOVENÍ
+
+### § 1 — Postup organizace
+
+Z plnění povinností stanovených zákonem vyplývají pro organizaci<sup>1</sup>) tyto úkoly:
+
+a) vypočítávat výši úhrad podle této vyhlášky včetně případného penále,<sup>2</sup>)
+
+b) vést doklady výpočtu úhrad a poskytovat je kontrolním orgánům na jejich vyžádání,
+
+c) platit úhrady z dobývacího prostoru a z vydobytých nerostů na výhradním ložisku na účet obvodního báňského úřadu, v jehož obvodě se nachází dobývací prostor výhradního ložiska; je-li dobývací prostor v územním obvodu dvou nebo více obvodních báňských úřadů, platí se úhrada na účet tohoto obvodního báňského úřadu, v jehož obvodu je větší část dobývacího prostoru,
+
+d) předkládat v termínech stanovených touto vyhláškou příslušným obvodním báňským úřadům přiznání k úhradám a ostatní doklady nutné pro kontrolu stanovení výše jednotlivých úhrad a jejich rozdělení oprávněným příjemcům,
+
+e) uchovávat doklady k výpočtu úhrad po dobu pěti let. Rozhodnutí o snížení nebo osvobození od úhrady z vydobytých nerostů uchovává organizace trvale jako součást spisového materiálu k dobývacímu prostoru. Při likvidaci organizace doklady předává příslušnému obvodnímu báňskému úřadu.
+
+## ČÁST DRUHÁ — VÝPOČET ÚHRAD
+
+### § 2 — Úhrada z dobývacího prostoru
+
+(1) Úhradu z dobývacího prostoru vypočítává organizace v členění podle podílu plochy dobývacího prostoru příslušející území obcí, na němž se dobývací prostor rozkládá. Podkladem pro výpočet úhrady je celková plocha dobývacího prostoru určená výpočtem ze souřadnic vrcholů dobývacího prostoru, výpočet podílu plochy podle příslušnosti k území obcí (při planimetrickém stanovení průměrem ze tří měření vyrovnaném na celkovou plochu dobývacího prostoru) a vlastní výpočet úhrady z plochy a jejích podílů. Jako podklad se použije mapa povrchu<sup>3</sup>) vedená organizací.
+
+(2) U nově stanovovaných, popřípadě měněných dobývacích prostorů je výpočet podílů ploch jednotlivých katastrálních území obcí na celkové ploše dobývacího prostoru součástí spisového materiálu k dobývacímu prostoru.
+
+(3) Základem pro výpočet ploch k úhradě z dobývacího prostoru je stav katastrálních území obcí a demarkace dobývacího prostoru platná k datu úhrady (§ 6 odst. 1).
+
+### § 3 — Úhrada z vydobytých nerostů
+
+(1) Úhrada z vydobytých vyhrazených nerostů nebo nerostů po jejich úpravě a zušlechtění provedené v souvislosti s jejich dobýváním (dále jen „vydobyté nerosty“) se vypočítává jako procentuální podíl z celkové tržby za vydobyté nerosty oceněné tržní cenou v období, za které se výpočet provádí. Do tržeb se zahrnuje i tržní ocenění vydobytého nerostu, který organizace použila pro vlastní spotřebu.
+
+(2) Za tržní cenu se pro účely této vyhlášky považuje cena za jednotku vydobytých nerostů vyúčtovaná organizací v tržbě za odbytovou produkci v místě těžebního, popřípadě úpravárenského závodu v období, které je bráno za základ pro výpočet úhrady.
+
+(3) Za základ výpočtu úhrady se bere první odbytový produkt. První odbytový produkt je takový stupeň v procesu těžby, úpravy a zušlechtění nerostu, který je již prodejný.
+
+(4) Vedle výpočtu podle odstavců 1 až 3 provede organizace též srovnávací výpočet úhrad podle § 5. Organizace, v níž by úhrady vypočítané z ceny prvního odbytového produktu byly nižší, než úhrady vypočítané podle § 5, odvádí úhrady podle § 5.
+
+(5) Organizace, která neprodává první odbytový produkt, ale vydobytý nerost dále zušlechťuje, popřípadě kontinuálně zpracovává na výrobek (finalizuje), vypočítává úhradu podle § 5 této vyhlášky.
+
+(6) Součástí výpočtu úhrady je i propočet podílů těžby připadajících oprávněným příjemcům.<sup>4</sup>) Není-li možno jednoznačně určit místo vydobytí nerostu s ohledem na povahu ložiska, technologii dobývání, popřípadě způsob manipulace s vydobytými nerosty (např. ropa, zemní plyn, metody podzemního loužení nerostů), rozdělí se část úhrady připadající obcím obchodně podle § 2 odst. 1.
+
+(7) Podkladem výpočtu úhrady je účetní doklad o tržbě za odbytovou produkci v místě těžebního, popřípadě úpravárenského závodu v předmětném období, dále doklad o objemu těžby (popřípadě úpravy) nerostu v předmětném období a vlastní výpočet procentuálního podílu, který je úhradou, včetně propočtu podílů těžby připadajících na území jednotlivých obcí podle odstavce 6 a srovnávacího výpočtu (odstavec 4).
+
+(8) Výše sazby úhrady podle druhu vydobytého nerostu je upravena v příloze č. 1 této vyhlášky.
+
+### § 4 — Snížení nebo osvobození od úhrady z vydobytých nerostů
+
+(1) Žádost o snížení nebo o osvobození od úhrady z vydobytých nerostů se podává prostřednictvím příslušného obvodního báňského úřadu, který ji postupuje se svým vyjádřením k rozhodnutí ministerstvu hospodářství České republiky<sup>5</sup>) (dále jen „ministerstvo“). Organizace žádost projedná s obcí, jejíž území je dobýváním dotčeno. Stanovisko příslušné obce musí být k žádosti přiloženo.
+
+(2) O snížení nebo o osvobození od úhrady může požádat organizace, která
+
+a) vykazuje v roce, za který se výpočet úhrady provádí, bilanční nulový zisk nebo ztrátu, popřípadě pobírá v tom roce na dobývání příspěvek od státu,
+
+b) byla postižena havárií na dobývaném výhradním ložisku a havárie zapříčinila hmotné škody, popřípadě ušlý zisk ve výši alespoň 70 % úhrady zaplacené organizací v předchozím kalendářním roce; oprávněnost žádosti musí být potvrzena příslušným obvodním báňským úřadem,
+
+c) tímto způsobem řeší zmírnění sociálních potíží, ke kterým by vedlo omezování nebo zastavení dobývání v dané oblasti, popřípadě která chce zahájit málo výnosné dobývání v oblasti s nedostatkem pracovních příležitostí; žádost musí být doložena vyjádřením příslušného okresního úřadu,
+
+d) chce zajistit nebo udržet málo výnosné dobývání nerostů, na nichž je závislý zpracovatelský průmysl v dané oblasti; žádost musí být doložena vyjádřením odběratelů minimálně 50 % produkce k možnosti rovnocenného zabezpečení surovin z jiných zdrojů,
+
+e) chce dotěžit zbytkové zásoby výhradního ložiska, jejichž využití již neumožňuje dosáhnout zisku, který by převýšil náklady na úhradu z vydobytých nerostů.
+
+(3) Žádost organizace musí obsahovat údaje o výhradním ložisku, množství, kvalitě a podmínkách dobývání jeho zásob, okolnosti významně ovlivňující náklady dobývání (ekonomický rozbor úseku dobývání), bližší vymezení důvodů žádosti podle odstavce 2, technickou charakteristiku problému a změn, popřípadě další okolnosti zdůvodňující žádost, s příslušnými doklady.
+
+### § 5 — Stanovení základu úhrady
+
+(1) U nerostů, které organizace neprodává, ale přímo zpracovává na výrobky a tržní cena nerostů není z toho důvodu známá, se základ pro výpočet úhrady z vydobytých nerostů stanoví přepočtem celkové tržní ceny vydobytého nerostu v poměru, který odpovídá podílu nákladů na dobývání k celkovým nákladům vynaloženým na finální odbytový produkt vyrobený z vydobytého nerostu, a to v období, za které se provádí výpočet úhrady. Způsob výpočtu základu úhrady vyjadřuje vzorec, který je uveden v příloze č. 2 vyhlášky.
+
+(2) Při výpočtu úhrady z vydobytých nerostů podle odstavce 1 se použije výše sazby úhrady podle druhu nerostu, která je uvedena v příloze č. 1 této vyhlášky.
+
+(3) Podkladem pro stanovení základu úhrady jsou účetní doklady o nákladech organizace a o tržbě v období, za které se provádí výpočet úhrady.
+
+## ČÁST TŘETÍ — LHŮTY A POSTUP PŘI SPRÁVĚ ÚHRAD
+
+### § 6 — Lhůty plateb
+
+(1) Roční úhradu z plochy dobývacího prostoru platí organizace vždy do 31. března toho roku.
+
+(2) Úhrada z vydobytých nerostů se platí zálohově, a to za každého čtvrt roku. Záloha je splatná vždy do konce následujícího čtvrtletí. Poslední platba za uplynulý kalendářní rok zahrnuje celkové vyúčtování úhrady a je splatná do 31. března následujícího roku.
+
+(3) Organizace, která požádala o snížení nebo o osvobození od úhrady podle § 4 je povinna do doby právní moci rozhodnutí o věci platit úhradu v původně stanovené výši.
+
+### § 7 — Správa úhrad
+
+(1) Správou úhrad se pro účely této vyhlášky rozumí vyhledávání plátců úhrad, zjišťování správnosti výpočtu základu úhrady a výše úhrad, kontrola včasnosti a úplnosti plateb úhrad, vymáhání úhrad od neplatičů, vedení účtu úhrad a převody úhrad oprávněným příjemcům.
+
+(2) Správu úhrad vykonávají obvodní báňské úřady.
+
+(3) Obvodní báňské úřady postupují při výkonu správy úhrad přiměřeně podle předpisů o správě daní a poplatků,<sup>6</sup>) pokud tato vyhláška nestanoví jinak.
+
+### § 8 — Vedení účtů úhrad
+
+(1) Obvodní báňské úřady vedou účty úhrad
+
+a) pro úhrady z plochy dobývacího prostoru,
+
+b) pro úhrady z vydobytých vyhrazených nerostů.
+
+(2) Základní evidenční jednotkou účtů úhrad je dobývací prostor výhradního ložiska; nebyl-li stanoven, pak místo vydobytí vyhrazeného nerostu určené katastrálním územím obce.
+
+(3) Podkladem pro vedení účtu úhrad podle odstavce 1 jsou přiznání k úhradám [§ 1 písm. d)] obsahující stanovení základu úhrady (§ 5), výpočet úhrad a jejich rozdělení oprávněným příjemcům (§ 2 a 3) předkládá organizacemi ve lhůtách shodných s lhůtami plateb (§ 6). Formuláře těchto přiznání vydává Český báňský úřad.
+
+### § 9 — Převody úhrad
+
+(1) Obvodní báňský úřad převede prostřednictvím banky úhrady ve prospěch oprávněných příjemců<sup>7</sup>) po uzávěrce plateb úhrad od organizací ve čtvrtletí následujícím po uplynutí lhůt podle § 6 odst. 1 a 2.
+
+(2) Úhrady placené organizací v náhradní lhůtě<sup>8</sup>) převede obvodní báňský úřad ve prospěch oprávněných příjemců<sup>7</sup>) v termínu shodném s uzávěrkou řádných plateb úhrad v příslušném období.
+
+## ČÁST ČTVRTÁ — USTANOVENÍ PŘECHODNÁ A ZÁVĚREČNÁ
+
+### § 10
+
+Úhradu z dobývacího prostoru za rok 1991 a 1992 zaplatí organizace do tří měsíců od nabytí účinnosti vyhlášky.
+
+### § 11
+
+Doklad výpočtu úhrady z dobývacího prostoru podle § 2 odst. 1 u dobývacích prostorů stanovených před účinností této vyhlášky se předkládá příslušnému obvodnímu báňskému úřadu při první platbě úhrady.
+
+### § 12
+
+Tato vyhláška nabývá účinnosti dnem vyhlášení.
+
+Ministr:
+
+Ing. Dyba CSc. v. r.
+
+## Prílohy
+
+[Prevziať prílohu - Příloha 01](https://static.slov-lex.sk/pdf/prilohy/SK/ZZ/1992/617/19921231_2142236-2.pdf)
+
+### Příloha 2
+
+**Způsob výpočtu základu a výše úhrady (k § 5 vyhlášky)**
+
+1. Způsob výpočtu základu úhrady vyjadřuje vzorec
+
+*[obrázok – pozri pôvodný text na Slov-Lex](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1992/617/19921231)*
+
+kde Z<sub>u</sub> = Základ pro stanovení výše úhrady (tis. Kčs),
+
+N<sub>c</sub> = náklady na výrobu finální produkce
+
+(tis. Kčs),
+
+N<sub>d</sub> = náklady na dobývání (tis. Kčs),
+
+T = tržní cena (tržby organizace) za finální produkci z vydobytých nerostů v místě výrobního závodu (tis. Kčs).
+
+d
+
+c
+
+f
+
+f
+
+2. Způsob výpočtu výše úhrady vyjadřuje vzorec
+
+kde U = výše úhrady
+
+Z<sub>u</sub> = základ úhrady
+
+S = sazba úhrady
+
+## Poznámky pod čiarou
+
+1) § 5a zákona č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve znění zákona ČNR č. 541/1991 Sb.
+
+2) § 32a odst. 7 a 9 zákona č. 44/1988 Sb., ve znění zákona č. 541/1991 Sb.
+
+3) § 19 vyhlášky Českého báňského úřadu č. 435/1992 Sb., o důlně měřické dokumentaci při hornické činnosti a některých činnostech prováděných hornickým způsobem.
+
+4) § 32a odst. 4 zákona č. 44/1988 Sb.,ve znění zákona ČNR č. 541/1991 Sb.
+
+5) § 32a odst. 3 zákona č. 44/1988 Sb., ve znění zákona ČNR č. 541/1991 Sb.
+
+6) Zákon ČNR č. 377/1992 Sb., o správě daní a poplatků.
+
+7) § 32a odst. 4 a 5 zákona č. 44/1988 Sb., ve znění zákona ČNR č. 541/1991 Sb.
+
+8) § 32a odst. 7 zákona č. 44/1988 Sb., ve znění zákona ČNR č. 541/1991 Sb.

@@ -1,0 +1,258 @@
+---
+title: "Zákon České národní rady o resortních, oborových, podnikových a dalších zdravotních pojišťovnách"
+identifier: "280/1992 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1992/280/"
+type: act
+jurisdiction: sk
+language: cs
+date: 1992-06-15
+last_amended: 1993-01-01
+status: in_force
+consolidated_version: "/SK/ZZ/1992/280/19930101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1992/280/19930101"
+retrieved: 2026-10-12
+---
+
+# Zákon České národní rady o resortních, oborových, podnikových a dalších zdravotních pojišťovnách
+
+**280**
+
+**ZÁKON**
+
+**České národní rady**
+
+**ze dne 28. dubna 1992**
+
+**o resortních, oborových, podnikových a dalších zdravotních pojišťovnách**
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## ČÁST PRVNÍ — Základní ustanovení
+
+### § 1
+
+Tento zákon upravuje vznik, činnost a zánik resortních, oborových, podnikových a dalších zdravotních pojišťoven<sup>1</sup>) (dále jen „zaměstnanecká pojišťovna“) a jejich vztah k Všeobecné zdravotní pojišťovně České republiky.<sup>2</sup>)
+
+### § 2 — Druhy zaměstnaneckých pojišťoven
+
+(1) Resortní zaměstnaneckou pojišťovnou je pojišťovna, která provádí všeobecné zdravotní pojištění zejména pro zaměstnance všech organizací založených nebo zřízených jedním ministerstvem České republiky anebo podléhající ucelené části tohoto ministerstva.
+
+(2) Oborovou zaměstnaneckou pojišťovnou je pojišťovna, která provádí všeobecné zdravotní pojištění zejména pro zaměstnance jednoho oboru.
+
+(3) Podnikovou zaměstnaneckou pojišťovnou je pojišťovna, která provádí všeobecné zdravotní pojištění zejména pro zaměstnance jednoho nebo více podniků.
+
+(4) Další zaměstnaneckou pojišťovnou je pojišťovna s meziresortní a mezioborovou působností.
+
+### § 3 — Zřizovatel zaměstnanecké pojišťovny
+
+Zaměstnaneckou pojišťovnu zřizuje na základě žádosti podnikatelských subjektů nebo příslušného ministerstva (dále jen „žadatel“) svým rozhodnutím ministerstvo práce a sociálních věcí České republiky (dále jen „zřizovatel“).
+
+### § 4 — Podmínky vzniku zaměstnanecké pojišťovny
+
+(1) Ke zřízení zaměstnanecké pojišťovny musí žadatel doložit
+
+a) že zaměstnává nebo že organizace jím založené nebo zřízené, popřípadě jemu podléhající zaměstnávají nejméně 20000 zaměstnanců,
+
+b) rozbor předpokládaných příjmů a výdajů zaměstnanecké pojišťovny; součástí rozboru je i pojistný plán,
+
+c) závazek, že pokryje pořizovací náklady zaměstnanecké pojišťovny,
+
+d) návrh statutu zaměstnanecké pojišťovny,
+
+e) souhlas většiny zaměstnanců, který lze nahradit souhlasem příslušných odborových orgánů, je-li více než polovina zaměstnanců odborově organizována.
+
+(2) Pokud žadatel nesplňuje podmínku stanovenou v odstavci 1 písm. a), lze z jedné poloviny doplnit stanovený počet registrovanými zájemci o zdravotní pojištění v příslušné zaměstnanecké pojišťovně mimo okruh svých zaměstnanců.
+
+### § 5 — Postavení zaměstnanecké pojišťovny
+
+(1) Zaměstnanecká pojišťovna je právnickou osobou, v právních vztazích vystupuje svým jménem, může nabývat práv a povinností a nese odpovědnost z těchto vztahů vyplývající.
+
+(2) Zaměstnanecká pojišťovna je nositelem všeobecného zdravotního pojištění pro pojištěnce,<sup>3</sup>) kteří jsou u ní zaregistrováni.
+
+(3) Zaměstnanecká pojišťovna se zapisuje do obchodního rejstříku.
+
+### § 6 — Zrušení zaměstnanecké pojišťovny
+
+Zaměstnanecká pojišťovna se zrušuje
+
+a) splynutím či sloučením se Všeobecnou zdravotní pojišťovnou České republiky nebo jinou zaměstnaneckou pojišťovnou na základě dohody těchto zdravotních pojišťoven se souhlasem zřizovatele,
+
+b) likvidací, po předchozím vyčerpání jiných opatření. Rozhodnutí o likvidaci musí obsahovat způsob převodu pojištěnců do Všeobecné zdravotní pojišťovny České republiky nebo jiné zaměstnanecké pojišťovny. Vypořádání majetku a závazků zaměstnanecké pojišťovny se řídí obecně závaznými právními předpisy.<sup>4</sup>)
+
+### § 7 — Osobní rozsah pojištění
+
+Zaměstnanecká pojišťovna pojišťuje především zaměstnance, důchodce (bývalé zaměstnance) a jejich rodinné příslušníky těch zaměstnavatelských subjektů, které měly na zřízení této pojišťovny účast, a dále pojištěnce podle zvláštního zákona.<sup>3</sup>)
+
+### § 8 — Rozsah činnosti zaměstnanecké pojišťovny
+
+(1) Zaměstnanecká pojišťovna poskytuje vedle všeobecného zdravotního pojištění i další smluvní zdravotní pojištění a připojištění přesahující rámec potřebné zdravotní péče<sup>5</sup>) pro okruh pojištěnců předem určený v pojistném plánu.
+
+(2) Zaměstnanecká pojišťovna zprostředkovává úhrady za výkony závodní preventivní péče a specifické zdravotní péče zaměstnancům, u nichž charakter vykonávané práce vyžaduje zvýšenou zdravotní péči (dále jen „specifická zdravotní péče“).
+
+## ČÁST DRUHÁ — Organizační struktura a orgány zaměstnanecké pojišťovny
+
+### § 9
+
+Organizační strukturu, postavení správní a dozorčí rady a ostatních orgánů zaměstnanecké pojišťovny upraví statut, který schvaluje zřizovatel.
+
+### § 10
+
+(1) Pojištěnci, zaměstnavatelé pojištěnců a stát jsou zastoupeni v orgánech zaměstnanecké pojišťovny každý jednou třetinou.
+
+(2) Zástupci zaměstnavatelů a zástupci pojištěnců zaměstnanecké pojišťovny jsou voleni; způsob voleb stanoví volební řád příslušné zaměstnanecké pojišťovny.
+
+(3) Zástupce státu jmenuje zřizovatel.
+
+## ČÁST TŘETÍ — Hospodaření zaměstnaneckých pojišťoven
+
+### § 11 — Majetek zaměstnanecké pojišťovny
+
+Zaměstnanecká pojišťovna hospodaří s vlastním majetkem a vykonává právo hospodaření s majetkem jí svěřeným.
+
+### § 12 — Příjmy zaměstnanecké pojišťovny
+
+(1) Příjmy zaměstnanecké pojišťovny zahrnují platby pojistného od pojištěnců, zaměstnavatelů pojištěnců a státu.
+
+(2) Dalšími příjmy zaměstnanecké pojišťovny mohou být
+
+a) příjmy od zaměstnavatelů, u nichž charakter vykonávané práce vyžaduje zvýšenou zdravotní péči o zaměstnance, a to na úhradu zdravotnických výkonů uvedených v § 8 odst. 2,
+
+b) vlastní zdroje vytvořené využíváním fondů zaměstnanecké pojišťovny,
+
+c) příjmy plynoucí z majetkových sankcí stanovených zvláštním zákonem,<sup>6</sup>)
+
+d) dary a ostatní příjmy.
+
+### § 13 — Výdaje zaměstnanecké pojišťovny
+
+(1) Výdaji zaměstnanecké pojišťovny jsou
+
+a) platby za úhrady potřebné zdravotní péče,<sup>3</sup>)
+
+b) platby jiným zdravotním pojišťovnám anebo jiným subjektům na základě smluv o finančním vypořádání plateb za zdravotní služby poskytnuté pojištěncům zaměstnanecké pojišťovny,
+
+c) úhrady nákladů nutného neodkladného léčení v cizině minimálně v rozsahu, jaký bude hradit Všeobecná zdravotní pojišťovna České republiky,
+
+d) úhrady nákladů na zajištění vlastní činnosti a provozu zaměstnanecké pojišťovny.
+
+(2) Dalšími výdaji zaměstnanecké pojišťovny mohou být
+
+a) platby za výkony závodní preventivní péče a specifické zdravotní péče,
+
+b) příspěvky na výstavbu, modernizaci a rekonstrukci zdravotnických zařízení,
+
+c) příspěvek na pořízení speciální zdravotnické techniky,
+
+d) úhrady nákladů nad rámec potřebné zdravotní péče.
+
+### § 14
+
+Zaměstnanecká pojišťovna vytváří svůj vlastní účetní a informační systém, který musí navazovat na státní statistickou evidenci a respektovat požadavky průkaznosti.
+
+### § 15 — Pojistný plán
+
+Zaměstnanecká pojišťovna je povinna prostřednictvím zřizovatele v termínech stanovených pro předkládání návrhů státního rozpočtu a státního závěrečného účtu předložit ministerstvu financí České republiky pojistný plán na následující kalendářní rok a dále bilanci a zprávu o výsledcích hospodaření za běžný kalendářní rok, ověřené auditorem.
+
+### § 16 — Fondy zaměstnanecké pojišťovny
+
+(1) Zaměstnanecká pojišťovna vytváří a spravuje
+
+a) základní fond zdravotního pojištění,
+
+b) rezervní fond.
+
+(2) Zaměstnanecká pojišťovna může vytvářet fond pro úhradu závodní preventivní a specifické zdravotní péče (§ 13 odst. 2), další účelové fondy a fondy připojištění podle rozhodnutí správní rady této pojišťovny.
+
+(3) Zaměstnanecká pojišťovna je povinna zabezpečit oddělenou evidenci fondů a oddělenou evidenci majetku a používání prostředků.
+
+(4) Způsob tvorby a použití fondů zaměstnanecké pojišťovny a uložení finančních prostředků fondů stanoví ministerstvo financí České republiky vyhláškou.
+
+### § 17 — Základní fond zdravotního pojištění zaměstnanecké pojišťovny
+
+(1) Základní fond zdravotního pojištění slouží k úhradě potřebné zdravotní péče. Je tvořen především platbami pojistného.
+
+(2) Schodky vzniklé při hospodaření s tímto fondem jsou kryty finančními prostředky rezervního fondu.
+
+### § 18 — Rezervní fond zaměstnanecké pojišťovny
+
+(1) Rezervní fond zaměstnanecké pojišťovny kryje neočekávané výkyvy ve spotřebě základního fondu zdravotního pojištění. Součástí rezervního fondu zaměstnanecké pojišťovny je její majetek.
+
+(2) V případě vyčerpání jedné poloviny tohoto fondu je zaměstnanecká pojišťovna povinna předložit zřizovateli návrh opatření.
+
+(3) Je-li vyčerpání fondu uvedené v odstavci 2 způsobeno nedostatky v hospodaření zaměstnanecké pojišťovny, rozhodne zřizovatel o dohledu nad dalším hospodařením zaměstnanecké pojišťovny, případně o dalších opatřeních k řešení vzniklých nedostatků.
+
+### § 19 — Nakládání s finančními prostředky
+
+(1) Finanční prostředky vytvářené využíváním základního fondu zaměstnanecké pojišťovny a příjmy plynoucí z přirážek k pojistnému, pokut a poplatků z prodlení účtovaných touto pojišťovnou v oblasti všeobecného zdravotního pojištění je zaměstnanecká pojišťovna povinna použít na zlepšení zdravotní péče poskytované svým pojištěncům anebo navrhnout snížení sazby pojistného.
+
+(2) Finanční prostředky základního a rezervního fondu zaměstnanecké pojišťovny musí být uloženy v tuzemské bance.<sup>7</sup>)
+
+(3) Finanční prostředky dalších fondů nesmí zaměstnanecká pojišťovna uložit, převzít nebo investovat v zahraničí.
+
+### § 20 — Osvobození od daní
+
+Platby pojistného, příjmy od zaměstnavatelů na úhradu plateb za výkony závodní preventivní péče a specifické zdravotní péče, příjmy plynoucí z přirážek k pojistnému, pokut, poplatků z prodlení podle zvláštního zákona,<sup>6</sup>) dary a příspěvky nepodléhají daňové povinnosti.
+
+## ČÁST ČTVRTÁ — Informační systém zaměstnanecké pojišťovny
+
+### § 21
+
+(1) Zaměstnanecká pojišťovna udržuje v provozu, aktualizuje a rozvíjí informační systémy ve všech svých organizačních složkách.
+
+(2) Používání údajů informačního systému příslušné zaměstnanecké pojišťovny je výhradním právem této pojišťovny a informace, které jsou v informačním systému obsaženy, je možné poskytovat jen se souhlasem této pojišťovny a jejich smluvních partnerů, kterých se informace dotýkají. Informace, které se týkají jednotlivého pojištěnce, je možné poskytovat výhradně s jeho souhlasem.
+
+(3) Poskytování údajů informačního systému se provádí na základě smlouvy. Pro řízení zdravotnictví poskytuje zaměstnanecká pojišťovna informace oprávněným orgánům státní správy bezplatně.
+
+### § 22 — Povinnost mlčenlivosti
+
+Členové a náhradníci orgánů zaměstnanecké pojišťovny a její pracovníci jsou povinni zachovávat mlčenlivost o skutečnostech, o nichž se dozvěděli při výkonu své funkce nebo zaměstnání, popřípadě v souvislosti s nimi. Tato povinnost trvá i po skončení jejich funkce nebo pracovněprávního vztahu k příslušné zaměstnanecké pojišťovně.
+
+## ČÁST PÁTÁ — Ustanovení společná, přechodná a závěrečná
+
+### § 23
+
+(1) Všeobecná zdravotní pojišťovna České republiky nebo zaměstnanecká pojišťovna je povinna v případě, že se u ní přihlásí ke všeobecnému zdravotnímu pojištění jako její pojištěnec fyzická osoba, které je poskytována potřebná zdravotní péče na základě zákona o všeobecném zdravotním pojištění,<sup>8</sup>) oznámit vznik tohoto pojistného vztahu do osmi dnů pojišťovně, u níž byla tato fyzická osoba zdravotně pojištěna.
+
+(2) Vznikne-li nesplněním povinnosti podle odstavce 1 škoda, je zdravotní pojišťovna, která ji způsobila, povinna ji nahradit. Způsob náhrady této škody se řídí obecně závaznými právními předpisy.
+
+### § 24
+
+(1) Základní a rezervní fond zdravotního pojištění zaměstnanecké pojišťovny se nevytváří příděly ze státního rozpočtu České republiky.
+
+(2) V roce 1992 musí žadatel pokrýt náklady na zřízení zaměstnanecké pojišťovny ze svého disponibilního zisku.
+
+### § 25
+
+Zaměstnanecká pojišťovna ministerstva vnitra České republiky může upravit ve svém statutu práva a povinnosti vyplývající z ustanovení § 4 a 10 tohoto zákona odchylně.
+
+### § 26
+
+(1) Orgány zaměstnanecké pojišťovny se ustaví do šesti měsíců ode dne jejího zřízení.
+
+(2) Pro podrobnou úpravu ustavení orgánů zaměstnanecké pojišťovny ve statutu, úpravu jejich postavení, činnosti a stanovení délky jejich funkčního období se použijí přiměřeně ustanovení zákona o Všeobecné zdravotní pojišťovně České republiky.<sup>2</sup>)
+
+## § 27
+
+Tento zákon nabývá účinnosti dnem 1. července 1992, s výjimkou § 12 odst. 1 a § 17 odst. 1, ve věcech týkajících se placení pojistného a přirážek k pojistnému, které nabývají účinnosti dnem 1. ledna 1993.
+
+Burešová v. r.
+
+Pithart v. r.
+
+## Poznámky pod čiarou
+
+1) § 12 odst. 1 písm. b) zákona ČNR č. 550/1991 Sb., o všeobecném zdravotním pojištění.
+
+2) Zákon č. 551/1991 Sb., o Všeobecné zdravotní pojišťovně České republiky.
+
+3) § 3 zákona ČNR č. 550/1991 Sb.
+
+4) Zákon č. 328/1991 Sb., o konkursu a vyrovnání.
+
+5) § 2 zákona ČNR č. 550/1991 Sb.
+
+6) Zákon ČNR č. 550/1991 Sb.
+
+7) Zákon č. 21/1992 Sb., o bankách.
+
+8) § 9 zákona ČNR č. 550/1991 Sb.

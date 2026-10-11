@@ -1,0 +1,270 @@
+---
+title: "Zákon Slovenskej národnej rady o zmiernení niektorých majetkových a iných krívd a o pôsobnosti orgánov štátnej správy Slovenskej republiky v oblasti mimosúdnych rehabilitácií"
+identifier: "319/1991 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1991/319/"
+type: act
+jurisdiction: sk
+language: sk
+date: 1991-08-13
+last_amended: 2016-01-01
+status: in_force
+consolidated_version: "/SK/ZZ/1991/319/20160101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1991/319/20160101"
+retrieved: 2026-10-12
+---
+
+# Zákon Slovenskej národnej rady o zmiernení niektorých majetkových a iných krívd a o pôsobnosti orgánov štátnej správy Slovenskej republiky v oblasti mimosúdnych rehabilitácií
+
+**319**
+
+**ZÁKON**
+
+**Slovenskej národnej rady**
+
+**z 11. júla 1991**
+
+**o zmiernení niektorých majetkových a iných krívd a o pôsobnosti orgánov štátnej správy Slovenskej republiky v oblasti mimosúdnych rehabilitácií**
+
+Slovenská národná rada sa uzniesla na tomto zákone:
+
+## § 1 — Predmet úpravy
+
+Tento zákon upravuje
+
+a) zmiernenie niektorých majetkových a iných krívd, ktoré vznikli v dôsledku platnosti alebo osobitného použitia niektorých právnych predpisov alebo na základe iných dôvodov len na území Slovenskej republiky,<sup>1</sup>)
+
+b) podmienky uplatňovania nárokov, rozsah týchto nárokov a spôsob náhrady,
+
+c) pôsobnosť ústredných orgánov štátnej správy Slovenskej republiky (ďalej len „ústredný orgán“) v oblasti mimosúdnych rehabilitácií,
+
+d) postup pri uplatnení nároku Slovenskej republiky<sup>2</sup>) na veci, ak niet oprávnenej osoby alebo, ak si na vec v určenej lehote neuplatní nárok žiadna oprávnená osoba.
+
+## Osobitné dôvody odškodnenia
+
+### § 2
+
+(1) Za násilné odvlečenie do Zväzu sovietskych socialistických republík a do táborov, ktoré mal Zväz sovietskych socialistických republík zriadené v iných štátoch v rokoch 1944 až 1946, sa oprávneným osobám poskytne peňažná náhrada za dobu odvlečenia a za smrť, ktorá nastala v čase odvlečenia, v rozsahu obdobne podľa zákona č. 119/1990 Zb. o súdnej rehabilitácii v znení zákona č. 47/1991 Zb. a zákona č. 633/1992 Zb.
+
+(2) Oprávnenou osobou je fyzická osoba, ktorá bola protiprávne násilne odvlečená ako civilná osoba jednotkami Ministerstva vnútra Zväzu sovietskych socialistických republík alebo Štátnou bezpečnosťou do Zväzu sovietskych socialistických republík alebo táborov, ktoré mal Zväz sovietskych socialistických republík zriadené v iných štátoch,
+
+a) z terajšieho územia Slovenskej republiky, je štátnym občanom Slovenskej republiky a má na jej území trvalý pobyt,
+
+b) pochádza z terajšieho územia Slovenskej republiky a žijú tu jej potomkovia
+
+(ďalej len „oprávnená osoba“).
+
+(3) Ak oprávnená osoba uvedená v odseku 2 zomrela, sú oprávnenými osobami, pokiaľ sú štátnymi občanmi Slovenskej republiky a majú trvalý pobyt na jej území, fyzické osoby v tomto poradí:
+
+a) deti a manžel oprávnenej osoby, všetci rovným dielom,
+
+b) rodičia oprávnenej osoby,
+
+c) súrodenci oprávnenej osoby, ak preukážu, že počas odvlečenia oprávnenej osoby zmiernili následky, ktoré vznikli osobám uvedeným pod písmenami a) a b) v dôsledku odvlečenia oprávnenej osoby.
+
+(4) Práce vykonávané v dobe odvlečenia sa posudzujú ako zamestnanie v I. pracovnej kategórii.
+
+(5) Oprávnená osoba musí uplatniť svoj nárok na príslušnom ústrednom orgáne do 13. augusta 1994. V prípade odškodnenia nárokov v dôchodkovom zabezpečení musí uplatniť svoj nárok na Slovenskej správe sociálneho zabezpečenia.
+
+(6) Oprávneným osobám uvedeným v odseku 2 sa kúpeľná starostlivosť z nemocenského poistenia alebo z dôchodkového zabezpečenia poskytuje v rovnakom rozsahu a za rovnakých podmienok ako účastníkom odboja.<sup>3a</sup>)
+
+### § 3
+
+(1) Oprávnenou osobou je fyzická osoba, ktorá má na území Českej a Slovenskej Federatívnej Republiky trvalý pobyt a ktorá bola násilne vysťahovaná zo svojho bydliska na základe výmeru alebo oznámenia národného výboru v rokoch 1948 až 1952 vydaného podľa osobitného predpisu,<sup>4</sup>) alebo aj bez výmeru alebo oznámenia, ako aj rozhodnutí „zvláštnej komisie“ a orgánov komunistickej strany v rokoch 1952 a 1953. Oprávnenou osobou je aj manžel, manželka, druh, družka, deti, ako aj rodičia, ak žili v spoločnej domácnosti a majú na území Českej a Slovenskej Federatívnej Republiky trvalý pobyt.
+
+(2) Oprávnená osoba má nárok na
+
+a) vydanie nehnuteľnosti alebo jej časti, ktorá bola v jej vlastníctve v čase násilného vysťahovania podľa osobitného predpisu,<sup>5</sup>)
+
+b) poskytnutie finančnej náhrady za násilné vysťahovanie a za hnuteľný majetok, ak bol v byte pri mobilnom vysťahovaní ponechaný alebo pri preprave poškodený alebo zničený, a to vo výške 1 991,70 eura na jednu domácnosť,<sup>5b</sup>)
+
+c) jednorazové finančné odškodnenie za vykonávanie nanútenej práce podľa rozhodnutia správneho orgánu vo výške 497,90 eura na jednu domácnosť<sup>5b</sup>) a ukončený celý rok, najviac vo výške 1 991,70 eura; ak je táto doba kratšia ako celý rok, ale najmenej šesť mesiacov, jednorazové finančné odškodnenie sa vyplatí v pomernej výške,
+
+d) posudzovanie nanútenej práce [písmeno c)] ako zamestnanie v I. pracovnej kategórii za preukázanú dobu,
+
+e) študijnú rehabilitáciu podľa osobitného predpisu.<sup>5a</sup>)
+
+(3) Na vydanie nehnuteľnosti alebo jej časti vyzve oprávnená osoba povinnú osobu do šiestich mesiacov odo dňa účinnosti tohto zákona, inak jej nárok zanikne.
+
+(4) Písomnú žiadosť o finančnú náhradu<sup>5c</sup>) podľa odseku 2 písm. b) a c) treba podať na príslušnom ústrednom orgáne najneskôr v lehote jedného roka odo dňa účinnosti tohto zákona, inak nárok zanikne.
+
+### § 4 — Pôsobnosť ústredných orgánov
+
+(1) Ministerstvo financií Slovenskej republiky je príslušné
+
+a) na prijatie kúpnej ceny alebo náhrady, ktorú štát vyplatil pri odňatí vecí,<sup>6</sup>)
+
+b) na vrátenie kúpnej ceny,<sup>7</sup>)
+
+c) na vyplatenie finančnej náhrady<sup>8</sup>) v prípadoch podľa § 6 osobitného predpisu,<sup>3</sup>)
+
+d) na vyplatenie finančnej náhrady podľa § 20 ods. 1 a 2 osobitného predpisu,<sup>3</sup>)
+
+e) na vyplatenie finančnej náhrady podľa § 16 ods. 2 osobitného predpisu,<sup>3</sup>)
+
+f) na prijatie sumy za pohľadávky peňažných ústavov vyporiadané štátom podľa § 10 ods. 2 osobitného predpisu,<sup>3</sup>)
+
+g) na vrátenie kúpnej ceny podľa § 11a osobitného predpisu<sup>3</sup>).
+
+(2) Ministerstvo školstva, mládeže a športu Slovenskej republiky je príslušné na vydanie pokynu pre študijnú rehabilitáciu podľa § 18 ods. 2 osobitného predpisu.<sup>3</sup>)
+
+(3) Ministerstvo vnútra Slovenskej republiky je príslušné
+
+a) na poskytnutie peňažnej náhrady za pobyt v pracovnom útvare podľa nariadenia Slovenskej národnej rady č. 7/1948 Zb. SNR, ak o pobyte v pracovnom útvare rozhodol iný orgán než súd,
+
+b) na poskytnutie peňažnej náhrady za pobyt v tábore nútenej práce podľa zákona č. 247/1948 Zb., ak o pobyte v tomto tábore rozhodla trojčlenná komisia krajského národného výboru,
+
+c) na vydanie osvedčenia podľa § 22 ods. 5 písm. b) osobitného predpisu,<sup>3</sup>) ak ide o príslušníkov Zboru národnej bezpečnosti,
+
+d) na posúdenie nárokov na sociálne dávky a na ustanovenie podrobností podľa § 30 osobitného predpisu.<sup>3</sup>)
+
+e) na poskytnutie finančnej náhrady podľa § 3 ods. 2 písm. b) a c),
+
+f) na poskytnutie náhrady podľa § 16 ods. 3 osobitného predpisu<sup>3</sup>) za väzbu a výkon trestu odňatia slobody<sup>9</sup>) presahujúce tri mesiace,
+
+g) na poskytnutie odškodnenia v prípadoch určených v § 18 ods. 2 osobitného predpisu.<sup>9a</sup>)
+
+(4) Ministerstvo spravodlivosti Slovenskej republiky je príslušné
+
+a) na poskytnutie peňažnej náhrady za zaradenie podľa nariadenia Slovenskej národnej rady č. 7/1948 Zb. SNR, ak o zaradení do pracovného útvaru rozhodol súd,
+
+b) na poskytnutie peňažnej náhrady za zaradenie do tábora nútenej práce podľa zákona č. 247/1948 Zb., ak o zaradení rozhodol súd,
+
+c) na vydanie osvedčenia podľa § 22 ods. 5 písm. b) a c) podľa osobitného predpisu,<sup>3</sup>)
+
+d) na poskytnutie peňažnej náhrady podľa § 2.
+
+(5) Ministerstvo kultúry Slovenskej republiky je príslušné na rozhodovanie o neplatnosti rozhodnutia podľa § 23 ods. 1 osobitného predpisu<sup>3</sup>) a na posúdenie toho, kto sa v týchto prípadoch považuje za umelca podľa § 23 ods. 2 osobitného predpisu.<sup>3</sup>)
+
+(6) Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky je príslušné na určenie postupu orgánov sociálneho zabezpečenia v prípadoch odškodnenia nárokov v dôchodkovom zabezpečení podľa § 24 osobitného predpisu<sup>3</sup>) a osôb uvedených v § 2 a v § 3 ods. 2 písm. d). O úprave dôchodkov osôb uvedených v § 2 a v § 3 ods. 2 písm. d) a e) rozhoduje Slovenská správa sociálneho zabezpečenia.<sup>9b</sup>)
+
+(7) Na rozhodovanie o nárokoch podľa osobitného predpisu<sup>9c</sup>) je príslušné v rámci schvaľovania projektu o prevode majetku alebo projektu o prevode majetkovej účasti štátu na podnikaní právnických osôb Ministerstvo hospodárstva Slovenskej republiky alebo vláda Slovenskej republiky.<sup>9d</sup>)
+
+(8) Ak príslušnosť ústredného orgánu nevyplýva z predchádzajúcich ustanovení, postupuje sa podľa osobitného predpisu.<sup>10</sup>)
+
+### § 5 — Postup pri posudzovaní žiadostí na poskytnutie finančnej náhrady
+
+(1) Písomnú žiadosť na poskytnutie finančnej náhrady podľa § 4 ods. 1 podáva oprávnená osoba na príslušný ústredný orgán prostredníctvom okresného úradu v sídle kraja (ďalej len „okresný úrad"), v ktorého územnom obvode sa nachádza vec, ktorá prešla na štát. Dňom podania písomnej žiadosti na okresný úrad začína plynúť lehota určená osobitným predpisom.<sup>11</sup>)
+
+(2) Okresný úrad žiadosť preskúma a podanie oprávnenej osoby s príslušnými dokladmi postúpi Ministerstvu financií Slovenskej republiky. Neúplnú žiadosť vráti okresný úrad na doplnenie. Od doby vrátenia žiadosti do doby doručenia doplnenej žiadosti lehota určená osobitným predpisom<sup>11</sup>) neplynie. Finančnú náhradu vyplatí ústredný orgán.
+
+(3) Žiadosť o finančnú náhradu musí obsahovať osobné údaje, a to meno, priezvisko, adresu trvalého pobytu a rodné číslo oprávnenej osoby. Ministerstvo financií Slovenskej republiky môže osobné údaje oprávnenej osoby spracúvať len na účely vyplatenia finančnej náhrady.
+
+(4) Ak predmetom uplatneného nároku je finančná náhrada za nehnuteľnosť, oprávnený pripojí k žiadosti výpis z evidencie nehnuteľností, prípadne z pozemkovej knihy, znalecký posudok a doklad o odňatí veci alebo iný doklad, v ktorom je uvedený právny dôvod a meno osoby (osôb), ktorej vec bola odňatá. Nevyhnutné náklady maximálne do výšky 99,60 eura spojené s vypracovaním znaleckého posudku uhradí v prípade priznania finančnej náhrady podľa § 13 ods. 1 a 2 osobitného predpisu<sup>3</sup>) Ministerstvo financií Slovenskej republiky v hotovosti.
+
+(5) Príslušný ústredný orgán podľa § 4 vráti neúplnú žiadosť oprávnenej osobe na doplnenie. Do doby doplnenia žiadosti oprávnenou osobou lehota podľa osobitného predpisu neplynie.<sup>11</sup>)
+
+(6) Na konanie uvedené v odsekoch 1 až 5 sa nevzťahujú všeobecné predpisy o správnom konaní.<sup>12</sup>)
+
+### § 6 — Súčinnosť iných orgánov
+
+(1) Orgány štátnej správy, súdy, štátne notárstva, obce,<sup>13</sup>) strediská geodézie a archívy poskytujú potrebnú súčinnosť pri vybavovaní žiadostí o finančnú náhradu podľa osobitného predpisu.<sup>3</sup>)
+
+(2) Orgány uvedené v odseku 1 sú povinné vykonať požadované zistenia a predložiť spisy v lehote určenej v dožiadaniach orgánov príslušných na konanie podľa tohto zákona a osobitných predpisov.<sup>13a</sup>) Ak táto lehota nie je určená, tieto orgány sú povinné vyhovieť dožiadaniam do 30 dní od ich doručenia. Ak sa dožiadanie netýka pôsobnosti niektorého z orgánov uvedených v odseku 1, je tento orgán povinný postúpiť dožiadanie inému príslušnému orgánu, uvedenému v odseku 1 alebo vrátiť dožiadanie príslušnému orgánu do päť dní odo dňa jeho doručenia.
+
+(3) Vlastník alebo užívateľ veci, ktorá je predmetom uplatneného nároku na poskytnutie finančnej náhrady, je povinný umožniť jej prehliadku, aby vec mohla byť ocenená.
+
+(4) Ústredný orgán príslušný podľa § 4 ods. 1 tohto zákona je zastupovaný v súdnom spore okresným úradom, v obvode ktorého je sídlo príslušného súdu.
+
+### § 7 — Uplatnenie nároku Slovenskej republiky na vydanie veci
+
+(1) Pre uplatnenie nároku Slovenskej republiky na vydanie veci podľa § 34 osobitného predpisu<sup>3</sup>) je príslušný okresný úrad, v ktorého územnom obvode sa vec nachádza.
+
+(2) Povinnými osobami sú fyzické osoby podľa § 4 ods. 2 osobitného predpisu.<sup>3</sup>)
+
+(3) Postup pri uplatnení nároku Slovenskej republiky na vydanie veci ustanoví Ministerstvo financií Slovenskej republiky osobitnou vyhláškou.
+
+(4) Okresný úrad uplatní nárok Slovenskej republiky najskôr prvým dňom po uplynutí lehoty podľa osobitného predpisu.<sup>15</sup>)
+
+(5) Okresný úrad je povinný veci nadobudnuté podľa odseku 1 prednostne previesť odplatne na osoby uvedené v § 3 osobitného predpisu<sup>3</sup>) na základe ich žiadosti podanej do šesť mesiacov po nadobudnutí majetku Slovenskou republikou.
+
+(6) Postup podľa odsekov 1 až 4 platí aj pre uplatnenie nároku Slovenskej republiky na vydanie vecí podľa § 23a zákona č. 137/1991 Zb., ktorým sa mení a dopĺňa zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení zákona č. 458/1990 Zb.
+
+(7) Ak obec vydala vec Slovenskej republike pred účinnosťou tohto zákona, sú okresné úrady povinné obci vec vrátiť alebo vydať kúpnu cenu, za ktorú vec previedli.
+
+### § 8 — Poskytovanie finančných a peňažných náhrad
+
+(1) Ministerstvo financií Slovenskej republiky alebo iný príslušný ústredný orgán podľa § 4 posúdi oprávnenosť uplatneného nároku a poskytne finančnú náhradu.
+
+(2) Ak príslušný ústredný orgán neuspokojí nárok oprávnenej osoby, môže sa oprávnená osoba domáhať jeho priznania na súde v lehote jedného roka od doručenia zamietavého stanoviska orgánu oprávneného uspokojiť nárok oprávnenej osoby, pokiaľ osobitný predpis<sup>19</sup>) neustanovuje inak.
+
+### § 8a — Prechodné ustanovenia k úpravám účinným od 1. januára 2016
+
+(1) Ak nebola do 31. decembra 2015 oprávnenej osobe poskytnutá náhrada vo forme cenných papierov, ktoré nemajú povahu štátneho dlhopisu, finančnú náhradu poskytne príslušný ústredný orgán.
+
+(2) Ak Fond národného majetku Slovenskej republiky neposkytol náhradu oprávnenej osobe vo forme cenných papierov, ktoré nemajú povahu štátneho dlhopisu podľa doterajších predpisov do 31. decembra 2015, právnická osoba podľa osobitného predpisu,<sup>20</sup>) postúpi všetku dokumentáciu súvisiacu s nárokom na poskytnutie finančnej náhrady príslušnému ústrednému orgánu do 31. januára 2016.
+
+## § 9 — Účinnosť
+
+Tento zákon nadobúda účinnosť dňom vyhlásenia.
+
+F. Mikloško v. r.
+
+J. Čarnogurský v. r.
+
+## Poznámky pod čiarou
+
+1) § 32 zákona č. 87/1991 Zb. o mimosúdnych rehabilitáciách.
+
+2) § 34 zákona č. 87/1991 Zb.
+
+Čl. 4 ods. 4 ústavného zákona č. 143/1968 Zb. o česko-slovenskej federácii v znení neskorších predpisov.
+
+§ 23a zákona č. 137/1991 Zb., ktorým sa mení a dopĺňa zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení zákona č. 458/1990 Zb.
+
+3) Zákon č. 87/1991 Zb.
+
+3a) § 59 zákona č. 100/1988 Zb. o sociálnom zabezpečení.
+
+4) § 3 ods. 2 zákona č. 138/1948 Zb. o hospodárení s bytmi.
+
+5) § 5 až 7 zákona č. 87/1991 Zb.
+
+5a) § 18 ods. 2 zákona č. 87/1991 Zb.
+
+5b) § 115 Občianskeho zákonníka.
+
+5c) § 13 ods. 5 zákona č. 87/1991 Zb.
+
+§ 1 nariadenia vlády Slovenskej republiky č. 289/1991 Zb. o výške finančnej náhrady vyplatenej v hotovosti pri mimosúdnych rehabilitáciách.
+
+6) § 10 ods. 4 zákona č. 87/1991 Zb.
+
+7) § 11 zákona č. 87/1991 Zb.
+
+8) § 13 zákona č. 87/1991 Zb.
+
+9) Zákon č. 88/1950 Zb. Trestný zákon správny.
+
+Zákon č. 89/1950 Zb. o trestnom konaní správnom.
+
+9a) Zákon č. 87/1991 Zb. v znení zákona č. 267/1992 Zb.
+
+9b) § 13 písm. a) zákona Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia.
+
+9c) § 2 ods. 3 zákona č. 87/1991 Zb. o mimosúdnych rehabilitáciách.
+
+§ 47 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+
+9d) § 10 ods. 2 zákona č. 92/1991 Zb.
+
+10) § 4 zákona č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov v znení neskorších predpisov.
+
+11) § 13 ods. 4 zákona č. 87/1991 Zb.
+
+12) Zákon č. 71/1967 Zb.
+
+13) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení zákona Slovenskej národnej rady č. 130/1991 Zb.
+
+Zákon Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení zákona Slovenskej národnej rady č. 523/1990 Zb. a zákona Slovenskej národnej rady č. 130/1991 Zb.
+
+Zákon Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení zákona Slovenskej národnej rady č. 130/1991 Zb.
+
+13a) Zákon č. 87/1991 Zb.
+
+Vyhláška Ministerstva financií Slovenskej republiky č. 392/1991 Zb., ktorou sa ustanovuje postup podľa § 34 zákona č. 87/1991 Zb. o mimosúdnych rehabilitáciách.
+
+15) § 5 ods. 2 zákona č. 87/1991 Zb.
+
+19) § 47 ods. 3 zákona č. 92/1991 Zb. v znení zákona č. 92/1992 Zb.
+
+20) § 2 ods. 2 zákona č. 375/2015 Z. z. o zrušení Fondu národného majetku a o zmene a doplnení niektorých zákonov.

@@ -1,0 +1,440 @@
+---
+title: "Zákon České národní rady o hlavním městě Praze"
+identifier: "418/1990 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1990/418/"
+type: act
+jurisdiction: sk
+language: cs
+date: 1990-10-15
+last_amended: 1990-11-24
+status: in_force
+consolidated_version: "/SK/ZZ/1990/418/19901124"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1990/418/19901124"
+retrieved: 2026-10-12
+---
+
+# Zákon České národní rady o hlavním městě Praze
+
+**418**
+
+**ZÁKON**
+
+**České národní rady**
+
+**ze dne 9. října 1990**
+
+**o hlavním městě Praze**
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## HLAVA PRVNÍ — ZÁKLADNÍ USTANOVENÍ
+
+### § 1
+
+Hlavní město České republiky Praha<sup>1</sup>) je obcí.
+
+### § 2
+
+Území hlavního města Prahy je ke dni účinnosti tohoto zákona tvořeno katastrálními územími uvedenými v příloze tohoto zákona.
+
+### § 3
+
+(1) O sloučení sousední obce s hlavním městem Prahou rozhoduje vláda České republiky (dále jen „vláda“) na návrh obce po vyjádření příslušného okresního úřadu a souhlasu zastupitelstva hlavního města Prahy (dále jen „zastupitelstvo“). V tomto případě není třeba rozhodnutí v místním referendu na území hlavního města Prahy. Rozhodnutím vlády o sloučení vzniká z obce nová městská část hlavního města Prahy.<sup>2</sup>)
+
+(2) O odloučení městské části, která sousedí s jinou obcí, od hlavního města Prahy rozhoduje vláda na základě výsledku místního referenda konaného na území odlučující se městské části po vyjádření zastupitelstva a příslušného okresního úřadu. Rozhodnutím vlády o odloučení městské části vzniká nová obec.<sup>3</sup>)
+
+(3) O jiných změnách území hlavního města Prahy rozhoduje vláda po vyjádření dotčené městské části, souhlasu zastupitelstva a příslušného okresního úřadu.
+
+### § 4
+
+(1) Novou městskou část lze zřídit rozhodnutím zastupitelstva na základě místního referenda konaného na území, kde se zřízení nové městské části navrhuje.
+
+(2) Rozhodnutí zastupitelstva o zřízení nové městské části musí obsahovat její název a vypořádání práv a závazků.
+
+(3) Změny území městských částí, při kterých nedochází ke vzniku nové městské části, se provádí dohodou dotčených městských částí.
+
+### § 5
+
+Městská část, její orgány a organizace a s jejím souhlasem jiné orgány, organizace a zařízení, právnické a fyzické osoby mohou užívat znak a prapor městské části. Pokud městská část nemá historický znak a prapor, mohou jí být po vyjádření zastupitelstva uděleny předsednictvem České národní rady.
+
+### § 6
+
+(1) Občané, kteří mají trvalý pobyt na území městské části a dosáhli věku 18 let, jsou oprávněni
+
+a) zúčastnit se zasedání zastupitelstva městské části a nahlížet do zápisu o jeho jednání,
+
+b) vyjádřit svůj názor v místním referendu,
+
+c) podávat orgánům městské části písemné návrhy.
+
+(2) Každý má právo podávat petice orgánům městské části.
+
+## HLAVA DRUHÁ — PŮSOBNOST HLAVNÍHO MĚSTA PRAHY A MĚSTSKÝCH ČÁSTÍ
+
+### Oddíl první — Samostatná působnost
+
+#### § 7
+
+Hlavní město Praha a ve vymezeném rozsahu městské části spravují záležitosti hlavního města Prahy samostatně.<sup>4</sup>)
+
+#### § 8
+
+(1) Na výkonu samostatné působnosti hlavního města Prahy<sup>4</sup>) se městská část podílí tím, že
+
+a) schvaluje program rozvoje svého území, přijímá opatření k jeho plnění a provádí jeho kontrolu,
+
+b) zaujímá stanoviska k záměrům jiných orgánů a organizací, pokud se dotýkají jejích zájmů,
+
+c) vyjadřuje se k návrhům obecně závazných vyhlášek a dalších opatření hlavního města Prahy týkajících se městské části,
+
+d) sestavuje svůj rozpočet a provádí vyúčtování výsledků svého hospodaření,<sup>5</sup>)
+
+e) ukládá právnickým osobám povinnost poskytnout osobní a věcnou pomoc při odstraňování následků živelní pohromy nebo jiné mimořádné události,<sup>6</sup>) nepřesahují-li její území,
+
+f) ukládá úkoly příslušnému útvaru Veřejné bezpečnosti při zabezpečování místních záležitostí veřejného pořádku na svém území,
+
+g) uděluje souhlas právnickým a fyzickým osobám k umístění provozovny nebo její části na svém území; udělení souhlasu nemůže být odmítnuto s výjimkou případu, kdyby umístění provozovny nebo její části ohrozilo životní prostředí.
+
+(2) Městská část je ve stanoveném rozsahu dále oprávněna
+
+a) hospodařit se svěřeným majetkem hlavního města Prahy,
+
+b) zřizovat trvalé nebo dočasné účelové fondy,
+
+c) zakládat a zřizovat, popřípadě rušit organizace a zařízení.
+
+(3) Oprávnění hospodařit se svěřeným majetkem hlavního města Prahy nelze městským částem odejmout bez náhrady.
+
+(4) Na výkonu samostatné působnosti hlavního města Prahy se městská část může podílet i nad rozsah uvedený v odstavcích 1 a 2, pokud tak stanoví Statut hlavního města Prahy (dále jen „Statut“).
+
+#### § 9
+
+Městská část v rozsahu stanoveném tímto zákonem, dalšími obecně závaznými právními předpisy a Statutem vystupuje v právních vztazích svým jménem a nese odpovědnost z těchto vztahů vyplývající.
+
+#### § 10
+
+Městská část může zakládat a zřizovat, popřípadě rušit organizace a zařízení potřebné pro její rozvoj a pro uspokojování potřeb občanů žijících na jejím území, zejména pro správu a údržbu domovního majetku, údržbu a čištění místních komunikací, hospodaření s tuhými komunálními odpady, údržbu veřejné zeleně, zdravotní a sociální služby, kulturní činnost, sport a rekreaci, základní školy, zařízení jim sloužící a předškolní zařízení.
+
+#### § 11
+
+Městská část může za významná umělecká, vědecká a jiná díla udělovat ceny městské části.
+
+#### § 12 — Obecně závazné vyhlášky
+
+(1) Hlavní město Praha projedná návrh obecně závazné vyhlášky<sup>7</sup>) s městskými částmi, jichž se týkají záležitosti ve vyhlášce upravované.
+
+(2) Obecně závazná vyhláška hlavního města Prahy se vyvěsí též na úřední desce místních a obvodních úřadů městských částí, jichž se týkají záležitosti ve vyhlášce upravované, a musí být u těchto úřadů každému přístupna.
+
+### Oddíl druhý — Přenesená působnost
+
+#### § 13
+
+(1) Hlavní město Praha a městské části vykonávají státní správu v rozsahu stanoveném zvláštními zákony<sup>8</sup>) (dále jen „přenesená působnost“).
+
+(2) Při výkonu přenesené působnosti se hlavní město Praha a městské části řídí zákony a ostatními obecně závaznými právními předpisy a v jejich mezích usneseními vlády a směrnicemi ústředních orgánů státní správy.
+
+(3) Městské části se při výkonu přenesené působnosti řídí též obecně závaznými vyhláškami hlavního města Prahy.
+
+#### § 14
+
+(1) Hlavní město Praha vykonává v přenesené působnosti státní správu v rozsahu, ve kterém ji podle zvláštních zákonů ke dni účinnosti tohoto zákona
+
+a) vykonával Národní výbor hlavního města Prahy,
+
+b) vykonávaly obvodní národní výbory jako odvolací orgány.
+
+(2) Městská část, ve které měl sídlo obvodní národní výbor, vykonává v přenesené působnosti státní správu v rozsahu, ve kterém ji podle zvláštních předpisů ke dni účinnosti tohoto zákona vykonával obvodní národní výbor v prvním stupni.
+
+(3) Městská část, ve které měl sídlo místní národní výbor, vykonává v přenesené působnosti státní správu v rozsahu, ve kterém ji podle zvláštních předpisů ke dni účinnosti tohoto zákona vykonával místní národní výbor.
+
+### Oddíl třetí — Pokuty
+
+#### § 15
+
+Nesplní-li právnická osoba ve stanovené lhůtě povinnost poskytnout osobní a věcnou pomoc při odstraňování následků živelní pohromy nebo jiné mimořádné události [§ 8 odst. 1 písm. e)], může jí městská část uložit pokutu do 100 000 Kčs. Pokud takovou povinnost uložilo hlavní město Praha,<sup>9</sup>) může hlavní město Praha uložit pokutu do 200 000 Kčs.
+
+#### § 16
+
+(1) Právnické osobě a podnikateli,<sup>10</sup>) kteří neudržují čistotu a pořádek na jimi užívaném pozemku nebo jiné nemovitosti, či jinak naruší vzhled nebo životní prostředí v městské části, může městská část uložit pokutu do 50 000 Kčs.
+
+(2) Právnické osobě a podnikateli,<sup>10</sup>) kteří znečistí veřejné prostranství, naruší životní prostředí v městské části nebo odloží věc mimo vyhrazené místo, může městská část uložit pokutu do 100 000 Kčs.
+
+(3) Pokud jednání právnické osoby a podnikatele<sup>10</sup>) uvedené v odstavcích 1 a 2 zasahuje svými nepříznivými důsledky více městských částí, rozhoduje o uložení pokuty hlavní město Praha. V takovém případě může uložit pokutu do 200 000 Kčs. Pokutu nelze uložit, jestliže již byla uložena městskou částí.
+
+#### § 17
+
+Právnické osobě a podnikateli,<sup>10</sup>) kteří při podnikatelské činnosti poruší obecně závaznou vyhlášku hlavního města Prahy, může hlavní město Praha uložit pokutu do 200 000 Kčs.
+
+#### § 18
+
+Za umístění provozovny nebo její části bez souhlasu městské části [§ 8 odst. 1 písm. g)] může právnické osobě a podnikateli<sup>10</sup>) uložit městská část pokutu do 100 000 Kčs.
+
+#### § 19
+
+(1) Při ukládání pokut podle § 15, § 16 odst. 1 a 2 a § 18 se postupuje podle zvláštního zákona.<sup>11</sup>)
+
+(2) S výnosem pokut uložených městskou částí hospodaří městská část.
+
+### Oddíl čtvrtý — Statut hlavního města Prahy
+
+#### § 20
+
+(1) Hlavní město Praha přijme Statut, ve kterém stanoví
+
+a) vzájemné vztahy mezi orgány hlavního města Prahy a orgány městských částí,
+
+b) rozsah majetku hlavního města Prahy, který se svěřuje městským částem,
+
+c) podmínky, za kterých lze městským částem odejmout oprávnění hospodařit se svěřeným majetkem hlavního města Prahy,
+
+d) způsob rozdělení náhrady nákladů, které městským částem vzniknou plněním úkolů v přenesené působnosti.
+
+(2) Ve Statutu lze
+
+a) svěřit městským částem podíl na výkonu samostatné působnosti hlavního města Prahy nad rozsah stanovený tímto zákonem,
+
+b) stanovit, že některé úkoly přenesené působnosti náležející podle tohoto zákona hlavnímu městu Praze budou vykonávat městské části,
+
+c) stanovit, že některé úkoly přenesené působnosti náležející podle tohoto zákona městské části bude vykonávat jiná městská část,
+
+d) určit městskou část, která bude vykonávat některé úkoly přenesené působnosti i pro jinou městskou část.
+
+(3) Přijetí Statutu nebo jeho změny projedná hlavní město Praha s městskými částmi.
+
+(4) Ke schválení Statutu nebo jeho změny v části podle odstavce 2 písm. b) je třeba předchozí souhlas vlády.
+
+## HLAVA TŘETÍ — MÍSTNÍ REFERENDUM A ORGÁNY HLAVNÍHO MĚSTA PRAHY A MĚSTSKÝCH ČÁSTÍ
+
+### Oddíl první — Místní referendum
+
+#### § 21
+
+(1) Místním referendem občané rozhodují o ná-vrhu na
+
+a) odloučení městské části od hlavního města Prahy (§ 3 odst. 2),
+
+b) zřízení nové městské části.
+
+(2) V případě uvedeném v odstavci 1 písm. a) referendum vyhlašuje obvodní nebo místní zastupitelstvo městské části na základě návrhu nejméně jedné třetiny členů příslušného zastupitelstva nebo jedné desetiny občanů starších 18 let majících v městské části trvalý pobyt.
+
+(3) V případě uvedeném v odstavci 1 písm. b) referendum vyhlašují obvodní nebo místní zastupitelstva městských částí, z jejichž území má nová městská část vzniknout. Tato zastupitelstva jsou povinna referendum vyhlásit, pokud o to požádá nejméně jedna pětina jejich členů, nebo pokud o to požádá alespoň jedna desetina občanů starších 18 let, kteří mají na území, kde se zřízení nové městské části navrhuje, trvalý pobyt.
+
+### Oddíl druhý — Orgány hlavního města Prahy a městských částí
+
+#### § 22
+
+(1) Orgány hlavního města Prahy jsou zastupitelstvo, rada zastupitelstva a magistrátní úřad.
+
+(2) Orgány městských částí jsou
+
+a) obvodní zastupitelstvo, obvodní rada a obvodní úřad v městských částech, ve kterých měl ke dni účinnosti tohoto zákona sídlo obvodní národní výbor,
+
+b) místní zastupitelstvo, místní rada a místní úřad v městských částech, ve kterých měl ke dni účinnosti tohoto zákona sídlo místní národní výbor, a v městských částech, které vzniknou po dni nabytí účinnosti tohoto zákona.
+
+#### § 23
+
+Funkci obecní rady<sup>12</sup>) plní v hlavním městě Praze rada zastupitelstva. Funkci starosty a jeho zástupce<sup>13</sup>) plní v hlavním městě Praze primátor a jeho náměstci. Funkci obecního úřadu<sup>14</sup>) plní v hlavním městě Praze magistrátní úřad.
+
+### Oddíl třetí — Orgány hlavního města Prahy
+
+#### § 24 — Zastupitelstvo
+
+(1) Zastupitelstvo tvoří 70 až 80 členů.
+
+(2) Zastupitelstvo
+
+a) schvaluje Statut a jeho změny (§ 20),
+
+b) rozhoduje o zřízení nové městské části (§ 4 odst. 1),
+
+c) stanoví počet členů rady zastupitelstva,
+
+d) volí ze svých členů primátora hlavního města Prahy, jeho náměstky a další členy rady zastupitelstva (radní) a odvolává je z funkce,
+
+e) stanoví počet pracovníků magistrátního úřadu,
+
+f) jmenuje a odvolává tajemníka magistrátního úřadu,
+
+g) uděluje souhlas ke sloučení obce s hlavním městem Prahou (§ 3 odst. 1),
+
+h) vyjadřuje se k odloučení městské části od hlavního města Prahy (§ 3 odst. 2),
+
+ch) uděluje souhlas k jiným územním změnám hlavního města Prahy (§ 3 odst. 3),
+
+i) vyjadřuje se k návrhu na udělení historického znaku a praporu městské části (§ 5).
+
+(3) Zastupitelstvo rozhoduje i o dalších věcech samostatné působnosti, které si vyhradí, s výjimkou věcí svěřených tímto zákonem nebo Statutem městským částem.
+
+#### § 25 — Rada zastupitelstva
+
+(1) Rada zastupitelstva je výkonným orgánem hlavního města Prahy v oblasti samostatné i přenesené působnosti. Při výkonu samostatné působnosti odpovídá zastupitelstvu. Při výkonu přenesené působnosti je podřízena příslušnému ústřednímu orgánu státní správy.
+
+(2) Rada zastupitelstva se skládá z primátora, náměstků primátora a radních. Počet členů rady zastupitelstva je 10 až 15.
+
+(3) Rada zastupitelstva rozhoduje ve věcech uvedených v § 15, § 16 odst. 3 a § 17 tohoto zákona.
+
+#### § 26 — Magistrátní úřad
+
+(1) Magistrátní úřad v oblasti přenesené působnosti vykonává státní správu v rozsahu, ve kterém je tímto zákonem svěřena hlavnímu městu Praze s výjimkou věcí, které patří do působnosti rady zastupitelstva (§ 15, § 16 odst. 3, § 17).
+
+(2) Ve věcech přenesené působnosti je magistrátní úřad nadřízen orgánům městských částí a podřízen příslušnému ústřednímu orgánu státní správy.
+
+(3) Jmenování tajemníka magistrátního úřadu musí být předem projednáno s ministerstvem vnitra České republiky.
+
+(4) V čele magistrátního úřadu je primátor.
+
+### Oddíl čtvrtý — Orgány městských částí
+
+#### § 27
+
+V rozsahu působnosti svěřené městským částem tímto zákonem, popřípadě Statutem se na obvodní a místní zastupitelstva, na obvodní rady a místní rady, na obvodní a místní úřady, starosty městských částí a jejich zástupce vztahují přiměřeně ustanovení zákona o obcích.<sup>15</sup>)
+
+### Oddíl pátý — Náprava nesprávných opatření
+
+#### § 28
+
+(1) Odporuje-li obecně závazná vyhláška nebo jiné opatření zastupitelstva vydané v samostatné působnosti zákonu, pozastaví vláda její výkon. Nezjedná-li nápravu zastupitelstvo, předloží vláda do 10 dnů od pozastavení věc České národní radě k rozhodnutí.
+
+(2) Odporuje-li opatření rady zastupitelstva nebo jejích orgánů v otázkách samostatné působnosti zákonu, pozastaví vláda jeho výkon. Nezjedná-li nápravu rada zastupitelstva ani zastupitelstvo, předloží vláda do 10 dnů od pozastavení věc České národní radě k rozhodnutí.
+
+(3) Nesprávné opatření zastupitelstva, rady zastupitelstva, jejích orgánů nebo magistrátního úřadu v otázkách přenesené působnosti zruší příslušný ústřední orgán státní správy, nezjedná-li nápravu orgán, který je vydal.
+
+#### § 29
+
+(1) Odporuje-li opatření obvodního nebo místního zastupitelstva, obvodní nebo místní rady nebo jejich orgánů, vydané v samostatné působnosti zákonu, pozastaví magistrátní úřad jeho výkon. Nezjedná-li nápravu orgán, který je vydal, předloží magistrátní úřad do 10 dnů od pozastavení věc zastupitelstvu k rozhodnutí.
+
+(2) Nesprávné opatření obvodního nebo místního zastupitelstva, obvodní nebo místní rady, jejich orgánů, obvodního nebo místního úřadu v otázkách přenesené působnosti zruší magistrátní úřad, nezjedná-li nápravu orgán, který je vydal.
+
+#### § 30
+
+Ustanovení § 28 a 29 se nevztahují na rozhodnutí vydaná ve správním řízení.<sup>16</sup>)
+
+## HLAVA ČTVRTÁ — USTANOVENÍ SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ
+
+### Oddíl první — Společná ustanovení
+
+#### § 31
+
+Obecné předpisy o správním řízení<sup>16</sup>) se vztahují na rozhodování orgánů hlavního města Prahy a městských částí
+
+a) ve věcech podle § 8 odst. 1 písm. g), § 15, 16, 17 a 18,
+
+b) o právech, právem chráněných zájmech a povinnostech občanů a organizací na úseku přenesené působnosti, nestanoví-li zvláštní zákon jinak.
+
+#### § 32
+
+(1) Skutečnosti nasvědčující vyloučení pracovníka místního, obvodního nebo magistrátního úřadu z projednávání a rozhodování věci se oznamují vedoucímu příslušného odboru. V městských částech, kde není zřízen odbor místního úřadu, se toto oznámení činí starostovi. Skutečnosti nasvědčující vyloučení vedoucího odboru místního, obvodního nebo magistrátního úřadu se oznamují tajemníkovi příslušného úřadu. U člena komise nebo zvláštního orgánu pověřeného výkonem přenesené působnosti se oznámení činí příslušné radě, která komisi nebo zvláštní orgán zřídila.
+
+(2) O podjatosti rozhoduje orgán, popřípadě pracovník, jemuž se skutečnosti nasvědčující vyloučení oznamují. Ten také v případě rozhodnutí o vyloučení pro podjatost učiní potřebná opatření k zajištění dalšího řízení.
+
+#### § 33
+
+Orgány hlavního města Prahy a orgány měst-ských částí rozhodnutí jimi vydaná na úseku přenesené působnosti samy vykonávají, pokud nebude podán návrh na soudní výkon rozhodnutí.
+
+#### § 34
+
+Magistrátní úřad a obvodní a místní úřady vydávají potvrzení a vyhotovují zprávy pro potřeby občanů, organizací a státních orgánů, jen stanoví-li tak obecně závazný právní předpis.
+
+### Oddíl druhý — Ustanovení přechodná a závěrečná
+
+#### § 35
+
+(1) Do zvolení rady zastupitelstva, obvodní nebo místní rady plní jejich úkoly rada Národního výboru hlavního města Prahy a příslušné rady obvodních nebo místních národních výborů.
+
+(2) Ustavující zasedání zastupitelstva a obvodních a místních zastupitelstev svolá rada příslušného národního výboru tak, aby se konalo do 15 dnů od vyhlášení výsledků voleb místní volební komisí.<sup>17</sup>)
+
+#### § 36
+
+Funkce zakladatele státních podniků, kterou ke dni účinnosti tohoto zákona vykonával Národní výbor hlavního města Prahy a obvodní a místní národní výbory na území hlavního města Prahy a jejich pravomoc zřizovat, řídit a zrušovat organizace a zařízení se přenáší na zastupitelstvo a příslušná obvodní a místní zastupitelstva.
+
+#### § 37
+
+(1) Práva a závazky Národního výboru hlavního města Prahy a obvodních a místních národních výborů na území hlavního města Prahy přecházejí na hlavní město Prahu a příslušné městské části.
+
+(2) Dnem nabytí účinnosti tohoto zákona přecházejí práva a povinnosti z pracovněprávních a jiných vztahů pracovníků podle zvláštních předpisů
+
+a) z Národního výboru hlavního města Prahy na magistrátní úřad,
+
+b) z obvodních národních výborů na obvodní úřady městských částí, v nichž bylo sídlo příslušného obvodního národního výboru,
+
+c) z místních národních výborů na místní úřady městských částí, v nichž bylo sídlo příslušného místního národního výboru.
+
+#### § 38
+
+Místní působnost orgánů státní správy, jakož i ostatních státních orgánů se řídí rozdělením území hlavního města Prahy na obvody,<sup>18</sup>) pokud zvláštní předpis nestanoví jinak.
+
+#### § 39
+
+Věci nevyřízené národními výbory na území hlavního města Prahy ke dni účinnosti tohoto zákona vyřídí orgány příslušné podle tohoto zákona.
+
+#### § 40
+
+(1) Do 31. prosince 1992 může být zřízena nová městská část (§ 4 odst. 1) rozhodnutím zastupitelstva; v tomto případě se nepoužijí ustanovení o místním referendu.
+
+(2) Návrh na zřízení nové městské části musí být vhodným způsobem zveřejněn nejméně 30 dnů před jeho projednáním v zastupitelstvu, aby se k němu mohli občané hlavního města Prahy vyjádřit.
+
+#### § 41
+
+Nestanoví-li tento zákon výslovně jinak, vztahuje se na hlavní město Prahu zákon o obcích.<sup>15</sup>)
+
+#### § 42
+
+Zrušuje se:
+
+1. zákon č. 111/1967 Sb., o hlavním městě Praze, ve znění zákona České národní rady č. 116/1971 Sb. a zákona České národní rady č. 115/1988 Sb.,
+
+2. zákon České národní rady č. 31/1974 Sb., o změně území hlavního města České socialistické republiky Prahy.
+
+#### § 43
+
+Tento zákon nabývá účinnosti dnem 24. listopadu 1990.
+
+Burešová v. r.
+
+Pithart v. r.
+
+## Prílohy
+
+Příloha
+
+Seznam katastrálních území v hlavním městě Praze
+
+1. Benice
+
+## Poznámky pod čiarou
+
+1) Čl. 141 odst. 2 ústavního zákona č. 143/1968 Sb., o československé federaci, ve znění pozdějších předpisů.
+
+2) § 3 odst. 3 zákona ČNR č. 367/1990 Sb., o obcích (obecní zřízení).
+
+3) § 1 zákona ČNR č. 367/1990 Sb.
+
+4) § 13 a násl. zákona ČNR č. 367/1990 Sb.
+
+5) § 19 odst. 1 a § 20 zákona ČNR č. 367/1990 Sb.
+
+6) § 47 odst. 1 zákona ČNR č. 367/1990 Sb.
+
+7) § 16 zákona ČNR č. 367/1990 Sb.
+
+8) § 21 zákona ČNR č. 367/1990 Sb.
+
+9) § 47 odst. 1 zákona ČNR č. 367/1990 Sb.
+
+10) § 2 zákona č. 105/1990 Sb., o soukromém podnikání občanů.
+
+11) § 51 zákona ČNR č. 367/1990 Sb.
+
+12) § 44 až 51, § 56 a 57 zákona ČNR č. 367/1990 Sb.
+
+13) § 52 až 55 zákona ČNR č. 367/1990 Sb.
+
+14) § 58 a 59 zákona ČNR č. 367/1990 Sb.
+
+15) Zákon ČNR č. 367/1990 Sb.
+
+16) Zákon č. 71/1967 Sb., o správním řízení (správní řád).
+
+17) § 43 zákona ČNR č. 368/1990 Sb., o volbách do zastupitelstev v obcích.
+
+18) § 2 zákona č. 36/1960 Sb., o územním členění státu.

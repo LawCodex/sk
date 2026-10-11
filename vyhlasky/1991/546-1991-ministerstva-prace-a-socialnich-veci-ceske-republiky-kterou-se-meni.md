@@ -1,0 +1,50 @@
+---
+title: "Vyhláška ministerstva práce a sociálních věcí České republiky, kterou se mění vyhláška ministerstva práce a sociálních věcí České socialistické republiky č. 52/1973 Sb., kterou se provádějí některá ustanovení zákona č. 50/1973 Sb., o pěstounské péči, ve znění pozdějších předpisů"
+identifier: "546/1991 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1991/546/"
+type: decree
+jurisdiction: sk
+language: cs
+date: 1991-12-20
+last_amended: 1992-01-01
+status: in_force
+consolidated_version: "/SK/ZZ/1991/546/19920101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1991/546/19920101"
+retrieved: 2026-10-12
+---
+
+# Vyhláška ministerstva práce a sociálních věcí České republiky, kterou se mění vyhláška ministerstva práce a sociálních věcí České socialistické republiky č. 52/1973 Sb., kterou se provádějí některá ustanovení zákona č. 50/1973 Sb., o pěstounské péči, ve znění pozdějších předpisů
+
+**546**
+
+**VYHLÁŠKA**
+
+**ministerstva práce a sociálních věcí České republiky**
+
+**ze dne 6. prosince 1991,**
+
+**kterou se mění vyhláška ministerstva práce a sociálních věcí České socialistické republiky č. 52/1973 Sb., kterou se provádějí některá ustanovení zákona č. 50/1973 Sb., o pěstounské péči, ve znění pozdějších předpisů**
+
+Ministerstvo práce a sociálních věcí České republiky stanoví podle § 22 odst. 2 zákona č. 50/1973 Sb., o pěstounské péči, v dohodě s federálním ministerstvem práce a sociálních věcí, ministerstvem financí České republiky a ministerstvem vnitra České republiky:
+
+## Čl. I
+
+Vyhláška ministerstva práce a sociálních věcí České republiky č. 52/1973 Sb., kterou se provádějí některá ustanovení zákona o pěstounské péči, ve znění vyhlášek č. 98/1980 Sb. a č. 77/1984 Sb., se mění takto:
+
+1. § 6 odst. 1 zní:
+
+> „(1) Pěstounovi, který vykonává pěstounskou péči ve zvláštních zařízeních,<sup>4</sup>) poskytuje okresní úřad odměnu za výkon pěstounské péče a za práce spojené s péči o svěřené děti v rozpětí od 2050 Kčs do 2800 Kčs měsíčně při péči nejvýše o čtyři děti a v rozpětí od 2550 Kčs do 3200 Kčs při péči o pět a více dětí. Při určení výše odměny přihlíží okresní úřad zejména k počtu dětí, k jejich věku, zdravotnímu stavu a duševní úrovni. V případě, že tělesný, duševní nebo sociální vývoj dítěte je narušen tak, že vyžaduje mimořádnou individuální péči, zvýší okresní úřad stanovenou odměnu až o 350 Kčs měsíčně. Odměna nemůže činit méně, než by činila podle § 8 a 9 zákona.“.
+
+2. Ve vyhlášce č. 52/1973 Sb., ve znění vyhlášek č. 98/1980 Sb. a č. 77/1984 Sb., se slova „okresní národní výbor“ a „místní národní výbor (městský národní výbor)“ nahrazují slovy „okresní úřad“ a „pověřený obecní úřad“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 1992.
+
+Ministr:
+
+Ing. Horálek CSc. v. r.
+
+## Poznámky pod čiarou
+
+4) § 12 zákona č. 50/1973 Sb.

@@ -1,0 +1,339 @@
+---
+title: "Zákon České národní rady o dani dědické, dani darovací a dani z převodu nemovitostí"
+identifier: "357/1992 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1992/357/"
+type: act
+jurisdiction: sk
+language: cs
+date: 1992-07-07
+last_amended: 1993-01-01
+status: in_force
+consolidated_version: "/SK/ZZ/1992/357/19930101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1992/357/19930101"
+retrieved: 2026-10-12
+---
+
+# Zákon České národní rady o dani dědické, dani darovací a dani z převodu nemovitostí
+
+**357**
+
+**ZÁKON**
+
+**České národní rady**
+
+**ze dne 5. května 1992**
+
+**o dani dědické, dani darovací a dani z převodu nemovitostí**
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## § 1 — Úvodní ustanovení
+
+Tento zákon upravuje
+
+a) daň dědickou,
+
+b) daň darovací,
+
+c) daň z převodu nemovitostí.
+
+## ČÁST PRVNÍ
+
+### ODDÍL PRVNÍ — DAŇ DĚDICKÁ
+
+#### § 2 — Poplatník
+
+Poplatníkem daně dědické je dědic, který nabyl dědictví nebo jeho část ze závěti, ze zákona nebo z obou těchto právních důvodů podle pravomocného rozhodnutí příslušného orgánu, jímž bylo řízení o dědictví skončeno.
+
+#### § 3 — Předmět daně
+
+(1) Předmětem daně dědické je nabytí movitých a nemovitých věcí, bytů, nebytových prostor, cenných papírů, peněžních prostředků v československé a cizí měně, pohledávek majetkových práv a jiných majetkových hodnot děděním.
+
+(2) Z nemovitého majetku, který je v tuzemsku, se vybere daň bez ohledu na státní občanství nebo bydliště zůstavitele; z nemovitého majetku, který je v cizině, se daň nevybírá.
+
+(3) Byl-li zůstavitel v době své smrti československým státním občanem, vybírá se daň z veškerého jeho movitého majetku, včetně movitého majetku, který je v cizině. Nebyl-li zůstavitel v době své smrti československým státním občanem, vybírá se daň z jeho movitého majetku, pokud je v tuzemsku.
+
+(4) Ustanovení odstavců 2 a 3 platí, pokud mezinárodní smlouva nestanoví jinak.
+
+#### § 4 — Základ daně
+
+(1) Základem daně dědické je cena majetku nabytého jednotlivým dědicem po odečtení prokázaných dluhů zůstavitele, které na dědice přešly zůstavitelovou smrtí. Ze základu daně se odečtou též přiměřené náklady spojené s pohřbem zůstavitele, cena jiných povinností uložených v řízení o dědictví, jakož i dědická dávka prokazatelně zaplacená jinému státu z majetku v cizině, byl-li tento majetek též předmětem daně.
+
+(2) Cenou podle odstavce 1 je cena majetku obvyklá v místě a v době smrti zůstavitele. Je-li nabytým majetkem nemovitost, je její cenou cena platná v době úmrtí zjištěná podle zvláštního předpisu.<sup>1</sup>) U pohledávek, cenných papírů a hotovosti v cizích měnách se přepočet na Kčs provede podle kursu platného pro nákup valut nebo deviz v den úmrtí zůstavitele.
+
+### ODDÍL DRUHÝ — DAŇ DAROVACÍ
+
+#### § 5 — Poplatník
+
+Poplatníkem daně darovací je nabyvatel; při darování do ciziny je poplatníkem vždy dárce. Nejde-li o darování z ciziny nebo do ciziny, je dárce ručitelem.
+
+#### § 6 — Předmět daně
+
+(1) Předmětem daně darovací je nabytí movitých a nemovitých věcí, bytů, nebytových prostor, cenných papírů, peněžních prostředků v československé a cizí měně, pohledávek, majetkových práv a jiných majetkových hodnot nebo jiného majetkového prospěchu na základě právního úkonu, a to jinak než úmrtím občana, pokud k němu dochází zcela nebo zčásti bezúplatně. Důchod podle smlouvy<sup>2</sup>) není předmětem daně darovací.
+
+(2) Daň se vybírá i z nabytí movitých věcí darovaných z ciziny nabyvateli do tuzemska nebo z tuzemska nabyvateli v cizině anebo z nabytí movitých věcí dovezených nabyvatelem z ciziny do tuzemska, které byly pořízeny z prostředků darovaných v cizině, pokud zákon dále nestanoví jinak. Není-li nabyvatel československým státním občanem, vybírá se daň z nabytí movitého majetku, který je v tuzemsku.
+
+(3) Plnění na základě zákonné povinnosti není předmětem daně.
+
+(4) Nabývá-li spoluvlastník při reálném rozdělení společné věci mezi spoluvlastníky bezúplatně více, než činila hodnota jeho podílu, považuje se nabytí nad tuto hodnotu za darování.
+
+(5) Ustanovení § 3 odst. 2 platí obdobně.
+
+#### § 7 — Základ daně
+
+(1) Základem daně darovací je cena majetku obvyklá v místě a době nabytí po odečtení prokázaných dluhů, ceny jiných povinností a případné úplaty.
+
+(2) Je-li nabytým majetkem nemovitost, je touto cenou cena zjištěná podle zvláštního předpisu.<sup>1</sup>)
+
+(3) Cena movitého majetku nabytého darováním od téže osoby týmž nabyvatelem v průběhu dvou po sobě jdoucích kalendářních roků se sčítá.
+
+(4) U movitých věcí darovaných nebo dovezených z ciziny se od ceny věci odečítá clo a daň, placené při dovozu.
+
+### ODDÍL TŘETÍ — DAŇ Z PŘEVODU NEMOVITOSTÍ
+
+#### § 8 — Poplatník
+
+(1) Poplatníkem daně z převodu nemovitostí je převodce (prodávající); nabyvatel (kupující) je ručitelem. Jde-li o nabytí nemovitosti úplatným převodem při výkonu rozhodnutí, konkursem, vydržením, nebo je-li zřízeno věcné břemeno či poskytnuto jiné plnění, poplatníkem je nabyvatel.
+
+(2) Jde-li o výměnu nemovitostí, jsou povinni daň platit převodce i nabyvatel, a to společně a nerozdílně.
+
+(3) Jde-li o převod nebo přechod vlastnictví k nemovitosti z bezpodílového spoluvlastnictví manželů nebo do bezpodílového spoluvlastnictví manželů, považuje se každý z manželů za samostatného poplatníka a jejich podíly za stejné, pokud nejsou podíly dohodnuty nebo stanoveny jinak. V případě podílových spoluvlastníků je každý spoluvlastník samostatným poplatníkem a platí daň podle velikosti svého podílu.
+
+#### § 9 — Předmět daně
+
+(1) Předmětem daně z převodu nemovitostí je úplatný převod nebo přechod vlastnictví k nemovitosti, včetně zrušení a vypořádání podílového spoluvlastnictví, nabytí nemovitosti při výkonu rozhodnutí, konkursem nebo vydržením.
+
+(2) Předmětem daně je rovněž hodnota odpovídající bezplatně zřízenému věcnému břemenu nebo jinému plnění za úplatu při bezúplatném nabytí nemovitosti.
+
+(3) Vyměňují-li se nemovitosti, považují se jejich vzájemné převody za jeden převod. Daň se vybere z převodu té nemovitosti, z jejíhož převodu je daň vyšší.
+
+(4) Ustanovení § 3 odst. 2 platí obdobně.
+
+#### § 10 — Základ daně
+
+Základem daně z převodu nemovitostí je cena zjištěná podle zvláštního předpisu.<sup>1</sup>)
+
+## ČÁST DRUHÁ — SPOLEČNÁ USTANOVENÍ
+
+### § 11 — Rozdělení osob do skupin pro účely výpočtu daně dědické, daně darovací a daně z převodu nemovitostí
+
+(1) Pro účely výpočtu daně dědické, daně darovací a daně z převodu nemovitostí jsou osoby zařazeny do tří skupin na základě vzájemného příbuzenského vztahu nebo jiného vzájemného poměru nabyvatele nebo dědice k převodci či zůstaviteli nebo převodce k nabyvateli. Příbuzenským vztahům vzniklým zrozením jsou na roveň postaveny vztahy založené osvojením.
+
+(2) Do I. skupiny patří
+
+- příbuzní v řadě přímé a manželé.
+
+(3) Do II. skupiny patří
+
+- sourozenci, příbuzní manžela v řadě přímé, osoby, které s převodcem, dárcem nebo zůstavitelem žily nejméně po dobu jednoho roku ve společné domácnosti a které pečovaly o společnou domácnost nebo byly odkázány výživou na převodce, dárce nebo zůstavitele, manželé dětí (zeťové a snachy), manželé rodičů, synovci, neteře, strýcové a tety.
+
+(4) Do III. skupiny patří
+
+- ostatní fyzické osoby a právnické osoby.
+
+### § 12 — Sazba daně dědické, daně darovací a daně z převodu nemovitostí u osob zařazených do I. skupiny
+
+Daň činí při základu daně
+
+| přes Kčs | do Kčs |  |
+|---|---|---|
+| - | 1 000 000 | 1,0 %, |
+| 1 000 000 | 2 000 000 | 10 000 Kčs a 1,3 % ze základu přesahujícího 1 000 000 Kčs, |
+| 2 000 000 | 5 000 000 | 23 000 Kčs a 1,5 % ze základu přesahujícího 2 000 000 Kčs, |
+| 5 000 000 | 7 000 000 | 68 000 Kčs a 1,7 % ze základu přesahujícího 5 000 000 Kčs, |
+| 7 000 000 | 10 000 000 | 102 000 Kčs a 2,0 % ze základu přesahujícího 7 000 000 Kčs, |
+| 10 000 000 | 20 000 000 | 162 000 Kčs a 2,5 % ze základu přesahujícího 10 000 000 Kčs, |
+| 20 000 000 | 30 000 000 | 412 000 Kčs a 3,0 % ze základu přesahujícího 20 000 000 Kčs, |
+| 30 000 000 | 40 000 000 | 712 000 Kčs a 4,0 % ze základu přesahujícího 30 000 000 Kčs, |
+| 40 000 000 | a více | 1 112 000 Kčs a 5,0 % ze základu přesahujícího 40 000 000 Kčs. |
+
+### § 13 — Sazba daně dědické, daně darovací a daně z převodu nemovitostí u osob zařazených do II. skupiny
+
+Daň činí při základu daně
+
+| přes Kčs | do Kčs |  |
+|---|---|---|
+| - | 1 000 000 | 3,0 %, |
+| 1 000 000 | 2 000 000 | 30 000 Kčs a 3,5 % ze základu přesahujícího 1 000 000 Kčs, |
+| 2 000 000 | 5 000 000 | 65 000 Kčs a 4 % ze základu přesahujícího 2 000 000 Kčs, |
+| 5 000 000 | 7 000 000 | 185 000 Kčs a 5,0 % ze základu přesahujícího 5 000 000 Kčs, |
+| 7 000 000 | 10 000 000 | 285 000 Kčs a 6,0 % ze základu přesahujícího 7 000 000 Kčs, |
+| 10 000 000 | 20 000 000 | 465 000 Kčs a 7,0 % ze základu přesahujícího 10 000 000 Kčs, |
+| 20 000 000 | 30 000 000 | 1 165 000 Kčs a 8,0 % ze základu přesahujícího 20 000 000 Kčs, |
+| 30 000 000 | 40 000 000 | 1 965 000 Kčs a 9,0 % ze základu přesahujícího 30 000 000 Kčs, |
+| 40 000 000 | a více | 2 865 000 Kčs a 10,0 % ze základu přesahujícího 40 000 000 Kčs. |
+
+### § 14 — Sazba daně dědické a daně darovací u osob zařazených do III. skupiny
+
+Daň činí při základu daně
+
+| přes Kčs | do Kčs |  |
+|---|---|---|
+| - | 1 000 000 | 7,0 %, |
+| 1 000 000 | 2 000 000 | 70 000 Kčs a 9,0 % ze základu přesahujícího 1 000 000 Kčs, |
+| 2 000 000 | 5 000 000 | 160 000 Kčs a 12,0 % ze základu přesahujícího 2 000 000 Kčs, |
+| 5 000 000 | 7 000 000 | 520 000 Kčs a 15,0 % ze základu přesahujícího 5 000 000 Kčs, |
+| 7 000 000 | 10 000 000 | 820 000 Kčs a 18,0 % ze základu přesahujícího 7 000 000 Kčs, |
+| 10 000 000 | 20 000 000 | 1 360 000 Kčs a 22,0 % ze základu přesahujícího 10 000 000 Kčs, |
+| 20 000 000 | 30 000 000 | 3 560 000 Kčs a 28,0 % ze základu přesahujícího 20 000 000 Kčs, |
+| 30 000 000 | 40 000 000 | 6 360 000 Kčs a 35,0 % ze základu přesahujícího 30 000 000 Kčs, |
+| 40 000 000 | a více | 9 860 000 Kčs a 40,0 % ze základu přesahujícího 40 000 000 Kčs. |
+
+### § 15 — Sazba daně z převodu nemovitostí u osob zařazených do III. skupiny
+
+Daň činí při základu daně
+
+| přes Kčs | do Kčs 1 000 000 | 4,0 %, |
+|---|---|---|
+| 1 000 000 | 2 000 000 | 40 000 Kčs a 5,0 % ze základu přesahujícího 1 000 000 Kčs, |
+| 2 000 000 | 5 000 000 | 90 000 Kčs a 6,0 % ze základu přesahujícího 2 000 000 Kčs, |
+| 5 000 000 | 7 000 000 | 270 000 Kčs a 7,0 % ze základu přesahujícího 5 000 000 Kčs, |
+| 7 000 000 | 10 000 000 | 410 000 Kčs a 8,0 % ze základu přesahujícího 7 000 000 Kčs, |
+| 10 000 000 | 20 000 000 | 650 000 Kčs a 10,0 % ze základu přesahujícího 10 000 000 Kčs, |
+| 20 000 000 | 30 000 000 | 1 650 000 Kčs a 13,0 % ze základu přesahujícího 20 000 000 Kčs, |
+| 30 000 000 | 40 000 000 | 2 950 000 Kčs a 16,0 % ze základu přesahujícího 30 000 000 Kčs, |
+| 40 000 000 | a více | 4 550 000 Kčs a 20,0 % ze základu přesahujícího 40 000 000 Kčs. |
+
+### § 16 — Věcná břemena, opětující se plnění
+
+(1) Je-li předmětem daně věcné břemeno, jehož obsahem je opětující se plnění, je základem daně součet všech opětujících se plnění. Jde-li o plnění na dobu neurčitou, na dobu života nebo na dobu delší než pět let, považuje se za jeho cenu pětinásobek ceny ročního plnění.
+
+(2) Nelze-li cenu předmětu věcného břemene určit, je základem daně cena 10 000 Kčs.
+
+(3) Jde-li o opětující se plnění zřízené jinak než věcným břemenem, použijí se odstavce 1 a 2.
+
+### § 17 — Minimální výše a zaokrouhlování daní
+
+(1) Minimální výše daně dědické, daně darovací a daně z převodu nemovitostí činí vždy 100 Kčs, a to bez ohledu na rozdělení osob do skupin pro účely výpočtu daně.
+
+(2) Při vyměřování daně se zaokrouhluje základ daně na celých 100 Kčs nahoru a vyměřená daň na celé Kčs nahoru.
+
+### § 18
+
+Daň dědická, daň darovací a daň z převodu nemovitostí je splatná do 30 dnů od právní moci rozhodnutí o vyměření daně.
+
+### Osvobození od daně dědické, daně darovací a daně z převodu nemovitostí
+
+#### § 19
+
+(1) Od daně dědické a daně darovací je za podmínek dále uvedených osvobozeno nabytí
+
+a) movitých věcí osobní potřeby u fyzických osob, které prokazatelně neslouží nabyvateli k podnikatelské nebo jiné výdělečné činnosti, pokud cena tohoto majetku nepřevyšuje u osob I. skupiny 500 000 Kčs, u osob II. skupiny 60 000 Kčs, u osob III. skupiny 20 000 Kčs u každého jednotlivého poplatníka. Daň se vybere jen z té části ceny movitých věcí nebo podílu na těchto věcech nabývaných každým nabyvatelem, která převyšuje uvedené částky,
+
+b) vkladů na účtech u bank a poboček zahraničních bank působících na území České a Slovenské Federativní Republiky, s výjimkou vkladů na běžných účtech, hotovosti v československé nebo zahraniční měně a cenných papírů v tuzemsku, pokud úhrnná částka všech těchto hodnot uvedených pod písmenem b) nepřevyšuje u osob I. skupiny 500 000 Kčs, u osob II. skupiny 60 000 Kčs a u osob III. skupiny 20 000 Kčs u každého jednotlivého poplatníka. Daň se vybere jen z té části tohoto movitého majetku nebo jeho podílu nabývaného každým nabyvatelem, která převyšuje uvedené částky.
+
+(2) U jednoho poplatníka se podmínky pro osvobození uvedené v písmenu a) a v písmenu b) posuzují samostatně.
+
+(3) Od daně dědické a daně darovací jsou dále osvobozena nabytí movitého majetku, pokud zůstavitel nebo dárce byl zástupcem cizího státu pověřeným v České a Slovenské Federativní Republice, příslušníkem jeho rodiny žijícím s ním ve společné domácnosti, jakož i jinou osobou, jíž příslušely diplomatické výsady a imunity, a která nebyla československým státním občanem, je-li zaručena vzájemnost.
+
+(4) Osvobození od daně dědické uvedené v odstavci 1 písm. a) a b) se poskytne jen za předpokladu, že poplatník tyto věci a hodnoty řádně uvede v daňovém přiznání.
+
+#### § 20
+
+(1) Od daně dědické, daně darovací a daně z převodu nemovitostí jsou osvobozeny Česká a Slovenská Federativní Republika, Česká republika a Slovenská republika, rozpočtové organizace, příspěvkové organizace a státní fondy, jakož i převody nebo přechody nemovitostí na tyto subjekty.
+
+(2) Od daně z převodu nemovitostí jsou osvobozeny převody i přechody vlastnictví k nemovitostem při likvidaci státních podniků<sup>3</sup>) a převody a přechody nemovitostí v souvislosti s rozdělováním a slučováním obcí nebo se změnami jejich území podle zvláštních předpisů.<sup>4</sup>)
+
+(3) Od daně dědické a daně darovací jsou osvobozena bezúplatná nabytí majetku právnickými osobami určená na rozvoj nadací, církví, náboženských společností, kultury, školství, vědy, zdravotnictví, sociální péče, ekologie, tělovýchovy a sportu, jakož i bezúplatná nabytí majetku obcemi a státními archivy.
+
+(4) Daň dědická, daň darovací a daň z převodu nemovitostí se nevybírá z převodů, které souvisejí s vydáním věci podle zvláštních předpisů.<sup>5</sup>)
+
+(5) Od daně dědické je osvobozen nárok zůstavitele na odškodnění podle zvláštních zákonů,<sup>6</sup>) jestliže zůstavitel podal žádost o předběžné projednání podle zákona č. 119/1990 Sb., o soudní rehabilitaci, ve znění pozdějších předpisů, nebo obdobnou žádost podle ostatních zvláštních předpisů, jestliže do smrti zůstavitele nárok nebyl ústředním orgánem uspokojen. Toto osvobození se vztahuje též na případy, kdy zůstavitel nárok včas uplatnil u soudu, do smrti zůstavitele však nebylo soudem o něm pravomocně rozhodnuto.
+
+(6) Od daně z převodu nemovitostí a od daně darovací jsou osvobozeny převody majetku z Federálního fondu národního majetku, Fondu národního majetku České republiky a Pozemkového fondu České republiky na nabyvatele, pokud souvisejí s realizací privatizačních projektů.<sup>7</sup>)
+
+(7) Od daně z převodu nemovitostí a od daně darovací jsou osvobozeny vklady společníků do obchodních společností podle zvláštního zákona.<sup>8</sup>)
+
+#### § 21 — Daňové přiznání
+
+(1) Poplatník je povinen do 30 dnů ode dne pravomocně skončeného řízení o dědictví, ode dne zápisu do katastru nemovitostí, uzavření darovací smlouvy ohledně movité věci, poskytnutí daru movité věci do ciziny nebo přijetí daru movité věci, podat u místně příslušného správce daně přiznání k dani dědické, dani darovací nebo dani z převodu nemovitostí. Jde-li o movité věci, které byly dovezeny z ciziny a byly pořízeny z prostředků darovaných v cizině, poplatník je povinen podat přiznání do 30 dnů ode dne návratu z ciziny. Součástí daňového přiznání je též ověřený opis smlouvy, jde-li o úplatný nebo bezúplatný převod nemovitosti.
+
+(2) Přiznání k dani darovací nepodléhají dary, které jsou od této daně osvobozeny.
+
+(3) Příslušný orgán, u něhož se vede řízení o dědictví, zašle opis rozhodnutí o nabytí dědictví do 30 dnů po pravomocně skončeném řízení místně příslušnému správci daně podle bydliště, popřípadě sídla poplatníka daně. Obdobně postupují i jiné příslušné orgány, jde-li o zápisy pro účely evidence nemovitostí nebo o dary movitých věcí z ciziny.
+
+#### § 22 — Cena nemovitosti platná pro účely tohoto zákona
+
+Cenou zjištěnou podle zvláštního předpisu (§ 4 odst. 2, § 7 odst. 2 a § 10) se rozumí cena zjištěná podle vyhlášky ministerstva financí České republiky č. 393/1991 Sb., o cenách staveb, pozemků, trvalých porostů, úhradách za zřízení práva osobního užívání pozemků a náhradách za dočasné užívání pozemků, ve znění této vyhlášky ke dni 1. listopadu 1991.
+
+## ČÁST TŘETÍ — USTANOVENÍ PŘECHODNÁ A ZÁVĚREČNÁ
+
+### § 23
+
+Po dobu dvou let od účinnosti tohoto zákona se u prvních převodů a darování movitých a nemovitých věcí, vydaných podle zvláštních předpisů,<sup>6</sup>) mezi oprávněnými osobami navzájem a mezi oprávněnými osobami a osobami třetími, vyměří daň darovací a daň z převodu nemovitostí ve výši odpovídající sazbám poplatků podle předpisů platných ke dni 31. prosince 1992, je-li to pro poplatníka výhodnější.
+
+### § 24
+
+(1) Pokud nastala před účinností tohoto zákona skutečnost, která byla podle dřívějších předpisů předmětem poplatku (daně) z dědictví, z darování a z převodu nebo přechodu nemovitostí, postupuje se podle dřívějších předpisů.
+
+(2) Nastala-li před účinností tohoto zákona skutečnost, která byla předmětem poplatku podle dosavadních předpisů, ale poplatek nebyl ještě vyměřen a zaplacen, příslušné územní finanční orgány dokončí zahájené řízení o vyměření notářských poplatků uvedených v odstavci 1, které nebylo v den účinnosti tohoto zákona pravomocně skončeno.
+
+### § 25
+
+(1) Ministerstvo financí České republiky může obecně závazným právním předpisem poskytnout daňové osvobození nebo jinou úlevu pro určité druhy majetku nebo i určitým skupinám osob.
+
+(2) Ministerstvo financí České republiky může po projednání s federálním ministerstvem financí ve vztahu k cizině podle potřeby stanovit odchylky od zákona k zabránění dvojímu zdanění, k zachování vzájemně stejného postupu s cizinou nebo k provádění opatření nutných s ohledem na postup cizích orgánů.
+
+### § 26
+
+(1) Zrušují se
+
+1. Zákon České národní rady č. 146/1984 Sb., o notářských poplatcích, ve znění zákona České národní rady č. 201/1990 Sb., kterým se mění a doplňuje zákon České národní rady č. 146/1984 Sb., o notářských poplatcích.
+
+2. Vyhláška ministerstva financí České socialistické republiky č. 150/1984 Sb., kterou se provádí zákon České národní rady o notářských poplatcích, ve znění vyhlášky ministerstva financí, cen a mezd České republiky č. 237/1990 Sb., kterou se mění a doplňuje vyhláška ministerstva financí České socialistické republiky č. 150/1984 Sb., a vyhlášky ministerstva financí České republiky č. 153/1992 Sb.
+
+3. Výnos ministerstva financí, cen a mezd České socialistické republiky o opatření k odstranění tvrdosti při vyměřování notářských poplatků č.j. 153/14779/1988 ze dne 15. srpna 1988 (reg. v částce 29/1988 Sb.).
+
+4. Výnos ministerstva financí, cen a mezd České socialistické republiky o osvobození osobních počítačů a mikropočítačů od notářského poplatku z darování č.j. 153/17283/1989 ze dne 28. září 1989 (reg. v částce 30/1989 Sb.).
+
+5. Výnos ministerstva financí, cen a mezd České socialistické republiky o osvobození od notářských poplatků za úkony č. j. 153/17282/1989 ze dne 28. září 1989 (reg. v částce 34/1989 Sb.).
+
+6. Opatření ministerstva financí České republiky o úlevách u notářských poplatků ze dne 19. října 1990 (vyhlášeno v částce 73/1990 Sb.).
+
+7. Opatření ministerstva financí České republiky o úlevě u notářských poplatků z dědictví - odškodnění podle zákona o soudní rehabilitaci ze dne 5. března 1991 (vyhlášeno v částce 24/1991 Sb.).
+
+8. Opatření ministerstva financí České republiky o úlevách u notářských poplatků souvisejících s vydáním věci podle zákona č. 87/1991 Sb., o mimosoudních rehabilitacích, ze dne 30. dubna 1991 (vyhlášeno v částce 47/1991 Sb.).
+
+(2) Dnem nabytí účinnosti tohoto zákona se nepoužijí
+
+1. Výnos ministerstva financí České socialistické republiky k provedení zákona č. 146/1984 Sb., o notářských poplatcích, č. j. 153/1690/1985 ze dne 7. února 1985.
+
+2. Výnos ministerstva financí České socialistické republiky o úlevách u notářských poplatků č. j. 153/2350/1985 ze dne 7. února 1985.
+
+3. Výnos ministerstva financí České socialistické republiky o odvodu notářských a soudních poplatků do státního rozpočtu České socialistické republiky č. j. 153/20783/1986 ze dne 28. listopadu 1986.
+
+4. Opatření ministerstva financí České socialistické republiky o osvobození členů Českého svazu protifašistických bojovníků od soudních a notářských poplatků č. j. 153/8399/1987 ze dne 12. června 1987.
+
+### § 27
+
+Tento zákon nabývá účinnosti dnem 1. ledna 1993.
+
+Burešová v. r.
+
+Pithart v. r.
+
+## Poznámky pod čiarou
+
+1) Vyhláška ministerstva financí České republiky č. 393/1991 Sb., o cenách staveb, pozemků, trvalých porostů, úhradách za zřízení práva osobního užívání pozemků a náhradách za dočasné užívání pozemků, ve znění vyhlášky ministerstva financí České republiky č. 110/1992 Sb.
+
+2) § 842 občanského zákoníku.
+
+3) § 761 zákona č. 513/1991 Sb., obchodní zákoník.
+
+§ 47b zákona č. 92/1991 Sb., o podmínkách převodu majetku státu na jiné osoby, ve znění pozdějších předpisů.
+
+4) Zákon ČNR č. 172/1991 Sb., o přechodu některých věcí z majetku České republiky do vlastnictví obcí, ve znění pozdějších předpisů.
+
+Zákon ČNR č. 367/1990 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů.
+
+5) Např. zákon č. 403/1990 Sb., o zmírnění následků některých majetkových křivd, ve znění pozdějších předpisů, zákon č. 87/1991 Sb., o mimosoudních rehabilitacích, zákon č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění pozdějších předpisů, zákon č. 42/1992 Sb., o úpravě majetkových vztahů a vypořádání majetkových nároků v družstvech.
+
+6) Např. zákon č. 58/1969 Sb., o odpovědnosti za škodu způsobenou rozhodnutím orgánu státu nebo jeho nesprávným úředním postupem, zákon č. 119/1990 Sb., o soudní rehabilitaci, ve znění pozdějších předpisů, zákon č. 87/1991 Sb., o mimosoudních rehabilitacích, zákon č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění pozdějších předpisů.
+
+7) Zákon č. 92/1991 Sb., o podmínkách převodu majetku státu na jiné osoby, ve znění pozdějších předpisů.
+
+Zákon ČNR č. 171/1991 Sb., o působnosti orgánů České republiky ve věcech převodů majetku státu na jiné osoby a o Fondu národního majetku České republiky, ve znění pozdějších předpisů.
+
+Zákon ČNR č. 569/1991 Sb., o Pozemkovém fondu České republiky.
+
+8) Část druhá zákona č. 513/1991 Sb., obchodní zákoník.

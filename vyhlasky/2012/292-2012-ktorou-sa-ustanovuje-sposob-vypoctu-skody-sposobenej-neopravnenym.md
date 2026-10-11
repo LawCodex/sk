@@ -1,0 +1,72 @@
+---
+title: "Vyhláška Ministerstva hospodárstva Slovenskej republiky, ktorou sa ustanovuje spôsob výpočtu škody spôsobenej neoprávneným odberom elektriny"
+identifier: "292/2012 Z. z."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2012/292/"
+type: decree
+jurisdiction: sk
+language: sk
+date: 2012-09-27
+last_amended: 2012-10-01
+status: in_force
+consolidated_version: "/SK/ZZ/2012/292/20121001"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2012/292/20121001"
+retrieved: 2026-10-12
+---
+
+# Vyhláška Ministerstva hospodárstva Slovenskej republiky, ktorou sa ustanovuje spôsob výpočtu škody spôsobenej neoprávneným odberom elektriny
+
+**292**
+
+**VYHLÁŠKA**
+
+**Ministerstva hospodárstva Slovenskej republiky**
+
+**z 24. augusta 2012,**
+
+**ktorou sa ustanovuje spôsob výpočtu škody spôsobenej neoprávneným odberom elektriny**
+
+Ministerstvo hospodárstva Slovenskej republiky podľa § 95 ods. 1 písm. i) zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov ustanovuje:
+
+## § 1
+
+(1) Škoda spôsobená neoprávneným odberom elektriny sa vypočíta vynásobením celkovej spotreby elektriny počas trvania neoprávneného odberu elektriny určenej podľa odseku 4 cenou neoprávnene odobratej elektriny podľa odseku 2.
+
+(2) Cena neoprávnene odobratej elektriny sa vypočíta ako súčet týchto hodnôt:
+
+a) jedenapolnásobku ceny elektriny na straty určenej ako aritmetický priemer cien elektriny na účely pokrytia strát všetkých prevádzkovateľov regionálnych distribučných sústav bez nákladov na odchýlku, platnej počas trvania neoprávneného odberu elektriny; jedenapolnásobkom ceny elektriny na straty sa rozumejú tie ceny, ktoré sú platné pre obdobie neoprávneného odberu elektriny,
+
+b) najvyššej hodnoty variabilnej zložky tarify za distribúciu elektriny schválenej Úradom pre reguláciu sieťových odvetví (ďalej len „úrad“) pre príslušného prevádzkovateľa sústavy cenovým rozhodnutím platnej počas trvania neoprávneného odberu elektriny pre napäťovú úroveň, z ktorej došlo k neoprávnenému odberu elektriny; v prípade neoprávneného odberu elektriny odberateľom elektriny v domácnosti sa použije hodnota variabilnej zložky tarify za distribúciu elektriny pre odberateľov elektriny v domácnosti; najvyššou hodnotou variabilnej zložky tarify za distribúciu elektriny sa rozumie hodnota tarify za odobratú elektrinu platná pre obdobie neoprávneného odberu elektriny,
+
+c) ostatných taríf, poplatkov a odvodov určených úradom príslušnému prevádzkovateľovi sústavy cenovým rozhodnutím platných počas trvania neoprávneného odberu elektriny vrátane odvodu do jadrového fondu podľa osobitného predpisu.<sup>1</sup>)
+
+(3) Ak odberateľ nemá uzatvorenú zmluvu o združenej dodávke elektriny alebo zmluvu o distribúcii a prístupe do distribučnej sústavy, ku škode určenej podľa odseku 1 sa pripočíta škoda, ktorá sa určí ako súčin výkonu určeného podľa odseku 5 alebo podľa menovitej hodnoty hlavného ističa alebo praktickej zaťažiteľnosti elektrického vodiča podľa odseku 6 a najvyššej hodnoty tarify za výkon schválenej úradom pre príslušného prevádzkovateľa sústavy cenovým rozhodnutím platnej v čase neoprávneného odberu pre napäťovú úroveň, z ktorej došlo k neoprávnenému odberu elektriny.
+
+(4) Celková spotreba elektriny počas trvania neoprávneného odberu elektriny sa vypočíta vynásobením dennej spotreby neoprávnene odobratej elektriny<sup>2</sup>) (ďalej len „denná spotreba“) zistenej podľa odsekov 5 a 6 počtom dní, počas ktorých neoprávnený odber elektriny trval. Ak nemožno zistiť čas trvania neoprávneného odberu elektriny, predpokladá sa, že neoprávnený odber elektriny trval odo dňa nasledujúceho po vykonaní kontroly odberného elektrického zariadenia alebo od výmeny, alebo odobratia určeného meradla prevádzkovateľom sústavy, najdlhšie za obdobie posledných 183 dní.
+
+(5) Denná spotreba pri neoprávnenom odbere elektriny, ak odberné elektrické zariadenie je pripojené na prenosovú sústavu alebo distribučnú sústavu s napätím medzi fázami nad 52 kV, a pri neoprávnenom odbere elektriny, ak odberné elektrické zariadenie je pripojené na distribučnú sústavu s napätím medzi fázami od 1 kV do 52 kV, sa vypočíta tak, že
+
+a) menovité výkony všetkých transformátorov odberateľa určených na priamy odber elektriny sa vynásobia dobou využitia počas 16 hodín denne, ak nebola zistená dlhšia doba využitia,
+
+b) na výpočet sa použije hodnota účinníka rovnajúca sa jednej,
+
+c) za odber elektrického výkonu sa považuje rezervovaný výkon; ak výkon nebol dohodnutý, považuje sa za rezervovaný výkon súčet menovitých výkonov všetkých transformátorov.
+
+(6) Denná spotreba pri neoprávnenom odbere elektriny, ak odberné elektrické zariadenie je pripojené na distribučnú sústavu s napätím medzi fázami do 1 kV, sa vypočíta tak, že ak
+
+a) je pred bodom pripojenia neoprávneného odberu elektriny hlavný istič, na výpočet sa použije menovitá hodnota hlavného ističa pred bodom pripojenia neoprávneného odberu a časové využitie 12 hodín za deň, ak nebola zistená denná doba využitia dlhšia; pri výpočte škody spôsobenej neoprávneným odberom podľa istiaceho prvku sa zohľadňuje, či je neoprávnený odber uskutočňovaný z jednej alebo z viacerých fáz,
+
+b) nie je pred bodom pripojenia neoprávneného odberu elektriny hlavný istič, vychádza sa z praktickej zaťažiteľnosti všetkých elektrických vodičov, prostredníctvom ktorých je uskutočňovaný neoprávnený odber elektriny, alebo z menovitého príkonu pripojených spotrebičov zistených v čase zistenia neoprávneného odberu alebo z prevádzkovateľom sústavy nameraných a zdokumentovaných hodnôt prúdu na neoprávnene pripojených elektrických vodičoch a časového využitia 12 hodín za deň, ak nebola zistená denná doba využitia dlhšia.
+
+(7) K škode vypočítanej podľa odseku 1 sa pripočítajú nevyhnutné náklady prevádzkovateľa sústavy spojené so zisťovaním a s odstránením neoprávneného odberu elektriny.
+
+## § 2
+
+Táto vyhláška nadobúda účinnosť 1. októbra 2012.
+
+Tomáš Malatinský v. r.
+
+## Poznámky pod čiarou
+
+1) § 7 ods. 1 písm. b) zákona č. 238/2006 Z. z. o Národnom jadrovom fonde na vyraďovanie jadrových zariadení a na nakladanie s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi (zákon o jadrovom fonde) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+2) § 46 ods. 1 zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov.

@@ -1,0 +1,40 @@
+---
+title: "Ústavní zákon České národní rady, kterým se zřizuje Nejvyšší kontrolní úřad České republiky"
+identifier: "481/1991 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1991/481/"
+type: constitutional_act
+jurisdiction: sk
+language: sk
+date: 1991-11-29
+last_amended: 1992-01-01
+status: in_force
+consolidated_version: "/SK/ZZ/1991/481/19920101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1991/481/19920101"
+retrieved: 2026-10-12
+---
+
+# Ústavní zákon České národní rady, kterým se zřizuje Nejvyšší kontrolní úřad České republiky
+
+**481**
+
+**ÚSTAVNÍ ZÁKON**
+
+**České národní rady**
+
+**ze dne 7. listopadu 1991,**
+
+**kterým se zřizuje Nejvyšší kontrolní úřad České republiky**
+
+Česká národní rada se usnesla na tomto ústavním zákoně:
+
+## Čl. I
+
+Zřizuje se Nejvyšší kontrolní úřad České republiky jako kontrolní orgán, nezávislý na vládě, jejích orgánech a ústředních orgánech státní správy. Podrobnosti stanoví zákon.
+
+## Čl. II
+
+Tento ústavní zákon nabývá účinnosti dnem 1. ledna 1992.
+
+Burešová v. r.
+
+Pithart v. r.

@@ -1,0 +1,48 @@
+---
+title: "Vyhláška Českého úřadu bezpečnosti práce, kterou se mění a doplňuje vyhláška Českého úřadu bezpečnosti práce č. 56/1981 Sb., o zajištění bezpečnosti práce a technických zařízení ve vnitrostátní plavbě"
+identifier: "379/1991 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1991/379/"
+type: decree
+jurisdiction: sk
+language: cs
+date: 1991-09-23
+last_amended: 1991-09-23
+status: in_force
+consolidated_version: "/SK/ZZ/1991/379/19910923"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1991/379/19910923"
+retrieved: 2026-10-12
+---
+
+# Vyhláška Českého úřadu bezpečnosti práce, kterou se mění a doplňuje vyhláška Českého úřadu bezpečnosti práce č. 56/1981 Sb., o zajištění bezpečnosti práce a technických zařízení ve vnitrostátní plavbě
+
+**379**
+
+**VYHLÁŠKA**
+
+**Českého úřadu bezpečnosti práce**
+
+**ze dne 30. srpna 1991,**
+
+**kterou se mění a doplňuje vyhláška Českého úřadu bezpečnosti práce č. 56/1981 Sb., o zajištění bezpečnosti práce a technických zařízení ve vnitrozemské plavbě**
+
+Český úřad bezpečnosti práce stanoví podle § 5 odst. 1 písm. d) zákona č. 174/1968 Sb., o státním odborném dozoru nad bezpečností práce, v dohodě s příslušnými ústředními orgány:
+
+## Čl. I
+
+Vyhláška Českého úřadu bezpečnosti práce č. 56/1981 Sb., o zajištění bezpečnosti práce a technických zařízení ve vnitrozemské plavbě, se mění a doplňuje takto:
+
+§ 1 odst. 1 zní:
+
+> „(1) Vyhláška stanoví povinnosti právnických a fyzických osob (dále jen „organizace“)<sup>4</sup>) a jejich pracovníků při provozu, údržbě a opravách plavidel, při nakládce, vykládce a při jiných pracích souvisejících s jejich provozem.“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem vyhlášení.
+
+Předseda:
+
+Ing. Gerner v. r.
+
+## Poznámky pod čiarou
+
+4) Např. § 3 zákona č. 174/1968 Sb., o státním odborném dozoru nad bezpečností práce, zákon č. 105/1990 Sb., o soukromém podnikání občanů, ve znění zákona č. 219/1991 Sb., zákon č. 111/1990 Sb., o státním podniku.

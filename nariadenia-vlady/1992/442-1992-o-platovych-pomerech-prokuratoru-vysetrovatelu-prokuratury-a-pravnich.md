@@ -1,0 +1,58 @@
+---
+title: "Nařízení vlády České republiky, kterým se mění a doplňuje nařízení vlády České republiky č. 254/1992 Sb., o platových poměrech prokurátorů, vyšetřovatelů prokuratury a právních čekatelů prokuratury"
+identifier: "442/1992 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1992/442/"
+type: government_regulation
+jurisdiction: sk
+language: cs
+date: 1992-09-18
+last_amended: 1992-09-18
+status: in_force
+consolidated_version: "/SK/ZZ/1992/442/19920918"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1992/442/19920918"
+retrieved: 2026-10-12
+---
+
+# Nařízení vlády České republiky, kterým se mění a doplňuje nařízení vlády České republiky č. 254/1992 Sb., o platových poměrech prokurátorů, vyšetřovatelů prokuratury a právních čekatelů prokuratury
+
+**442**
+
+**NAŘÍZENÍ VLÁDY**
+
+**České republiky**
+
+**ze dne 29. června 1992,**
+
+**kterým se mění a doplňuje nařízení vlády České republiky č. 254/1992 Sb., o platových poměrech prokurátorů, vyšetřovatelů prokuratury a právních čekatelů prokuratury**
+
+Vláda České republiky nařizuje podle § 23 odst. 1 písm. a) zákona č. 143/1992 Sb., o platu a odměně za pracovní pohotovost v rozpočtových a v některých dalších organizacích a orgánech:
+
+## Čl. I
+
+Nařízení vlády České republiky č. 254/1992 Sb., o platových poměrech prokurátorů, vyšetřovatelů prokuratury a právních čekatelů prokuratury, se mění a doplňuje takto:
+
+1. § 3 odst. 1 písm. d) zní:
+
+> „d) výkonu vojenské základní (náhradní) a další služby a civilní služby,<sup>7</sup>)“.
+
+2. § 3 odst. 1 se doplňuje ustanovením písmene e), které zní:
+
+> „e) mateřské a další mateřské dovolené,<sup>8</sup>) nejvýše však v rozsahu šesti let.“.
+
+## Čl. II
+
+Do doby započitatelné praxe se započítávají ke dni 1. května 1992 všechny doby započítané podle předpisů platných před tímto dnem.
+
+## Čl. III
+
+Toto nařízení nabývá účinnosti dnem vyhlášení.
+
+Doc. Ing. Klaus CSc. v. r.
+
+## Poznámky pod čiarou
+
+7) Branný zákon č. 92/1949 Sb. (úplné znění č. 331/1992 Sb.)
+
+Zákon č. 73/1990 Sb., o civilní službě, ve znění zákona č. 18/1992 Sb.
+
+8) § 157 zákonníku práce.

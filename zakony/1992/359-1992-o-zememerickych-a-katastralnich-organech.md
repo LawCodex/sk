@@ -1,0 +1,212 @@
+---
+title: "Zákon České národní rady o zeměměřických a katastrálních orgánech"
+identifier: "359/1992 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1992/359/"
+type: act
+jurisdiction: sk
+language: cs
+date: 1992-07-07
+last_amended: 1993-01-01
+status: in_force
+consolidated_version: "/SK/ZZ/1992/359/19930101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1992/359/19930101"
+retrieved: 2026-10-12
+---
+
+# Zákon České národní rady o zeměměřických a katastrálních orgánech
+
+**359**
+
+**ZÁKON**
+
+**České národní rady**
+
+**ze dne 7. května 1992**
+
+**o zeměměřických a katastrálních orgánech**
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## ČÁST PRVNÍ — ZEMĚMĚŘICKÉ A KATASTRÁLNÍ ORGÁNY A JEJICH PŮSOBNOST
+
+### § 1
+
+(1) Zřizuje se Český úřad zeměměřický a katastrální (dále jen „Úřad“), jako ústřední orgán státní správy geodézie a kartografie (dále jen „zeměměřictví“) a katastru nemovitostí České republiky se sídlem v Praze.
+
+(2) V čele Úřadu je předseda, kterého jmenuje a odvolává vláda České republiky.
+
+### § 2
+
+(1) Zřizují se zeměměřické a katastrální inspektoráty (dále jen „inspektoráty“) a katastrální úřady jako územní orgány státní správy zeměměřictví a katastru nemovitostí České republiky.
+
+(2) Inspektoráty a katastrální úřady řídí ředitelé jmenovaní a odvolávaní předsedou Úřadu.
+
+(3) Sídla inspektorátů a katastrálních úřadů a jejich územní působnost stanoví Úřad obecně závazným právním předpisem.
+
+### § 3
+
+Úřad
+
+a) zabezpečuje jednotné provádění těchto činností
+
+1. správy katastru nemovitostí České republiky,<sup>1</sup>)
+
+2. budování a údržby geodetických základů a podrobných bodových polí,
+
+3. tvorby, obnovy a vydávání základních a tématických státních mapových děl a jiných publikací,
+
+4. standardizace jmen nesídelních geografických objektů z území České republiky a jmen sídelních a nesídelních geografických objektů z území mimo Českou a Slovenskou Federativní Republiku,
+
+5. vytváření a vedení automatizovaného informačního systému zeměměřictví a katastru nemovitostí České republiky,
+
+6. dokumentace výsledků zeměměřických činností,
+
+7. vedení Ústředního archivu zeměměřictví a katastru, který je archivem zvláštního významu,<sup>2</sup>)
+
+b) koordinuje výzkum v zeměměřictví a katastru nemovitostí České republiky a systém vědeckotechnických informací pro tyto oblasti,
+
+c) zajišťuje a koordinuje mezinárodní spolupráci v zeměměřictví a katastru nemovitostí České republiky,
+
+d) řídí inspektoráty a katastrální úřady, není-li v tomto zákoně stanoveno jinak,
+
+e) zřizuje, řídí a zrušuje rozpočtové a příspěvkové organizace<sup>3</sup>) k zabezpečení odborných technických činností v zeměměřictví a katastru nemovitostí České republiky,<sup>4</sup>)
+
+f) uděluje souhlas k provádění zeměměřických činností,<sup>5</sup>)
+
+g) schvaluje standardizovaná jména geografických objektů a názvy katastrálních území,
+
+h) rozhoduje o odvoláních proti rozhodnutím inspektorátů,
+
+i) plní další úkoly na úseku zeměměřictví podle zvláštního předpisu<sup>6</sup>) a provádí další činnosti potřebné pro rozvoj zeměměřictví a katastru nemovitostí České republiky.
+
+### § 4
+
+Inspektoráty
+
+a) kontrolují výkon státní správy katastru nemovitostí České republiky katastrálními úřady,
+
+b) dohlížejí na zeměměřické činnosti prováděné fyzickými a právnickými osobami, jejichž výsledky jsou využívány pro katastr nemovitostí České republiky a státní mapové dílo,
+
+c) předkládají Úřadu návrhy na opatření k odstranění nedostatků zjištěných při kontrole a dohledu podle písmen a) a b),
+
+d) rozhodují o odvoláních proti rozhodnutím katastrálních úřadů,<sup>7</sup>)
+
+e) udělují souhlas k provádění zeměměřických činností,<sup>8</sup>)
+
+f) projednávají porušení pořádku na úseku zeměměřictví podle § 7 až 10,
+
+g) plní další úkoly na úseku zeměměřictví podle zvláštního předpisu<sup>9</sup>) a úkoly na úseku zeměměřictví, kterými je pověří Úřad.
+
+### § 5
+
+Katastrální úřady
+
+a) vykonávají státní správu katastru nemovitostí České republiky,<sup>1</sup>)
+
+b) projednávají porušení pořádku na úseku katastru nemovitostí České republiky podle zvláštního zákona,<sup>10</sup>)
+
+c) schvalují změny pomístního názvosloví a zabezpečují činnosti spojené se standardizací geografického názvosloví,
+
+d) schvalují změny hranic katastrálních území,
+
+e) plní další úkoly na úseku zeměměřictví a katastru nemovitostí České republiky, kterými je pověří Úřad.
+
+### § 6
+
+Obecné předpisy o správním řízení<sup>11</sup>) se vztahují na rozhodování Úřadu, inspektorátů a katastrálních úřadů ve věcech podle § 3 písm. f) a h), § 4 písm. d) a f) a § 5 písm. a), b) a d) tohoto zákona.
+
+## ČÁST DRUHÁ — PORUŠENÍ POŘÁDKU NA ÚSEKU ZEMĚMĚŘICTVÍ
+
+### § 7
+
+Porušení pořádku na úseku zeměměřictví se dopustí ten, kdo:
+
+a) neoprávněně ohrozí nebo ztíží provádění zeměměřických prací,
+
+b) zničí, poškodí nebo neoprávněně přemístí měřickou značku, signál nebo jiné zařízení geodetických bodů,
+
+c) neoprávněně provádí zeměměřické činnosti nebo nedodržuje podmínky stanovené v uděleném souhlasu,
+
+d) neoprávněně využívá nebo rozšiřuje výsledky zeměměřických činností provedených ve státním zájmu.
+
+### § 8
+
+Porušení pořádku na úseku zeměměřictví podle § 7 fyzickou osobou je přestupkem, za který může inspektorát uložit pokutu až do výše pětinásobku minimální mzdy.<sup>12</sup>)
+
+### § 9
+
+(1) Za porušení pořádku na úseku zeměměřictví podle § 7, kterého se dopustí fyzická osoba při výkonu své podnikatelské činnosti nebo právnická osoba, může inspektorát uložit pokutu až do výše padesátinásobku minimální mzdy.<sup>12</sup>)
+
+(2) Při stanovení výše pokuty podle odstavce 1 přihlédne inspektorát k závažnosti protiprávního jednání, zejména k jeho rozsahu, délce trvání a k okolnostem, za nichž k němu došlo.
+
+(3) Pokutu podle odstavce 1 lze uložit do jednoho roku ode dne, kdy se inspektorát o porušení pořádku na úseku zeměměřictví dozvěděl, nejpozději však do tří let ode dne, kdy k porušení pořádku došlo.
+
+(4) Pokuta podle odstavce 1 je splatná do 30 dnů ode dne nabytí právní moci rozhodnutí, jímž byla uložena, a je příjmem státního rozpočtu České republiky.
+
+### § 10
+
+Není-li v tomto zákoně stanoveno jinak, platí pro projednávání přestupků na úseku zeměměřictví podle § 7 a pro projednávání porušení pořádku na úseku zeměměřictví podle § 8 obecné předpisy.<sup>13</sup>)
+
+## ČÁST TŘETÍ — ZMĚNA ZÁKONA ČESKÉ NÁRODNÍ RADY č. 2/1969 Sb., O ZŘÍZENÍ MINISTERSTEV A JINÝCH ÚSTŘEDNÍCH ORGÁNŮ STÁTNÍ SPRÁVY ČESKÉ REPUBLIKY, VE ZNĚNÍ POZDĚJŠÍCH PŘEDPISŮ
+
+### § 11
+
+Zákon České národní rady č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky, ve znění pozdějších předpisů, se mění takto:
+
+§ 2 odst. 1 bod 2. zní:
+
+> „2. Český úřad zeměměřický a katastrální,“.
+
+## ČÁST ČTVRTÁ — ZÁVĚREČNÁ USTANOVENÍ
+
+### § 12
+
+Práva a povinnosti z pracovněprávních a jiných vztahů přecházejí dnem účinnosti tohoto zákona z Českého úřadu geodetického a kartografického na Český úřad zeměměřický a katastrální.
+
+### § 13
+
+Zrušují se:
+
+1. Zákon České národní rady č. 36/1973 Sb., o orgánech geodézie a kartografie.
+
+2. Ustanovení § 37 odst. 1 písm. a) a b) a odst. 2 zákona České národní rady č. 200/1990 Sb., o přestupcích.
+
+### § 14
+
+Tento zákon nabývá účinnosti dnem 1. ledna 1993.
+
+Burešová v. r.
+
+Pithart v. r.
+
+## Poznámky pod čiarou
+
+1) Zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem.
+
+Zákon ČNR č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon).
+
+2) Zákon ČNR č. 97/1974 Sb., o archivnictví, ve znění pozdějších předpisů.
+
+3) Zákon ČNR č. 576/1990 Sb., o pravidlech hospodaření s rozpočtovými prostředky České republiky a obcí v České republice (rozpočtová pravidla republiky), ve znění pozdějších předpisů.
+
+4) § 3 zákona č. 46/1971 Sb., o geodézii a kartografii.
+
+5) § 4 zákona č. 46/1971 Sb.
+
+6) Např. § 10 odst. 1 až 3 zákona č. 46/1971 Sb.
+
+7) § 8 odst. 4, § 16 odst. 4, § 24 a 25 zákona ČNR č. 344/1992 Sb.
+
+8) § 10 odst. 4 zákona č. 46/1971 Sb.
+
+9) § 7 odst. 2, § 9 odst. 1 a § 18 odst. 2 zákona č. 46/1971 Sb.
+
+10) Zákon ČNR č. 344/1992 Sb.
+
+11) Zákon č. 71/1967 Sb., o správním řízení (správní řád).
+
+12) Nařízení vlády ČSFR č. 53/1992 Sb., o minimální mzdě.
+
+13) Zákon ČNR č. 200/1990 Sb., o přestupcích.
+
+Zákon č. 71/1967 Sb.

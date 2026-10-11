@@ -1,0 +1,158 @@
+---
+title: "Zákon České národní rady o živnostenských úřadech"
+identifier: "570/1991 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1991/570/"
+type: act
+jurisdiction: sk
+language: cs
+date: 1991-12-31
+last_amended: 1992-01-01
+status: in_force
+consolidated_version: "/SK/ZZ/1991/570/19920101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1991/570/19920101"
+retrieved: 2026-10-12
+---
+
+# Zákon České národní rady o živnostenských úřadech
+
+**570**
+
+**ZÁKON**
+
+**České národní rady**
+
+**ze dne 17. prosince 1991**
+
+**o živnostenských úřadech**
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## § 1 — Živnostenské úřady
+
+Živnostenskými úřady jsou
+
+a) okresní živnostenské úřady, kterými jsou samostatné referáty okresních úřadů,<sup>1</sup>)
+
+b) obecní živnostenské úřady, kterými jsou samostatné odbory pověřených obecních úřadů,<sup>2</sup>)
+
+c) na území hlavního města Prahy samostatné živnostenské odbory pověřených úřadů městských částí,<sup>3</sup>)
+
+d) na území hlavního města Prahy samostatný živnostenský odbor Magistrátního úřadu hlavního města Prahy,<sup>4</sup>)
+
+e) Živnostenský úřad České republiky.
+
+## § 2 — Okresní živnostenský úřad
+
+(1) Okresní živnostenský úřad
+
+a) vykonává činnosti v rozsahu stanoveném zákonem č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), týkající se koncesovaných živností, živností ohlašovacích řemeslných a živností ohlašovacích vázaných,
+
+b) současně s vydáním koncesní listiny nebo živnostenského listu, jejich změnami, pozastavením provozování živnosti nebo zrušením živnostenského oprávnění<sup>5</sup>) zasílá opisy těchto rozhodnutí Živnostenskému úřadu České republiky, příslušnému finančnímu úřadu a dotčené obci,
+
+c) oznamuje bez zbytečného odkladu Živnostenskému úřadu České republiky, příslušnému finančnímu úřadu a dotčené obci zánik živnostenského oprávnění,<sup>6</sup>)
+
+d) je dotčeným orgánem státní správy v územním a stavebním řízení,<sup>7</sup>) týká-li se toto řízení koncesovaných živností, živností ohlašovacích řemeslných a živností ohlašovacích vázaných,
+
+e) ukládá pokuty za porušení povinností podle § 62, 63 a 65 živnostenského zákona,<sup>8</sup>)
+
+f) rozhoduje o odvolání proti rozhodnutí obecního živnostenského úřadu.
+
+(2) Okresní živnostenský úřad vede živnostenský rejstřík.<sup>9</sup>)
+
+## § 3 — Obecní živnostenský úřad
+
+Obecní živnostenský úřad
+
+a) vykonává činnosti v rozsahu stanoveném živnostenským zákonem, týkající se živností ohlašovacích volných,
+
+b) současně s vydáním živnostenského listu, jeho změnou, pozastavením provozování živnosti nebo zrušením živnostenského oprávnění<sup>10</sup>) zasílá opisy těchto rozhodnutí okresnímu živnostenskému úřadu, Živnostenskému úřadu České republiky, příslušnému finančnímu úřadu a dotčené obci,
+
+c) oznamuje bez zbytečného odkladu orgánům uvedeným v písmenu b) zánik živnostenského oprávnění,<sup>6</sup>)
+
+d) ukládá pokuty za porušení povinností podle § 61, § 65 odst. 1 písm. d) a e), § 65 odst. 2, 3 a 5 živnostenského zákona,<sup>8</sup>)
+
+e) je dotčeným orgánem státní správy v územním a stavebním řízení, týká-li se toto řízení živností volných.
+
+## § 4 — Živnostenské úřady hlavního města Prahy
+
+(1) Na území hlavního města Prahy vykonávají působnost okresních a obecních živnostenských úřadů, s výjimkou působnosti podle § 2 odst. 1 písm. f) a odst. 2, samostatné živnostenské odbory pověřených úřadů městských částí. Současně s vydáním živnostenského listu, jeho změnou, pozastavením provozování živnosti nebo zrušením živnostenského oprávnění<sup>10</sup>) zasílají opisy těchto rozhodnutí samostatnému živnostenskému odboru Magistrátního úřadu hlavního města Prahy, Živnostenskému úřadu České republiky a příslušnému finančnímu úřadu; týmž orgánům oznamují bez zbytečného odkladu zánik živnostenského oprávnění.<sup>6</sup>)
+
+(2) Samostatný živnostenský odbor Magistrátního úřadu hlavního města Prahy rozhoduje o odvolání proti rozhodnutím samostatných živnostenských odborů pověřených úřadů městských částí, koordinuje jejich činnost a vede živnostenský rejstřík.<sup>9</sup>)
+
+## § 5 — Živnostenský úřad České republiky
+
+(1) Živnostenský úřad České republiky
+
+a) vede ústřední evidenci všech podnikatelů, kterým byla vydána koncesní listina nebo živnostenský list,
+
+b) rozhoduje o odvolání proti rozhodnutí okresního živnostenského úřadu; u právnických osob tak činí po vyjádření ústředních orgánů, v jejichž působnosti jsou odvětví, ve kterých se provozuje příslušné živnostenské podnikání,
+
+c) spolupracuje na úseku živnostenského podnikání s příslušnými orgány státní správy, v jejichž působnosti jsou odvětví, ve kterých se provozuje živnostenské podnikání, s hospodářskými komorami, podnikatelskými svazy a sdruženími,
+
+d) je oprávněn vyžadovat od ústředních orgánů státní správy potřebná stanoviska a vyjádření.
+
+(2) Stanoviska a vyjádření podle odstavce 1 písm. b) a d) jsou příslušné orgány povinny sdělit Živnostenskému úřadu České republiky do 15 dnů.
+
+(3) Ustanovení odstavce 1 písm. b) až d) a odstavce 2 platí přiměřeně i pro činnost samostatného živnostenského odboru Magistrátního úřadu hlavního města Prahy podle § 4 odst. 2.
+
+## Společná, přechodná a závěrečná ustanovení
+
+### § 6
+
+(1) Pracovníci živnostenských úřadů jsou oprávněni
+
+a) v nezbytně nutném rozsahu vstupovat do cizích objektů užívaných pro živnostenské podnikání, pokud k tomu není třeba povolení podle zvláštních předpisů.<sup>11</sup>) Za škodu přitom způsobenou odpovídá stát; této odpovědnosti se nemůže zprostit,
+
+b) požadovat potřebné doklady, údaje a písemná nebo ústní vysvětlení týkající se předmětu jejich činnosti v rozsahu stanoveném živnostenským zákonem.
+
+(2) Pracovníci živnostenských úřadů jsou povinni
+
+a) zachovávat mlčenlivost o skutečnostech, o kterých se dozvěděli v souvislosti s výkonem své činnosti,
+
+b) před vstupem do cizího objektu informovat provozovatele.
+
+### § 7
+
+Do doby zřízení Živnostenského úřadu České republiky vykonává jeho působnost ministerstvo obchodu a cestovního ruchu České republiky.
+
+### § 8
+
+Zrušují se:
+
+1. zákon České národní rady č. 127/1990 Sb., o některých opatřeních souvisejících s vydáním zákona o soukromém podnikání;
+
+2. zákon České národní rady č. 127/1981 Sb., o vnitřním obchodě, ve znění zákona České národní rady č. 116/1988 Sb., kterým se mění a doplňuje zákon o vnitřním obchodě, zákona České národní rady č. 127/1990 Sb. a zákona České národní rady č. 200/1990 Sb.;
+
+3. vyhláška ministerstva obchodu ČSR č. 93/1982 Sb., kterou se provádějí některá ustanovení zákona České národní rady č. 127/1981 Sb., o vnitřním obchodě, ve znění vyhlášky ministerstva obchodu a cestovního ruchu ČSR č. 138/1988 Sb. a zákona České národní rady č. 127/1990 Sb.
+
+### § 9
+
+Tento zákon nabývá účinnosti dnem 1. ledna 1992.
+
+Burešová v. r.
+
+Pithart v. r.
+
+## Poznámky pod čiarou
+
+1) § 9 zákona České národní rady č. 425/1990 Sb., o okresních úřadech, úpravě jejich působnosti a o některých dalších opatřeních s tím souvisejících.
+
+2) § 60 zákona České národní rady č. 367/1990 Sb., o obcích (obecní zřízení).Nařízení vlády České republiky č. 475/1990 Sb., kterým se určují pověřené obecní úřady.
+
+3) § 22 odst. 2 písm. a) zákona České národní rady č. 418/1990 Sb., o hlavním městě Praze.
+
+4) § 22 odst. 1 zákona České národní rady č. 418/1990 Sb.
+
+5) § 56 odst. 2 zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon).
+
+6) § 57 zákona č. 455/1991 Sb.
+
+7) § 126 zákona č. 50/1976 Sb., o územním plánování a stavebním řádu (stavební řád).
+
+8) § 66 zákona č. 455/1991 Sb.
+
+9) § 60 odst. 1 zákona č. 455/1991 Sb.
+
+10) § 49 odst. 2 zákona č. 455/1991 Sb.
+
+11) Např. zákon č. 169/1949 Sb., o vojenských újezdech, zákon č. 102/1971 Sb., o ochraně státního tajemství, v platném znění.

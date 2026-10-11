@@ -1,0 +1,393 @@
+---
+title: "Zákon České národní rady o dani z nemovitostí"
+identifier: "338/1992 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1992/338/"
+type: act
+jurisdiction: sk
+language: cs
+date: 1992-07-01
+last_amended: 1993-01-01
+status: in_force
+consolidated_version: "/SK/ZZ/1992/338/19930101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1992/338/19930101"
+retrieved: 2026-10-12
+---
+
+# Zákon České národní rady o dani z nemovitostí
+
+**338**
+
+**ZÁKON**
+
+**České národní rady**
+
+**ze dne 4. května 1992**
+
+**o dani z nemovitostí**
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## § 1 — Úvodní ustanovení
+
+Tento zákon upravuje daň z nemovitostí, kterou tvoří
+
+a) daň z pozemků,
+
+b) daň ze staveb.
+
+## ČÁST PRVNÍ — DAŇ Z POZEMKŮ
+
+### § 2 — Předmět daně
+
+(1) Předmětem daně z pozemků jsou pozemky na území České republiky vedené v evidenci nemovitostí.<sup>1</sup>)
+
+(2) Předmětem daně z pozemků nejsou:
+
+a) části zastavěných ploch a nádvoří,<sup>1</sup>) které jsou zastavěny stavbami podléhajícími dani ze staveb,
+
+b) lesní pozemky, na nichž se nacházejí lesy ochranné a lesy zvláštního určení,<sup>2</sup>)
+
+c) vodní plochy<sup>1</sup>) s výjimkou rybníků sloužících k intenzivnímu a průmyslovému chovu ryb,
+
+d) pozemky určené pro obranu státu.<sup>3</sup>)
+
+### § 3 — Poplatníci daně
+
+(1) Poplatníkem daně z pozemků je vlastník pozemku. U pozemků ve vlastnictví České a Slovenské Federativní Republiky a České republiky (dále jen „stát“), je poplatníkem daně právnická osoba, která má právo hospodaření<sup>4</sup>) nebo zřízeno právo trvalého užívání.<sup>5</sup>) U pronajatých pozemků, jejichž hranice v terénu ani v mapách evidence nemovitostí neexistují, neboť jsou sloučeny do větších celků, je poplatníkem daně nájemce. U pozemků spravovaných Pozemkovým fondem České republiky, které jsou pronajaty, je poplatníkem daně nájemce.
+
+(2) V případě, že vlastník pozemku není znám nebo při pozemkových úpravách byl pozemek přidělen do časově omezeného nájmu, je poplatníkem daně uživatel.
+
+(3) Má-li k pozemku vlastnické právo nebo právo hospodaření více subjektů, nebo je-li k němu zřízeno právo trvalého užívání více subjektům, jsou tyto povinny platit daň společně a nerozdílně.
+
+(4) Nájemce pozemku, není-li sám poplatníkem, za daň ručí.
+
+### § 4 — Osvobození od daně
+
+(1) Od daně z pozemků jsou osvobozeny
+
+a) pozemky ve vlastnictví státu a obce,
+
+b) pozemky ve vlastnictví státu nebo obce, ke kterým mají právo hospodaření nebo nájem ústřední orgány státní správy, rozpočtové organizace zřízené ústředními orgány státní správy, okresním úřadem nebo obcí,
+
+c) pozemky ve vlastnictví státu a obce užívané diplomatickými zástupci pověřenými v České a Slovenské Federativní Republice, konzuly z povolání a jinými osobami, které podle mezinárodního práva požívají diplomatických a konzulárních výsad a imunity, a to za předpokladu, že nejsou občany České a Slovenské Federativní Republiky, a že je zaručena vzájemnost,
+
+d) pozemky spravované Pozemkovým fondem České republiky,<sup>6</sup>) které nejsou pronajaty, nebo pozemky převedené na Fond národního majetku České republiky,<sup>7</sup>)
+
+e) pozemky tvořící jeden funkční celek se stavbou nebo její částí sloužící k vykonávání náboženských obřadů církví a náboženských společností státem uznaných,<sup>8</sup>) dále se stavbou nebo její částí sloužící k výkonu duchovní správy těchto církví a náboženských společností,
+
+f) pozemky tvořící jeden funkční celek se stavbou ve vlastnictví politických stran a hnutí a sdružení občanů,<sup>9</sup>)
+
+g) pozemky tvořící jeden funkční celek se stavbou sloužící školám a školským zařízením, muzeím a galeriím, budou-li tato muzea a galerie vymezeny zvláštním předpisem, knihovnám, státním archivům, zdravotnickým zařízením, zařízením sociální péče,<sup>10</sup>) nadacím a se stavbou památkových objektů stanovených vyhláškou Ministerstva financí České republiky v dohodě s ministerstvem kultury České republiky,
+
+h) pozemky tvořící jeden funkční celek se stavbami sloužícími výlučně k účelu zlepšení stavu životního prostředí, stanovené vyhláškou ministerstva financí České republiky v dohodě s ministerstvem životního prostředí České republiky,
+
+i) pozemky, na nichž jsou zřízeny hřbitovy,<sup>1</sup>)
+
+j) pozemky území zvláště chráněných podle předpisů o ochraně přírody a krajiny<sup>11</sup>) s výjimkou národních parků a chráněných krajinných oblastí; v národních parcích a chráněných krajinných oblastech pozemky zařazené do jejich I. zóny,
+
+k) pozemky remízků, hájů a větrolamů a mezí na orné půdě, loukách a pastvinách, pozemky pásma hygienické ochrany vod I. stupně<sup>12</sup>) a pozemky ostatních ploch,<sup>1</sup>) které nelze žádným způsobem využívat,
+
+l) pozemky veřejně přístupných parků, prostor a sportovišť,<sup>1</sup>)
+
+m) pozemky rekultivované investičním a biologickým zúrodňováním, počínaje rokem následujícím po roce, kdy byly vráceny zemědělské výrobě na dobu pěti let a lesní výrobě na dobu 25 let,
+
+n) na dobu pěti let od nabytí účinnosti tohoto zákona zemědělské pozemky a do výměry 10 ha pozemky hospodářských lesů vydané vlastníkům na základě zvláštního předpisu,<sup>13</sup>) pokud na nich vlastníci nebo osoby blízké<sup>14</sup>) sami hospodaří,
+
+o) pozemky určené pro veřejnou dopravu,
+
+p) části pozemků, na kterých jsou zřízeny měřické značky, signály a jiná zařízení geodetických bodů,<sup>15</sup>) stožáry rozvodu elektrické energie, nadzemní části zařízení pro rozvod topných plynů a pásy pozemků v lesích, vyčleněné pro rozvody elektrické energie a topných plynů.<sup>16</sup>)
+
+(2) Pozemkem tvořícím jeden funkční celek se stavbou se rozumí část pozemku nezbytně nutná k provozu a plnění funkce stavby.
+
+(3) Pozemky uvedené v odstavci 1 písm. a), e) až g) a l) jsou osvobozeny od daně z pozemků, nejsou-li využívány k podnikatelské činnosti nebo pronajímány.
+
+(4) Poplatník daně uplatní nárok na osvobození od daně z pozemků podle odstavce 1 písm. e) až h), j), k), m) a p) v daňovém přiznání.
+
+### § 5 — Základ daně
+
+(1) Základem daně u pozemků orné půdy, chmelnic, vinic, zahrad, ovocných sadů, luk a pastvin<sup>1</sup>) je cena půdy zjištěná násobením skutečné výměry pozemku v m<sup>2</sup> průměrnou cenou půdy stanovenou na 1 m<sup>2</sup> (§ 17 odst. 1), přiřazenou k jednotlivým katastrálním územím<sup>1</sup>) odvozením z bonitovaných půdně ekologických jednotek k 1. lednu zdaňovacího období. Cena půdy pro daňové účely je stanovena vyhláškou vydanou na základě zmocňovacího ustanovení tohoto zákona (§ 17 odst. 1), a to ve znění této vyhlášky ke dni 1. ledna 1993. Tuto cenu půdy pro daňové účely lze měnit pouze zákonem České národní rady.
+
+(2) Základem daně u pozemků hospodářských lesů<sup>2</sup>) a rybníků s intenzivním a průmyslovým chovem ryb<sup>1</sup>) je cena pozemku zjištěná podle platných cenových předpisů k 1. lednu zdaňovacího období.
+
+(3) Základem daně u ostatních pozemků je skutečná výměra pozemku v m<sup>2</sup> zjištěná k 1.lednu zdaňovacího období.
+
+### § 6 — Sazba daně
+
+(1) Sazba daně činí ze základu daně u pozemků
+
+| a) orné půdy, chmelnic, vinic, zahrad, ovocných sadů | 0,75 %, |
+|---|---|
+| b) luk a pastvin, hospodářských lesů a rybníků s intenzivním a průmyslovým chovem ryb | 0,25 %. |
+
+(2) Sazba daně u ostatních pozemků činí za každý 1 m2 u
+
+| a) zastavěných ploch a nádvoří, pokud nejsou předmětem daně dle § 7 odst. 2 | 0,10 Kčs, |
+|---|---|
+| b) stavebních pozemků | 1,00 Kčs, |
+| c) ostatních ploch, pokud jsou předmětem daně | 0,10 Kčs. |
+
+(3) Stavebními pozemky se rozumějí nezastavěné pozemky určené k zastavění schváleným územním projektem zóny, seznamem pozemků pro výstavbu rodinných domků nebo územním rozhodnutím (stavebním povolením), pokud je lze objektivně zastavět.
+
+(4) Základní sazba daně podle odstavce 2 písm. b) se násobí koeficientem
+
+a) 0,3 v obcích do 300 obyvatel
+
+b) u pozemků umístěných v jednotlivých částech obce může obec rozhodnout o použití koeficientu jako u obce o jednu až tři kategorie nižší v členění obcí podle písmene a).
+
+## ČÁST DRUHÁ — DAŇ ZE STAVEB
+
+### § 7 — Předmět daně
+
+(1) Předmětem daně ze staveb jsou stavby na území České republiky, na které bylo vydáno kolaudační rozhodnutí<sup>17</sup>) nebo kolaudačnímu rozhodnutí podléhající a užívané a nebo podle dříve vydaných obecně závazných právních předpisů dokončené.
+
+(2) V dani ze staveb je zahrnuta daň z pozemků skutečně zastavěných stavbou.
+
+(3) Předmětem daně ze staveb nejsou stavby přehrad, vodovodů, kanalizací, čistíren odpadních vod, rozvodů energií a veřejných dopravních cest.
+
+(4) Veřejnými dopravními cestami se rozumějí stavby pozemních komunikací (dálnice, silnice, místní komunikace), stavby leteckých zařízení, stavby drah a na dráze, stavby vodních cest a přístavů.
+
+### § 8 — Poplatníci daně
+
+(1) Poplatníkem daně je vlastník stavby; jde-li o stavbu ve správě Pozemkového fondu České republiky, je jím nájemce. Má-li právnická osoba ke stavbě právo hospodaření<sup>4</sup>) nebo trvalého užívání,<sup>5</sup>) je poplatníkem daně nositel tohoto práva.
+
+(2) Má-li ke stavbě vlastnické právo, právo hospodaření nebo trvalého užívání více subjektů, jsou tyto povinny platit daň společně a nerozdílně.
+
+### § 9 — Osvobození od daně
+
+(1) Od daně ze staveb jsou osvobozeny
+
+a) stavby ve vlastnictví státu a obce,
+
+b) stavby ve vlastnictví státu nebo obce, ke kterým mají právo hospodaření nebo nájem ústřední orgány státní správy, rozpočtové organizace zřízené ústředními orgány státní správy, okresním úřadem nebo obcí,
+
+c) stavby ve vlastnictví jiného státu užívané diplomatickými zástupci pověřenými v České a Slovenské Federativní Republice, konzuly z povolání a jinými osobami, které podle mezinárodního práva požívají diplomatických a konzulárních výsad a imunity, a to za předpokladu, že nejsou občany České a Slovenské Federativní Republiky, a že je zaručena vzájemnost,
+
+d) stavby spravované Pozemkovým fondem České republiky,<sup>6</sup>) které nejsou pronajaty nebo stavby převedené na Fond národního majetku České republiky,<sup>7</sup>)
+
+e) stavby a jejich části ve vlastnictví církví a náboženských společností státem uznaných,<sup>8</sup>) sloužící k vykonávání náboženských obřadů a k výkonu duchovní správy těchto církví a náboženských společností,
+
+f) stavby ve vlastnictví politických stran, hnutí a sdružení občanů,<sup>9</sup>)
+
+g) na dobu 15 let, počínaje rokem následujícím po vydání kolaudačního rozhodnutí, novostavby obytných domů ve vlastnictví fyzických osob, pokud slouží výlučně k trvalému bydlení vlastníka nebo osob blízkých<sup>14</sup>) a novostavby obytných domů, v nichž jsou výhradně byty ve vlastnictví fyzických osob,
+
+h) na dobu 15 let od nabytí účinnosti tohoto zákona obytné domy vrácené do vlastnictví fyzickým osobám z titulu restituce podle zvláštních předpisů,<sup>18</sup>) pokud nedošlo k převodu nebo přechodu vlastnického práva na jiné osoby než osoby blízké,<sup>14</sup>)
+
+i) na dobu 15 let od nabytí účinnosti tohoto zákona obytné domy ve vlastnictví fyzických osob, pokud byly postaveny do roku 1948 a je v nich buď nadpoloviční většina nájemních bytů, nebo byty v nich byly nejméně 15 let obsazeny též jinými uživateli než vlastníkem a osobami mu blízkými podle dřívějších zákonů o hospodaření s byty a s přikázaným nájemným, pokud nedošlo od roku 1948 k převodu nebo přechodu vlastnického práva na jiné osoby než osoby blízké,<sup>14</sup>)
+
+j) na dobu 10 let od nabytí účinnosti tohoto zákona obytné domy nebo jejich části s byty převedenými do vlastnictví fyzických osob z vlastnictví státu, obcí a družstev, pokud nedošlo k dalšímu převodu nebo přechodu vlastnického práva na jiné osoby než osoby blízké,<sup>14</sup>)
+
+k) stavby nebo jejich části sloužící školám a školským zařízením, muzeím a galeriím, budou-li tato muzea a galerie vymezeny zvláštním předpisem, státním archivům, knihovnám, zdravotnickým zařízením, zařízením sociální péče, nadacím a dále stavby památkových veřejně přístupných objektů stanovených vyhláškou ministerstva financí České republiky v dohodě s ministerstvem kultury České republiky,
+
+l) stavby a jejich části sloužící bezprostředně k poskytování veřejných služeb k hromadné osobní přepravě,
+
+m) stavby sloužící výlučně k účelům zlepšení stavu životního prostředí stanovené vyhláškou ministerstva financí České republiky v dohodě s ministerstvem životního prostředí České republiky.
+
+(2) Podléhá-li osvobození podle odstavce 1 pouze část stavby, zjistí se nárok na osvobození z poměru, v jakém je podlahová plocha části stavby podléhající osvobození k celkové podlahové ploše nadzemních podlaží stavby.
+
+(3) Osvobození od daně ze staveb podle odstavce 1 písm. g) až i) nepodléhají nebytové prostory staveb sloužící výlučně k podnikatelské činnosti.
+
+(4) Stavby uvedené v odstavci 1 písm. a), d), e) a f) jsou osvobozeny od daně ze staveb, nejsou-li využívány k podnikatelské činnosti nebo pronájmu.
+
+(5) Poplatník uplatní nárok na osvobození od daně ze staveb podle odstavce 1 písm. e) až k) a m) v daňovém přiznání.
+
+(6) Osvobození od daně podle odstavce 1 písm. h) a i) je vázáno na poplatníkem prokázané použití finančních prostředků získaných osvobozením na stavební opravy, rekonstrukci a modernizaci obytných domů (dále jen „prostředky“). Účinnost osvobození vzniká již ve zdaňovacím období, v němž byl nárok na osvobození uplatněn. První doklady osvědčující vynaložení prostředků je poplatník povinen předložit do dvou let od účinnosti osvobození, jinak poskytnuté osvobození zaniká. Poslední doklady osvědčující vynaložení prostředků je možno předložit nejdéle do jednoho roku po zániku účinnosti osvobození. Pokud nebyly prokázány všechny prostředky získané z osvobození od daně, rozdíl prokázaných prostředků a daňové povinnosti se předepíše poplatníkovi k přímému placení jako daň.
+
+(7) Pokud dojde k zániku osvobození od daně podle předchozího odstavce, může poplatník požádat o osvobození znovu kdykoli v době do 15 let od nabytí účinnosti tohoto zákona. K této žádosti je poplatník povinen současně předložit doklady osvědčující vynaložení prostředků. Osvobození se při splnění těchto podmínek poskytne již na zdaňovací období, v němž byl nárok uplatněn, pro zbytek zákonné lhůty dané pro osvobození. Další postup je shodný s ustanovením uvedeným v odstavci 6.
+
+(8) Po dobu přiznaného osvobození podle odstavce 1 písm. h) a i) se staví běh prekluzivní lhůty pro vyměření nebo doměření daně a promlčecí lhůta pro placení daně.
+
+### § 10 — Základ daně
+
+(1) Základem daně ze staveb je výměra v m<sup>2</sup> té části zastavěné plochy a nádvoří, která je zastavěná stavbou, zjištěná k 1. lednu zdaňovacího období.
+
+(2) Částí zastavěné plochy a nádvoří podle odstavce 1 se pro účely tohoto zákona rozumí půdorys stavby (dále jen „zastavěná plocha“).
+
+### § 11 — Sazba daně
+
+(1) Základní sazba daně u jednotlivých staveb činí
+
+a) u obytných domů 1 Kčs za 1 m<sup>2</sup> zastavěné plochy; u ostatních staveb tvořících příslušenství k obytným domům z výměry přesahující 16 m<sup>2</sup> zastavěné plochy 1 Kčs za 1 m<sup>2</sup> zastavěné plochy,
+
+b) u chat, staveb a rodinných domů pro individuální rekreaci 3 Kčs za 1 m<sup>2</sup> zastavěné obytné plochy; ostatní zastavěné plochy 1 Kčs za 1 m<sup>2</sup>,
+
+c) u garáží vystavěných odděleně od obytných domů 4 Kčs za 1 m<sup>2</sup> zastavěné plochy,
+
+d) u staveb pro podnikatelskou činnost
+
+1. u staveb sloužících pro zemědělskou prvovýrobu, staveb pro lesní a vodní hospodářství 1 Kčs za 1 m<sup>2</sup> zastavěné plochy,
+
+2. u staveb sloužících pro průmysl, stavebnictví, energetiku a ostatní zemědělskou výrobu 5 Kčs za 1 m<sup>2</sup> zastavěné plochy,
+
+3. u staveb sloužících pro ostatní podnikatelskou činnost 10 Kčs za 1 m<sup>2</sup> zastavěné plochy,
+
+e) u ostatních staveb 3 Kčs za 1 m<sup>2</sup> zastavěné plochy.
+
+(2) Základní sazby daně za 1 m<sup>2</sup> zastavěné plochy zjištěné podle odstavce 1 se zvyšují o 0,75 Kčs za každé další nadzemní podlaží, jestliže zastavěná plocha nadzemního podlaží přesahuje dvě třetiny zastavěné plochy.
+
+(3) Základní sazba daně podle odstavce 1 písm. a), případně zvýšená podle odstavce 2, se násobí koeficientem
+
+a) 0,3 v obcích do 300 obyvatel
+
+b) u staveb umístěných v jednotlivých částech obce může obec rozhodnout o použití koeficientu jako u obce o jednu až tři kategorie nižší v členění obcí podle písmene a).
+
+(4) Základní sazba daně podle odstavce 1 písm. b), případně zvýšená podle odstavce 2 se násobí koeficientem 2, pokud jsou stavby umístěny v národních parcích a v zónách I. chráněných krajinných oblastí vyhlášených podle zvláštních předpisů.
+
+(5) Daň zjištěná podle § 10 a § 11 odst. 3 se zvyšuje o 2 Kčs za každý 1 m<sup>2</sup> podlahové plochy nebytového prostoru sloužícího v obytném domě k podnikatelské činnosti s výjimkou zemědělské prvovýroby.
+
+## ČÁST TŘETÍ — SPOLEČNÁ USTANOVENÍ
+
+### § 12 — Úlevy na dani
+
+(1) Správce daně může poskytnout na žádost poplatníka úlevu na dani
+
+a) u pozemků
+
+1. jejichž hospodářské využití je omezeno z důvodu nadměrného zatížení koncentrací imisí a průmyslových exhalátů, poddolování, extrémních půdně ekologických podmínek, ochrany přírody a krajiny,<sup>11</sup>) dále z důvodu umístění ve vyhlášených pásmech ochrany zdrojů pitné vody, v chráněných oblastech přirozené akumulace vod,<sup>12</sup>) ve vyhlášených pásmech ochrany lázeňských míst a přírodních léčivých zdrojů,<sup>19</sup>) v územích na něž se vztahuje režim mezinárodních dohod, v památkových rezervacích, památkových zónách a v ochranných památkových pásmech,
+
+2. orné půdy, chmelnic, vinic, zahrad, ovocných sadů, luk a pastvin podstatně horší bonity ve srovnání s ostatními pozemky v témže katastrálním území,
+
+b) u staveb
+
+1. jejichž využití je omezeno z důvodu rozsáhlé rekonstrukce, stavební uzávěry nebo umístění na poddolovaném pozemku,
+
+2. po změně systému vytápění z pevných paliv na vytápění plynem a elektřinou nebo na systém využívající obnovitelné energie solární, větrné, biomasy apod., a při snížení tepelné náročnosti budovy,
+
+3. obytných domů ve vlastnictví sociálně potřebných<sup>20</sup>) držitelů průkazů ZTP a ZTP/P, sloužících výhradně k jejich trvalému bydlení,
+
+4. které jsou kulturními památkami, pokud se na ně nevztahuje ustanovení § 9 odst. 1 písm. k), a na nichž poplatník prokazatelně provádí obnovu a údržbu,
+
+5. pro individuální rekreaci a chat ve vlastnictví držitelů průkazů ZTP a ZTP/P.
+
+(2) Žádost o úlevu na dani poplatník doloží potvrzením o skutečnostech rozhodných pro úlevu.
+
+### § 13 — Zdaňovací období
+
+Zdaňovacím obdobím je kalendářní rok.
+
+### § 14 — Zaokrouhlování
+
+(1) Základ daně z nemovitostí podle § 5 odst. 1 a 2 se zaokrouhluje na celé Kčs nahoru.
+
+(2) Daň z nemovitostí se zaokrouhluje na celé Kčs nahoru.
+
+### § 15 — Placení daně
+
+(1) Daň z nemovitostí je splatná
+
+a) u poplatníků daně provozujících zemědělskou výrobu ve dvou stejných splátkách, a to nejpozději do 31. srpna a do 30. listopadu běžného zdaňovacího období,
+
+b) u ostatních poplatníků daně ve čtyřech stejných splátkách, a to nejpozději do 31. března, do 30. června, do 30. září a do 30. listopadu běžného zdaňovacího období. V roce 1993 je první splátka splatná 31. května 1993.
+
+(2) Nepřesáhne-li roční daň z nemovitostí částku 1000 Kčs, je splatná najednou, a to nejpozději do 31. března běžného zdaňovacího období, v roce 1993 do 31. května 1993. Ke stejnému datu lze daň z nemovitostí zaplatit najednou i při vyšší částce.
+
+### § 16 — Správa daně
+
+Správa a řízení ve věcech daně a sankce za nesplnění daňových povinností se řídí zvláštním předpisem.<sup>21</sup>)
+
+## ČÁST ČTVRTÁ — ZMOCŇOVACÍ USTANOVENÍ
+
+### § 17
+
+(1) Ministerstvo zemědělství České republiky v dohodě s ministerstvem financí České republiky upraví vyhláškou seznam katastrálních území s přiřazenými průměrnými cenami pozemků orné půdy, chmelnic, vinic, zahrad, ovocných sadů, luk a pastvin odvozenými z bonitovaných půdně ekologických jednotek, jehož součástí bude i ocenění vlivu některých faktorů na hospodářské využití pozemků vymezených v § 12 odst. 1 písm. a) bod 1.
+
+(2) Vláda České republiky může nařízením poskytnout úlevu, případně osvobození od daně z nemovitostí některých druhů pozemků a staveb nebo některým skupinám poplatníků.
+
+## ČÁST PÁTÁ — PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ
+
+### § 18
+
+(1) Osvobození od daně z pozemků podle § 4 zákona č. 172/1988 Sb., o zemědělské dani, a nařízení vlády České republiky č. 554/1991 Sb., o osvobození některých příjmů od daně z příjmů obyvatelstva a daňových úlevách pro začínající samostatně hospodařící rolníky, zůstává v platnosti až do uplynutí lhůty rozhodné pro osvobození, pokud tento zákon nestanoví nové lhůty.
+
+(2) Úlevy, na které vznikl nárok podle nařízení vlády České republiky č. 579/1990 Sb., o úlevách na domovní dani, se poskytnou poplatníkům formou odpočtu od vypočtené daně z nemovitosti.
+
+### § 19
+
+U staveb, kde vznikla daňová povinnost platit domovní daň podle nájemného a ceny užívání podle zákona č. 143/1961 Sb., o domovní dani, v roce 1992, vyměří příslušný obecní úřad daň na rok 1992 po jeho uplynutí z nájemného a ceny užívání připadající na dobu ode dne vzniku daňové povinnosti do konce roku 1992, po srážce odčitatelných položek připadajících na tuto dobu.
+
+### § 20
+
+Daň z nemovitostí se vyměří podle tohoto zákona poprvé na rok 1993 podle stavu k 1. lednu 1993.
+
+### § 21 — Zrušovací ustanovení
+
+Zrušují se:
+
+1. S působností pro Českou republiku zákon č. 143/1961 Sb., o domovní dani, ve znění zákona č. 129/1974 Sb.
+
+2. § 1 písm. g) a § 8 zákona České národní rady č. 565/1990 Sb., o místních poplatcích.
+
+3. Nařízení vlády České socialistické republiky č. 82/1978 Sb., o osvobození obytných domů s byty v osobním vlastnictví od domovní daně.
+
+4. Nařízení vlády České republiky č. 579/1990 Sb., o úlevách na domovní dani.
+
+5. S působností pro Českou republiku vyhláška ministerstva financí č. 144/1961 Sb., kterou se provádí zákon č. 143/1961 Sb., o domovní dani.
+
+6. S působností pro Českou republiku vyhláška ministerstva financí č. 14/1968 Sb., o úlevách na domovní dani.
+
+7. Vyhláška ministerstva financí České socialistické republiky č. 101/1976 Sb., kterou se doplňuje vyhláška ministerstva financí č. 14/1968 Sb., o úlevách na domovní dani.
+
+8. Vyhláška ministerstva financí, cen a mezd České socialistické republiky č. 217/1988 Sb., o odvádění nájemného na zvláštní účty nájemného, ve znění vyhlášky č. 29/1991 Sb.
+
+9. Opatření ministerstva financí České republiky ze dne 25.1.1991 k odstranění nesrovnalostí při vyměřování domovní daně (vyhlášeno v částce 55/1991 Sb.).
+
+### § 22 — Účinnost
+
+Tento zákon nabývá účinnosti dnem 1. ledna 1993.
+
+Burešová v. r.
+
+Pithart v. r.
+
+## Poznámky pod čiarou
+
+1) Zákon ČNR č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon).
+
+2) Zákon č. 61/1977 Sb., o lesích, ve znění zákona č. 229/1991 Sb.
+
+3) Zákon č. 169/1949 Sb., o vojenských újezdech.
+
+4) § 761 odst. 1 zákona č. 513/1991 Sb., obchodní zákoník. Vyhláška federálního ministerstva financí č. 119/1988 Sb., o hospodaření s národním majetkem, ve znění pozdějších předpisů.
+
+5) § 876 občanského zákoníku.
+
+6) Zákon č. 569/1991 Sb., o Pozemkovém fondu České republiky.
+
+7) Zákon č. 171/1991 Sb., o působnosti orgánů České republiky ve věcech převodů majetku státu na jiné osoby a o Fondu národního majetku České republiky, ve znění zákona č. 285/1991 Sb., zákona č. 438/1991 Sb. a zákona č. 569/1991 Sb.
+
+8) Zákon č. 308/1991 Sb., o svobodě náboženské víry a postavení církví a náboženských společností.
+
+9) Zákon č. 83/1990 Sb., o sdružování občanů, ve znění zákona č. 300/1990 Sb. a zákona č. 513/1991 Sb.
+
+Zákon č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích.
+
+10) Vyhláška Ministerstva práce a sociálních věcí České republiky č. 182/1991 Sb., kterou se provádí zákon o sociálním zabezpečení a zákon o působnosti orgánů České republiky v sociálním zabezpečení, ve znění zákona č. 482/1991 Sb. a zákona č. 582/1991 Sb.
+
+11) Zákon ČNR č. 114/1992 Sb., o ochraně přírody a krajiny.
+
+12) Zákon č. 138/1973 Sb., o vodách (vodní zákon).
+
+13) Zákon č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění pozdějších předpisů.
+
+14) § 116 občanského zákoníku.
+
+15) Zákon č. 46/1971 Sb., o geodézii a kartografii.
+
+Zákon č. 50/1976 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění zákona č. 103/1990 Sb. a zákona č. 262/1992 Sb.
+
+16) Zákon č. 79/1957 Sb., o výrobě, rozvodu a spotřebě elektřiny.
+
+Zákon č. 67/1960 Sb., o výrobě, rozvodu a využití topných plynů (plynárenský zákon).
+
+17) Zákon č. 50/1976 Sb., ve znění zákona č. 103/1990 Sb. a zákona č. 262/1992 Sb.
+
+18) Zákon č. 403/1990 Sb., o zmírnění následků některých majetkových křivd, ve znění pozdějších předpisů.
+
+Zákon č. 87/1991 Sb., o mimosoudních rehabilitacích, ve znění pozdějších předpisů.
+
+Zákon č. 229/1991 Sb., ve znění pozdějších předpisů.
+
+19) § 46 a 48 zákona č. 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších předpisů (úplné znění s působností pro Českou republiku č. 86/1992 Sb.).
+
+20) Zákon ČNR č. 482/1991 Sb., o sociální potřebnosti.
+
+21) Zákon ČNR č. 337/1992 Sb., o správě daní a poplatků.

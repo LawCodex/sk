@@ -1,0 +1,300 @@
+---
+title: "Zákon České národní rady o Všeobecné zdravotní pojišťovně České republiky"
+identifier: "551/1991 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1991/551/"
+type: act
+jurisdiction: sk
+language: cs
+date: 1991-12-30
+last_amended: 1993-01-01
+status: in_force
+consolidated_version: "/SK/ZZ/1991/551/19930101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1991/551/19930101"
+retrieved: 2026-10-12
+---
+
+# Zákon České národní rady o Všeobecné zdravotní pojišťovně České republiky
+
+**551**
+
+**ZÁKON**
+
+**České národní rady**
+
+**ze dne 6. prosince 1991**
+
+**o Všeobecné zdravotní pojišťovně České republiky**
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## ČÁST PRVNÍ — Základní ustanovení
+
+### § 1
+
+Zřizuje se Všeobecná zdravotní pojišťovna České republiky (dále jen „Pojišťovna“) se sídlem v Praze.
+
+### § 2
+
+(1) Pojišťovna provádí všeobecné zdravotní pojištění, pokud toto pojištění neprovádějí resortní, oborové a podnikové zdravotní pojišťovny.
+
+(2) Pojišťovna je právnickou osobou, v právních vztazích vystupuje svým jménem, může nabývat práv a povinností a nese odpovědnost z těchto vztahů vyplývající.
+
+## ČÁST DRUHÁ — Hospodaření Pojišťovny
+
+### § 3
+
+Pojišťovna hospodaří s vlastním majetkem a vykonává právo hospodaření s majetkem jí svěřeným.
+
+### § 4
+
+Příjmy Pojišťovny zahrnují:
+
+a) platby pojistného od pojištěnců, zaměstnavatelů a státu,
+
+b) vlastní zdroje vytvořené využíváním fondů Pojišťovny,
+
+c) příjmy plynoucími z přirážek k pojistnému, pokut a poplatků z prodlení účtované Pojišťovnou,
+
+d) dary a ostatní příjmy.
+
+### § 5
+
+Výdaje Pojišťovny zahrnují:
+
+a) platby za úhrady potřebné zdravotní péče poskytované na základě smluv uzavřených se zdravotnickými zařízeními,
+
+b) platby jiným zdravotním pojišťovnám nebo jiným subjektům na základě smluv o finančním vypořádání plateb za zdravotní služby poskytnuté pojištěncům Pojišťovny,
+
+c) úhrady nákladů nutného neodkladného léčení v cizině,<sup>1</sup>)
+
+d) náklady na činnost Pojišťovny v rámci schváleného rozpočtu Pojišťovny.
+
+### § 6
+
+(1) Rozpočet Pojišťovny je sestaven a realizován tak, aby výdaje nepřevýšily příjmy Pojišťovny v příslušném rozpočtovém roce. Rozdíl mezi příjmy a výdaji se zúčtovává v roční závěrce vůči rezervnímu fondu.
+
+(2) Pojišťovna je povinna v termínech pro předkládání návrhu státního rozpočtu a státního závěrečného účtu předložit České národní radě pojistný plán na následující kalendářní rok, bilanci a zprávu o výsledcích hospodaření za běžný kalendářní rok.
+
+(3) Finanční prostředky získané vlastními zdroji vytvořenými využíváním fondů Pojišťovny a příjmy plynoucími z přirážek k pojistnému, pokut a poplatků z prodlení účtovaných Pojišťovnou je povinna použít na zlepšení zdravotní péče svým pojištěncům nebo navrhnout snížení sazeb pojistného.
+
+### § 7
+
+Pojišťovna vytváří a spravuje tyto fondy:
+
+a) základní fond zdravotního pojištění, který slouží k úhradě zdravotní péče a je tvořen platbami pojistného,
+
+b) rezervní fond, který kryje neočekávané výkyvy ve spotřebě základního fondu; součástí rezervního fondu je majetek Pojišťovny; finanční prostředky na založení rezervního fondu poskytne státní rozpočet České republiky; bližší podmínky tvorby a užití rezervního fondu stanoví ministerstvo financí České republiky vyhláškou,
+
+c) další účelové fondy podle rozhodnutí Správní rady Ústřední pojišťovny.
+
+### § 8
+
+(1) V případě zjištění bilanční nerovnováhy je Pojišťovna povinna předložit návrh opatření vládě České republiky.
+
+(2) V případě platební neschopnosti Pojišťovny zaručuje uhrazení nákladů poskytnuté zdravotní péče po vyčerpání prostředků rezervního fondu státní rozpočet České republiky.
+
+### § 9
+
+Pojišťovna je povinna zajistit oddělenou evidenci fondů a oddělenou evidenci majetku a používání finančních prostředků.
+
+### § 10
+
+Pojišťovna vytváří svůj vlastní účetní a informační systém, který musí navazovat na státní statistickou evidenci a respektovat požadavky průkaznosti.
+
+### § 11
+
+(1) Příděly do fondů Pojišťovny, kterými jsou platby pojistného, příjmy plynoucí z přirážek k pojistnému, pokut, poplatků z prodlení podle zvláštního zákona, dary a příspěvky, nepodléhají daňové povinnosti.
+
+(2) Pojišťovna je osvobozena od soudních a správních poplatků.
+
+## ČÁST TŘETÍ — Organizační struktura Pojišťovny
+
+### § 12
+
+Organizační strukturu Pojišťovny tvoří Ústřední pojišťovna, okresní pojišťovny a úřadovny, které jsou detašovanými pracovišti okresních pojišťoven. Organizaci a postavení organizačních složek Pojišťovny podrobně upraví organizační řád Pojišťovny.
+
+### § 13 — Ústřední pojišťovna
+
+(1) Ústřední pojišťovna řídí činnost všech organizačních složek Pojišťovny.
+
+(2) Ústřední pojišťovna rozhoduje o:
+
+a) jmenování vedoucího Okresní pojišťovny, a to na návrh Správní rady Okresní pojišťovny,
+
+b) jednotném účetním systému,
+
+c) jednotném informačním systému,
+
+d) koncepci zdravotní politiky Pojišťovny,
+
+e) vnitřním systému právní služby Pojišťovny.
+
+(3) Ústřední pojišťovna zabezpečuje součinnost s ústředními orgány státní správy a dalšími orgány, právnickými, popřípadě fyzickými osobami.
+
+### § 14 — Okresní pojišťovny a úřadovny Pojišťovny
+
+(1) Okresní pojišťovny a jejich úřadovny vykonávají činnost jménem Pojišťovny v rozsahu pravomocí svěřených jim organizačním řádem Pojišťovny. Organizační řád Pojišťovny rovněž stanoví sídla okresních pojišťoven a úřadoven Pojišťovny. Okresní pojišťovny rozhodují ve všech otázkách, které nejsou svěřeny Ústřední pojišťovně podle § 12.
+
+(2) Organizační řád Pojišťovny stanoví sídla a územní působnost okresních pojišťoven; organizační řády okresních pojišťoven stanoví sídla a územní působnost úřadoven Pojišťovny.
+
+### § 15 — Ředitelství Ústřední pojišťovny
+
+(1) Ředitelství Ústřední pojišťovny realizuje rozhodnutí Sboru zástupců a Správní rady Ústřední pojišťovny, řídí činnost Pojišťovny a okresních pojišťoven.
+
+(2) Ředitelství Ústřední pojišťovny tvoří ředitel Pojišťovny, prokurista Pojišťovny a zástupci z řad vedoucích jednotlivých úseků Ústřední pojišťovny. Ředitelství má nejvýše 5 členů.
+
+(3) Ředitel Pojišťovny a prokurista Pojišťovny jsou statutárními zástupci Pojišťovny a jednají jejím jménem.
+
+(4) Ředitele Pojišťovny volí na návrh Správní rady Ústřední pojišťovny Česká národní rada.
+
+(5) Prokuristu Pojišťovny a vedoucí jednotlivých úseků Ústřední pojišťovny jmenuje ředitel Pojišťovny na návrh Správní rady Ústřední pojišťovny.
+
+### § 16 — Ředitelství Okresní pojišťovny
+
+(1) Vedoucího Okresní pojišťovny jmenuje a odvolává ředitel Ústřední pojišťovny na návrh Správní rady Okresní pojišťovny.
+
+(2) Ředitelství Okresní pojišťovny provádí rozhodnutí Správní rady Okresní pojišťovny a Ústřední pojišťovny.
+
+## ČÁST ČTVRTÁ — Orgány Pojišťovny a orgány okresních pojišťoven
+
+### § 17
+
+(1) Orgány Pojišťovny a orgány okresních pojišťoven zabezpečují účast pojištěnců, zaměstnavatelů pojištěnců a státu na řízení Pojišťovny.
+
+(2) Orgány Pojišťovny jsou Sbor zástupců, Správní rada Ústřední pojišťovny a Dozorčí rada.
+
+(3) Orgány okresních pojišťoven jsou Správní rada a Dozorčí rada.
+
+### § 18
+
+(1) Členem orgánu Pojišťovny nebo orgánu Okresní pojišťovny anebo jeho náhradníkem může být jen bezúhonný občan České a Slovenské Federativní Republiky s trvalým bydlištěm na území České republiky, který dosáhl věku nejméně 25 let.
+
+(2) Do každého orgánu Pojišťovny nebo orgánu Okresní pojišťovny jsou na stejné funkční období voleni nebo jmenováni nejméně tři náhradníci. Náhradníci nastupují na místo členů, jejichž členství je ukončeno v průběhu jejich funkčního období anebo na místo členů, kteří nemohou z vážných důvodů po dobu přesahující jeden kalendářní měsíc plnit úkoly vyplývající z jejich funkce v Pojišťovně nebo Okresní pojišťovně. Náhradník vykonává funkci za člena jen po dobu, po kterou vážné důvody na straně člena trvají.
+
+(3) Člen Správní rady Ústřední pojišťovny nebo Okresní pojišťovny nemůže být současně členem Dozorčí rady Pojišťovny nebo Okresní pojišťovny a nemůže jím být ani v následujícím funkčním období. Člen Správní rady Ústřední pojišťovny nemůže být současně ani členem Správní rady Okresní pojišťovny, člen Dozorčí rady Pojišťovny nemůže být současně členem Dozorčí rady Okresní pojišťovny.
+
+(4) Funkční období člena orgánu Pojišťovny nebo orgánu Okresní pojišťovny činí dva roky.
+
+(5) Jmenovaný člen orgánu Pojišťovny nebo orgánu Okresní pojišťovny může vykonávat opětovně tutéž funkci nejvýše ve dvou po sobě následujících funkčních obdobích.
+
+(6) Člen orgánu Pojišťovny nebo orgánu Okresní pojišťovny nevykonává svou funkci v pracovněprávním vztahu k Pojišťovně s výjimkou ředitele Pojišťovny. Má nárok na náhradu výdajů spojených s výkonem funkce. Za výkon funkce mu lze poskytnout odměnu, o které rozhoduje Sbor zástupců.
+
+(7) Pravidla jednání a způsob rozhodování orgánů Pojišťovny a orgánů Okresní pojišťovny upraví jednací řád Pojišťovny.
+
+### § 19 — Sbor zástupců
+
+(1) Sbor zástupců jako nejvyšší orgán Pojišťovny rozhoduje o zásadních otázkách týkajících se její činnosti jako celku, zejména:
+
+a) schvaluje stanovy, organizační a jednací řád Pojišťovny,
+
+b) schvaluje zprávu o činnosti Pojišťovny,
+
+c) rozhoduje o věcech přesahujících rámec běžného hospodaření,
+
+d) rozhoduje o věcech společného zájmu Ústřední pojišťovny a okresních pojišťoven,
+
+e) schvaluje rozpočet a účetní závěrku předložené Správní radou Ústřední pojišťovny po projednání v Dozorčí radě Pojišťovny a výroční zprávu Pojišťovny.
+
+(2) Sbor zástupců se skládá ze všech členů Správní rady Ústřední pojišťovny, jednoho zástupce ředitelství Ústřední pojišťovny a jednoho zástupce Správní rady z každé Okresní pojišťovny.
+
+### § 20 — Správní rada Ústřední pojišťovny
+
+(1) Správní rada Ústřední pojišťovny rozhoduje o důležitých věcech, které souvisí s činností Ústřední pojišťovny a předkládá výroční zprávu o činnosti Pojišťovny Sboru zástupců.
+
+(2) Správní radu tvoří deset členů – zástupců státu, deset členů – zástupců pojištěnců a deset členů – zástupců zaměstnavatelů pojištěnců. Správní rada je schopna se usnášet, je-li přítomna nadpoloviční většina jejích členů. K platnosti rozhodnutí je třeba nadpoloviční většiny přítomných členů.
+
+(3) Správní rada volí ze svého středu předsedu a místopředsedu Správní rady.
+
+(4) Předseda, popřípadě místopředseda svolává a řídí jednání Správní rady.
+
+(5) Zástupce státu do Správní rady jmenuje vláda České republiky.
+
+(6) Zástupce pojištěnců do Správní rady volí Česká národní rada.
+
+(7) Zástupce zaměstnavatelů pojištěnců do Správní rady jmenuje organizace podnikatelů zřízená podle zvláštního zákona.
+
+### § 21 — Dozorčí rada Pojišťovny
+
+(1) Dozorčí rada Pojišťovny dohlíží na dodržování právních předpisů a vnitřních předpisů Pojišťovny a její celkové hospodaření. Za tím účelem jsou její členové oprávněni nahlížet do účetních dokladů všech organizačních složek Pojišťovny a orgánů Pojišťovny a zjišťovat stav a způsob hospodaření Pojišťovny.
+
+(2) Dozorčí rada Pojišťovny projednává rozpočet a účetní závěrku pojišťovny a své stanovisko předkládá Sboru zástupců.
+
+(3) Dozorčí radu Pojišťovny tvoří tři členové – zástupci státu, tři členové – zástupci pojištěnců a tři členové – zástupci zaměstnavatelů pojištěnců.
+
+(4) Zástupce státu jmenuje do Dozorčí rady Pojišťovny ministerstvo financí České republiky, ministerstvo práce a sociálních věcí České republiky a ministerstvo zdravotnictví České republiky.
+
+(5) Zástupce pojištěnců volí do Dozorčí rady Pojišťovny Česká národní rada.
+
+(6) Zástupce zaměstnavatelů pojištěnců jmenuje do Dozorčí rady Pojišťovny organizace podnikatelů zřízená podle zvláštního zákona.
+
+### § 22 — Správní rada Okresní pojišťovny
+
+(1) Správní rada Okresní pojišťovny rozhoduje o všech otázkách činnosti Okresní pojišťovny, pokud si rozhodování o nich nevyhradí Správní rada Ústřední pojišťovny. Schvaluje organizační řád Okresní pojišťovny.
+
+(2) Správní rada Okresní pojišťovny schvaluje zprávy o kontrole a zprávu o činnosti předložené jí Dozorčí radou Okresní pojišťovny.
+
+(3) Správní rada Okresní pojišťovny má devět členů. Tvoří ji pět zástupců pojištěnců a čtyři zástupci zaměstnavatelů pojištěnců.
+
+(4) Správní rada Okresní pojišťovny volí ze svého středu předsedu a místopředsedu. Předseda, popřípadě místopředseda svolává a řídí jednání Správní rady Okresní pojišťovny. Správní rada Okresní pojišťovny je schopna se usnášet, je-li přítomna nadpoloviční většina jejích členů. K platnosti rozhodnutí je třeba nadpoloviční většiny přítomných členů.
+
+(5) Zástupce pojištěnců volí okresní shromáždění okresu, v němž má Okresní pojišťovna sídlo. Zástupce pojištěnců Pražské okresní pojišťovny volí zastupitelstvo hlavního města Prahy a zastupitelstva statutárních měst, pokud se dělí na obvody.
+
+(6) Zástupce zaměstnavatelů pojištěnců jmenuje organizace podnikatelů zřízená podle zvláštního zákona.
+
+### § 23 — Dozorčí rada Okresní pojišťovny
+
+(1) Dozorčí rada Okresní pojišťovny dohlíží na dodržování právních předpisů a vnitřních předpisů Pojišťovny v rámci příslušné Okresní pojišťovny. Za tím účelem jsou její členové oprávněni nahlížet do účetních dokladů příslušné Okresní pojišťovny a Správní rady Okresní pojišťovny a zjišťovat stav a způsob hospodaření příslušné Okresní pojišťovny.
+
+(2) Dozorčí rada Okresní pojišťovny kontroluje účetní závěrky a předkládá je Správní radě Okresní pojišťovny ke schválení.
+
+(3) Dozorčí rada Okresní pojišťovny má pět členů. Tvoří ji tři zástupci pojištěnců a dva zástupci zaměstnavatelů pojištěnců.
+
+(4) Zástupce pojištěnců volí okresní shromáždění okresu, v němž má pobočka sídlo. Zástupce pojištěnců Pražské okresní pojišťovny volí zastupitelstvo hlavního města Prahy a zastupitelstva statutárních měst, pokud se dělí na obvody.
+
+(5) Zástupce zaměstnavatelů pojištěnců jmenuje organizace podnikatelů zřízená podle zvláštního zákona.
+
+## ČÁST PÁTÁ — Informační systém Pojišťovny
+
+### § 24
+
+(1) Ústřední pojišťovna spravuje, aktualizuje a rozvíjí informační systém Pojišťovny. Okresní pojišťovny a úřadovny jsou uživateli tohoto systému.
+
+(2) Používání údajů informačního systému Pojišťovny je výhradním právem Pojišťovny a je chráněno služebním tajemstvím. Pro řízení zdravotnictví poskytuje Pojišťovna bezplatně informace oprávněným orgánům státní správy.
+
+(3) Pracovníci zdravotních pojišťoven a členové jejich orgánů jsou povinni zachovávat mlčenlivost o skutečnostech, které se dozvěděli v souvislosti se svou činností pro Pojišťovnu. Tato povinnost trvá i po skončení jejich funkce nebo pracovněprávního vztahu k Pojišťovně.
+
+(4) Informace je možno poskytovat ze závažných důvodů se souhlasem správní rady a smluvních partnerů Pojišťovny, kterých se údaje dotýkají. Informace, které se týkají jednotlivého pojištěného je možno poskytovat s jeho souhlasem.
+
+(5) Poskytování údajů informačního systému se provádí na základě smlouvy.
+
+## ČÁST ŠESTÁ — Společná, přechodná a závěrečná ustanovení
+
+### § 25
+
+Základní fond Pojišťovny je tvořen v roce 1992 příděly ze státního rozpočtu České republiky.
+
+### § 26
+
+Pojišťovna je povinna v období prvních dvou let od nabytí účinnosti tohoto zákona uzavřít smlouvu s každým zdravotnickým zařízením, které o to požádá. Každé zdravotnické zařízení je v tomto období povinno uzavřít smlouvu s Pojišťovnou, pokud o to Pojišťovna požádá. Tato povinnost se v roce 1992 nevztahuje na zdravotnická zařízení financovaná ze státního rozpočtu České republiky.
+
+### § 27
+
+Správní rada Ústřední pojišťovny, Dozorčí rada Pojišťovny, Správní rada Okresní pojišťovny a Dozorčí rada Okresní pojišťovny se ustaví do šesti měsíců ode dne účinnosti tohoto zákona. Česká národní rada zvolí ředitele Pojišťovny do jednoho měsíce od nabytí účinnosti tohoto zákona.
+
+### § 28
+
+(1) Účinností tohoto zákona zaniká Správa všeobecného zdravotního pojištění, zřízená při ministerstvu zdravotnictví České republiky.
+
+(2) Právním nástupcem této organizace se dnem účinnosti tohoto zákona stává Pojišťovna.
+
+### § 29
+
+Tento zákon nabývá účinnosti dnem 1. ledna 1992 s výjimkou § 4 písm. a) a § 7 písm. b), pokud jde o poskytnutí finančních prostředků ze státního rozpočtu České republiky, které nabývají účinnosti dnem 1. ledna 1993.
+
+Burešová v. r.
+
+Pithart v. r.
+
+## Poznámky pod čiarou
+
+1) § 4 zákona ČNR č. 550/1991 Sb., o všeobecném zdravotním pojištění.

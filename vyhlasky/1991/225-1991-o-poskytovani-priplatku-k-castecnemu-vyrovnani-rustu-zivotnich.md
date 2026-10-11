@@ -1,0 +1,74 @@
+---
+title: "Vyhláška ministerstva práce a sociálních věcí České republiky o poskytování příplatku k částečnému vyrovnání růstu životních nákladů v organizacích, které neprovozují podnikatelskou činnost"
+identifier: "225/1991 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1991/225/"
+type: decree
+jurisdiction: sk
+language: cs
+date: 1991-05-31
+last_amended: 1991-05-31
+status: in_force
+consolidated_version: "/SK/ZZ/1991/225/19910531"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1991/225/19910531"
+retrieved: 2026-10-12
+---
+
+# Vyhláška ministerstva práce a sociálních věcí České republiky o poskytování příplatku k částečnému vyrovnání růstu životních nákladů v organizacích, které neprovozují podnikatelskou činnost
+
+**225**
+
+**VYHLÁŠKA**
+
+**ministerstva práce a sociálních věcí České republiky**
+
+**ze dne 15. května 1991,**
+
+**o poskytování příplatku k částečnému vyrovnání růstu životních nákladů v organizacích, které neprovozují podnikatelskou činnost**
+
+Ministerstvo práce a sociálních věcí České republiky stanoví podle § 123 odst. 2 písm. b) č. 1 a odst. 3 zákoníku práce, ve znění zákona č. 3/1991 Sb.:
+
+## § 1
+
+Tato vyhláška upravuje poskytování příplatku k částečnému vyrovnání růstu životních nákladů (dále jen „příplatek“) pracovníkům rozpočtových<sup>1</sup>) a příspěvkových<sup>2</sup>) organizací a dalších organizací neprovozujících podnikatelskou činnost, které mají sídlo na území České republiky a nejsou řízeny federálními ústředními orgány.
+
+## § 2
+
+(1) Výše příplatku pro pracovníky rozpočtových a příspěvkových organizací činí nejméně 200 Kčs měsíčně.<sup>3</sup>)
+
+(2) Rozpočtové a příspěvkové organizace mohou v rámci přípustného objemu mzdových prostředků, který zjišťují podle zvláštního předpisu,<sup>4</sup>) stanovit jednotně pro všechny pracovníky nebo diferencovaně příplatek ve vyšší částce, než je částka stanovená v odstavci 1.
+
+(3) Pracovníku s kratší pracovní dobou<sup>5</sup>) nebo pracovníku, který neodpracoval stanovenou týdenní pracovní dobu,<sup>6</sup>) náleží příplatek ve výši odpovídající odpracované pracovní době.
+
+## § 3
+
+Organizace, které neprovozují podnikatelskou činnost a nejsou rozpočtovými nebo příspěvkovými organizacemi, mohou poskytovat pracovníkům příplatek v rámci svých mzdových prostředků.
+
+## § 4
+
+Bližší podmínky pro poskytování příplatku a jeho výši stanoví organizace ve vnitřním mzdovém předpisu nebo sjednají v kolektivní smlouvě.
+
+## § 5
+
+Příplatek podle této vyhlášky vyplatí organizace pracovníkům poprvé za měsíc květen.
+
+## § 6
+
+Tato vyhláška nabývá účinnosti dnem vyhlášení.
+
+Ministr:
+
+Ing. Horálek CSc. v. r.
+
+## Poznámky pod čiarou
+
+1) § 60 hospodářského zákoníku.
+
+2) § 62 hospodářského zákoníku.
+
+3) § 111 odst. 1 a 2 zákoníku práce.
+
+4) § 3 odst. 3, § 5 odst. 4, § 9 odst. 3 a § 11 odst. 4 vyhlášky federálního ministerstva práce a sociálních věcí č. 145/1991 Sb., o usměrňování mzdových prostředků rozpočtových a příspěvkových organizací.
+
+5) § 86 zákoníku práce.
+
+6) § 83 zákoníku práce.

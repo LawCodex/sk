@@ -1,0 +1,420 @@
+---
+title: "Vyhláška ministerstva vnitra České republiky o zvláštní odborné způsobilosti pracovníků okresních úřadů a jejím ověřování"
+identifier: "260/1991 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1991/260/"
+type: decree
+jurisdiction: sk
+language: cs
+date: 1991-06-28
+last_amended: 1991-07-01
+status: in_force
+consolidated_version: "/SK/ZZ/1991/260/19910701"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1991/260/19910701"
+retrieved: 2026-10-12
+---
+
+# Vyhláška ministerstva vnitra České republiky o zvláštní odborné způsobilosti pracovníků okresních úřadů a jejím ověřování
+
+**260**
+
+**VYHLÁŠKA**
+
+**ministerstva vnitra České republiky**
+
+**ze dne 24. května 1991**
+
+**o zvláštní odborné způsobilosti pracovníků okresních úřadů a jejím ověřování**
+
+Ministerstvo vnitra České republiky (dále jen „ministerstvo vnitra“) stanoví podle § 16 odst. 1 zákona České národní rady č. 425/1990 Sb., o okresních úřadech, úpravě jejich působnosti a o některých dalších opatřeních s tím souvisejících, v dohodě s příslušnými ústředními orgány státní správy České republiky:
+
+## § 1 — Základní ustanovení
+
+(1) Vyhláška stanoví okruh pracovníků okresních úřadů (dále jen „pracovníci“), kteří pro výkon své pracovní činnosti potřebují zvláštní odbornou způsobilost, obsah zvláštní odborné způsobilosti, způsob jejího ověřování a její organizační zabezpečení a formy jejího dalšího zdokonalování.
+
+(2) Okruh pracovníků je určen a obsah zvláštní odborné způsobilosti vymezen v příloze č. 1, která je součástí této vyhlášky.
+
+(3) Zvláštní odborná způsobilost je souhrn odborných znalostí a praktických zkušeností nezbytných pro řádný výkon činností vyplývajících z pracovní smlouvy.
+
+## § 2 — Ověřování zvláštní odborné způsobilosti
+
+(1) Ověření zvláštní odborné způsobilosti (dále jen „ověření“) se podrobí pracovník, který ode dne účinnosti této vyhlášky vykonává nebo bude vykonávat činnost, pro kterou potřebuje zvláštní odbornou způsobilost (dále jen „činnost“).
+
+(2) Povinnost podrobit se ověření může prominout přednosta okresního úřadu pracovníkovi, jemuž do dvou let ode dne, do kterého je nejpozději povinen podat přihlášku ke zkoušce (§ 3 odst. 1), vznikne nárok na starobní důchod.
+
+(3) Pokud pracovní náplň pracovníka sestává z více činností, určí okresní úřad, u něhož je pracovník v pracovním poměru (dále jen „příslušný okresní úřad“), pro kterou z těchto činností bude ověření provedeno.
+
+(4) Ověření provádí zkušební komise formou ústní nebo písemné zkoušky anebo písemného testu, popřípadě kombinací těchto forem (dále jen „zkouška“).
+
+## § 3 — Přihláška ke zkoušce
+
+(1) Ke zkoušce se pracovník přihlašuje prostřednictvím příslušného okresního úřadu Institutu pro místní správu ministerstva vnitra (dále jen „Institut“). Přihlášku je pracovník povinen podat nejpozději do 6 měsíců od počátku účinnosti této vyhlášky, pokud činnost již vykonává, jinak do 6 měsíců od počátku výkonu činnosti; do této doby se nezapočítávají doba mateřské dovolené, další mateřské dovolené, vojenské základní (náhradní) služby, civilní služby, ani doba uvolnění pro výkon veřejné funkce.
+
+(2) V přihlášce uvede pracovník
+
+a) své jméno, příjmení, rodné číslo a bydliště,
+
+b) činnost, pro kterou žádá ověření,
+
+c) zvolenou formu přípravy (§ 5 odst. 1).
+
+## § 4 — Náplň zkoušky
+
+Ústřední orgán státní správy, který řídí výkon státní správy na úseku, do kterého činnost patří (dále jen „příslušný ústřední orgán státní správy“), určí okruh otázek tvořících náplň zkoušky i formu jejího provádění a předá je Institutu; přitom vychází z obsahu zvláštní odborné způsobilosti uvedené v příloze č. 1 této vyhlášky. Okruh otázek a seznam literatury zašle Institut pracovníkovi do 30 dnů ode dne doručení přihlášky ke zkoušce.
+
+## § 5 — Příprava ke zkoušce
+
+(1) Příprava ke zkoušce se uskutečňuje buď organizovaným studiem formou seminářů nebo konzultací anebo studiem individuálním. Formu přípravy, kterou si pracovník zvolí, a plán jejího provádění předem dohodne s příslušným okresním úřadem.
+
+(2) Organizované studium zabezpečuje ministerstvo vnitra prostřednictvím Institutu; v dohodě s příslušnými okresními úřady lze organizovat konzultace též mimo sídlo Institutu.
+
+## § 6 — Konání zkoušky
+
+Termín konání zkoušky určuje Institut. Zkouška se koná zpravidla na závěr posledního semináře organizovaného studia. Současně se podrobí zkoušce i pracovníci, kteří se připravovali ke zkoušce formou konzultací nebo individuálním studiem. V dohodě s příslušnými okresními úřady lze zkoušky organizovat i mimo sídlo Institutu.
+
+## § 7 — Zkušební komise
+
+(1) Zkušební komisi zřizuje ministerstvo vnitra; jejího předsedu a další členy jmenuje z řad odborníků z oboru činností zahrnutých do obsahu zvláštní odborné způsobilosti tak, aby dvěma členy zkušební komise byly vždy odborní pracovníci pověření příslušným ústředním orgánem státní správy.
+
+(2) Zkušební komise jedná a rozhoduje v tříčlenném složení a usnáší se většinou hlasů.
+
+(3) Práva a povinnosti zkušební komise, jakož i způsob provádění a hodnocení zkoušek, upravuje zkušební řád uvedený v příloze č. 2, která je součástí této vyhlášky.
+
+## § 8 — Osvědčení o zvláštní odborné způsobilosti
+
+(1) Zkušební komise oznámí výsledek zkoušky pracovníkovi ústně ihned po jejím vykonání a protokol o zkoušce a jejím výsledku zašle příslušnému okresnímu úřadu.
+
+(2) Pracovníkovi, který úspěšně vykonal zkoušku, vydá zkušební komise osvědčení o zvláštní odborné způsobilosti (dále jen „osvědčení“).
+
+(3) V osvědčení se uvede činnost, kterou může pracovník na základě osvědčení vykonávat, datum vydání osvědčení, razítko ministerstva vnitra a podpis předsedy zkušební komise.
+
+## § 9 — Platnost osvědčení
+
+(1) Osvědčení je platné pro výkon činnosti u všech okresních úřadů v České republice.
+
+(2) Ministerstvo vnitra organizuje prostřednictvím Institutu doplňkové školení pracovníků, kterým bylo vydáno osvědčení; příslušný okresní úřad může pracovníku uložit účast na tomto školení.<sup>1</sup>)
+
+(3) Příslušný okresní úřad může uložit pracovníku povinnost podrobit se novému ověření, pokud došlo k zásadním změnám právní úpravy na příslušném úseku státní správy.
+
+(4) Jestliže se pracovník bez důležitého důvodu nepodrobí ověření, které mu bylo uloženo podle odstavce 3, nebo zkoušku nevykoná úspěšně, anebo se nezúčastní doplňkového školení, pozbude osvědčení platnosti.
+
+(5) Osvědčení nenahrazuje kvalifikační předpoklady vzdělání a praxe stanovené pro jednotlivé funkce.
+
+## § 10 — Hrazení nákladů
+
+Náklady spojené s organizovanou přípravou pracovníků ke zkoušce a zkouškou hradí příslušný okresní úřad.
+
+## Společná, přechodná a závěrečná ustanovení
+
+### § 11
+
+Příprava ke zkoušce, která byla zahájena přede dnem nabytí účinnosti této vyhlášky, a provedení zkoušky u pracovníků, kteří se této přípravy zúčastní, se uskuteční podle dosavadního předpisu.<sup>2</sup>)
+
+### § 12
+
+Osvědčení vydaná podle dosavadního předpisu<sup>2</sup>) se uznávají za osvědčení podle této vyhlášky.
+
+### § 13
+
+(1) Podle této vyhlášky se postupuje v případě ověřování odborné způsobilosti pracovníků obecních úřadů a členů zvláštních orgánů zřízených obecní radou, která se považuje za požadavek nezbytný pro řádný výkon práce,<sup>3</sup>) pokud o to obce požádají prostřednictvím okresních úřadů Institut.
+
+(2) Prokazování způsobilosti k vedení matrik podle zvláštních předpisů<sup>4</sup>) není touto vyhláškou dotčeno.
+
+### § 14
+
+Tato vyhláška nabývá účinnosti dnem 1. července 1991.
+
+Ministr:
+
+v z. JUDr. Drbohlav v. r.
+
+I. náměstek
+
+## Prílohy
+
+### Příloha č. 1 k vyhlášce č. 260/1991 Sb.
+
+**Určení okruhu pracovníků a obsah zvláštní odborné způsobilosti**
+
+I. Ověřování zvláštní odborné způsobilosti se vztahuje na odborné pracovníky, včetně vedoucích referátů a vedoucích případných oddělení (dále jen „pracovníci“), kteří vykonávají pracovní činnosti uvedené v bodě III.
+
+II. Pro všechny pracovníky uvedené v této příloze jsou základními předpoklady zvláštní odborné způsobilosti:
+
+znalost
+
+III. Pro jednotlivé druhy pracovních činností tvoří obsah zvláštní odborné způsobilosti zejména tyto další znalosti:
+
+1) pro pracovníky v přestupkové agendě na úsecích veřejného pořádku, ve věcech občanského soužití a ve věcech majetkových
+
+znalost
+
+základů trestního zákona a trestního řádu,
+
+metodiky přestupkového řízení,
+
+evidence, statistiky a rozborové činnosti v přestupkové agendě;
+
+2) pro pracovníky zabezpečující činnosti na úseku územního plánování
+
+znalost
+
+právních předpisů a instrukcí týkajících se územního plánování, ochrany vod, zemědělského a lesního půdního fondu, ochrany přírody a památek v územně plánovací činnosti,
+
+problematiky evidence nemovitostí,
+
+principů, metod a nástrojů územního plánování, střediskové soustavy osídlení a urbanizace území,
+
+problematiky tvorby a ochrany životního prostředí v územně plánovací činnosti;
+
+3) pro pracovníky uskutečňující výkon státní správy na úseku územního řízení a stavebního řádu
+
+znalost
+
+právních předpisů, instrukcí i technických norem upravujících územní řízení, využívání území a ochranu nejdůležitějších zájmů v území včetně ochrany vod, zemědělského a lesního půdního fondu, ochrany přírody a památek, povolování staveb a jejich změn, terénních úprav, prací a zařízení, kolaudací staveb a změn v užívání staveb, udržování a odstraňování staveb, vyvlastňovací řízení, ukládání pokut,
+
+udělování oprávnění k projektové činnosti,
+
+problematiky dozorů a dohledů ve výstavbě,
+
+odborné problematiky pro rozhodování ve stavebně technických otázkách,
+
+informačních systémů ve výstavbě,
+
+problematiky tvorby a ochrany životního prostředí,
+
+problematiky odpadového hospodářství a ochrany ovzduší,
+
+právních předpisů a instrukcí týkajících se povolování a provádění trhacích prací malého rozsahu a ohňostrojných prací;
+
+4) pro pracovníky uskutečňující vodoprávní řízení a vodohospodářský dozor
+
+znalost
+
+právních předpisů a instrukcí o vodách a vodním hospodářství a státní správě ve věcech vodního hospodářství, dále ve věcech ochrany a využití nerostného bohatství, evidence nemovitostí a územního plánování a stavebního řádu,
+
+směrného vodohospodářského plánu,
+
+předpisů o ochraně zemědělského a lesního půdního fondu a lesního hospodářství, pokud řeší vztahy ke zřizování a rozšiřování ochranných pásem vodních zdrojů,
+
+problematiky odpadového hospodářství,
+
+problematiky tvorby a ochrany životního prostředí;
+
+5) po pracovníky uskutečňující výkon státní správy na úseku lesního hospodářství
+
+znalost
+
+právních předpisů na úseku lesního hospodářství, ochrany lesního a zemědělského půdního fondu a evidence nemovitostí, včetně instrukcí,
+
+právních předpisů na úseku územního plánování a stavebního řádu, ochrany přírody a životního prostředí, zemědělského družstevnictví, užívání půdy, pozemkových úprav,
+
+zásad zákonů o ochraně nerostných surovin, o drahách, myslivosti, silničního, plynárenského a elektrifikačního zákona, zejména ve vztahu k ochraně lesa a zemědělského a lesního půdního fondu,
+
+zásad lesního hospodářského plánování a kontrolní činnosti;
+
+6) pro pracovníky uskutečňující výkon státní správy na úseku zemědělství
+
+znalost
+
+právních předpisů a instrukcí, týkajících se
+
+ochrany zemědělského půdního fondu a ochrany přírody,
+
+vlastnických a uživatelských vztahů k půdě, zemědělského družstevnictví,
+
+účelu a cílů pozemkových úprav, jejich forem, závaznosti a celkového systému řízení, evidence nemovitostí a pozemkových reforem,
+
+ochrany rostlinné a živočišné výroby,
+
+myslivosti a rybářství;
+
+7) pro pracovníky uskutečňující výkon státní správy na úseku sociální péče
+
+znalost
+
+právních předpisů v sociálním zabezpečení,
+
+právních předpisů z oblasti zdravotnictví, zejména vyhlášky o poskytování lázeňské péče ve státních lázních,
+
+metod sociální práce,
+
+základních zásad sociální a zdravotní politiky státu,
+
+zákona o rodině,
+
+zákona o nemocenském pojištění zaměstnanců,
+
+základů občanského zákoníku a občanského soudního řádu,
+
+základů trestního zákona a trestního řádu,
+
+právních předpisů o pěstounské péči, rodičovském příspěvku a o státním vyrovnávacím příspěvku;
+
+8) pro pracovníky uskutečňující výkon státní správy na úseku hospodaření s byty a nebytovými prostory a rozhodujících o úhradě za užívání bytu
+
+znalost
+
+právních předpisů a instrukcí týkajících se hospodaření s byty a nebytovými prostory, prodeje bytů do osobního vlastnictví a úhrady za užívání bytů a nebytových prostor, ochrany a správy národního majetku a správy a údržby domovního a bytového fondu;
+
+9) pro pracovníky uskutečňující výkon státní správy na úseku silniční a městské dopravy a silničního hospodářství
+
+znalost
+
+právních předpisů a instrukcí týkajících se vnitrostátní silniční a městské dopravy a vybraných právních předpisů týkajících se mezinárodní silniční dopravy,
+
+právních předpisů, instrukcí a technic-kých norem týkajících se oboru silničního hospodářství;
+
+10) pro pracovníky uskutečňující výkon státní správy na úseku matrik a státního občanství
+
+znalost
+
+právních předpisů týkajících se matrik a státního občanství,
+
+vybraných partií vztahujících se k uvedené problematice, ze zákona o rodině, zákona o mezinárodním právu soukromém a procesním, mezinárodních smluv, zejména smluv o právní pomoci a konzulárních úmluv, zákona a vyhlášky o správních poplatcích, zákona a vyhlášky o občanských průkazech,
+
+metodiky kontrolní a řídící práce na úseku matrik a státního občanství;
+
+11) pro pracovníky uskutečňující výkon státní správy na úseku soukromého podnikání
+
+znalost zákonů a ostatních právních předpisů týkajících se soukromého podnikání;
+
+12) pro pracovníky uskutečňující výkon státní správy na úseku kultury
+
+znalost
+
+právních předpisů z oblasti kultury a ochrany památek,
+
+základní znalosti řízení a ekonomického zabezpečení kultury,
+
+základní znalosti z oboru pedagogiky, psychologie a sociologie;
+
+13) pro pracovníky uskutečňující výkon státní správy na úseku ochrany přírody
+
+znalost
+
+právních předpisů a metodických pokynů týkajících se státní ochrany přírody,
+
+principů, metod a nástrojů územně plánovací činnosti a evidence nemovitostí,
+
+problematiky tvorby a ochrany životního prostředí, odpadového hospodářství a ochrany ovzduší;
+
+14) pro pracovníky uskutečňující výkon státní správy na úseku ochrany zemědělského půdního fondu
+
+znalost
+
+právních předpisů a instrukcí týkajících se ochrany zemědělského půdního fondu včetně souvisejících ustanovení ostatních právních předpisů, zejména zákon o územním plánování a stavebním řádu,
+
+problematiky odpadového hospodářství;
+
+15) pro pracovníky uskutečňující výkon státní správy na úseku zdravotnictví
+
+znalost
+
+zákona o péči o zdraví lidu,
+
+zákona o úhradě nákladů vznikajících státu z úrazů, nemocí z povolání a jiných poškození na zdraví (o regresních náhradách),
+
+vyhlášek o postavení, organizaci a činnosti ústavů národního zdraví; o zásadách soustavy zdravotnických zařízení,
+
+zákona o pokutách za porušování právních předpisů o vytváření a ochraně zdravých životních podmínek,
+
+školského zákona a zákona ČNR o státní správě a samosprávě ve školství,
+
+vyhlášky o zdravotnických pracovnících a jiných odborných pracovnících ve zdravotnictví,
+
+předpisů o výkonu zdravotnických služeb včetně soukromých ordinací, preventivním zdravotnictví, rehabilitační péči, dozoru nad soukromými ordinacemi a nestátními zařízeními a pohřebnictví;
+
+16) pro pracovníky uskutečňující výkon státní správy na úseku statistiky
+
+znalost
+
+právních předpisů o jednotné soustavě sociálně ekonomických informací a o působnosti orgánů České republiky v oblasti sociálně ekonomických informací;
+
+17) pro pracovníky uskutečňující výkon státní správy na úseku finančního hospodářství
+
+znalost
+
+právních předpisů a instrukcí v oblasti rozpočtové skladby pro okresní a obecní úřady,
+
+právních předpisů a instrukcí v oblasti odvodů, místních daní a poplatků,
+
+právních předpisů a instrukcí v oblasti revizní činnosti.
+
+### Příloha č. 2 k vyhlášce č. 260/1991 Sb.
+
+**Zkušební řád pro ověřování zvláštní odborné způsobilosti pracovníků okresních úřadů**
+
+I. Práva a povinnosti zkušební komise a jejího předsedy
+
+1. Zkušební komise
+
+a) sestaví zkušební otázky pro ústní zkoušku, popřípadě témata nebo text pro písemnou zkoušku, a to z okruhu otázek tvořících náplň zkoušky, určeného příslušným ústředním orgánem státní správy,
+
+b) seznámí pracovníky s organizací a průběhem zkoušky, s jejich právy a povinnostmi a se způsobem hodnocení zkoušky,
+
+c) může vyloučit ze zkoušky pracovníka, který při přípravě nebo v průběhu zkoušky použije nedovolené pomůcky nebo prostředky,
+
+2. Předseda zkušební komise
+
+a) ověřuje totožnost pracovníků podle osobních dokladů a podle přihlášky,
+
+b) řídí jednání a práci zkušební komise,
+
+c) dbá na jednotný a správný postup zkušební komise,
+
+d) rozhoduje o sporných otázkách souvisejících se zkouškou,
+
+e) zabezpečuje protokolární záznam o průběhu a výsledku zkoušky.
+
+II. Zkoušky k ověření zvláštní odborné způsobilosti
+
+Ústní zkouška
+
+1. Pracovník odpovídá zpravidla na dvě ze zkušebních otázek sestavených zkušební komisí.
+
+2. Pracovník se může připravovat na odpověď po dobu 15 minut.
+
+3. Ústní zkouška nesmí trvat déle než 30 minut.
+
+Písemná zkouška
+
+1. Před započetím písemné zkoušky sdělí předseda zkušební komise pracovníkům dobu stanovenou pro vypracování písemné práce.
+
+2. Písemná zkouška nesmí trvat déle než 2 hodiny.
+
+Zkouška písemným testem
+
+1. Pro vykonání zkoušky písemným testem se stanoví časový limit, který nesmí přesáhnout 1 hodinu.
+
+2. Hodnocení odpovědí se provádí bodovacím systémem, s jehož pravidly musí být pracovníci seznámeni před zahájením zkoušky.
+
+III. Hodnocení výsledků zkoušky
+
+1. Zkouška se hodnotí stupněm „vyhověl“ nebo „nevyhověl“.
+
+2. Klasifikačním stupněm „vyhověl“ se hodnotí pracovník, který prokázal, že ovládá v požadované míře stanovenou látku a jejímu obsahu rozumí teoreticky i prakticky.
+
+3. Klasifikačním stupněm „nevyhověl“ se hodnotí pracovník, v jehož znalostech se při zkoušce projevily značné nedostatky.
+
+4. Klasifikačním stupněm „nevyhověl“ se hodnotí rovněž pracovník, který byl ze zkoušky vyloučen.
+
+5. Pracovníka, který byl hodnocen klasifikačním stupněm „nevyhověl“, poučí zkušební komise o možnosti a podmínkách opakování zkoušky.
+
+IV. Opakování zkoušky a stanovení náhradního termínu
+
+1. Nevyhoví-li pracovník při zkoušce, může zkoušku opakovat nejvýše dvakrát. Termín opakované zkoušky určí pracovníkovi zkušební komise tak, aby se opakovaná zkouška konala nejdříve po třech měsících a nejdéle do šesti měsíců ode dne zkoušky.
+
+2. Pracovníkovi, který se ke zkoušce nebo opakování zkoušky nemohl dostavit z důležitého důvodu anebo svou neúčast řádně omluvil, stanoví zkušební komise náhradní termín.
+
+3. Jestliže se pracovník ke zkoušce nebo opakování zkoušky nedostaví bez řádné omluvy nebo bez důležitého důvodu, může konat zkoušku jen na základě nové přihlášky.
+
+## Poznámky pod čiarou
+
+1) § 141a zákoníku práce.
+
+§ 126 odst. 3 zákoníku práce.
+
+2) Výnos ministerstva vnitra a životního prostředí České socialistické republiky o zvláštní odborné způsobilosti pracovníků národních výborů pro výkon některých činností, č. j. LK-7696/89-529 ze dne 31. 5. 1989, uveřejněný ve Věstníku vlády ČR pro národní výbory v částce 3/1989 a oznámený ve Sbírce zákonů v částce 17/1989.
+
+3) § 46 odst. 1 písm. e) zákoníku práce.
+
+4) § 3 odst. 2 písm. c) vyhlášky federálního ministerstva vnitra č. 22/1977 Sb., kterou se vydávají bližší předpisy k zákonu o matrikách.
