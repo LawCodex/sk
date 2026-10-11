@@ -1,0 +1,44 @@
+---
+title: "Vyhláška Rady Okresného národného výboru v Čadci, ktorou sa určuje Mestský národný výbor v Turzovke ako stavebný úrad I. stupňa"
+identifier: "13/1973 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1973/13/"
+type: decree
+jurisdiction: sk
+language: sk
+date: 1973-02-26
+last_amended: 1973-02-26
+status: in_force
+consolidated_version: "/SK/ZZ/1973/13/19730226"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1973/13/19730226"
+retrieved: 2026-10-12
+---
+
+# Vyhláška Rady Okresného národného výboru v Čadci, ktorou sa určuje Mestský národný výbor v Turzovke ako stavebný úrad I. stupňa
+
+**13**
+
+**VYHLÁŠKA**
+
+**Rady Okresného národného výboru v Čadci**
+
+**zo 17. novembra 1972,**
+
+**ktorou sa určuje Mestský národný výbor v Turzovke ako stavebný úrad I. stupňa**
+
+## § 1
+
+Rada Okresného národného výboru v Čadci určuje podľa § 9 ods. 2 písm. a) zákona č. 87/1958 Zb. o stavebnom poriadku v spojitosti s článkom 2 zákona Slovenskej národnej rady č. 72/1969 Zb. o niektorých opatreniach v organizácii a pôsobnosti národných výborov v Slovenskej socialistickej republike ako stavebný úrad
+
+Mestský národný výbor v Turzovke.
+
+## § 2
+
+Táto vyhláška nadobúda účinnosť dňom vyhlásenia.
+
+Tajomník:
+
+Ing. Gajdošík v. r.
+
+Predseda:
+
+Cyprich v. r.

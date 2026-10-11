@@ -1,0 +1,42 @@
+---
+title: "Nařízení vlády České socialistické republiky, kterým se mění a doplňuje vládní nařízení č. 12/1968 Sb., o úpravě odměn a náhrad a některých dalších poměrů poslanců národních výborů a členů komisí a aktivů národních výborů, ve znění nařízení vlády České socialistické republiky č. 127/1971 Sb. a nařízení vlády České socialistické republiky č. 3/1989 Sb."
+identifier: "117/1989 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1989/117/"
+type: government_regulation
+jurisdiction: sk
+language: cs
+date: 1989-10-30
+last_amended: 1989-11-01
+status: in_force
+consolidated_version: "/SK/ZZ/1989/117/19891101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1989/117/19891101"
+retrieved: 2026-10-12
+---
+
+# Nařízení vlády České socialistické republiky, kterým se mění a doplňuje vládní nařízení č. 12/1968 Sb., o úpravě odměn a náhrad a některých dalších poměrů poslanců národních výborů a členů komisí a aktivů národních výborů, ve znění nařízení vlády České socialistické republiky č. 127/1971 Sb. a nařízení vlády České socialistické republiky č. 3/1989 Sb.
+
+**117**
+
+**NAŘÍZENÍ VLÁDY**
+
+**České socialistické republiky**
+
+**ze dne 18. října 1989,**
+
+**kterým se mění a doplňuje vládní nařízení č. 12/1968 Sb., o úpravě odměn a náhrad a některých dalších poměrů poslanců národních výborů a členů komisí a aktivů národních výborů, ve znění nařízení vlády České socialistické republiky č. 127/1971 Sb. a nařízení vlády České socialistické republiky č. 3/1989 Sb.**
+
+Vláda České socialistické republiky nařizuje podle § 17 odst. 3 zákona č. 69/1967 Sb., o národních výborech, ve znění zákona České národní rady č. 115/1988 Sb., kterým se mění a doplňuje zákon o národních výborech:
+
+## Čl. I.
+
+Vládní nařízení č. 12/1968 Sb., o úpravě odměn a náhrad a některých dalších poměrů poslanců národních výborů a členů komisí a aktivů národních výborů, ve znění nařízení vlády České socialistické republiky č. 127/1971 Sb., kterým se mění a doplňuje vládní nařízení č. 12/1968 Sb. a nařízení vlády České socialistické republiky č. 3/1989 Sb., kterým se mění a doplňuje vládní nařízení č. 12/1968 Sb., ve znění nařízení vlády České socialistické republiky č. 127/1971 Sb., se mění a doplňuje takto:
+
+### § 3 odst. 2 zní:
+
+> „(2) Poslanci národních výborů, na jejichž území je provozována městská hromadná doprava, mohou při výkonu funkce poslance používat na základě předložení poslaneckého průkazu bezplatně dopravní prostředky městské hromadné dopravy v územním obvodu, v němž je městská hromadná doprava provozována.“.
+
+## Čl. II
+
+Toto nařízení nabývá účinnosti dnem 1. listopadu 1989.
+
+Pitra v. r.

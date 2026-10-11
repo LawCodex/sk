@@ -1,0 +1,188 @@
+---
+title: "Vyhláška ministerstva financí, cen a mezd České socialistické republiky o některých místních poplatcích vybíraných v Krkonošském národním parku"
+identifier: "7/1989 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1989/7/"
+type: decree
+jurisdiction: sk
+language: cs
+date: 1989-01-30
+last_amended: 1989-02-01
+status: in_force
+consolidated_version: "/SK/ZZ/1989/7/19890201"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1989/7/19890201"
+retrieved: 2026-10-12
+---
+
+# Vyhláška ministerstva financí, cen a mezd České socialistické republiky o některých místních poplatcích vybíraných v Krkonošském národním parku
+
+**7**
+
+**VYHLÁŠKA**
+
+**ministerstva financí, cen a mezd České socialistické republiky**
+
+**ze dne 13. ledna 1989**
+
+**o některých místních poplatcích vybíraných v Krkonošském národním parku**
+
+Ministerstvo financí, cen a mezd České socialistické republiky stanoví podle § 2 odst. 1 a 2 zákona č. 82/1952 Sb., o místních poplatcích:
+
+## § 1
+
+Místní národní výbory v oblasti Krkonošského národního parku<sup>1</sup>) (dále jen „KRNAP“) vybírají poplatek z ubytovací kapacity v rekreačních nebo školících a rehabilitačních zařízeních organizací v oblasti KRNAP. Východočeský krajský národní výbor v Hradci Králové (dále jen „KNV“) vybírá poplatek za vydání povolení k vjezdu s motorovým vozidlem do vybraných míst KRNAP.
+
+## ČÁST PRVNÍ — POPLATEK Z UBYTOVACÍ KAPACITY V REKREAČNÍCH, ŠKOLÍCÍCH A REHABILITAČNÍCH ZAŘÍZENÍCH ORGANIZACÍ V OBLASTI KRNAP
+
+### § 2
+
+Poplatek z ubytovací kapacity v rekreačních, školících a rehabilitačních zařízeních organizací v oblasti KRNAP (dále jen „poplatek“) platí organizace, které mají právo hospodaření k rekreačním, školícím a rehabilitačním zařízením v oblasti KRNAP nebo jsou vlastníky takových zařízení (dále jen „poplatník“).
+
+### § 3
+
+(1) Sazba poplatku činí 2,- Kčs za každé lůžko a den bez ohledu na jeho využití.
+
+(2) Poplatek se stanoví vynásobením počtu lůžek v objektu podle stavu k 1. lednu každého roku sazbou poplatku podle odstavce 1 a počtem dnů v roce. Do celkového počtu lůžek se nezahrnují lůžka, určená k ubytování pracovníků, zajišťujících provoz objektu.
+
+(3) Poplatek je splatný jednorázově, a to do 31. března každého roku. Poplatník je povinen zaplatit poplatek bez vyměření předem.
+
+### § 4
+
+Od poplatku jsou osvobozeny:
+
+a) Ústřední rada odborů, pokud poskytuje výběrovou rekreaci ve svých zařízeních v oblasti KRNAP,
+
+b) podnik Rekreace členů výrobních družstev, pokud poskytuje výběrovou rekreaci ve svých zařízeních v oblasti KRNAP,
+
+c) federální ministerstvo národní obrany, federální ministerstvo vnitra a ministerstvo vnitra a životního prostředí ČSR, pokud poskytuje výběrovou rekreaci podle právních předpisů o nemocenské péči v ozbrojených silách<sup>2</sup>) ve svých zařízeních v oblasti KRNAP,
+
+d) organizace, působící v oblasti KRNAP, jejichž hlavním předmětem činnosti je poskytování veřejného ubytování a stravování.
+
+### § 5
+
+Poplatek spravuje místní národní výbor, v jehož územním obvodu se rekreační, školící a rehabilitační středisko nachází. Výnos poplatku je příjmem tohoto národního výboru.
+
+## ČÁST DRUHÁ — POPLATEK ZA VYDÁNÍ POVOLENÍ K VJEZDU S MOTOROVÝM VOZIDLEM DO VYBRANÝCH MÍST V OBLASTI KRNAP
+
+### § 6
+
+Poplatek se vybírá za vydání povolení k vjezdu a za setrvání s motorovým vozidlem<sup>3</sup>) ve vybraných místech v oblasti KRNAP (dále jen „vybraná místa“), do kterých je jinak vjezd zakázán.<sup>4</sup>) Seznam vybraných míst je uveden v příloze vyhlášky.
+
+### § 7
+
+Poplatek platí občan nebo organizace, kterým je vydáno povolení k vjezdu s motorovým vozidlem do vybraných míst (dále jen „poplatník“) předem.
+
+### § 8
+
+(1) Sazba poplatku činí 20,- Kčs za vydání povolení k vjezdu a za setrvání s motorovým vozidlem jeden den, za druhý den 20,- Kčs; za třetí a každý další den setrvání s motorovým vozidlem 10,- Kčs denně.
+
+(2) KNV může poplatníkovi stanovit výši poplatku paušální částkou, a to nejvýše částkou 200,- Kčs ročně. Je-li poplatníkem organizace, která ve vybraných místech setrvává s více než jedním motorovým vozidlem, může poplatek stanovený paušální částkou za každé další motorové vozidlo činit až 2000,- Kčs ročně.
+
+(3) Vydané povolení k vjezdu do kteréhokoliv z vybraných míst platí pro vjezd s motorovým vozidlem do všech ostatních vybraných míst.
+
+(4) Způsob a formu vybírání tohoto poplatku stanoví KNV obecně závazným nařízením.
+
+### § 9
+
+Od poplatku jsou osvobozeni:
+
+a) občané, kteří mají trvalý pobyt ve vybraném místě,
+
+b) občané, kteří přechodně pobývají ve vybraném místě při výkonu svého povolání nebo studují na místních školách,
+
+c) občané, kteří jsou držiteli průkazek ZTP a ZTP-P se svými průvodci,
+
+d) socialistické organizace, které mají právo hospodaření nebo jsou vlastníky jiných než rekreačních nebo školících a rehabilitačních zařízení ve vybraném místě,
+
+e) socialistické organizace, které zajišťují zásobování, opravárenské, údržbářské, zdravotnické a sociální služby a veřejnou hromadnou dopravu ve vybraných místech,
+
+f) socialistické organizace, pokud zajišťují přepravu dětí do škol v přírodě ve vybraných místech,
+
+g) ozbrojené síly a ozbrojené složky, pokud se jejich motorová vozidla zdržují ve vybraných místech.
+
+### § 10
+
+Poplatek spravuje KNV. Výnos tohoto poplatku je příjmem tohoto národního výboru.
+
+## ČÁST TŘETÍ — USTANOVENÍ SPOLEČNÁ A ZÁVĚREČNÁ
+
+### § 11
+
+Nebude-li poplatek zaplacen včas nebo ve správné výši, vyměří národní výbor, který poplatek spravuje, nedoplatek platebním výměrem; může jej zvýšit o 10 % nezaplaceného poplatku.
+
+### § 12
+
+(1) Poplatek nelze vyměřit a vymáhat po uplynutí tří let od konce kalendářního roku, v němž se poplatek stal splatným anebo v němž mohl příslušný národní výbor poplatek vyměřit.
+
+(2) Je-li proveden úkon k vyměření a vymáhání poplatku, běží lhůta podle odst. 1 do konce kalendářního roku, v němž byl poplatník o tomto úkonu vyrozuměn.
+
+### § 13
+
+O řízení ve věcech poplatků vybíraných podle této vyhlášky platí zvláštní předpisy.<sup>5</sup>)
+
+### § 14
+
+Tato vyhláška nabývá účinnosti dnem 1. února 1989.
+
+Ministr:
+
+Ing. Nikodým v. r.
+
+## Prílohy
+
+<table>
+<tr>
+<td colspan="2">SEZNAM vybraných míst, v nichž se vybírá místní poplatek za vjezd motorových vozidel do oblasti KRNAP</td>
+</tr>
+<tr>
+<td>Benecko</td>
+<td>Janské Lázně</td>
+</tr>
+<tr>
+<td>Černý Důl</td>
+<td>Pec pod Sněžkou</td>
+</tr>
+<tr>
+<td>Dolní Dvůr</td>
+<td>Rokytnice nad Jizerou</td>
+</tr>
+<tr>
+<td>Dolní Malá Úpa</td>
+<td>Strážné</td>
+</tr>
+<tr>
+<td>Dolní Mísečky</td>
+<td>Špindlerův Mlýn</td>
+</tr>
+<tr>
+<td>Harrachov</td>
+<td>Velká Úpa</td>
+</tr>
+<tr>
+<td>Horní Malá Úpa</td>
+<td>Vítkovice</td>
+</tr>
+<tr>
+<td>Horní Mísečky</td>
+<td>Vrchlabí</td>
+</tr>
+<tr>
+<td>Horní Maršov</td>
+<td>Žacléř</td>
+</tr>
+<tr>
+<td>Mladé Buky</td>
+<td>&nbsp</td>
+</tr>
+</table>
+
+## Poznámky pod čiarou
+
+1) Vládní nařízení č. 41/1963 Sb., o zřízení Krkonošského národního parku.
+
+2) § 11, bod 1b) zákona č. 32/1957 Sb., o nemocenské péči v ozbrojených silách, ve znění pozdějších předpisů.
+
+3) § 7 odst. 3 vyhlášky federálního ministerstva vnitra č. 100/1975 Sb., o pravidlech silničního provozu.
+
+4) Čl. 3 odst. 1 přílohy vyhlášky č. 100/1975 Sb.
+
+5) Vyhláška ministerstva financí č. 16/1962 Sb., o řízení ve věcech daní a poplatků.

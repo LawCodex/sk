@@ -1,0 +1,62 @@
+---
+title: "Zákon České národní rady který se mění a doplňuje zákon České národní rady č. 134/1973 Sb., o působnosti orgánů České socialistické republiky v oblasti cen"
+identifier: "39/1983 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1983/39/"
+type: act
+jurisdiction: sk
+language: cs
+date: 1983-04-28
+last_amended: 1983-07-01
+status: in_force
+consolidated_version: "/SK/ZZ/1983/39/19830701"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1983/39/19830701"
+retrieved: 2026-10-12
+---
+
+# Zákon České národní rady který se mění a doplňuje zákon České národní rady č. 134/1973 Sb., o působnosti orgánů České socialistické republiky v oblasti cen
+
+**39**
+
+**ZÁKON**
+
+**České národní rady**
+
+**ze dne 22. března 1983,**
+
+který se mění a doplňuje zákon České národní rady č. 134/1973 Sb., o působnosti orgánů České socialistické republiky v oblasti cen
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## Čl. I
+
+Zákon České národní rady č. 134/1973 Sb., o působnosti orgánů České socialistické republiky v oblasti cen, se mění a doplňuje takto:
+
+1. V § 2 odst. 4 písm. b) až e).
+
+2. § 3 odst. 2 zní:
+
+> „(2) Krajské národní výbory a Národní výbor hlavního města Prahy stanoví ceny nových výrobků a mění ceny služeb, výkonů a prací
+>
+> a) organizací řízených národními výbory,
+>
+> b) organizací řízených okresními nebo krajskými zemědělskými správami,
+>
+> c) družstevních organizací s výjimkou spotřebních družstev,
+>
+> d) společenských organizací,
+>
+> e) průmyslových podniků řízených ministerstvem vnitra České socialistické republiky,
+>
+> f) dodávaných občany,
+>
+> s výjimkou cen, jejichž stanovení a změny přísluší podle zvláštních předpisů jiným orgánům, nebo jejichž stanovení a změny si Český cenový úřad vyhradí.“.
+
+3. V § 3 odst. 3 věta za středníkem zní:
+
+> „jde-li o působnost podle odstavce 2, mohou tak učinit jen se souhlasem Českého cenového úřadu.“.
+
+Tento zákon nabývá účinnosti dnem 1. července 1983.
+
+Kempný v. r.
+
+Korčák v. r.

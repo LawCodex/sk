@@ -1,0 +1,44 @@
+---
+title: "Vyhláška ministerstva práce a sociálních věcí České socialistické republiky o změně vyhlášky č. 52/1973 Sb., kterou se provádějí některá ustanovení zákona o pěstounské péči"
+identifier: "98/1980 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1980/98/"
+type: decree
+jurisdiction: sk
+language: cs
+date: 1980-08-08
+last_amended: 1980-09-01
+status: in_force
+consolidated_version: "/SK/ZZ/1980/98/19800901"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1980/98/19800901"
+retrieved: 2026-10-12
+---
+
+# Vyhláška ministerstva práce a sociálních věcí České socialistické republiky o změně vyhlášky č. 52/1973 Sb., kterou se provádějí některá ustanovení zákona o pěstounské péči
+
+**98**
+
+**VYHLÁŠKA**
+
+**Ministerstva práce a sociálních věcí České socialistické republiky**
+
+**ze dne 1. července 1980**
+
+**o změně vyhlášky č. 52/1973 Sb., kterou se provádějí některá ustanovení zákona o pěstounské péči**
+
+Ministerstvo práce a sociálních věcí České socialistické republiky stanoví podle § 22 odst. 2 zákona č. 50/1973 Sb., o pěstounské péči, v dohodě s federálním ministerstvem práce a sociálních věcí a s ostatními zúčastněnými ústředními orgány:
+
+## Čl. I
+
+Vyhláška ministerstva práce a sociálních věcí České socialistické republiky č. 52/1973 Sb., kterou se provádějí některá ustanovení zákona o pěstounské péči, se mění takto:
+
+§ 6 odst. 1 zní:
+
+> „(1) Pěstounovi, který vykonává pěstounskou péči ve zvláštních zařízeních pro výkon pěstounské péče, poskytuje okresní národní výbor odměnu za výkon pěstounské péče a za práce spojené s péčí o svěřené děti v rozpětí od 1 550 do 2 150 Kčs měsíčně při péči nejvýše o čtyři děti a v rozpětí od 1 950 Kčs do 2 450 Kčs měsíčně při péči o pět a více dětí. Do péče jednoho pěstouna nemá být svěřeno více než osm dětí. Při určení výše odměny přihlíží okresní národní výbor zejména k počtu dětí, k jejich věku, zdravotnímu stavu a duševní úrovni. V případě, že tělesný, duševní nebo sociální vývoj dítěte je narušen tak, že vyžaduje mimořádnou individuální péči a výchovu svěřeného dítěte (např. následky psychické deprivace, drobné mozkové dysfunkce, smyslové vady a chronická onemocnění), zvýší okresní národní výbor stanovenou odměnu až o 350 Kčs měsíčně.“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. září 1980.
+
+Ministr:
+
+Dr. Hamerník v. r.

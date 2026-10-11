@@ -1,0 +1,50 @@
+---
+title: "Vyhláška Ministerstva zdravnotnictví a sociálních věcí České republiky, kterou se mění vyhláška ministerstva zdravotnictví a sociálních věcí České socialistické republiky č. 152/1988 Sb., kterou se provádí zákon o sociálním zabezpečení a zákon České národní rady o působnosti orgánů České socialistické republiky v sociálním zabezpečení"
+identifier: "267/1990 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1990/267/"
+type: decree
+jurisdiction: sk
+language: cs
+date: 1990-06-29
+last_amended: 1990-07-01
+status: in_force
+consolidated_version: "/SK/ZZ/1990/267/19900701"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1990/267/19900701"
+retrieved: 2026-10-12
+---
+
+# Vyhláška Ministerstva zdravnotnictví a sociálních věcí České republiky, kterou se mění vyhláška ministerstva zdravotnictví a sociálních věcí České socialistické republiky č. 152/1988 Sb., kterou se provádí zákon o sociálním zabezpečení a zákon České národní rady o působnosti orgánů České socialistické republiky v sociálním zabezpečení
+
+**267**
+
+**VYHLÁŠKA**
+
+**ministerstva zdravotnictví a sociálních věcí České republiky**
+
+**ze dne 26. června 1990,**
+
+**kterou se mění vyhláška ministerstva zdravotnictví a sociálních věcí České socialistické republiky č. 152/1988 Sb., kterou se provádí zákon o sociálním zabezpečení a zákon České národní rady o působnosti orgánů České socialistické republiky v sociálním zabezpečení**
+
+Ministerstvo zdravotnictví a sociálních věcí České republiky stanoví v dohodě s federálním ministerstvem práce a sociálních věcí a ostatními zúčastněnými ústředními orgány podle § 177 odst. 4 zákona č. 100/1988 Sb., o sociálním zabezpečení, ve znění zákona č. 110/1990 Sb., a podle § 58 písm. d) a f) zákona České národní rady č. 114/1988 Sb., o působnosti orgánů České socialistické republiky v sociálním zabezpečení:
+
+## Čl. I
+
+Vyhláška ministerstva zdravotnictví a sociálních věcí České socialistické republiky č. 152/1988 Sb., kterou se provádí zákon o sociálním zabezpečení a zákon České národní rady o působnosti orgánů České socialistické republiky v sociálním zabezpečení, se mění takto:
+
+1. V § 54 se slova „do výše 10 Kčs“ nahrazují slovy „do výše 12 Kčs“.
+
+2. V § 122 odst. 2 se vypouští část druhé věty za středníkem a poslední věta.
+
+3. Příloha č. 7 odst. 1 zní:
+
+> „(1) Stravování podle vyhlášky MZSV ČR ze dne 26. června 1990 o stravování v zařízeních sociální péče
+>
+> Za dopravu jídla do zařízení, případně za donášku do obytné jednotky obyvatele (v nutných případech, kdy je omezena pohyblivost obyvatele) se úhrada nepožaduje“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. července 1990.
+
+Ministr:
+
+Prof. MUDr. Klener DrSc. v. r.

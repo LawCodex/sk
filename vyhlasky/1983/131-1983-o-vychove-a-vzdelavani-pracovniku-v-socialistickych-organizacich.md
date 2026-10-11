@@ -1,0 +1,166 @@
+---
+title: "Vyhláška ministerstva školství České socialistické republiky o výchově a vzdělávání pracovníků v socialistických organizacích"
+identifier: "131/1983 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1983/131/"
+type: decree
+jurisdiction: sk
+language: cs
+date: 1983-11-24
+last_amended: 1984-01-01
+status: in_force
+consolidated_version: "/SK/ZZ/1983/131/19840101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1983/131/19840101"
+retrieved: 2026-10-12
+---
+
+# Vyhláška ministerstva školství České socialistické republiky o výchově a vzdělávání pracovníků v socialistických organizacích
+
+**131**
+
+**VYHLÁŠKA**
+
+**ministerstva školství České socialistické republiky**
+
+**ze dne 9. listopadu 1983**
+
+**o výchově a vzdělávání pracovníků v socialistických organizacích**
+
+Ministerstvo školství České socialistické republiky v dohodě s ministerstvem práce a sociálních věcí České socialistické republiky a po projednání s Českou odborovou radou stanoví podle § 141 odst. 2 zákonníku práce:
+
+## § 1
+
+(1) Vyhláška upravuje organizaci a řízení výchovy a vzdělávání pracovníků v socialistických organizacích1) (dále jen „organizace“) je součastí československé výchovně vzdělávací soustavy; zahrnuje v souladu s celospolečenskými potřebami a rozvojem organizací přípravu pracovníků k určité pracovní nebo odborné činnosti, zvyšování a rozšiřování jejich kvalifikace.
+
+## Organizace a realizace vzdělávání pracovníků
+
+### § 2
+
+(1) Vzdělávání pracovníků se uskutečňuje plánovitě podle jednotlivých skupin pracovníků a podle účelu přípravy.
+
+(2) Hlavní druhy vzdělávání jsou
+
+a) zaškolení pro výkon technologicky jednoduchých činností s použitím jednoduchých pomůcek a nástrojů,
+
+b) adaptační proces k rozšíření vědomostí o další poznatky a praktické zkušenosti k úspešnému výkonu práce,
+
+c) příprava osob se změněnou pracovní schopností k výkonu práce,
+
+d) účelová příprava k získání a doplnění vědomostí a dovedností potřebných k výkonu práce ve vymezené pracovní oblasti a obrážející rozvoj vědy a techniky,
+
+e) specializační příprava k získání speciálních vědomostí a dovedností,
+
+f) periodické obnovování a přezkušování způsobilosti k výkonu povolání nebo funkcí podle zvláštních předpisů.2)
+
+(3) Součastí vzdělávání pracovníků je seznamování s pravidly bezpečné a zdravotně nezávadné práce a požární ochrany.
+
+### § 3
+
+(1) Vzdělávání pracovníků se uskutečňuje
+
+a) v organizaci,
+
+b) ve výchovně vzdělávacím zařízení (ústav, institut nebo výchovně vzdělávací středisko)
+
+1. organizace, s níž je pracovník v pracovním poměru nebo jiném obdobném pracovním vztahu, nebo jejího nadřízeného orgánu,
+
+2. jiné organizace nebo jejího nadřízeného orgánu
+
+(dále jen „vzdělávací zařízení“), jejichž posláním je výchovná, vzdělávací, metodická, popřípadě poradenská, expertizní, informační nebo výzkumná činnost.
+
+(2) Organizace a vzdělávací zařízení spolupracuje při zabezpečování vzdělávání pracovníků s jinými organizacemi, se školami, se školskými a jinými vzdělávacími zařízeními,3) s orgány Revolučního odborového hnutí a dalšími společenskými organizacemi.
+
+(3) Ústřední orgány státní správy oznamují ministerstvu školství České socialistické republiky (dále jen „ministerstvo školství“) zřízení a zrušení vzdělávacích zařízení.
+
+### § 4
+
+(1) Vzdělávání pracovníků spojené s ověřováním získaných vědomostí a dovedností se uskutečňuje podle vzdělávacího projektu vypracovaného vzdělávacím zařízením.
+
+(2) Vzdělávací projekt obsahuje zejména cíl, obsah, délku, složení účastníků vzdělávání, formy a metody, organizační a materiální zajištení, způsob zakončení a ověření získaných vědomostí vzdělávaných pracovníků.
+
+(3) Dokladem o ověření získaných vědomostí a dovedností ve vzdělávaní pracovníků (§ 2 odst. 2 písm. a, c, d, e, f) je osvědčení; toto osvědčení vydává vzdělávací zařízení, pokud zvláštní předpis nestanoví jinak.4)
+
+### § 5 — Lektoři a instruktoři
+
+(1) Lektoři a instruktoři (dále jen „lektoři“), kteří pedagogicky působí ve výchovně vzdělávacím procesu, musí splňovat společenské, odborné a pedagogické předpoklady.
+
+(2) Za výběr lektorů, jejich pedagogickou přípravu a daší vzdělávání odpovídá vzdělávací zařízení, popřípadě organizace.
+
+(3) Odměňování lektorů upravují zvláštní předpisy.5)
+
+## Řízení vzdělávání pracovníků
+
+### § 6
+
+Organizace
+
+a) zpracovává programy a plány vzdělávání svých pracovníků, rozbory jejich kvalifikační struktury, vzdělávací projekty pro pracovníky, které školí ve vlastní působnosti, plány činnosti vzdělávacích zařízení,
+
+b) realizuje a zabezpečuje přípravu a zvyšování kvalifikace svých pracovníků, kádrové, materiální a finanční zdroje pro jejich vzdělávání, využívaní pokrokových metod ve výuce pracovníků a zvádění moderní vyučovací techniky a výměnu zkušeností ze vzdělávání pracovníků.
+
+### § 7
+
+Orgán nadřízený organizaci zejména
+
+a) řídí zpracování programů a plánů vzdělávání pracovníků podřízených organizací,
+
+b) řídí vlastní vzdělávací zařízení,
+
+c) zabezpečuje pedagogickometodické, kádrové a materiální podmínky výuky a výměnu zkušeností ze vzdělávání pracovníků mezi organizacemi,
+
+d) vykonává dozor nad vzděláváním pracovníků.
+
+### § 8
+
+(1) Vzdělávaní pracovníků metodicky řídí příslušný ústřední orgán.
+
+(2) Koordinaci metodického řízení, výměnu zkušeností a výzkum v oblasti vzdělávání pracovníkků zabezpečuje ministerstvo školství.
+
+### § 9 — Dozor nad vzděláváním pracovníků
+
+Výkon dozoru se zaměřuje zejména na
+
+a) plnění plánu vzdělávání pracovníků,
+
+b) úroveň, účinnost, efektívnost a výsledky výchovně vzdělávací činnosti,
+
+c) dodržování právních předpisů a jiných opatření v oblasti vzděláváni pracovníků,
+
+d) společenskou, pedagogickou a odbornou úroveň lektorů,
+
+e) řízení výchovně vzdělávacího zařízení a utváření příznivých materiálně technických podmínek pro jeho činnost,
+
+f) zabezpečování a využívaní didaktické techniky a učebních pomůcek,
+
+g) spolupráci se školskými a jinými výchovně vzdělávacími zařízeními,
+
+h) vytváření podmínek pro vzdělávání osob se změněnou pracovní schopností.
+
+## Závěredná ustanovení
+
+### § 10
+
+(1) Ustanovení uvedené v § 2 odst. 2 této vyhlášky se nevztahuje na pracovníky, u nichž je další vzdělávání upraveno zláštními předpisy.6)
+
+(2) Ústřední orgány státní správy oznámí do šesti měsíců po nabytí účinnosti této vyhlášky ministerstvu školství, která vzdělávací zařízení jsou zřízena v jejich působnosti.
+
+### § 11
+
+Tato vyhláška nabývá účinnosti dnem l. ledna 1984.
+
+Ministr:
+
+Vondruška v. r.
+
+## Poznámky pod čiarou
+
+1) § 8 odst. 1 zákonníku práce
+
+2) Například: vyhláška Českého úřadu bezpečnosti práce a Českého báňského úřadu č. 50/1978 Sb., o odborné způsobilosti v elektrotechnice, vyhláška ministerstva stavebníctví č. 77/1965 Sb., o výcviku, způsobilosti a registraci obsluh stavebních strojů, výnos federálního ministerstva dopravy čj. 11 446/74 o pravidelném opakovaném přezkušování jeřábníků a vazačů pracujících se silničními výložníkovými jeřáby nebo se železničními kolejovými výložníkovými jeřáby (reg. částka 15/1974 Sb.).
+
+3) Například: § 10 zákona ČNR č. 76/1978 Sb., o školských zařízeních.
+
+4) Například výnos ministerstva dopravy a spojů o svářečských zkouškách v odvětví železniční dopravy (reg. částka 58/1962 Sb.).
+
+5) Vyhláška MPSV ČSR č. 118/1981 Sb., o odměňování některých prací konaných mimo pracovní poměr.
+
+6) Například: § 63 zákona č. 69/1967 Sb., o národních výborech, ve znění pozdějších předpisů, zákon č. 39/1977 Sb., o výchově nových vědeckých pracovníků a o dalším zvyšování kvalifikace vědeckých pracovníků, vyhláška FMTIR č. 40/1977 Sb., o zvýšení kvalifikace a hodnocení tvůrčí způsobilosti vědeckotechnických pracovníků, vyhláška ministerstva zdravotníctví ČSR č. 77/1981 Sb., o zdravotníckých pracovnících a jiných odborných pracovnících ve zdravotníctví.

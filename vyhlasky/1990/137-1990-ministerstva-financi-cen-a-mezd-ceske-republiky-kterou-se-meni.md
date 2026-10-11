@@ -1,0 +1,60 @@
+---
+title: "Vyhláška Ministerstva financí, cen a mezd České republiky,kterou se mění vyhláška č. 123/1974 Sb., kterou se stanoví rozsah a podmínky zákonného pojištění odpovědnosti za škody způsobené provozem motorových vozidel provozovaného Českou státní pojišťovnou"
+identifier: "137/1990 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1990/137/"
+type: decree
+jurisdiction: sk
+language: cs
+date: 1990-04-28
+last_amended: 1990-05-01
+status: in_force
+consolidated_version: "/SK/ZZ/1990/137/19900501"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1990/137/19900501"
+retrieved: 2026-10-12
+---
+
+# Vyhláška Ministerstva financí, cen a mezd České republiky,kterou se mění vyhláška č. 123/1974 Sb., kterou se stanoví rozsah a podmínky zákonného pojištění odpovědnosti za škody způsobené provozem motorových vozidel provozovaného Českou státní pojišťovnou
+
+**137**
+
+**VYHLÁŠKA**
+
+**ministerstva financí, cen a mezd České republiky**
+
+**ze dne 27. dubna 1990,**
+
+**kterou se mění vyhláška č. 123/1974 Sb., kterou se stanoví rozsah a podmínky zákonného pojištění odpovědnosti za škody způsobené provozem motorových vozidel provozovaného Českou státní pojišťovnou**
+
+Ministerstvo financí, cen a mezd České republiky stanoví v dohodě se zúčastněnými ministerstvy a ostatními ústředními orgány státní správy podle § 16 odst. 1 písm. c) vládního nařízení č. 54/1953 Sb., o provozu na silnicích, ve znění zákonného opatření předsednictva Národního shromáždění č. 13/1956 Sb.:
+
+## Čl. I
+
+Vyhláška č. 123/1974 Sb., kterou se stanoví rozsah a podmínky zákonného pojištění odpovědnosti za škody způsobené provozem motorových vozidel provozovaného Českou státní pojišťovnou, se mění takto:
+
+1. V § 3 odst. 2 zní:
+
+> „(2) Pojistnou událostí je vznik povinnosti pojištěného nahradit tuto škodu. Rozhoduje-li o této náhradě škody oprávněný orgán, platí, že pojistná událost nastala teprve dnem, kdy rozhodnutí, podle něhož má pojišťovna plnit, nabylo právní moci.“.
+
+2. V § 11 odst. 1 se slova „po pojistné události“ nahrazují slovy „po skutečnosti, která by mohla být důvodem vzniku práva na plnění pojišťovny“.
+
+3. V § 11 odst. 2 písm. b) se slova „s pojistnou událostí“ nahrazují slovy „se vzniklou škodou“.
+
+4. V § 17 odst. 1 zní:
+
+> „(1) Pojistné se platí bez vyzvání poštovní poukázkou nebo převodem z účtu vedeného u peněžního ústavu. V dokladu o zaplacení pojistného musí být uvedena státní poznávací značka příslušného motorového vozidla; nemá-li motorové vozidlo státní poznávací značku, uvede se číslo motoru.“.
+
+5. V § 24 se odstavec 2 vypouští.
+
+6. § 27 zní:
+
+> **„§ 27**
+>
+> Není-li touto vyhláškou stanoveno jinak, použijí se přiměřeně příslušná ustanovení občanského zákoníku, pokud je pojištěným občan; je-li pojištěným organizace, použijí se přiměřeně příslušná ustanovení hospodářského zákoníku.“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. května 1990.
+
+Ministr:
+
+Ing. Nikodým v. r.

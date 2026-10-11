@@ -1,0 +1,42 @@
+---
+title: "Zákon České národní rady o některých opatřeních týkajících se působnosti ministerstev České republiky"
+identifier: "126/1990 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1990/126/"
+type: act
+jurisdiction: sk
+language: cs
+date: 1990-04-27
+last_amended: 1990-05-01
+status: in_force
+consolidated_version: "/SK/ZZ/1990/126/19900501"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1990/126/19900501"
+retrieved: 2026-10-12
+---
+
+# Zákon České národní rady o některých opatřeních týkajících se působnosti ministerstev České republiky
+
+**126**
+
+**ZÁKON**
+
+**České národní rady**
+
+**ze dne 25. dubna 1990**
+
+**o některých opatřeních týkajících se působnosti ministerstev České republiky**
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## Čl. I
+
+Zákon České národní rady č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České socialistické republiky, ve znění zákona České národní rady č. 60/1988 Sb., o změnách v organizaci a působnosti ministerstev a jiných ústředních orgánů státní správy České socialistické republiky, zákona České národní rady č. 173/1989 Sb., o opatřeních v soustavě ústředních orgánů státní správy České socialistické republiky, v jejichž čele stojí člen vlády České socialistické republiky, a zákonného opatření předsednictva České národní rady č. 9/1990 Sb., kterým se mění zákon České národní rady č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České socialistické republiky, ve znění zákona České národní rady č. 60/1988 Sb., o změnách v organizaci a působnosti ministerstev a jiných ústředních orgánů státní správy České socialistické republiky, a zákona České národní rady č. 173/1989 Sb., o opatřeních v soustavě ústředních orgánů státní správy České socialistické republiky, v jejichž čele stojí člen vlády České socialistické republiky, a zákona České národní rady č. 93/1990 Sb., o některých opatřeních týkajících se působnosti ministerstev České republiky, se doplňuje takto:
+
+V § 12 odst. 3 se za slova „veřejně prospěšné služby“ vkládají slova „soukromé podnikání občanů“.
+
+## Čl. II
+
+Tento zákon nabývá účinnosti dnem 1. května 1990.
+
+Šafařík v. r.
+
+Pithart v. r.

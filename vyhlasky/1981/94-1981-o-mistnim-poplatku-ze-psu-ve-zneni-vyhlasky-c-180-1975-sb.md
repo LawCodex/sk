@@ -1,0 +1,48 @@
+---
+title: "Vyhláška ministerstva financí České socialistické republiky, kterou se mění vyhláška č. 36/1972 Sb., o místním poplatku ze psů, ve znění vyhlášky č. 180/1975 Sb."
+identifier: "94/1981 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1981/94/"
+type: decree
+jurisdiction: sk
+language: cs
+date: 1981-10-02
+last_amended: 1982-01-01
+status: in_force
+consolidated_version: "/SK/ZZ/1981/94/19820101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1981/94/19820101"
+retrieved: 2026-10-12
+---
+
+# Vyhláška ministerstva financí České socialistické republiky, kterou se mění vyhláška č. 36/1972 Sb., o místním poplatku ze psů, ve znění vyhlášky č. 180/1975 Sb.
+
+**94**
+
+**VYHLÁŠKA**
+
+**Ministerstva financí České socialistické republiky**
+
+**ze dne 18. září 1981,**
+
+**kterou se mění vyhláška č. 36/1972 Sb., o místním poplatku ze psů, ve znění vyhlášky č. 180/1975 Sb.**
+
+Ministerstvo financí České socialistické republiky stanoví podle § 2 odst. 1 zákona č. 82/1952 Sb., o místních poplatcích:
+
+## Čl. I
+
+Vyhláška ministerstva financí České socialistické republiky č. 36/1972 Sb., o místním poplatku ze psů, ve znění vyhlášky č. 180/1975 Sb., se mění takto:
+
+1. V § 4 se vypouští odstavec 2.
+
+2. § 6 odstavec 1 zní:
+
+> „(1) Poplatník je povinen podat přiznání k poplatku do 15 dnů ode dne vzniku poplatkové povinnosti ze všech psů v domácnosti chovaných. U psů od poplatku osvobozených prokáže jejich držitel do 15. února každého roku, že důvod osvobození trvá. Přiznání se podává u národního výboru na předepsaném tiskopise.“.
+
+3. § 6 odstavec 3 zní:
+
+> „(3) V obcích s počtem obyvatel do 6000 nepodává vlastník (správce) domu hlášení podle odstavce 2 za podmínky, že evidence psů bude zajištěna poprvé přiznáním při vzniku poplatkové povinnosti a v dalších letech soupisem provedeným současně se soupisem hospodářského zvířectva k 1. lednu běžného roku. Ohlášení psa do soupisu v druhém roce a dalších letech nahrazuje v těchto obcích hlášení podle odstavce 2.“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 1982.
+
+Ministr: Ing. Tlapák v. r.

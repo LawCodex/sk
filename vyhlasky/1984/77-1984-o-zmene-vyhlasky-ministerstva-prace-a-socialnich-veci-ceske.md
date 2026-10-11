@@ -1,0 +1,60 @@
+---
+title: "Vyhláška ministerstva práce a sociálních věcí České socialistické republiky o změně vyhlášky ministerstva práce a sociálních věcí České socialistické republiky č. 52/1973 Sb., kterou se provádějí některá ustanovení zákona o pěstounské péči"
+identifier: "77/1984 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1984/77/"
+type: decree
+jurisdiction: sk
+language: cs
+date: 1984-08-03
+last_amended: 1984-09-01
+status: in_force
+consolidated_version: "/SK/ZZ/1984/77/19840901"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1984/77/19840901"
+retrieved: 2026-10-12
+---
+
+# Vyhláška ministerstva práce a sociálních věcí České socialistické republiky o změně vyhlášky ministerstva práce a sociálních věcí České socialistické republiky č. 52/1973 Sb., kterou se provádějí některá ustanovení zákona o pěstounské péči
+
+**77**
+
+**VYHLÁŠKA**
+
+**ministerstva práce a sociálních věcí České socialistické republiky**
+
+**ze dne 5. července 1984**
+
+**o změně vyhlášky ministerstva práce a sociálních věcí České socialistické republiky č. 52/1973 Sb., kterou se provádějí některá ustanovení zákona o pěstounské péči**
+
+Ministerstvo práce a sociálních věcí České socialistické republiky stanoví podle § 22 odst. 2 zákona č. 50/1973 Sb., o pěstounské péči, ve znění zákona č. 58/1984 Sb., v dohodě s federálním ministerstvem práce a sociálních věcí a s ostatními zúčastněnými orgány:
+
+## Čl. I
+
+Vyhláška ministerstva práce a sociálních věcí České socialistické republiky č. 52/1973 Sb., kterou se provádějí některá ustanovení zákona o pěstounské péči, se mění a doplňuje takto:
+
+1. § 4 včetně nadpisu zní:
+
+> **„§ 4 — Povinná školní docházka**
+>
+> K § 5 odst. 1 zákona
+>
+> Za povinnou školní docházku se považuje též období školních prázdnin navazujících na ukončení období školního vyučování školního roku, v němž dítě dokončí plnění povinné školní docházky, pokud v této době nevstoupilo do trvalého zaměstnání, popřípadě nezačalo vykonávat jinou trvalou pracovní činnost.“.
+
+2. § 5 včetně nadpisu zní:
+
+> **„§ 5 — Soustavná příprava dítěte na budoucí povolání**
+>
+> K § 5 odst. 2 písm. a) zákona
+>
+> Soustavná příprava dítěte na budoucí povolání se pro účely zákona posuzuje podle předpisů o nemocenském pojištění pracovníků v pracovním poměru.“.1)“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. září 1984.
+
+Ministr:
+
+Dr. Hamerník v. r.
+
+## Poznámky pod čiarou
+
+1) § 1 vyhlášky Ústřední rady odborů č. 95/1968 Sb., o poskytování přídavků na děti v nemocenském pojištění, ve znění vyhlášky č. 78/1984 Sb.

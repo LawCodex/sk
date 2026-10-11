@@ -1,0 +1,114 @@
+---
+title: "Vyhláška Ministerstva lesného a vodného hospodárstva Slovenskej socialistickej republiky o určení vybraných lesných výrobkov a organizácií oprávnených na ich nákup"
+identifier: "102/1985 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1985/102/"
+type: decree
+jurisdiction: sk
+language: sk
+date: 1985-12-06
+last_amended: 1986-01-01
+status: in_force
+consolidated_version: "/SK/ZZ/1985/102/19860101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1985/102/19860101"
+retrieved: 2026-10-12
+---
+
+# Vyhláška Ministerstva lesného a vodného hospodárstva Slovenskej socialistickej republiky o určení vybraných lesných výrobkov a organizácií oprávnených na ich nákup
+
+**102**
+
+**VYHLÁŠKA**
+
+**Ministerstva lesného a vodného hospodárstva Slovenskej socialistickej republiky**
+
+**z 13. novembra 1985**
+
+**o určení vybraných lesných výrobkov a organizácií oprávnených na ich nákup**
+
+Ministerstvo lesného a vodného hospodárstva Slovenskej socialistickej republiky ustanovuje po dohode so zúčastnenými ministerstvami podľa § 391 ods. 4 Hospodárskeho zákonníka č. 109/1964 Zb. v úplnom znení vyhlásenom pod č. 45/1983 Zb.:
+
+## § 1 — Určenie vybraných lesných výrobkov
+
+(1) Vybrané lesné výrobky sú
+
+a) výrezy I. až IV. triedy akosti ihličnaté a listnaté, drevo V. triedy akosti ihličnaté a listnaté, výmetová guľatina ihličnatá a listnatá, priemyslová tenčina ihličnatá a listnatá, surové kmene ihličnaté a listnaté,
+
+b) vianočné stromčeky,
+
+c) šušky, plody a semená lesných drevín,
+
+d) semenáčiky, sadenice a odrezky lesných drevín.
+
+(2) Drevom z vybraných stromov rastúcich mimo lesa sú sortimenty dreva uvedené v odseku 1 písm. a), ktoré vlastník (správca, užívateľ) stromov ponúka organizácii určenej na nákup.
+
+(3) Ostatné lesné výrobky sú najmä:
+
+a) drevo VI. triedy akosti ihličnaté a listnaté, tenčina a štiepky,
+
+b) kôra,
+
+c) raždie a haluzina,
+
+d) živica a miazga,
+
+e) brezové a vrbové prútie, prúty a palice,
+
+f) lyko,
+
+g) čalunícka tráva,
+
+h) imelo.
+
+## § 2 — Organizácie oprávnené nakupovať vybrané lesné výrobky
+
+(1) Vybrané lesné výrobky od užívateľov lesov môžu nakupovať len určené organizácie, ktorými sú:
+
+a) štátne organizácie lesného hospodárstva riadené Ministerstvom lesného a vodného hospodárstva Slovenskej socialistickej republiky, a to:
+
+Západoslovenské štátne lesy Bratislava,
+
+<sup>1</sup>)
+
+b) štátne organizácie lesného hospodárstva riadené Ministerstvom národnej obrany, a to:
+
+Vojenské lesy a majetky n. p. Malacky,
+
+c) organizácie, ktorým Ministerstvo lesného a vodného hospodárstva Slovenskej socialistickej republiky zverilo<sup>1</sup>) výkon odbornej správy lesov, a to:
+
+Školský lesný podnik Vysokej školy lesníckej a drevárskej Zvolen.
+
+(2) Drevo zo stromov rastúcich mimo lesa vykupujú na to určené organizácie.<sup>2</sup>)
+
+## § 3 — Organizácie oprávnené dodávať vybrané lesné výrobky
+
+Vybrané lesné výrobky dodávajú odberateľom:
+
+a) organizácie uvedené v § 2 ods. 1,
+
+b) organizácie, ktorým bol obmedzený výkon odbornej správy lesov:
+
+tieto organizácie môžu dodávať vybrané lesné výrobky, ak sa dohodnú s určenou organizáciou,
+
+c) ostatní užívatelia alebo socialistické organizácie po dohode s určenou organizáciou.
+
+## § 4 — Organizácia oprávnená na nákup a spracovanie semenných šušiek a plodov, uskladňovanie a dodávku semien lesných drevín
+
+Semenné šušky nakupujú a spracúvajú a semená lesných drevín dodávajú Severoslovenské štátne lesy Žilina.
+
+## § 5
+
+Ministerstvo lesného a vodného hospodárstva Slovenskej socialistickej republiky po dohode so zúčastnenými ministerstvami môže v odôvodnených prípadoch na prechodnú dobu preradiť niektorý ostatný lesný výrobok medzi vybrané lesné výrobky a naopak.
+
+## § 6
+
+Táto vyhláška nadobúda účinnosť 1. januárom 1986.
+
+Minister:
+
+Ing. Margetin v. r.
+
+## Poznámky pod čiarou
+
+1) Zákon č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva.
+
+2) V Západoslovenskom kraji Drevoindustria n. p. Žilina. V Stredoslovenskom kraji Bučina n. p. Zvolen. Vo Východoslovenskom kraji Bukóza n. p. Vranov.

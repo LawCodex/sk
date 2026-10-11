@@ -1,0 +1,143 @@
+---
+title: "Zákon České národní rady o státním rozpočtu České socialistické republiky na rok 1982"
+identifier: "126/1981 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1981/126/"
+type: act
+jurisdiction: sk
+language: cs
+date: 1981-12-29
+last_amended: 1982-01-01
+status: in_force
+consolidated_version: "/SK/ZZ/1981/126/19820101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1981/126/19820101"
+retrieved: 2026-10-12
+---
+
+# Zákon České národní rady o státním rozpočtu České socialistické republiky na rok 1982
+
+**126**
+
+**ZÁKON**
+
+**České národní rady**
+
+**ze dne 17. prosince 1981**
+
+**o státním rozpočtu České socialistické republiky na rok 1982**
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## § 1
+
+<table>
+<tr>
+<td>(1)</td>
+<td colspan="2">Celkové příjmy státního rozpočtu České socialistické republiky (dále jen "státní rozpočet republiky") se stanoví částkou</td>
+<td>134 414 400 000 Kčs,</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">celkové výdaje státního rozpočtu republiky se stanoví částkou</td>
+<td>134 414 400 000 Kčs</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">(příloha č. 1).</td>
+</tr>
+<tr>
+<td>(2)</td>
+<td colspan="3">Ve státním rozpočtu republiky jsou obsaženy</td>
+</tr>
+<tr>
+<td></td>
+<td>a)</td>
+<td>dotace ze státního rozpočtu federace do státního rozpočtu republiky ve výši</td>
+<td>67 453 600 000 Kčs,</td>
+</tr>
+<tr>
+<td></td>
+<td>b)</td>
+<td>finanční vztahy k rozpočtům národních výborů, a to:</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>neúčelové dotace ve výši</td>
+<td>20 738 800 000 Kčs,</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>účelové subvence ve výši</td>
+<td>18 575 000 000 Kčs</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">(příloha č. 2).</td>
+</tr>
+</table>
+
+## § 2
+
+Vláda České socialistické republiky nebo na základě jejího zmocnění ministr financí zajistí vyjádření finančních údajů státního rozpočtu republiky stanovených tímto zákonem v cenách platných k 1. lednu 1982.
+
+## § 3
+
+Vláda České socialistické republiky nebo na základě jejího zmocnění ministr financí může, pokud tím nebude dotčena vyrovnanost státního rozpočtu republiky, promítnout do státního rozpočtu republiky zejména změny státního plánu rozvoje národního hospodářství České socialistické republiky, organizační a cenové změny, změny v souvislosti s úpravami ekonomických nástrojů v zahraničním obchodě a v zemědělství a úpravu neúčelových dotací a účelových subvencí národních výborů, jestliže se změní podmínky, za nichž byly neúčelové dotace a účelové subvence stanoveny.
+
+## § 4
+
+Tento zákon nabývá účinnosti dnem 1. ledna 1982.
+
+Kempný v. r.
+
+Korčák v. r.
+
+## Prílohy
+
+### Příloha č. 1
+
+Celkový přehled státního rozpočtu České socialistické republiky
+
+| Příjmy | Kčs <br> (v tisících) |
+|---|---|
+| Příjmy ze socialistického hospodářství | 35 931 132 |
+| v tom: z hospodářství | 30 831 424 |
+| z vědy a techniky | 161 110 |
+| z peněžních a technických služeb | 3 525 548 |
+| ze společenských služeb a činností | 1 176 050 |
+| z obrany a bezpečnosti | 237 000 |
+| Daně od obyvatelstva a poplatky | 30 051 000 |
+| Ostatní příjmy | 978 668 |
+| Dotace ze státního rozpočtu federace | 67 453 600 |
+| Úhrn | 134 414 400 |
+
+| Výdaje | Kčs <br> (v tisících) |
+|---|---|
+| Výdaje ústředně řízených organizací | 95 100 600 |
+| na: hospodářství | 30 212 038 |
+| vědu a techniku | 2 022 710 |
+| peněžní a technické služby | 2 103 035 |
+| společenské služby a činnosti pro obyvatelstvo | 55 659 100 |
+| obranu a bezpečnost | 3 630 200 |
+| správu | 1 473 517 |
+| Neúčelová dotace do rozpočtů národních výborů | 20 738 800 |
+| Účelové subvence do rozpočtů národních výborů | 18 575 000 |
+| Úhrn | 134 414 400 |
+
+### Příloha č. 2
+
+Neúčelové dotace a účelové subvence do rozpočtů národních výborů obsažené ve státním rozpočtu České socialistické republiky
+
+| Kraj | Neúčelové dotace <br> (v tis. Kčs) | Účelové subvence <br> (v tis. Kčs) |
+|---|---|---|
+| Národní výbor hl. města Prahy | 4 242 800 | 5 776 800 |
+| Středočeský | 1 779 400 | 1 218 400 |
+| Jihočeský | 1 622 000 | 1 080 500 |
+| Západočeský | 2 058 500 | 1 000 200 |
+| Severočeský | 3 471 800 | 3 460 700 |
+| Východočeský | 1 665 600 | 1 278 400 |
+| Jihomoravský | 2 091 000 | 2 331 600 |
+| Severomoravský | 3 807 700 | 2 428 400 |
+| Úhrn | 20 738 800 | 18 575 000 |

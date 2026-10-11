@@ -1,0 +1,95 @@
+---
+title: "Zákon České národní rady o státním rozpočtu České socialistické republiky na rok 1974"
+identifier: "165/1973 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1973/165/"
+type: act
+jurisdiction: sk
+language: cs
+date: 1973-12-27
+last_amended: 1974-01-01
+status: in_force
+consolidated_version: "/SK/ZZ/1973/165/19740101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1973/165/19740101"
+retrieved: 2026-10-12
+---
+
+# Zákon České národní rady o státním rozpočtu České socialistické republiky na rok 1974
+
+**165**
+
+**ZÁKON**
+
+**České národní rady**
+
+**ze dne 18. prosince 1973**
+
+**o státním rozpočtu České socialistické republiky na rok 1974**
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## § 1 — Státní rozpočet České socialistické republiky
+
+(1) Celkové příjmy státního rozpočtu České socialistické republiky (dále jen "státní rozpočet republiky") se stanoví částkou 103 809 089 000 Kčs,
+
+celkové výdaje státního rozpočtu republiky se stanoví částkou 103 809 089 000 Kčs (příloha č. 1).
+
+(2) Ve státním rozpočtu republiky jsou obsaženy
+
+a) dotace ze státního rozpočtu federace do státního rozpočtu republiky ve výši 39 050 000 000 Kčs,
+
+b) finanční vztahy k rozpočtům národních výborů, a to:
+
+souhrnný finanční vztah (neúčelové dotace) ve výši 17 142 700 000 Kčs,
+
+## § 2 — Zmocnění
+
+Vláda České socialistické republiky nebo na základě jejího zmocnění ministr financí může, pokud tím nebude dotčena vyrovnanost státního rozpočtu republiky, promítnout do státního rozpočtu republiky zejména změny státního plánu rozvoje národního hospodářství České socialistické republiky, organizační změny a úpravu souhrnného finančního vztahu a účelových subvencí národních výborů, jestliže se změní podmínky, za nichž byly souhrnný finanční vztah a účelové subvence stanoveny.
+
+## § 3
+
+Tento zákon nabývá účinnosti dnem 1. ledna 1974.
+
+Erban v. r.
+
+Korčák v. r.
+
+## Prílohy
+
+### Příloha 1
+
+**Celkový přehled státního rozpočtu České socialistické republiky**
+
+| Příjmy | Kčs (v tisících) |
+|---|---|
+| Příjmy ze socialistického hospodářství | 42 073 605 |
+| Daně, dávky a poplatky od obyvatelstva | 21 637 000 |
+| Ostatní příjmy | 1 048 484 |
+| Dotace z federálního rozpočtu | 39 050 000 |
+| Úhrn | 103 809 089 |
+
+| Výdaje | Kčs (v tisících) |
+|---|---|
+| Výdaje ústředně řízených organizací na: |  |
+| hospodářství | 27 038 025 |
+| kulturní a sociální opatření | 39 224 108 |
+| obranu a bezpečnost | 2 897 748 |
+| správu | 640 173 |
+| soudy a prokuratury | 311 535 |
+| Souhrnný finanční vztah a účelové subvence do rozpočtů národních výborů | 33 697 500 |
+| Úhrn | 103 809 089 |
+
+### Příloha 2
+
+**Souhrnný finanční vztah a účelové subvence do rozpočtů národních výborů obsažené ve státním rozpočtu České socialistické republiky**
+
+| Kraj | Souhrnný finanční vztah (v tisících Kčs) | Účelové subvence (v tisících Kčs) |
+|---|---|---|
+| Národní výbor hl. m. Prahy | 2 855 300 | 4 418 700 |
+| Středočeský | 1 664 300 | 1 244 100 |
+| Jihočeský | 1 385 500 | 919 600 |
+| Západočeský | 1 704 900 | 1 302 600 |
+| Severočeský | 2 479 000 | 2 443 700 |
+| Východočeský | 1 515 700 | 1 375 000 |
+| Jihomoravský | 2 356 600 | 2 699 600 |
+| Severomoravský | 3 181 400 | 2 151 500 |
+| Úhrn | 17 142 700 | 16 554 800 |

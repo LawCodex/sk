@@ -1,0 +1,94 @@
+---
+title: "Zákon České národní rady o cílech a hlavních úkolech státního prováděcího plánu rozvoje národního hospodářství České socialistické republiky a o státním rozpočtu České socialistické republiky na rok 1971"
+identifier: "148/1970 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1970/148/"
+type: act
+jurisdiction: sk
+language: cs
+date: 1970-12-28
+last_amended: 1971-01-01
+status: in_force
+consolidated_version: "/SK/ZZ/1970/148/19710101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1970/148/19710101"
+retrieved: 2026-10-12
+---
+
+# Zákon České národní rady o cílech a hlavních úkolech státního prováděcího plánu rozvoje národního hospodářství České socialistické republiky a o státním rozpočtu České socialistické republiky na rok 1971
+
+**148**
+
+**ZÁKON**
+
+**České národní rady**
+
+**ze dne 22. prosince 1970**
+
+**o cílech a hlavních úkolech státního prováděcího plánu rozvoje národního hospodářství České socialistické republiky a o státním rozpočtu České socialistické republiky na rok 1971**
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## Cíle a hlavní úkoly státního prováděcího plánu rozvoje národního hospodářství České socialistické republiky na rok 1971
+
+### § 1
+
+(1) Cílem státního prováděcího plánu rozvoje národního hospodářství České socialistické republiky na rok 1971 je dosáhnout zvýšení efektivnosti národního hospodářství, které by umožnilo přikročit od konsolidace ekonomiky k postupnému přechodu na plynulý proporcionální rozvoj k vytvoření podmínek pro řešení rozvojových úkolů pátého pětiletého plánu.
+
+(2) Státní prováděcí plán rozvoje národního hospodářství České socialistické republiky na rok 1971 v souladu se záměry Směrnice pro vypracování pátého pětiletého plánu stanoví tyto hlavní úkoly:
+
+a) další rozvoj společenské výroby při zdůraznění jeho kvalitativní stránky na základě lepšího využívání základních fondů, surovin a materiálů, energie a pracovních sil tak, aby vytvořený národní důchod vzrostl ve srovnání s rokem 1970 o 4,7 %;
+
+b) zvýšení efektivnosti investiční výstavby rychlejším uváděním nových kapacit do provozu a snižováním rozestavěnosti proti současnému stavu při prioritním zaměření na výstavbu palivo-energetické základny;
+
+c) konsolidaci vnějších ekonomických vztahů zrychlením obratu výměny zboží se socialistickými státy a účinnějším zapojením ekonomiky do mezinárodní dělby práce;
+
+d) další rozvoj životní úrovně růstem osobní spotřeby při důsledném odměňování podle výsledků práce; přitom je nutno dále upevňovat stabilizaci vnitřního trhu řešením strukturální stránky spotřeby;
+
+e) další upevnění řídící úlohy plánu a zvýšení účinnosti a kvality řízení na všech stupních a ve všech článcích národního hospodářství.
+
+### § 2
+
+K zabezpečení úkolů uvedených v § 1 stanoví vláda České socialistické republiky státní prováděcí plán rozvoje národního hospodářství České socialistické republiky na rok 1971.
+
+### § 3 — Státní rozpočet České socialistické republiky
+
+(1) Celkové příjmy státního rozpočtu České socialistické republiky (dále jen "Státní rozpočet republiky") se stanoví částkou 97 567 967 000 Kčs
+
+celkové výdaje státního rozpočtu republiky se stanoví částkou .......97 567 967 000 Kčs.
+
+(2) Dotace a subvence ze státního rozpočtu federace do státního rozpočtu republiky činí ........12 432 907 000 Kčs.
+
+(3) Ve státním rozpočtu republiky jsou obsaženy tyto finanční vztahy k rozpočtům národních výborů:
+
+souhrnný finanční vztah dotace ve výši ......11 975 900 000 Kčs
+
+účelové subvence ve výši ......14 004 800 000 Kčs.
+
+(4) Vláda se zmocňuje promítnout do státního rozpočtu republiky zejména změny státního plánu, změny v působnosti federálních a národních orgánů, opatření vyplývající ze zákona o rozpočtových pravidlech, změny v redistribuci odvodů odpisů a zisku mezi výrobními hospodářskými jednotkami, úpravu Silničního fondu a úpravu souhrnného finančního vztahu a účelových subvencí národních výborů, jestliže se změní podmínky, za nichž byly souhrnný finanční vztah a účelové subvence stanoveny, pokud tím nebude dotčena vyrovnanost státního rozpočtu republiky.
+
+### § 4 — Porušení finančních a rozpočtových předpisů
+
+Vláda může snížit, vázat, popřípadě odčerpat ministerstvům, ostatním ústředním orgánům, jimi řízeným organizacím a státním fondům prostředky, poskytované ze státního rozpočtu republiky nebo státních fondů, jestliže tyto orgány nebo organizace porušují finanční a rozpočtové předpisy nebo zásady pro poskytování dotací; národním výborům může snížit z týchž důvodů souhrnný finanční vztah a účelové subvence poskytované jim ze státního rozpočtu republiky.
+
+### § 5
+
+Vláda může přenést oprávnění uvedená v ustanovení § 3 odst. 4 a § 4 na ministra financí.
+
+### § 6 — Zmocnění ministra financí
+
+Ministr financí se zmocňuje
+
+a) poskytovat přechodné výpomoci ministerstvům a ostatním ústředním orgánům pro potřebu příspěvkových organizací jimi řízených a krajským národním výborům, Národnímu výboru hlavního města Prahy a národním výborům měst Brna, Ostravy a Plzně a přijímat záruky za úvěry socialistických organizací;
+
+b) opatřovat finanční prostředky přechodnými půjčkami ke krytí časové neshody mezi příjmy a výdaji státního rozpočtu republiky v roce 1971; přechodné půjčky je nutno zásadně splatit do konce roku 1971 a není-li to možné, je nutno způsob jejich úhrady navrhnout České národní radě nejpozději při schvalování státního závěrečného účtu za rok 1971.
+
+### § 7 — Použití doplňkových zdrojů národních výborů a přebytku jejich hospodaření
+
+(1) Národní výbory použijí v roce 1971 prostředků fondu rezerv a rozvoje a ostatních doplňkových zdrojů k úhradě výdajů svých rozpočtů, pokud tyto výdaje nebudou kryty plánovanými příjmy jejich rozpočtů a dotacemi nebo účelovými subvencemi ze státního rozpočtu republiky nebo z rozpočtu národního výboru vyššího stupně.
+
+(2) Zdrojem fondu rezerv a rozvoje jsou prostředky tohoto fondu z minulých let a přebytky hospodaření v rozsahu stanoveném vládou. V průběhu roku nesmí národní výbory převádět doplňkové zdroje do svého fondu rezerv a rozvoje.
+
+Tento zákon nabývá účinnosti dnem 1. ledna 1971.
+
+Erban v. r.
+
+Korčák v . r.

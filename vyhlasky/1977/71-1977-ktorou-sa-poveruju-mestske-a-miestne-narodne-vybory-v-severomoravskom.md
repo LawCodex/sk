@@ -1,0 +1,132 @@
+---
+title: "Vyhláška Rady Severomoravského krajského národního výboru v Ostrave ktorou sa poverujú mestské a miestne národné výbory v Severomoravskom kraji výkonom štátnej správy vo vodnom hospodárstve"
+identifier: "71/1977 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1977/71/"
+type: decree
+jurisdiction: sk
+language: cs
+date: 1977-11-03
+last_amended: 1978-01-01
+status: in_force
+consolidated_version: "/SK/ZZ/1977/71/19780101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1977/71/19780101"
+retrieved: 2026-10-12
+---
+
+# Vyhláška Rady Severomoravského krajského národního výboru v Ostrave ktorou sa poverujú mestské a miestne národné výbory v Severomoravskom kraji výkonom štátnej správy vo vodnom hospodárstve
+
+**71**
+
+**VYHLÁŠKA**
+
+**Rady Severomoravského krajského národného výboru v Ostrave**
+
+**z 23. augusta 1977,**
+
+**ktorou sa poverujú mestské a miestne národné výbory v Severomoravskom kraji výkonom štátnej správy vo vodnom hospodárstve**
+
+## § 1
+
+Rada Severomoravského krajského národného výboru v Ostrave podľa § 3 ods. 2 zákona ČNR č. 130/1974 Zb. o štátnej správe vo vodnom hospodárstve poveruje:
+
+1. v okrese Bruntál
+
+všetky mestské národné výbory a miestne národné výbory Dvorce na Mor., Horní Benešov, Horní Město, Město Albrechtice, Jindřichov, Osoblaha, Světlá Hora
+
+v rozsahu § 3 ods. 2 písm. a), c), d), e), f),
+
+2. v okrese Frýdek-Místek
+
+všetky mestské národné výbory v rozsahu § 3 ods. 2 písm. a), b), c), d), e), f),
+
+miestne národné výbory
+
+Baška, Bystřice n. O., Čeladná, Dobrá, Fryčovice, Hnojník, Hor. Datyně, Kozlovice, Krmelín, Kunčice p. O., Lučina, Mosty u J., Nýdek, Oldřichovice, Ostravice, Palkovice, Paskov, Pražmo, Raškovice, Sklenov, Staříč, Šenov, Václavovice, Vedryně
+
+v rozsahu § 3 ods. 2 písm. a), c), d), e), f),
+
+ostatné miestne národné výbory
+
+v rozsahu § 3 ods. 2 písm. a),
+
+3. v okrese Karviná
+
+všetky mestské národné výbory
+
+v rozsahu § 3 ods. 2 písm. a), b), c), d), f),
+
+všetky miestne národné výbory
+
+v rozsahu § 3 ods. 2 písm. a).
+
+4. v okrese Nový Jičín
+
+všetky mestské a miestne národné výbory
+
+v rozsahu § 3 ods. 2 písm. a), c), d), f),
+
+5. v okrese Olomouc
+
+všetky mestské národné výbory
+
+v rozsahu § 3 ods. 2 písm. a), b), c), d), e), f),
+
+miestne národné výbory
+
+Bohuňovice, Bouzov, Dlouhá Loučka, Dolany, Dub n. Mor., Hlubočky, Horka n. Mor., Lutín, Náklo, Náměšť na Hané, Senice na Hané, Štěpánov, Troubelice, Tršice, Velká Bystřice, Velký Týnec, Velký Újezd, Město Libava (voj. obvod)
+
+v rozsahu § 3 ods. 2 písm. a), b), c), d), f),
+
+6. v okrese Opava
+
+všetky mestské národné výbory a miestne národné výbory
+
+Bohuslavice, Bolatice, Darkovice, Dolní Benešov, Háj ve Slezsku, Jakartovice, Kobeřice, Pustá Polom, Stěbořice, Šilhéřovice, Štépánkovice
+
+v rozsahu § 3 ods. 2 písm. a), b), c), d), e), f),
+
+miestne národné výbory
+
+Děhylov, Hať, Chuchelná, Melč, Otice, Píšť, Skřípov, Raduň, Slavkov, Sudice, Velká Polom, Velké Heraltice, Větřkovice
+
+v rozsahu § 3 ods. 2 písm. aj, c), d), e), f),
+
+7. mesto Ostrava
+
+obvodné národné výbory 1—4
+
+v rozsahu § 3 ods. 2 písm. a), b), c), d), e), f),
+
+8. v okrese Přerov
+
+všetky mestské národné výbory a miestne národné výbory
+
+Bělotín, Bochoř, Brodek, Citov, Čekyně, Černotín, Dolní Újezd, Domaželice, Dřevohostice, Horní Moštěnice, Hustopeče, Jezernice, Jindřichov, Kokory, Lazníky, Lobodice, Milenov, Opatovice, Osek n. B., Partutovice, Pavlovice, Polkovice, Potštát, Prosenice, Radslavice, Rokytnice, Skalička, Soběchleby, Střítěž n. Lud., Troubky, Veselíčko, Viničná, Vlkoš, Všechovice, Želátovice,
+
+v rozsahu § 3 ods. 2 písm. a), b), c), d), e), f),
+
+9. v okrese Šumperk
+
+všetky mestské národné výbory a miestne národné výbory
+
+v rozsahu § 3 ods. 2 písm. a), c), dj, e), f),
+
+10. v okrese Vsetín
+
+všetky mestské národné výbory a miestne národné výbory
+
+Halenkov, Horní Bečva, Horní Lideč, Hošťálková, Hovězí, Hutisko-Solanec, Jablůnka, Kelč, Lesná, Nový Hrozenkov, Valašská Bystřice, Valašská Polanka, Velké Karlovice, Zašová, Zubří, Ratiboř, Dolní Bečva, Bránky, Bystřička, Francova Lhota, Lidečko, Liptál
+
+v rozsahu § 3 ods. 2 písm. a), b), c), d), e), f),
+
+## § 2
+
+Táto vyhláška nadobúda účinnosť dňom 1. januára 1978.
+
+Tajomník:
+
+Tošenovjan v. r.
+
+Predseda:
+
+Ing. Skácel v. r.
