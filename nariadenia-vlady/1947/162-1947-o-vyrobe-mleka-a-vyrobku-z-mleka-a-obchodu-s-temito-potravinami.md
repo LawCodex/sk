@@ -1,0 +1,74 @@
+---
+title: "Vládní nařízení kterým se mění vládní nařízení ze dne 20. dubna 1934, č. 75 Sb., o výrobě mléka a výrobků z mléka a obchodu s těmito potravinami."
+identifier: "162/1947 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1947/162/"
+type: government_regulation
+jurisdiction: sk
+language: cs
+date: 1947-09-27
+last_amended: 1947-10-01
+status: in_force
+consolidated_version: "/SK/ZZ/1947/162/19471001"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1947/162/19471001"
+retrieved: 2026-10-12
+---
+
+# Vládní nařízení kterým se mění vládní nařízení ze dne 20. dubna 1934, č. 75 Sb., o výrobě mléka a výrobků z mléka a obchodu s těmito potravinami.
+
+**162.**
+
+**Vládní nařízení**
+
+**ze dne 23. září 1947,**
+
+**kterým se mění vládní nařízení ze dne 20. dubna 1934, č. 75 Sb., o výrobě mléka a výrobků z mléka a obchodu s těmito potravinami.**
+
+Vláda republiky Československé nařizuje podle §§ 6 a 7 zákona ze dne 16. ledna 1896, č. 89 ř. z. z r. 1897, o obchodu s potravinami a některými předměty potřeby, podle § 14 zákona ze dne 25. října 1901, č. 26 ř. z. z r. 1902, o obchodu s máslem, sýrem, přepouštěným máslem, přepouštěným vepřovým sádlem a jejich náhražkami, podle §§ 6, 14 a 167 zák. čl. XIV/1876, kterým bylo upraveno veřejné zdravotnictví, a podle zák. čl. XLVI/1895, o zákazu falšování zemědělských plodin, výrobků a potřeb:
+
+## § 1.
+
+V ustanovení § 7, odst. 1 vládního nařízení č. 75/1934 Sb. se číslice „3.6%“ nahrazuje na přechodnou dobu číslicí „2%“.
+
+## § 2.
+
+Toto nařízení nabývá účinnosti dnem 1. října 1947; provedou je ministři výživy a zdravotnictví v dohodě se zúčastněnými členy vlády.
+
+Gottwald v. r.
+
+Dr. Zenkl v. r.
+
+Ursíny v. r.
+
+Široký v. r.
+
+arm. gen. Svoboda v. r.
+
+Nosek v. r.
+
+Dr. Dolanský v. r.
+
+Dr. Stránský v. r.
+
+Dr. Drtina v. r.
+
+Kopecký v. r.
+
+Laušman v. r.
+
+Ďuriš v. r.
+
+Dr. Pietor v. r.
+
+Ing. Kopecký v. r.
+
+Hála v. r.
+
+Dr. Nejedlý v. r.
+
+Dr. Procházka v. r.
+
+Majer v. r.
+
+Dr. Franek v. r.
+
+Lichner v. r.

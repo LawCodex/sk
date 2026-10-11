@@ -1,0 +1,62 @@
+---
+title: "Nařízení, kterým se dolňuje vládní nařízení ze dne 5. března 1927, č. 16 Sb., o úpravě služebních a platových poměrů řemeselných zaměstnanců v technické službě stavební a udržovací a v automobilním provozu Československé pošty."
+identifier: "111/1945 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1945/111/"
+type: government_regulation
+jurisdiction: sk
+language: cs
+date: 1945-11-07
+last_amended: 1945-11-07
+status: in_force
+consolidated_version: "/SK/ZZ/1945/111/19451107"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1945/111/19451107"
+retrieved: 2026-10-12
+---
+
+# Nařízení, kterým se dolňuje vládní nařízení ze dne 5. března 1927, č. 16 Sb., o úpravě služebních a platových poměrů řemeselných zaměstnanců v technické službě stavební a udržovací a v automobilním provozu Československé pošty.
+
+**111.**
+
+**Vládní nařízení ze dne 18. října 1945.**
+
+**kterým se doplňuje vládní nařízení ze dne 5. března 1927, č. 16 Sb., o úpravě služebních a platových poměrů řemeslných zaměstnanců v technické službě stavební a udržovací a v automobilním provozu českolovenské pošty.**
+
+Vláda republiky československé nařizuje podle § 210 zákona ze dne 24. června 1926, č. 103 Sb., o úpravě platových a některých služebních poměru statních zaměstnanců (platobného zákona ):
+
+## § 1
+
+Ustanovení § 4 vládního nařízení č. 16/1927 Sb. se doplňuje o odstavec 2 tohoto znění:
+
+> „Ministr pošt může prominouti podmínku stanovenou v odst. 1, č. 5, písm.a) nebo b) dělníků, který nastoupil práci u československé pošty před 1. říjnem 1938, byl dne 1. ledna 1945 zaměstnán řemeslnými pracemi kategorie mechaniků nebo montérů a tyto práce do tohoto dne konal nejméně po dobu 6 roků, vykoná-li s úspěchem před zvláštní komisí poštovní správy zkoušku o tom, že získal potřebné odborné znalosti a zručnosti.“.
+
+## § 2
+
+Toto nařízení nabývá účinnosti dnem 1. srpna 1945 a platí v zemích České a Moravskoslezské; provede je ministr pošt.
+
+Fierlinger v.r.
+
+David v.r.
+
+Dr. Šrámek v.r.
+
+Ursíny v.r.
+
+Masaryk v.r.
+
+Nosek v.r.
+
+Dr. Šrobár v.r.
+
+Dr. Stránský v.r.
+
+Kopecký v.r.
+
+Laušman v.r.
+
+Hála v.r.
+
+Dr. Procházka v.r.
+
+Majer v.r.
+
+Dr. Clementis v.r.

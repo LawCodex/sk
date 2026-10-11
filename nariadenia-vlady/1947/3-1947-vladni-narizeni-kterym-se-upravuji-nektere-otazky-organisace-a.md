@@ -1,0 +1,725 @@
+---
+title: "Vládní nařízení, kterým se upravují některé otázky organisace a služební a platové poměry sboru uniformované vězeňské stráže."
+identifier: "3/1947 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1947/3/"
+type: government_regulation
+jurisdiction: sk
+language: cs
+date: 1947-01-21
+last_amended: 1947-01-21
+status: in_force
+consolidated_version: "/SK/ZZ/1947/3/19470121"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1947/3/19470121"
+retrieved: 2026-10-12
+---
+
+# Vládní nařízení, kterým se upravují některé otázky organisace a služební a platové poměry sboru uniformované vězeňské stráže.
+
+**3.**
+
+**Vládní nařízení**
+
+**ze dne 17. prosince 1946,**
+
+**kterým se upravují některé otázky organisace a služební a platové poměry sboru uniformované vězeňské stráže.**
+
+Vláda republiky Československé nařizuje podle § 2, odst. 1 dekretu presidenta republiky ze dne 1. října 1945, č. 94 Sb., o úpravě některých otázek organisace a služebních a platových poměrů sboru uniformované vězeňské stráže:
+
+## ČÁST PRVNÍ. — Ustanovení organisační.
+
+### § 1.
+
+(1) Výkon správní a strážní služby v soudních věznicích, v trestních ústavech a v justičních výchovných ústavech, na Slovensku ve věznicích krajských soudů, ve zvláště určených věznicích okresních soudů, v trestních ústavech, v justičních výchovných ústavech a v donucovacích pracovnách (dále jen vězeňské ústavy) obstarává sbor uniformované vězeňské stráže (dále jen SVS).
+
+(2) SVS jest ozbrojený a stejnokrojem opatřený sbor; skládá se z úředníků vězeňské služby právní, správní a strážní (dále jen úředníci SVS) a z gážistů vězeňské stráže mimo služební třídy (dále jen gážisté SVS).
+
+### § 2.
+
+Úkolem SVS jest zejména:
+
+1. v zájmu obecné bezpečnosti střežiti osoby, které jsou ve vazbě ve vězeňských ústavech,
+
+2. spolupůsobiti, aby účel vyšetřovací vazby nebyl mařen a aby trest na svobodě byl vykonáván podle platných předpisů,
+
+3. působiti k udržování a zlepšování řádného provozu souvisícího se zaměstnáváním vězňů ve vězeňských ústavech i mimo ně,
+
+4. pečovati o správní a hospodářskou stránku výkonu vazby.
+
+### § 3.
+
+Pro každý vězeňský ústav, kromě věznic okresních soudů, se zřizuje zvláštní oddíl SVS, jehož velitelem jest úředník SVS ustanovený ministerstvem spravedlnosti, na Slovensku pověřenectvem spravedlnosti. Oddíl jest podřízen služebnímu úřadu.
+
+### § 4.
+
+Ministr spravedlnosti určí u svého úřadu úředníka služby právní, jemuž přísluší dozor nad službou, jakož i péče o výchovu a školení sboru; v této funkci mu náleží služební titul „ministerský inspektor SVS“. Ministr spravedlnosti určí pro Slovensko k návrhu pověřence spravedlnosti jako zástupce dozorčího úředníka úředníka služby právní, který má v této funkci služební titul „náměstek ministerského inspektora SVS“; v případě potřeby může zástupce určiti též pro země Českou a Moravskoslezskou.
+
+## ČÁST DRUHÁ. — Příslušníci SVS.
+
+### Díl I. — Úředníci SVS.
+
+#### § 5.
+
+(1) Úředníci SVS jsou státními pragmatikálními úředníky, při čemž pro ně platí odchylky vyplývající z tohoto nařízení.
+
+(2) Služební místa úředníků SVS se roztřiďují ve tři služební třídy. Do I. b) služební třídy náleží služební kategorie úředníků vězeňské služby právní, do II. služební třídy služební kategorie úředníků vězeňské služby správní a do III. služební třídy služební kategorie úředníků vězeňské služby strážní.
+
+#### § 6.
+
+Služební místa úředníků III. služební třídy se systemisují podle svého významu a se zřetelem na způsob služby v rámci stanovené normální potřeby sil ve 4. až 8. platové stupnici.
+
+#### § 7.
+
+Úředníkům SVS III. služební třídy v kategorii úředníků vězeňské služby strážní se stanoví titulové jméno podle platových stupnic takto:
+
+#### § 8.
+
+Titulové přídomky úředníků SVS a úřednických čekatelů SVS se stanoví se zřetelem k úřednické kategorii takto:
+
+| Služební třída | Kategorie úředníků vězeňské služby | Služební obor (úřad, ústav) | Titulový přídomek |
+|---|---|---|---|
+| I. | právní | vězeňské ústavy | vězeňské služby právní |
+| II. | správní | vězeňské ústavy | vězeňské služby správní |
+| III. | strážní | vězeňské ústavy | vězeňské služby strážní |
+
+#### Úředničtí čekatelé. Čekatelská doba.
+
+##### § 9.
+
+(1) Úředničtí čekatelé SVS se ustanovují jen ve služební kategorii úředníků vězeňské služby správní.
+
+(2) Úřednickým čekatelem SVS může býti ustanoven jen, kdo splnil mimo všeobecné podmínky pro ustanovení ve státní službě ještě tyto zvláštní podmínky:
+
+a) jest důstojníkem v záloze anebo s úspěchem ukončil školu pro důstojníky v záloze;
+
+b) absolvoval střední školu kteréhokoliv typu se zkouškou dospělosti;
+
+c) nepřekročil 30. rok věku;
+
+d) má tělesnou výšku nejméně 165 cm;
+
+e) má duševní a tělesnou způsobilost zjištěnou úředním lékařem.
+
+(3) Ministerstvo spravedlnosti, na Slovensku pověřenectvo spravedlnosti, může v případech hodných mimořádného zřetele povoliti úchylku od zvláštních podmínek, stanovených v odstavci 2, písm. c) a d), a pokud jde o osoby, které konaly službu ve vězeňských ústavech v den počátku účinnosti tohoto nařízení, též v případě uvedeném v odstavci 2, písm. a).
+
+(4) Čekatelská doba se stanoví třemi roky.
+
+##### § 10.
+
+Služební kategorie úředníků vězeňské služby právní se doplňuje z kategorie úředníků služby právní [I. b) služební třída], soudců nebo státních zástupců, kteří jsou důstojníky v záloze anebo s úspěchem ukončili školu pro důstojníky v záloze. Od této podmínky může v případech hodných mimořádného zřetele povoliti úchylku ministerstvo spravedlnosti, na Slovensku pověřenectvo spravedlnosti.
+
+##### § 11.
+
+(1) Kategorie úředníků vězeňské služby strážní se doplňuje z řad gážistů SVS, ustanovených na služebních místech I. platové stupnice, jestliže vyhovují stanoveným všeobecným podmínkám a úspěšně absolvovali jednoroční učební běh spojený se školou měšťanskou nebo mají jiné rovnocenné vzdělání.
+
+(2) Podmínkou pro ustanovení gážisty SVS úředníkem vězeňské služby strážní jest nejméně patnáctiletá služba skutečně strávená v SVS, zvláštní způsobilost pro místo, které se propůjčuje, dále schopnost, upotřebitelnost a důvěryhodnost, jakož i úspěšný výkon odborné zkoušky pro dosažení služebního místa úředníka vězeňské služby strážní. Rozsah, způsob a ostatní podmínky odborné zkoušky stanoví ministerstvo spravedlnosti, pokud jde o Slovensko po vyjádření pověřenectva spravedlnosti.
+
+##### § 12. — Ustanovení čekatele úředníkem vězeňské služby správní.
+
+Čekatel se ustanovuje úředníkem vězeňské služby správní, jakmile dovršil stanovenou čekatelskou dobu, vyhověl všeobecným podmínkám a podrobil se s úspěchem odborné zkoušce pro dosažení služebního místa úředníka vězeňské služby správní a zkoušce ze státního účetnictví. Rozsah, způsob a ostatní podmínky odborné zkoušky stanoví ministerstvo spravedlnosti, pokud jde o Slovensko po vyjádření pověřenectva spravedlnosti.
+
+##### § 13. — Platové poměry.
+
+(1) O výši služebního platu úředníků vězeňské služby strážní platí obdobně předpisy o výši služebního platu četnických důstojníků.
+
+(2) Byl-li vrchní strážmistr vězeňské stráže ustanoven úředníkem vězeňské služby strážní (§ 11, odst. 1), platí obdobně ustanovení § 17, odst. 4 a 5 platového zákona.
+
+#### Převodní ustanovení.
+
+##### § 14.
+
+(1) Úředníci vězeňské služby strážní (III., dosud IV. služební třída) se zařazují do platových stupnic a platových stupňů téhož čísla a označení podle § 103, odst. 1 platového zákona ve znění vládního nařízení ze dne 12. ledna 1944, č. 15 Sb., avšak s těmito odchylkami:
+
+<table>
+<tr>
+<td rowspan="2">Dosavadní <br> platové <br> stupnice</td>
+<td rowspan="2">dosavadního platového <br> stupně</td>
+<td colspan="2">se převedou do</td>
+</tr>
+<tr>
+<td>platové <br> stupnice</td>
+<td>platového <br> stupně</td>
+</tr>
+<tr>
+<td>7</td>
+<td>a</td>
+<td>8</td>
+<td>a</td>
+</tr>
+<tr>
+<td>7</td>
+<td>b</td>
+<td>8</td>
+<td>b</td>
+</tr>
+<tr>
+<td>7</td>
+<td>c</td>
+<td>7</td>
+<td>a</td>
+</tr>
+<tr>
+<td>7</td>
+<td>d</td>
+<td>7</td>
+<td>b</td>
+</tr>
+<tr>
+<td>7</td>
+<td>e</td>
+<td>7</td>
+<td>c</td>
+</tr>
+<tr>
+<td>7</td>
+<td>f</td>
+<td>7</td>
+<td>d</td>
+</tr>
+<tr>
+<td>7</td>
+<td>f <br> \+ 1 náslužný přídavek</td>
+<td>7</td>
+<td>e</td>
+</tr>
+<tr>
+<td>7</td>
+<td>f <br> \+ 2 náslužné přídavky</td>
+<td>7</td>
+<td>e <br> \+ 1 náslužný přídavek</td>
+</tr>
+<tr>
+<td>7</td>
+<td>f <br> \+ 3 náslužné přídavky</td>
+<td>7</td>
+<td>e <br> \+ 2 náslužné přídavky</td>
+</tr>
+<tr>
+<td>7</td>
+<td>f <br> \+ 4 náslužné přídavky</td>
+<td>7</td>
+<td>e <br> \+ 3 náslužné přídavky</td>
+</tr>
+<tr>
+<td>7</td>
+<td>f <br> \+ 5 náslužných přídavků</td>
+<td>7</td>
+<td>e <br> \+ 4 náslužné přídavky</td>
+</tr>
+</table>
+
+##### § 15.
+
+(1) Po úpravě platů provedené podle tohoto nařízení nesmí úředník vězeňské služby strážní na služebním platu s připočtením platového přídavku podle dekretu presidenta republiky ze dne 20. srpna 1945, č. 58 Sb., o platovém přídavku státním a některým jiným veřejným zaměstnancům, a zvláštního přídavku podle zákona ze dne 13. prosince 1945, č. 159 Sb., o zvláštním přídavku státním a některým jiným veřejným zaměstnancům, jakož i poživatelům státních odpočivných (zaopatřovacích) platů, obdržeti po srážce daně důchodové méně, než kolik činil do počátku účinnosti tohoto nařízení jeho služební plat spolu s platovým přídavkem podle dekretu presidenta republiky č. 58/1945 Sb., pokud zaměstnanci přísluší, zvláštním přídavkem podle zák. č. 159/1945 Sb., s mimořádným příspěvkem (příplatkem ženatých) podle zákona ze dne 28. února 1941, č. 40 Sl. z., o prozatímní úpravě platů státních zaměstnanců a o změně a doplnění některých ustanovení o úsporných opatřeních personálních, drahotním přídavkem podle zákona ze dne 2. července 1942, č. 129 Sl. z., o drahotním přídavku a o změně některých ustanovení o úsporných opatřeních personálních, ve znění zákona ze dne 10. prosince 1942, č. 232 Sl. z., o drahotním přídavku a o jednorázové vánoční výpomoci státním zaměstnancům, a zákona ze dne 8. července 1943, č. 102 Sl. z., o drahotním přídavku pro pensisty a o změně některých ustanovení o úsporných opatřeních personálních, platového zákona a zákona o úpravě služebního poměru vdaných státních zaměstnankyň, všeobecným drahotním přídavkem podle zákona ze dne 28. října 1943, č. 139 Sl. z., o všeobecném drahotním přídavku a doplnění zákona č. 102/1943 Sl. z., ve znění zákona ze dne 22. prosince 1943, č. 169 Sl. z., o zvýšení drahotního přídavku pro pensisty, o jednorázové vánoční výpomoci pro děti pensistů, o prodloužení platnosti některých ustanovení zákona č. 102/1943 Sl. z., a o změně a doplnění některých ustanovení zákona č. 139/1943 Sl. z., mimořádným drahotním přídavkem podle nařízení Slovenské národní rady ze dne 16. května 1945, č. 39 Sb. n. SNR, případným doplňovacím přídavkem ženatých (§ 193 platového zákona) a vyrovnávacím přídavkem (§ 196 platového zákona), a to po srážce daně důchodové, u úředníků vězeňské služby strážní na Slovensku též po srážce pensijního příspěvku. Případný rozdíl přísluší jako vyrovnávací osobní přídavek, který u úředníků vězeňské služby strážní na Slovensku nepodléhá dani důchodové.
+
+(2) Vyrovnávací osobní přídavek podle předchozího odstavce se snižuje při každém zvýšení služného (platu mu odpovídajícího), k němuž dojde po 1. lednu 1946, o částku tohoto zvýšení, nejvýše však o částku, o kterou platy stanovené podle odstavce 1 po nastalém zvýšení služného (platu mu odpovídajícího) převyšují platy dosavadní.
+
+(3) Změní-li se za účinnosti tohoto nařízení rodinný stav (počet rodinných příslušníků), k němuž (k nimž) bylo přihlíženo při stanovení vyrovnávacího osobního přídavku, stanoví se tento přídavek pro dobu od prvního dne příštího měsíce tak, jako kdyby okolnost změnu přivodivší byla nastala v den před účinností tohoto nařízení.
+
+(4) Vyrovnávací osobní přídavek se zaokrouhlí, není-li vyjádřen v korunách bez haléřů nebo není-li dělitelný dvanácti, na nejblíže vyšší částku v korunách, dělitelnou dvanácti.
+
+### Díl II. — Gážisté SVS.
+
+#### A. Služební a platové poměry.
+
+##### § 16. — Systemisace služebních míst.
+
+(1) Služební místa gážistů SVS se systemisují v I., II. a III. platové stupnici.
+
+(2) Ustanovení § 6 platového zákona platí obdobně.
+
+##### Čekatelé vězeňské stráže.
+
+###### § 17.
+
+(1) Čekatelem vězeňské stráže (dále jen čekatel) může býti ustanoven jen, kdo splnil mimo všeobecné podmínky pro ustanovení ve státní službě ještě tyto zvláštní podmínky:
+
+a) dovršil nejméně 22. rok věku a nepřekročil 30.;
+
+b) vykonal zákonitou vojenskou službu presenční se zbraní;
+
+c) je svobodný, ovdovělý nebo rozloučený;
+
+d) má alespoň takové vzdělání, jaké poskytuje obecná škola;
+
+e) má tělesnou výšku nejméně 165 cm, u čekatelů ženského pohlaví nejméně 160 cm;
+
+f) má duševní a tělesnou způsobilost zjištěnou úředním lékařem.
+
+Zvláštní podmínka stanovená pod písm. b) neplatí pro čekatele ženského pohlaví.
+
+(2) Ministerstvo spravedlnosti, na Slovensku pověřenectvo spravedlnosti, může v případech hodných mimořádného zřetele povoliti úchylku od zvláštních podmínek stanovených v odstavci 1, písm. a), c) a e) a pokud jde o osoby, které konaly strážní službu ve vězeňských ústavech v den počátku účinnosti tohoto nařízení, i písm. b).
+
+(3) Čekatelská doba se stanoví jedním rokem; musí býti strávena v SVS a je započitatelná pro zvýšení služného.
+
+(4) Čekateli náleží po čekatelskou dobu služební plat III. platové stupnice a služební titul „pomocný podstrážmistr vězeňské stráže“.
+
+(5) Při nástupu služby vykoná čekatel přísahu ve znění § 23.
+
+(6) Zjistí-li se, že čekatel nemá potřebné způsobilosti ke službě nebo nevyhoví-li podmínkám předepsaným pro trvalé ustanovení, zruší se služební poměr. V takovém případě se přizná čekateli při jinak bezvadném chování odbytné ve výměře jednoměsíčního platu.
+
+(7) Čekatel v činné službě nesmí uzavříti sňatek bez předchozího svolení ministerstva spravedlnosti, na Slovensku pověřenectva spravedlnosti.
+
+###### § 18.
+
+(1) Ustanovení tohoto nařízení o gážistech SVS platí, pokud se jinak nestanoví, i pro čekatele.
+
+(2) Předpisy o vyloučení a odkladu zvýšení služného platné pro úředníky (§ 16 platového zákona) se vztahují obdobně na ustanovení čekatele gážistou SVS.
+
+##### Ustanovení čekatele gážistou SVS.
+
+###### § 19.
+
+Gážistou SVS se ustanoví čekatel, který
+
+a) dovršil stanovenou čekatelskou dobu (§ 17, odst. 3),
+
+b) vyhovuje podmínkám § 17, odst. 1, písm. f),
+
+c) podrobil se odbornému výcviku a s úspěchem vykonal zkoušku ze služebních předpisů.
+
+###### § 20.
+
+Vyjde-li dodatečně najevo, že gážista SVS vyloudil propůjčení služebního místa předložením neplatných dokladů nebo zamlčením okolností, které podle platných předpisů vylučují dosazení v úřad, zakročí se proti němu bez újmy trestního stíhání cestou kárnou.
+
+###### § 21. — Počátek služebního poměru.
+
+(1) Služební poměr počíná dnem doručení ustanovovacího dekretu, leč by v něm byl výslovně ustanoven jiný den.
+
+(2) Služba má býti nastoupena dnem vyznačeným v dekretu a není-li den udán, do 14 dnů po doručení dekretu.
+
+###### § 22. — Počátek služební doby.
+
+Služební doba gážisty SVS počíná při prvém nebo opětném ustanovení dnem nastoupení služby, při bezprostředním přestoupení z jiného státního služebního poměru dnem zproštění služby v tomto služebním poměru.
+
+###### § 23. — Služební přísaha.
+
+(1) Při prvém nebo opětném ustanovení vykoná gážista SVS při nastoupení služby do rukou přednosty služebního úřadu přísahu tohoto znění: „Přísahám a slibuji na svou čest a svědomí, že Československé republice budu vždy věren a její vlády poslušen, že budu veškeré zákony zachovávati, všechny své úřední povinnosti podle platných zákonů a nařízení vykonávati pilně, svědomitě a nestranně, úředního tajemství neprozradím, příkazu svých představených budu poslušen a ve všem svém jednání jen prospěchu státu a zájmu služby budu dbáti.“
+
+(2) Tato služební přísaha se vykonává tím způsobem, že přísahající bez ohledu na to, jakého jest náboženského vyznání, opakuje znění předčítané mu přísahy a poté podá ruku tomu, kdo ho bere do přísahy.
+
+(3) Po vykonání ústní přísahy podepíše přísahající zápis o přísaze opatřený datem. Výkon přísahy s uvedením dne se úředně osvědčí na ustanovovacím dekretu.
+
+(4) Přísahu nekonají gážisté SVS, kteří již vykonali předepsanou služební přísahu jako čekatelé.
+
+###### § 24. — Osobní výkaz.
+
+(1) O každém gážistovi SVS vede přednosta služebního úřadu osobní výkaz, do něhož se zapisují veškerá osobní data důležitá pro služební a platové poměry gážistovy vůbec a pro zvýšení služného a výměru výslužného zvláště.
+
+(2) Gážista SVS je povinen ohlásiti tato data ihned po nastoupení služby a oznámiti všechny změny, pokud nespočívají na úředních opatřeních.
+
+###### § 25. — Kvalifikace.
+
+Gážisté SVS podléhají běžné kvalifikaci. Ustanovení vládního nařízení ze dne 13. prosince 1927, č. 174 Sb., o kvalifikaci státních zřízenců, platí obdobně.
+
+##### Služební povinnosti.
+
+###### § 26. — Všeobecné povinnosti.
+
+(1) Gážisté SVS jsou povinni býti Československé republice vždy věrni a její vlády poslušni a zachovávati všechny zákony. Mají se plně věnovati službě a plniti své služební povinnosti horlivě, svědomitě, nestranně a nezištně, vždy pamatovati na hájení veřejných zájmů a všeho se vystříhati a podle sil zameziti, co by mohlo býti na škodu veřejným zájmům anebo rušiti řádný chod služby.
+
+(2) Gážisté SVS ručí za statek jim svěřený a za každou škodu jejich zaviněním státu způsobenou.
+
+###### § 27. — Kázeň a služební poslušnost.
+
+(1) Gážisté SVS mají přísně zachovávati kázeň a poslušnost k představeným. Jsou povinni ochotně uposlechnouti služebních rozkazů svých představených a míti při jejich provádění na zřeteli zájmy služby podle nejlepšího vědomí a svědomí.
+
+(2) Domnívá-li se gážista SVS, že jemu udělený rozkaz spočívá na nedorozumění, ohlásí to rozkladem; byl-li však rozkaz přesto dán znovu anebo nebyl-li odvolán nebo změněn před dobou určenou k jeho provedení, musí býti přesně vykonán. Rozklad může býti podán jen tenkráte, jestliže by se odkladem, který by tím vznikl, nezmařil účel daného rozkazu. Nebyl-li rozkaz odvolán nebo změněn, možno se při jeho provádění od něho uchýliti jen, nastanou-li události, které k uchýlení nutí, což však musí býti neprodleně hlášeno představenému.
+
+###### § 28. — Úřední mlčenlivost.
+
+Gážisté SVS jsou povinni zachovávati nejpřísnější mlčenlivost o služebních věcech vůči každému, jemuž nejsou zavázáni je služebně sděliti, pokud nebyli pro určitý případ zproštěni této povinnosti. Povinnost mlčenlivosti o těchto věcech trvá i ve výslužbě nebo po zrušení služebního poměru.
+
+##### Chování.
+
+###### § 29.
+
+(1) Gážisté SVS se musí ve službě i mimo službu vystříhati všeho, co by mohlo býti na újmu jejich vážnosti a důvěryhodnosti a co by mohlo poškoditi čest a dobrou pověst sboru. Ve službě i mimo službu se mají chovati slušně a v souladu s požadavky kázně. Také gážisté SVS ve výslužbě jsou povinni se chovati slušně a dbáti toho, aby jejich chováním neutrpěla dobrá pověst sboru.
+
+(2) Gážisté SVS jsou povinni se chovati k představeným uctivě a ve styku s druhy a podřízenými dbáti náležité slušnosti. Představení jsou povinni jednati se svými podřízenými slušně a spravedlivě a s příslušným ohledem odpovídajícím postavení podřízeného.
+
+(3) Gážisté SVS mají jednati ve službě nestranně a spravedlivě, pozorně a přesně prováděti služební úkony, pečlivě dodržovati předpisy o výkonu vazby, odhodlaně a zmužile postupovati v nebezpečích, která přináší služba a dbáti o účinnou podporu služebních úkonů svých druhů.
+
+(4) Gážisté SVS se mají chovati k vězňům vážně a pevně. S vězni nesmí zle nakládati ani se pouštěti s nimi do nedovoleného styku. Podrobná ustanovení o nakládání s vězni stanoví zvláštní předpisy ministerstva spravedlnosti, vydané pokud jde o Slovensko po vyjádření pověřenectva spravedlnosti.
+
+###### § 30.
+
+(1) Gážistům SVS jest přísně zakázáno přijímati dary, služby nebo úsluhy nabízené přímo nebo nepřímo dodavateli, podnikateli prací či jinými osobami vzhledem ke služebním výkonům, anebo vcházeti ve spojení s vězni nebo jejich příslušníky, či nepatřičně se stýkati s propuštěnými vězni.
+
+(2) Gážisté SVS musí pečovati, aby také členové jejich rodin se přísně zdržovali styků uvedených v odstavci 1.
+
+###### § 31. — Trvání služby.
+
+(1) Trvání služby se řídí služební potřebou. Nedělní klid jest možno zachovávati, pokud je to slučitelno s nezbytnými požadavky služby. Měl-li gážista SVS celodenní, t. j. nejméně osm hodin trvající nedělní službu, má nárok na volný den v týdnu poté následujícím. Náhradou za noční službu se poskytuje druhého dne volno; výjimečně možno toto volno přeložiti na jiný den.
+
+(2) Gážisté SVS musejí v nutných případech konati také jiné služební úkony, než které se jim obyčejně přikazují.
+
+(3) Ze služby a služební pohotovosti se nesmějí gážisté SVS vzdáliti bez svolení velitele oddílu. Velitel oddílu může při mimořádných okolnostech stanoviti omezení ve vzdálení se ze služebního místa i po dobu volna. Rovněž může gážistům SVS, bydlícím ve vězeňském ústavu, stanoviti určitou hodinu pro návrat domů.
+
+###### § 32. — Služební postup.
+
+(1) Gážisté SVS jsou povinni podávati všechny žádosti, rozklady a stížnosti ve služebních nebo osobních věcech týkajících se služebního poměru služební cestou. Při prohlídkách vězeňského ústavu vykonávaných ministerským inspektorem, jeho zástupcem nebo zmocněncem ministerstva spravedlnosti, na Slovensku zmocněncem pověřenectva spravedlnosti, mají právo přednášeti prosby a stížnosti přímo osobě pověřené prohlídkou, což však neplatí pro stížnosti, které jako opravné prostředky musejí býti podány v určité lhůtě určitému úřadu.
+
+(2) Stížnosti na služební nařízení vydaná služebním představeným nemají odkladného účinku.
+
+###### § 33. — Pobyt.
+
+Gážisté si mají, pokud jim nebyl přikázán služební byt, svůj byt zvoliti tak, aby mohli všem služebním povinnostem přesně dostáti. Bydliště i jeho změnu hlásí neprodleně služebnímu úřadu.
+
+###### § 34. — Ospravedlněná nepřítomnost ve službě.
+
+(1) Je-li gážistovi SVS znemožněno nemocí nebo z jiných ospravedlňujících důvodů konati službu, je povinen to hlásiti neprodleně služebnímu úřadu a k jeho výzvě osvědčiti důvod nepřítomnosti; k úřednímu příkazu je povinen se podrobiti vyšetření úředním lékařem.
+
+(2) Ospravedlněná nepřítomnost ve službě, zvláště nepřítomnost způsobená nemocí nebo odůvodněná zdravotně policejními předpisy, nemá za následek újmy v platech ani omezení při zvýšení služného.
+
+(3) Nepřijde-li gážista SVS svévolně do služby déle tří dnů a neprokáže-li dostatečný omluvný důvod, pozbývá služebních příjmů za dobu neospravedlněné nepřítomnosti, bez újmy kázeňské nebo kárné odpovědnosti. Doba neospravedlněné nepřítomnosti ve službě není započitatelná pro zvýšení služného.
+
+(4) Gážista SVS, který je vzdálen služby, je povinen oznámiti služebnímu úřadu případnou změnu místa svého pobytu.
+
+###### § 35. — Sňatek.
+
+Uzavře-li gážista SVS sňatek, má to oznámiti do 15 dnů služebnímu úřadu a je-li ve výslužbě, úřadu, který mu poukazuje odpočivné platy.
+
+###### § 36. — Služební tituly.
+
+(1) Gážistovi SVS ustanovenému na služebním místě systemisovaném v III. platové stupnici, náleží služební titul „podstrážmistr vězeňské stráže“, „strážmistr vězeňské stráže II. třídy“, po případě „strážmistr vězeňské stráže I. třídy“, na služebním místě systemisovaném ve II. platové stupnici služební titul „štábní strážmistr vězeňské stráže“ a na služebním místě systemisovaném v I. platové stupnici služební titul „vrchní strážmistr vězeňské stráže“.
+
+(2) Gážista SVS je povinen užívati ve služebním styku svého služebního titulu.
+
+###### § 37. — Platové poměry.
+
+(1) O výši služebního platu gážistů SVS platí obdobně předpisy o výši služebního platu četnických gážistů mimo služební třídy.
+
+(2) Gážistům SVS přísluší vedle služného přídavek ve výši přídavku platného pro četnické gážisty mimo služební třídy. Tento přídavek jest splatný zároveň se služným a nezapočítává se do pensijní základny.
+
+(3) Pro gážisty SVS platí obdobně ustanovení § 131, § 135, odst. 1, § 138, odst. 1 až 4, §§ 139 až 142, 146, 147, § 148, odst. 1 a 4, §§ 149 až 151 platového zákona.
+
+(4) Služné se zvyšuje postupem do vyšších stupňů. Zvýšení služného v I. platové stupnici nastává, jakmile gážista SVS dosáhl započitatelné služební doby předepsané pro příslušný stupeň služného (§ 39, odst. 2), v ostatních platových stupnicích, jakmile gážista SVS dovršil tři roky započitatelné služební doby se služným bezprostředně předcházejícího stupně téže platové stupnice.
+
+(5) Zvýšení služného se provádí z moci úřední.
+
+(6) O vyloučení a odkladu zvýšení služného platí obdobně ustanovení § 16 platového zákona.
+
+###### § 38. — Povýšení gážisty SVS.
+
+(1) Povýšení gážisty SVS se stane
+
+a) propůjčením vyšší hodnosti v téže platové stupnici (III.); podstrážmistr vězeňské stráže může býti jmenován strážmistrem vězeňské stráže II. třídy po nejméně dvouleté uspokojivé službě v této hodnosti a strážmistrem vězeňské stráže I. třídy po další tříleté uspokojivé službě,
+
+b) propůjčením služebního místa systemisovaného ve vyšší platové stupnici.
+
+(2) Služební místo ve II. platové stupnici může býti propůjčeno gážistovi SVS, který má alespoň dobrou kvalifikaci a vykonal s úspěchem zkoušku předepsanou pro dosažení místa v této platové stupnici, služební místo v I. platové stupnici pak gážistovi SVS ve II. platové stupnici po nejméně osmnáctileté službě skutečně strávené v SVS, který má výtečnou nebo velmi dobrou kvalifikaci a který s úspěchem vykonal zkoušku, předepsanou pro dosažení místa v této platové stupnici.
+
+(3) Zkoušce předepsané pro dosažení místa v I. platové stupnici se může podrobiti pouze gážista SVS, ustanovený v II. platové stupnici.
+
+(4) Rozsah, způsob a ostatní podmínky zkoušek uvedených v odstavci 2 stanoví ministerstvo spravedlnosti, pokud jde o Slovensko po vyjádření pověřenectva spravedlnosti.
+
+(5) Ustanovení § 17, odst. 2 platového zákona platí obdobně.
+
+###### § 39.
+
+(1) Při propůjčení služebního místa systemisovaného ve II. platové stupnici platí obdobně ustanovení § 17, odst. 4 a 5 platového zákona.
+
+(2) Při propůjčení služebního místa systemisovaného v I. platové stupnici se stanoví stupeň služného této platové stupnice podle započitatelné služební doby takto:
+
+<table>
+<tr>
+<td colspan="2">Při započitatelné služební době</td>
+<td>přísluší služné stupně</td>
+</tr>
+<tr>
+<td></td>
+<td>do konce 12. roku</td>
+<td>1</td>
+</tr>
+<tr>
+<td>od počátku 13. roku</td>
+<td>" " 15. "</td>
+<td>2</td>
+</tr>
+<tr>
+<td>" " 16. "</td>
+<td>" " 18. "</td>
+<td>3</td>
+</tr>
+<tr>
+<td>" " 19. "</td>
+<td>" " 21. "</td>
+<td>4</td>
+</tr>
+<tr>
+<td>" " 22. "</td>
+<td>" " 24. "</td>
+<td>5</td>
+</tr>
+<tr>
+<td>" " 25. "</td>
+<td>" " 27. "</td>
+<td>6</td>
+</tr>
+<tr>
+<td>" " 28. "</td>
+<td>" " 30. "</td>
+<td>7</td>
+</tr>
+<tr>
+<td>" " 31. "</td>
+<td>" " 33. "</td>
+<td>8</td>
+</tr>
+<tr>
+<td>" " 34. "</td>
+<td>.....</td>
+<td>9</td>
+</tr>
+</table>
+
+###### § 40. — Přeložení.
+
+Gážisté SVS mohou býti z úřední moci přeloženi na jiné služební působiště.
+
+###### § 41. — Odpočivné a zaopatřovací platy.
+
+(1) O odpočivných a zaopatřovacích platech gážistů SVS a jejich pozůstalých platí obdobně předpisy dosud platné pro zřízence služby strážní s úchylkou uvedenou v odstavci 2.
+
+(2) Při výměře výslužného (zaopatřovacího platu) se počítá každý plný rok strávený ve stavu gážisty SVS za 16 měsíců, a to počínajíc dnem počátku účinnosti tohoto nařízení. Tato výhoda neplatí pro dobu, po kterou byl gážista SVS přidělen výhradně ke službě v kanceláři; tato služba se započítává pro výměru výslužného (zaopatřovacího platu) jednoduše.
+
+(3) Služební léta, jež se podle odstavce 2 započítávají zvýšeně, se hodnotí, pokud spadají mimo prvních započitatelných 10 let, pouze výměrou 2% pensijní základny.
+
+###### § 42. — Dání mimo službu, přeložení do výslužby, zrušení služebního poměru.
+
+O dání mimo službu, přeložení do výslužby a zrušení služebního poměru platí obdobně ustanovení §§ 71, 72, 75 až 86 služební pragmatiky.
+
+##### Převodní ustanovení.
+
+###### § 43. — Gážisté SVS.
+
+(1) Jako gážisté SVS se zřízenci služby strážní
+
+<table>
+<tr>
+<td rowspan="3">dosavadní platové <br> stupnice</td>
+<td rowspan="3">dosavadního platového <br> stupně</td>
+<td colspan="2">převedou do</td>
+</tr>
+<tr>
+<td>platové stupnice</td>
+<td>platového stupně</td>
+</tr>
+<tr>
+<td colspan="2">§ 132 platového zákona ve znění vládního nařízení <br> ze dne 12. ledna 1944, č. 15 Sb.</td>
+</tr>
+<tr>
+<td>Pomocní dozorci vězňů <br> (vl. nař. č. 114/1926 Sb.)</td>
+<td>—</td>
+<td>III</td>
+<td>1</td>
+</tr>
+<tr>
+<td>III <br> III <br> III <br> III <br> III <br> III <br> III</td>
+<td>1 <br> 2 <br> 3 <br> 4 <br> 5 <br> 6 <br> 7</td>
+<td>III <br> III <br> III <br> III <br> III <br> III <br> III</td>
+<td>3 <br> 4 <br> 5 <br> 6 <br> 7 <br> 8 <br> 9</td>
+</tr>
+<tr>
+<td>III</td>
+<td>8 <br> 9 <br> 10</td>
+<td>III</td>
+<td>10</td>
+</tr>
+<tr>
+<td>II <br> II <br> II <br> II <br> II <br> II <br> II</td>
+<td>1 <br> 2 <br> 3 <br> 4 <br> 5 <br> 6 <br> 7</td>
+<td>III <br> III <br> III <br> III <br> III <br> III <br> III</td>
+<td>3 <br> 4 <br> 5 <br> 6 <br> 7 <br> 8 <br> 9</td>
+</tr>
+<tr>
+<td>II</td>
+<td>8 <br> 9 <br> 10</td>
+<td>III</td>
+<td>10</td>
+</tr>
+<tr>
+<td>I <br> I <br> I <br> I <br> I <br> I</td>
+<td>1 <br> 2 <br> 3 <br> 4 <br> 5 <br> 6 <br> 7</td>
+<td>II <br> II <br> II <br> II <br> II <br> II <br> II</td>
+<td>1 <br> 2 <br> 3 <br> 4 <br> 5 <br> 5 <br> 6</td>
+</tr>
+<tr>
+<td>I</td>
+<td>8 <br> 9 <br> 10</td>
+<td>II</td>
+<td>7</td>
+</tr>
+</table>
+
+(2) Gážisté SVS I. platové stupnice se započitatelnou služební dobou přesahující 18 let se převedou podle započitatelné služební doby do příslušného stupně služného podle ustanovení § 39, odst. 2.
+
+(3) Ustanovení § 14, odst. 2 a 3 platí obdobně pro gážisty SVS uvedené v odstavci 1.
+
+###### § 44.
+
+Ustanovení § 15 platí obdobně pro gážisty SVS.
+
+#### B. O stíhání porušení služebních povinností.
+
+##### I. Druhy provinění.
+
+###### § 45.
+
+Gážisté SVS, kteří poruší své služební nebo stavovské povinnosti, se trestají bez újmy své odpovědnosti podle trestního zákona kázeňskými nebo disciplinárními tresty podle toho, zda se porušení povinnosti jeví toliko jako služební poklesek anebo s ohledem na poškození nebo ohrožení státních zájmů, na způsob nebo tíži pochybení, na opětování nebo na jinaké přitěžující okolnosti jako služební přečin.
+
+##### II. Kázeňské tresty.
+
+###### § 46.
+
+(1) Kázeňské tresty jsou:
+
+a) výstraha beze svědků,
+
+b) ztráta jednoho či dvou volných dnů,
+
+c) výstraha před shromážděním gážistů SVS,
+
+d) peněžitá pokuta.
+
+(2) Při vyhlášení kázeňského trestu uvedeného v odstavci 1, písm. c) nesmí býti přítomen gážista SVS, jehož hodnost jest nižší, než hodnost gážisty SVS, jemuž se trest ukládá.
+
+(3) Peněžitou pokutu lze uložiti nejvýše částkou nepřesahující 10% měsíčního služného náležejícího v době uložení trestu. Úhrn peněžitých pokut, pravoplatně uložených gážistovi SVS v jednom roce, nesmí přesahovati částku jeden a půl násobku měsíčního služného. Peněžité pokuty se srážejí ze služebních příjmů, a to případně v měsíčních lhůtách určených v rozhodnutí, kterým byl uložen kázeňský trest. Měsíční srážky nesmějí činiti méně než 20 Kčs a více než 100 Kčs. Peněžitých pokut se použije ve prospěch sociálních účelů SVS.
+
+###### § 47.
+
+(1) Právo ukládati kázeňské tresty přísluší mimo disciplinární komisi přednostovi služebního úřadu a ministerstvu spravedlnosti, na Slovensku pověřenectvu spravedlnosti. Je-li velitelem oddílu úředník vězeňské služby správní, přísluší mu ukládati kázeňské tresty uvedené v § 46, písm. a) až c).
+
+(2) Před uložením kázeňského trestu budiž dána obviněnému příležitost, aby se ústně nebo písemně ospravedlnil.
+
+(3) Uložený kázeňský trest se oznámí obviněnému písemně s udáním důvodů. Byl-li uložen kázeňský trest uvedený v § 46, odst. 1, písm. a) nebo c), sdělí se tento trest obviněnému vždy též písemně s udáním důvodů.
+
+###### § 48.
+
+Proti kázeňským trestům uvedeným v § 46, odst. 1, písm. b) až d), pokud nebyly uloženy disciplinární komisí nebo ministerstvem spravedlnosti, na Slovensku pověřenectvem spravedlnosti, může býti podána stížnost v 15 dnech po doručení písemného sdělení o uložení trestu služebnímu úřadu. Služební úřad rozhodne s konečnou platností, směřuje-li stížnost proti kázeňskému trestu, uloženému velitelem oddílu; jinak stížnost předloží k rozhodnutí ministerstvu spravedlnosti, na Slovensku pověřenectvu spravedlnosti.
+
+##### III. Řízení kárné.
+
+###### § 49.
+
+O kárném řízení platí obdobně ustanovení §§ 93 až 155, § 182, odst. 2, §§ 183 až 188 služební pragmatiky, jakož i zákony ji doplňující nebo pozměňující s tou úchylkou, že kde se v těchto ustanoveních mluví o pořádkovém trestu, rozumí se tím trest kázeňský.
+
+### Díl III. — Společná ustanovení.
+
+#### Služební stejnokroj.
+
+##### § 50.
+
+(1) Příslušníci SVS jsou povinni nositi ve službě předepsaný služební stejnokroj, pokud zvláštními předpisy nebo pro jednotlivé úkony velitelem oddílu nebo přednostou služebního úřadu není nařízeno jinak. Mimo službu nesmějí jej nositi v případech, kdy by se používání stejnokroje nesrovnávalo s úkoly a posláním SVS.
+
+(2) Příslušníci SVS ve stejnokroji zdraví vojenským způsobem.
+
+##### § 51.
+
+(1) Střih a barvu stejnokroje, jeho součástky, označení služebního postavení (hodnosti), jakož i podrobnosti upraví zvláštní instrukce, které vydá ministr spravedlnosti, pokud jde o Slovensko po vyjádření pověřence spravedlnosti, v dohodě s ministry vnitra a národní obrany.
+
+(2) Ministerský inspektor a jeho zástupce nosí při výkonu své funkce stejnokroj úředníka vězeňské služby právní. Podrobnosti upraví instrukce uvedené v odstavci 1.
+
+##### § 52.
+
+Ministerstvo spravedlnosti, pokud jde o Slovensko po vyjádření pověřenectva spravedlnosti, vydá v dohodě s ministerstvem financí směrnice, které určí, zda, v jakém rozsahu, jakým způsobem (peněžitým příspěvkem nebo skutečnou dodávkou) a za jakých podmínek přispěje státní správa příslušníkům SVS na pořízení a udržování stejnokroje.
+
+##### § 53. — Výzbroj.
+
+(1) Úředníci SVS jsou ve službě vyzbrojeni opakovací pistolí, kterou jim vydá justiční správa jako inventární součástku.
+
+(2) Gážisté SVS jsou ve službě vyzbrojeni obuškem, opakovací pistolí, po případě puškou s bodákem anebo samopalem podle zvláštních předpisů vydaných ministerstvem spravedlnosti, pokud jde o Slovensko po vyjádření pověřenectva spravedlnosti.
+
+##### § 54. — Dovolená.
+
+O dovolených příslušníků SVS platí obdobně předpisy platné pro četnictvo.
+
+##### § 55. — Pobyt.
+
+Příslušníci SVS jsou povinni se nastěhovati do přikázaného služebního bytu a jsou-li svobodni, do vykázaného společného příbytku.
+
+## ČÁST TŘETÍ. — Přechodná a závěrečná ustanovení.
+
+### § 56.
+
+Dobou strávenou v SVS (§ 11, odst. 2, § 17, odst. 3, § 38, odst. 2) se rozumí, pokud jde o dobu před účinností tohoto nařízení, doba strávená v kategorii zřízenců služby strážní nebo ve vlastnosti pomocného zřízence služby strážní (vládní nařízení ze dne 7. července 1926, č. 114 Sb., o úpravě služebních a platových poměrů pomocných zřízenců).
+
+### § 57.
+
+(1) Až do dne počátku účinnosti předpisů sjednocujících služební platy příslušníků četnictva pro území celého státu platí na Slovensku pro úředníky vězeňské služby strážní a gážisty SVS ode dne počátku účinnosti tohoto nařízení předpisy o výši služebního platu příslušníků četnictva, platné v zemích České a Moravskoslezské.
+
+(2) Účinnost dekretu presidenta republiky ze dne 20. srpna 1945, č. 58 Sb., o platovém přídavku státním a některým jiným veřejným zaměstnancům, se rozšiřuje pro úředníky vězeňské služby strážní a gážisty SVS na Slovensku.
+
+### § 58.
+
+(1) Pokud se z tohoto nařízení jinak nepodává, zrušuje platnost, po případě použivatelnost všech jiných předpisů o předmětech, které jsou upraveny v tomto nařízení.
+
+(2) Zejména se ruší:
+
+1. vládní nařízení ze dne 24. dubna 1936, č. 113 Sb., o služebním stejnokroji státních úředníků vězeňské služby právní, správní a strážní, jakož i zřízenců vězeňské služby strážní,
+
+2. dosud platná ustanovení všeobecného služebního předpisu pro dozorce a dozorkyně vězňů, vyhlášeného výnosy ministerstva spravedlnosti ze dne 7. března 1914 (Věstník ministerstva spravedlnosti č. 23, 24).
+
+(3) Pro úředníky vězeňské služby strážní a gážisty SVS na Slovensku pozbývá účinnosti:
+
+1. zákon ze dne 28. února 1941, č. 40 Sl. z., o prozatímní úpravě platů státních zaměstnanců a o změně a doplnění některých ustanovení o úsporných opatřeních personálních,
+
+2. zákon ze dne 2. července 1942, č. 129 Sl. z., o drahotním přídavku a o změně některých ustanovení o úsporných opatřeních personálních,
+
+3. zákon ze dne 10. prosince 1942, č. 232 Sl. z., o drahotním přídavku a o jednorázové vánoční výpomoci státním zaměstnancům,
+
+4. zákon ze dne 28. října 1943, č. 139 Sl. z., o všeobecném drahotním přídavku a doplnění zákona č. 102/1943 Sl. z.,
+
+5. nařízení Slovenské národní rady ze dne 16. května 1945, č. 39 Sb. n. SNR, o prozatímní úpravě platů státních zaměstnanců.
+
+### § 59.
+
+Toto nařízení nabývá účinnosti dnem vyhlášení s výjimkou ustanovení §§ 13, 14, 15, 37, 43, 44, 57 a § 58, odst. 3, pro něž se počátek účinnosti stanoví dnem 1. listopadu 1945; provede je ministr spravedlnosti v dohodě se zúčastněnými členy vlády.
+
+Gottwald v. r.
+
+Dr. Zenkl v. r.
+
+Ďuriš v. r.
+
+Ursíny v. r.
+
+Zmrhal v. r.
+
+Fierlinger v. r.
+
+Dr. Pietor v. r.
+
+Široký v. r.
+
+Ing. Kopecký v. r.
+
+arm. gen. Svoboda v. r.
+
+Hála v. r.
+
+Dr. Ripka v. r.
+
+Dr. Nejedlý v. r.
+
+Nosek v. r.
+
+Dr. Procházka v. r.
+
+Dr. Dolanský v. r.
+
+Majer v. r.
+
+Dr. Stránský v. r.
+
+Dr. Franek v. r.
+
+Dr. Drtina v. r.
+
+Dr. Clementis v. r., tiež za ministra Masaryka
+
+Kopecký v. r.
+
+Laušman v. r.
+
+Lichner v. r.

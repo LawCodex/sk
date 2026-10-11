@@ -1,0 +1,44 @@
+---
+title: "Zákon, jímž se na přechodnou dobu vylučuje přeložení do zálohy (propuštění ze svazku československé branné moci) některých kategorií důstojníků z povolání."
+identifier: "85/1948 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1948/85/"
+type: act
+jurisdiction: sk
+language: cs
+date: 1948-04-30
+last_amended: 1948-04-30
+status: in_force
+consolidated_version: "/SK/ZZ/1948/85/19480430"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1948/85/19480430"
+retrieved: 2026-10-12
+---
+
+# Zákon, jímž se na přechodnou dobu vylučuje přeložení do zálohy (propuštění ze svazku československé branné moci) některých kategorií důstojníků z povolání.
+
+**85**
+
+**Zákon**
+
+**ze dne 7. dubna 1948,**
+
+**jímž se na přechodnou dobu vylučuje přeložení do zálohy (propuštění ze svazku československé branné moci) některých kategorií důstojníků z povolání.**
+
+Ústavodárné Národní shromáždění republiky Československé usneslo se na tomto zákoně:
+
+## § 1
+
+Přeložení do zálohy (propuštění ze svazku československé branné moci) podle § 25, odst. 1 branného zákona republiky Československé ze dne 19. března 1920, čís. 193 Sb., ve znění předpisů jej měnících a doplňujících, jakož i propuštění z další činné služby podle § 139, odst. 5 branných předpisů, je do 31. prosince 1952 vyloučeno u důstojníků
+
+a) zdravotnictva, lékárnictva a veterinářů,
+
+b) ženijního vojska, spojovacího vojska, technické zbrojní služby, technické zbrojní služby letectva a zeměpisné služby, pokud jsou ustanoveni na služebních místech (jsou čekateli na služební místa) ve služebních kategoriích důstojníků zbraní pro vyšší úkony nebo důstojníků služeb pro vyšší úkony.
+
+## § 2
+
+Tento zákon nabývá účinnosti dnem vyhlášení; provede jej ministr národní obrany.
+
+Dr. Beneš v. r.
+
+Gottwald v. r.
+
+arm. gen. Svoboda v. r.

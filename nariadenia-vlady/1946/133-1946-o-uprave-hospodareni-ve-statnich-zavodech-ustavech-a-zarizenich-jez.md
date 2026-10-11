@@ -1,0 +1,74 @@
+---
+title: "Nařízení, jímž se částečně mění a doplňuje vládní nařízení ze dne 25. září 1924, č. 206 Sb., kterým se provádí zákon o úpravě hospodaření ve státních závodech, ústavech a zařízeních, jež převahou nemají plniti úkoly správní, ve znění předpisů je měnících a doplňujících."
+identifier: "133/1946 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1946/133/"
+type: government_regulation
+jurisdiction: sk
+language: cs
+date: 1946-06-17
+last_amended: 1946-06-17
+status: in_force
+consolidated_version: "/SK/ZZ/1946/133/19460617"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1946/133/19460617"
+retrieved: 2026-10-12
+---
+
+# Nařízení, jímž se částečně mění a doplňuje vládní nařízení ze dne 25. září 1924, č. 206 Sb., kterým se provádí zákon o úpravě hospodaření ve státních závodech, ústavech a zařízeních, jež převahou nemají plniti úkoly správní, ve znění předpisů je měnících a doplňujících.
+
+**133.**
+
+**Vládní nařízení**
+
+**ze dne 28. května 1946,**
+
+**jímž se částečně mění a doplňuje vládní nařízení ze dne 25. září 1924, č. 206 Sb., kterým se provádí zákon o úpravě hospodaření ve státních závodech, ústavech a zařízeních, jež převahou nemají plniti úkoly správní, ve znění předpisů je měnících a doplňujících.**
+
+Vláda republiky Československé nařizuje podle §§ 1, 2 a 6 zákona ze dne 18. prosince 1922, č. 404 Sb., o úpravě hospodaření ve státních závodech, ústavech a zařízeních, jež převahou nemají plniti úkoly správní:
+
+## Čl. 1.
+
+Vládní nařízení č. 206/1924 Sb., ve znění předpisů je měnících a doplňujících, se mění a doplňuje takto:
+
+> „V ustanovení § 1 ve výčtu podniků spravovaných podle zásad obchodního hospodaření
+>
+> a) vypouštějí se „Vojenské lesní podniky“;
+>
+> b) připojují se u podniku „Státní tiskárny“ v závorce slova „(vyjímaje tiskárnu ministerstva národní obrany)“.
+
+## Čl. 2.
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 1946; provedou je ministři národní obrany a financí v dohodě se zúčastněnými ministry.
+
+Fierlinger v. r.
+
+Gottwald v. r.
+
+Dr. Stránský v. r.
+
+Ursíny v. r.
+
+gen. Svoboda v. r.
+
+Nosek v. r.
+
+Dr. Šrobár v. r.
+
+Dr. Drtina v. r.
+
+Kopecký v. r.
+
+Laušman v. r.
+
+Ďuriš v. r.
+
+Dr. Pietor v. r.
+
+Hála v. r.
+
+Dr. Procházka v. r.
+
+Majer v. r.
+
+Dr. Clementis v. r.
+
+gen. Dr. Ferjenčík v. r.

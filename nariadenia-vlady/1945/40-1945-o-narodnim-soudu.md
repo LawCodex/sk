@@ -1,0 +1,86 @@
+---
+title: "Nařízení, jímž se provádí dekret presidenta republiky ze dne 19. Června 1945, č. 17 Sb., o Národním soudu."
+identifier: "40/1945 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1945/40/"
+type: government_regulation
+jurisdiction: sk
+language: cs
+date: 1945-08-22
+last_amended: 1945-08-22
+status: in_force
+consolidated_version: "/SK/ZZ/1945/40/19450822"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1945/40/19450822"
+retrieved: 2026-10-12
+---
+
+# Nařízení, jímž se provádí dekret presidenta republiky ze dne 19. Června 1945, č. 17 Sb., o Národním soudu.
+
+**40.**
+
+**Vládní nařízení**
+
+**ze dne 24. července 1945,**
+
+**jímž se provádí dekret presidenta republiky ze dne 19. Června 1945, č. 17 Sb., o Národním soudu.**
+
+Vláda Československé republiky nařizuje podle dekretu presidenta republiky ze dne 19. června 1945, č. 17 Sb., o Národním soudu:
+
+## § 1.
+
+(1) Přísedící Národního soudu složí po svém jmenování vládou podle § 6, odst. 2, třetí věta dekretu presidenta republiky č. 17/1945 Sb. do rukou přednosty Národního soudu nebo jeho náměstka jednou pro vždy slib těmito slovy: „Slibuji na svou čest a svědomí, že se budu při svém rozhodování říditi jen zákonem, že budu hlasovati podle svého nejlepšího svědomí a přesvědčení a že zachovám přísnou mlčenlivost o obsahu porady a hlasování soudu“.
+
+(2) O složení slibu podle odstavce 1 buď sepsán protokol, jejž podepíše přednosta soudu nebo jeho náměstek, do jehož rukou byl slib složen, a slibující.
+
+## § 2.
+
+(1) Přísedícímu Národního soudu, který vykonal svou povinnost, přísluší, nebydlí-li v místě zasedání Národního soudu, náhrada za cestovné, jakož i náhrada za nocleh a stravu v nejvyšší částce 80 K denně.
+
+(2) Přísedící Národního soudu, kteří jsou odkázáni na mzdu, denně nebo týdně vyplácenou, nebo jsou maloživnostníci a vykonáváním soudcovského úřadu utrpí prokazatelnou újmu na tomto výdělku, obdrží bez zřetele na jejich bydliště za každý den náhradu za ušlý výdělek až do 100 K.
+
+## § 3.
+
+Potřebný personál kancelářský přidělí Národnímu soudu vrchní soud v Praze, který též opatří potřebné místnosti pro hlavní přelíčení a věznici.
+
+## § 4.
+
+Toto nařízení nabude účinnosti dnem vyhlášení; provede je ministr spravedlnosti.
+
+Fierlinger v. r.
+
+David v. r.
+
+Ursíny v. r.
+
+Dr. Ripka v. r.
+
+Nosek v. r.
+
+Dr. Šrobár v. r.
+
+Dr. Nejedlý v. r.
+
+Dr. Stránský v. r.
+
+Kopecký v. r.
+
+Laušman v. r.
+
+Ďuriš v. r.
+
+Dr. Pietor v. r.
+
+gen. Hasal v. r.
+
+Hála v. r.
+
+Dr. Šoltész v. r.
+
+Majer v. r.
+
+Dr. Clementis v. r.,
+
+tiež za min. Masaryka.
+
+gen. Dr. Ferjenčík v. r.
+
+Lichner v. r.

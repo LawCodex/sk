@@ -1,0 +1,96 @@
+---
+title: "Nařízení o zřízení obvodní rady pro Prahu VII."
+identifier: "253/1946 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1946/253/"
+type: government_regulation
+jurisdiction: sk
+language: cs
+date: 1946-12-30
+last_amended: 1946-12-30
+status: in_force
+consolidated_version: "/SK/ZZ/1946/253/19461230"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1946/253/19461230"
+retrieved: 2026-10-12
+---
+
+# Nařízení o zřízení obvodní rady pro Prahu VII.
+
+**253.**
+
+**Vládní nařízení**
+
+**ze dne 13. prosince 1946**
+
+**o zřízení obvodní rady pro Prahu VII.**
+
+Vláda republiky Československé nařizuje podle čl. 3 ústavního dekretu presidenta republiky ze dne 4. prosince 1944, č. 18 Úř. věst. čsl. (příloha k vyhlášce č. 43/1945 Sb.), o národních výborech a prozatímním Národním shromáždění:
+
+## Čl. I.
+
+(1) Dosavadní obvod obvodní rady pro Prahu I až VII, stanovený v § 12, odst. 1 vládního nařízení ze dne 7. srpna 1945, č. 46 Sb., o prozatímní organisaci správy hlavního města Prahy, se
+
+rozděluje na dvě části.
+
+(2) Části města: Praha I - Staré Město, Praha II - Nové Město, Praha III - Malá Strana, Praha IV - Hradčany, Praha V - Josefov a Praha VI - Vyšehrad tvoří obvod obvodní rady pro Prahu I až VI.
+
+(3) Část města Praha VII - Holešovice-Bubny tvoří obvod obvodní rady pro Prahu VII.
+
+## Čl. II.
+
+(1) Obvodní rady pro Prahu I až VI a pro Prahu VII se vytvoří a zvolí své složky podle zásad stanovených ve vládním nařízení ze dne 27. května 1946, č. 120 Sb., o obnovení národních výborů na podkladě výsledků voleb do ústavodárného Národního shromáždění, a v předpisech podle něho vydaných.
+
+(2) Podrobnosti stanoví ministr vnitra směrnicemi, v nichž zejména určí lhůty pro podání listin kandidátů.
+
+(3) Působnost dosavadní obvodní rady pro Prahu I až VII a všech jejích složek (komisí a pod.) končí ustavením obvodních rad pro Prahu I až VI a pro Prahu VII. Funkcionáři dosavadní
+
+obvodní rady pro Prahu I až VII zůstávají však ve svých funkcích až do doby, kdy se ujmou funkce funkcionáři nově zvolení.
+
+## Čl. III.
+
+Toto nařízení nabývá účinnosti dnem vyhlášení; provede je ministr vnitra.
+
+Dr. Beneš v.r.
+
+Gottwald v.r.
+
+Dr. Zenkl v.r.
+
+Ursíny v.r.
+
+Fierlinger v.r.
+
+Široký v.r.
+
+arm. gen. Svoboda v.r.
+
+Dr. Ripka v.r.
+
+Nosek v.r.
+
+Dr. Dolanský v.r.
+
+Dr. Stránský v.r.
+
+Dr. Drtina v.r.
+
+Kopecký v.r.
+
+Laušman v.r.
+
+Ďuriš v.r.
+
+Zmrhal v.r.
+
+Dr. Pietor v.r.
+
+Ing. Kopecký v.r.
+
+Hála v.r.
+
+Dr. Procházka v.r.
+
+Majer v.r.
+
+Dr. Franek v.r.
+
+Lichner v.r.

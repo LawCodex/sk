@@ -1,0 +1,106 @@
+---
+title: "Zákon o opatřeních k provedení mírových smluv s Bulharskem, Finskem, Italií, Maďarskem a Rumunskem."
+identifier: "172/1947 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1947/172/"
+type: act
+jurisdiction: sk
+language: cs
+date: 1947-10-14
+last_amended: 1947-10-15
+status: in_force
+consolidated_version: "/SK/ZZ/1947/172/19471015"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1947/172/19471015"
+retrieved: 2026-10-12
+---
+
+# Zákon o opatřeních k provedení mírových smluv s Bulharskem, Finskem, Italií, Maďarskem a Rumunskem.
+
+**172.**
+
+**Zákon**
+
+**ze dne 14. října 1947**
+
+**o opatřeních k provedení mírových smluv s Bulharskem, Finskem, Italií, Maďarskem a Rumunskem.**
+
+Ústavodárné Národní shromáždění republiky Československé usneslo se na tomto zákoně:
+
+## § 1.
+
+Území, které připadá republice Československé podle čl. 1, č. 4 mírové smlouvy mezi Mocnostmi spojenými a sdruženými na straně jedné a Maďarskem na straně druhé, podepsané v Paříži dne 10. února 1947 (získané území), se připojuje k správnímu okresu Bratislava-okolí.
+
+## § 2.
+
+Na získané území se rozšiřuje účinnost právních předpisů, platných v oblasti, ke které se toto území podle § 1 připojuje. Působnost soudů, úřadů a orgánů veřejné správy, vztahující se na uvedenou oblast, se zároveň rozšiřuje na získané území.
+
+## § 3.
+
+(1) Republika Československá nabývá veškerého majetku maďarského státu v získaném území.
+
+(2) Knihovní soud provede z úřední moci zápis vkladu vlastnického práva a jiných věcných práv k nemovitostem pro Československou republiku s odvoláním na tento zákon.
+
+## § 4.
+
+Vláda může učiniti nařízením všechna opatření, nutná k provedení mírových smluv mezi Mocnostmi spojenými a sdruženými a Bulharskem, Finskem, Itálií, Maďarskem a Rumunskem. Zejména může naříditi soupis majetku, práv a zájmů, na něž se vztahují tyto smlouvy, a stanoviti pro přihlášky k tomuto soupisu lhůty.
+
+## § 5.
+
+Kdo v přihlášce k soupisu, nařízenému podle § 4, nebo v řízení o přihlášce učiní nesprávné údaje nebo jakkoli působí na jiného, aby nesprávnými údaji nebo jiným jednáním porušil správnost šetření, bude potrestán - nejde-li o čin trestný soudně - okresním národním výborem pro přestupek pokutou do 50.000 Kčs nebo vězením (uzamčením) do šesti měsíců, po případě oběma těmito tresty. Byla-li uložena pokuta, buď pro případ její nedobytnosti zároveň vyměřen náhradní trest vězení (uzamčení) podle míry zavinění v mezích sazby trestu na svobodě. Byl-li vedle pokuty uložen trest na svobodě, nesmí trest na svobodě spolu s náhradním trestem vězení (uzamčení) přesahovati 6 měsíců.
+
+## § 6.
+
+Tento zákon nabývá účinnosti dnem 15. října 1947; provedou jej všichni členové vlády.
+
+Dr. Beneš v. r.
+
+Gottwald v. r.
+
+Dr. Zenkl v. r.
+
+Laušman v. r.
+
+Dr. Šrámek v. r.
+
+Ďuriš v. r.
+
+Ursíny v. r.
+
+Zmrhal v. r.
+
+Fierlinger v. r.
+
+Dr. Pietor v. r.
+
+Široký v. r.
+
+Ing. Kopecký v. r.
+
+arm. gen. Svoboda v. r.
+
+Hála v. r.
+
+Dr. Ripka v. r.
+
+Dr. Nejedlý v. r.
+
+Nosek v. r.
+
+Dr. Procházka v. r.
+
+Dr. Dolanský v. r.
+
+Majer v. r.
+
+Dr. Stránský v. r.
+
+Dr. Franek v. r.
+
+Dr. Drtina v. r.
+
+Dr. Clementis v. r.
+
+též za ministra Masaryka
+
+Kopecký v. r.
+
+Lichner v. r.

@@ -1,0 +1,80 @@
+---
+title: "Nařízení o uvolnění některých stavebních hmot."
+identifier: "151/1946 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1946/151/"
+type: government_regulation
+jurisdiction: sk
+language: sk
+date: 1946-07-10
+last_amended: 1946-07-18
+status: in_force
+consolidated_version: "/SK/ZZ/1946/151/19460718"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1946/151/19460718"
+retrieved: 2026-10-12
+---
+
+# Nařízení o uvolnění některých stavebních hmot.
+
+**151.**
+
+**Vládní nařízení**
+
+**ze dne 7. června 1946**
+
+**o uvolnění některých stavebních hmot.**
+
+Vláda republiky Československé nařizuje podle § 5 zákona ze dne 7. května 1946, č. 107 Sb., o úpravě stavební činnosti a přídělu stavebních hmot:
+
+## § 1.
+
+(1) Zrušuje se vázanost (§ 2 zákona č. 107/1946 Sb.) jehličnatého tesaného dřeva, měkkého jehličnatého řeziva, cementu, součástí montovaných staveb a krycí a isolační lepenky.
+
+(2) Vázanými stavebními hmotami zůstávají až na další dřevo s výjimkou uvedenou v odstavci 1, železo, cihly a tašky.
+
+## § 2.
+
+Toto nařízení nabývá účinnosti osmým dnem po vyhlášení; provedou je ministři dopravy, národní obrany a pošt v dohodě se zúčastněnými ministry.
+
+Fierlinger v. r.
+
+Dr. Stránský v. r.
+
+Široký v. r.
+
+Ursíny v. r.
+
+gen. Svoboda v. r.
+
+Dr. Ripka v. r.
+
+Nosek v. r.
+
+Dr. Šrobár v. r.
+
+Dr. Nejedlý v. r.
+
+Dr. Drtina v. r.
+
+Kopecký v. r.
+
+Laušman v. r.
+
+Ďuriš v. r.
+
+Dr. Pietor v. r.
+
+gen. Hasal v. r.
+
+Hála v. r.
+
+Dr. Šoltész v. r.
+
+Dr. Procházka v. r.
+
+Majer v. r.
+
+Dr. Clementis v. r.
+
+gen. Dr. Ferjenčík v. r.
+
+Lichner v. r.

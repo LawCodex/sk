@@ -1,0 +1,68 @@
+---
+title: "Vládní nařízení jímž se prodlužuje lhůta stanovená v § 1, odst. 5 vládního nařízení ze dne 20. března 1936, č. 60 Sb., o podmínkách, za jakých se nabývá zvláštní odborné způsobilosti pro zubní lékařství, a o platnosti ustanovení vydaných pro ostatní obory odborné praxe lékařské i pro obor zubního lékařství, ve znění vládního nařízení ze dne 30. srpna 1946, č. 171 Sb."
+identifier: "97/1947 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1947/97/"
+type: government_regulation
+jurisdiction: sk
+language: sk
+date: 1947-06-16
+last_amended: 1947-07-01
+status: in_force
+consolidated_version: "/SK/ZZ/1947/97/19470701"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1947/97/19470701"
+retrieved: 2026-10-12
+---
+
+# Vládní nařízení jímž se prodlužuje lhůta stanovená v § 1, odst. 5 vládního nařízení ze dne 20. března 1936, č. 60 Sb., o podmínkách, za jakých se nabývá zvláštní odborné způsobilosti pro zubní lékařství, a o platnosti ustanovení vydaných pro ostatní obory odborné praxe lékařské i pro obor zubního lékařství, ve znění vládního nařízení ze dne 30. srpna 1946, č. 171 Sb.
+
+**97.**
+
+**Vládní nařízení**
+
+**ze dne 3. června 1947,**
+
+**jímž se prodlužuje lhůta stanovená v § 1, odst. 5 vládního nařízení ze dne 20. března 1936, č. 60 Sb., o podmínkách, za jakých se nabývá zvláštní odborné způsobilosti pro zubní lékařství, a o platnosti ustanovení vydaných pro ostatní obory odborné praxe lékařské i pro obor zubního lékařství, ve znění vládního nařízení ze dne 30. srpna 1946, č. 171 Sb.**
+
+Vláda republiky Československé nařizuje podle § 1, odst. 2 zákona ze dne 14. dubna 1930, č. 303 Sb., o zubním lékařství a zubní technice, ve znění zákona ze dne 11. července 1934, č. 171 Sb.:
+
+## Čl. I.
+
+Lhůta stanovená v § 1, odst. 5 vládního nařízení č. 60/1936 Sb., ve znění vládního nařízení č. 171/1946 Sb., se prodlužuje do 31. prosince 1948.
+
+## Čl. II.
+
+Toto nařízení nabývá účinnosti dnem 1. července 1947; provedou je ministři zdravotnictví a školství a osvěty.
+
+Gottwald v. r.
+
+Fierlinger v. r.
+
+Široký v. r.
+
+arm. gen. Svoboda v. r.
+
+Dr. Ripka v. r.
+
+Nosek v. r.
+
+Dr. Dolanský v. r.
+
+Dr. Stránský v. r.
+
+Dr. Drtina v. r.
+
+Ďuriš v. r.
+
+Dr. Pietor v. r.
+
+Ing. Kopecký v. r.
+
+Hála v. r.
+
+Dr. Procházka v. r.
+
+Majer v. r.
+
+Dr. Clementis v. r.
+
+Lichner v. r.

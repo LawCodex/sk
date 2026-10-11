@@ -1,0 +1,92 @@
+---
+title: "Zákon o přiznávání hospodářských a právních úlev krajanům vracejícím se do vlasti, zejména z Maďarska."
+identifier: "75/1946 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1946/75/"
+type: act
+jurisdiction: sk
+language: cs
+date: 1946-04-29
+last_amended: 1946-04-29
+status: in_force
+consolidated_version: "/SK/ZZ/1946/75/19460429"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1946/75/19460429"
+retrieved: 2026-10-12
+---
+
+# Zákon o přiznávání hospodářských a právních úlev krajanům vracejícím se do vlasti, zejména z Maďarska.
+
+**75.**
+
+**Zákon**
+
+**ze dne 12. dubna 1946**
+
+**o přiznávání hospodářských a právních úlev krajanům vracejícím se do vlasti, zejména z Maďarska.**
+
+Prozatímní Národní shromáždění republiky Československé usneslo se na tomto zákoně:
+
+## § 1.
+
+(1) Čechům a Slovákům, kteří se přistěhovali (navrátili) na území Československé republiky po osvobození tohoto území od nepřátelské okupace nebo se na ně přistěhují (navrátí), ať již na podkladě československé úřední přesidlovací akce nebo i bez souvislosti s ní, mohou býti na základě vládního nařízení vydaného podle odstavce 4, jsou-li československými státními občany nebo považují-li se za ně podle ústavního zákona ze dne 12. dubna 1946, č. 74 Sb., o udělení státního občanství krajanům vracejícím se do vlasti, přiznány hospodářské a právní úlevy, jichž je třeba k tomu, aby se jim umožnilo nebo usnadnilo nastoupení či provozování povolání (zaměstnání), přiměřeného jejich dosavadnímu povolání (zaměstnání). Takové úlevy mohou záležet zejména v povolení výjimek z různých zákazů, dále v prominutí nebo zmírnění požadavků předepsaných pro dosažení určitých oprávnění, ve stanovení přednostního či výhodnějšího posuzování při úředním rozhodování, ve zkrácení nebo prodloužení lhůt a pod.
+
+(2) Ustanovení odstavce 1 lze užít také ve prospěch příslušníků jiných slovanských národů, u nichž jsou dány předpoklady stanovené v první větě odstavce 1.
+
+(3) Čechům a Slovákům, kteří se přestěhují na území Československé republiky z Maďarska na podkladě dohody mezi Československou republikou a Maďarskem o výměně obyvatelstva, podepsané dne 27. února 1946, se poskytuje za nemovitosti, které prokazatelně vlastnili v Maďarsku, a jichž vlastnictví přešlo na maďarský stát, plná náhrada. Tato náhrada jakož i náhrada za jiná majetková práva prokazatelně zanechaná v Maďarsku, bude těmto osobám přiznána z majetkových podstat a práv, přešlých na československý stát podle čl. VII uvedené dohody.
+
+(4) Podrobnosti, zejména pokud jde o druh a rozsah úlev uvedených v odstavci 1, o podmínky pro jich přiznání, po případě o jich časové omezení, stanoví vláda nařízením.
+
+## § 2.
+
+Tento zákon nabývá účinnosti dnem vyhlášení; provedou jej všichni členové vlády.
+
+Dr. Beneš v. r.
+
+Fierlinger v. r.
+
+Gottwald v. r.
+
+Dr. Stránský v. r.
+
+Široký v. r.
+
+Dr. Šrámek v. r.
+
+Ursíny v. r.
+
+Masaryk v. r.
+
+gen. Svoboda v. r.
+
+Dr. Ripka v. r.
+
+Nosek v. r.
+
+Dr. Šrobár v. r.
+
+Dr. Nejedlý v. r.
+
+Dr. Drtina v. r.
+
+Kopecký v. r.
+
+Laušman v. r.
+
+Ďuriš v. r.
+
+Dr. Pietor v. r.
+
+gen. Hasal v. r.
+
+Hála v. r.
+
+Dr. Šoltész v. r.
+
+Dr. Procházka v. r.
+
+Majer v. r.
+
+Dr. Clementis v. r.
+
+gen. Dr. Ferjenčík v. r.
+
+Lichner v. r.

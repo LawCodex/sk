@@ -1,0 +1,70 @@
+---
+title: "Nařízení o zřízení správního okresu lanškrounského."
+identifier: "230/1946 Zb."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1946/230/"
+type: government_regulation
+jurisdiction: sk
+language: sk
+date: 1946-12-19
+last_amended: 1947-01-03
+status: in_force
+consolidated_version: "/SK/ZZ/1946/230/19470103"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1946/230/19470103"
+retrieved: 2026-10-12
+---
+
+# Nařízení o zřízení správního okresu lanškrounského.
+
+**230.**
+
+**Vládní nařízení**
+
+**ze dne 17. prosince 1946**
+
+**o zřízení správního okresu lanškrounského.**
+
+Vláda republiky Československé nařizuje podle § 15, odst. 1 dekretu presidenta republiky ze dne 27. října 1945, č. 121 Sb., o územní organisaci správy, vykonávané národními výbory:
+
+## § 1.
+
+Zřizuje se správní okres se sídlem okresního národního výboru v Lanškrouně. Jeho obvod tvoří obce soudního okresu lanškrounského, jež se zároveň vylučují z dosavadního správního okresu Ústí nad Orlicí.
+
+## § 2.
+
+Toto nařízení nabývá účinnosti čtrnáctým dnem po vyhlášení; provede je ministr vnitra.
+
+Gottwald v. r.
+
+Dr. Zenkl v. r.
+
+Ursíny v. r.
+
+arm. gen. Svoboda v. r.
+
+Dr. Ripka v. r.
+
+Nosek v. r.
+
+Dr. Dolanský v. r.
+
+Dr. Stránský v. r.
+
+Dr. Drtina v. r.
+
+Kopecký v. r.
+
+Luašman v. r.
+
+Ďuriš v. r.
+
+Zmrhal v. r.
+
+Dr. Pietor v. r.
+
+Ing. Kopecký v. r.
+
+Dr. Procházka v. r.
+
+Majer v. r.
+
+Dr. Franek v. r.
