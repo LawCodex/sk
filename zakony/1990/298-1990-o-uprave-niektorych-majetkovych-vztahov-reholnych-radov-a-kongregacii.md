@@ -4,7 +4,7 @@ identifier: "298/1990 Zb."
 eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1990/298/"
 type: act
 jurisdiction: sk
-language: cs
+language: sk
 date: 1990-07-19
 last_amended: 1991-08-01
 status: in_force

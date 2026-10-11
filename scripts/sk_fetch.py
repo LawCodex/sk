@@ -86,10 +86,33 @@ def build_list(raw, today):
         eff.append(x)
         seen.add(base)
     out = [x for x in eff if x.get("typPredp") in TYPES]
+    for x in out:
+        if x["iri"].endswith(".html"):
+            x["iri"] = x["iri"][:-5]
     out.sort(key=lambda x: x["iri"])
     with open(os.path.join(raw, "list.json"), "w", encoding="utf-8") as f:
         json.dump({"date": today, "docs": out}, f, ensure_ascii=False, indent=0)
     return out
+
+
+def resolve_from_history(iri, today):
+    """The search index occasionally points at a version that the static site does not have;
+    pick the version effective on `today` from the act's history page instead."""
+    import re
+    base = iri.rsplit("/", 1)[0]
+    r = get(f"{STATIC}{base}/")
+    if r.status_code != 200:
+        return None
+    best = None
+    for m in re.finditer(r'data-iri="([^"]+)" data-vyhlasene="(\d)" data-ucinnostod="([^"]*)" '
+                         r'data-ucinnostdo="([^"]*)"', r.text):
+        v, vyhl, od, do = m.groups()
+        if vyhl == "1":
+            best = best or v
+            continue
+        if od and od <= today and (not do or do >= today):
+            best = v
+    return best
 
 
 def path_for(raw, iri):
@@ -97,11 +120,16 @@ def path_for(raw, iri):
     return os.path.join(raw, "html", year, f"{num}-{ver}.html.gz")
 
 
-def fetch_one(raw, iri):
+def fetch_one(raw, iri, today=None):
     p = path_for(raw, iri)
     if os.path.exists(p):
         return "cached"
     r = get(f"{STATIC}{iri}.html")
+    if r.status_code == 404 and today:
+        alt = resolve_from_history(iri, today)
+        if alt and alt != iri:
+            st = fetch_one(raw, alt)
+            return ("resolved", alt) if st in ("ok", "cached") else st
     if r.status_code == 404:
         return "404"
     os.makedirs(os.path.dirname(p), exist_ok=True)
@@ -126,22 +154,34 @@ def main():
         docs = build_list(a.raw, a.date)
     else:
         docs = json.load(open(lp, encoding="utf-8"))["docs"]
+        for x in docs:
+            if x["iri"].endswith(".html"):
+                x["iri"] = x["iri"][:-5]
     print(f"{len(docs)} acts", flush=True)
     stats, missing = {}, []
     with ThreadPoolExecutor(a.workers) as ex:
-        futs = {ex.submit(fetch_one, a.raw, d["iri"]): d["iri"] for d in docs}
+        byiri = {d["iri"]: d for d in docs}
+        futs = {ex.submit(fetch_one, a.raw, d["iri"], a.date): d["iri"] for d in docs}
         for i, f in enumerate(as_completed(futs), 1):
             try:
                 st = f.result()
             except Exception as e:  # noqa
                 st = "error"
                 print(f"FAIL {futs[f]} {e}", file=sys.stderr)
+            if isinstance(st, tuple):
+                print(f"resolved {futs[f]} -> {st[1]}", flush=True)
+                byiri[futs[f]]["iri"] = st[1]
+                st = "resolved"
             stats[st] = stats.get(st, 0) + 1
             if st in ("404", "error"):
                 missing.append(futs[f])
             if i % 200 == 0:
                 print(i, stats, flush=True)
     print("done", stats, flush=True)
+    lst = json.load(open(lp, encoding="utf-8"))
+    lst["docs"] = docs
+    with open(lp, "w", encoding="utf-8") as f:
+        json.dump(lst, f, ensure_ascii=False, indent=0)
     with open(os.path.join(a.raw, "missing.json"), "w") as f:
         json.dump(missing, f, indent=0)
 

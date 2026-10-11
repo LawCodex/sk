@@ -1,0 +1,52 @@
+---
+title: "Zákon, ktorým sa dopĺňa zákon č. 296/2020 Z. z. o 13. dôchodku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov"
+identifier: "443/2023 Z. z."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2023/443/"
+type: act
+jurisdiction: sk
+language: sk
+date: 2023-11-25
+last_amended: 2023-11-25
+status: in_force
+consolidated_version: "/SK/ZZ/2023/443/20231125"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2023/443/20231125"
+retrieved: 2026-10-12
+---
+
+# Zákon, ktorým sa dopĺňa zákon č. 296/2020 Z. z. o 13. dôchodku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov
+
+**443**
+
+**ZÁKON**
+
+**z 22. novembra 2023,**
+
+**ktorým sa dopĺňa zákon č. 296/2020 Z. z. o 13. dôchodku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov**
+
+Národná rada Slovenskej republiky sa uzniesla na tomto zákone:
+
+## Čl. I
+
+Zákon č. 296/2020 Z. z. o 13. dôchodku a o zmene a doplnení niektorých zákonov v znení zákona č. 171/2022 Z. z., zákona č. 356/2022 Z. z. a zákona č. 399/2022 Z. z. sa dopĺňa takto:
+
+Za § 13 sa vkladá § 14, ktorý vrátane nadpisu znie:
+
+> **„§ 14 — Prechodné ustanovenia účinné dňom vyhlásenia**
+>
+> (1) Nárok na 13. dôchodok v decembri 2023 má poberateľ dôchodku, ktorý má v decembri 2023 nárok na výplatu dôchodku podľa § 2.
+>
+> (2) Suma 13. dôchodku podľa odseku 1 je 300 eur.
+>
+> (3) 13. dôchodok podľa odseku 1 sa vyplatí v decembri 2023.
+>
+> (4) Na 13. dôchodok podľa odseku 1 sa § 4, § 5, § 6 ods. 2 a 3, § 7, § 8 ods. 2 a 3 a § 10 vzťahujú rovnako.“.
+
+## Čl. II
+
+Tento zákon nadobúda účinnosť dňom vyhlásenia.
+
+Zuzana Čaputová v. r.
+
+Peter Pellegrini v. r.
+
+Robert Fico v. r.

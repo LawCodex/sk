@@ -4,7 +4,7 @@ identifier: "338/1991 Zb."
 eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1991/338/"
 type: act
 jurisdiction: sk
-language: cs
+language: sk
 date: 1991-08-30
 last_amended: 1991-08-01
 status: in_force

@@ -1,0 +1,44 @@
+---
+title: "Zákon, ktorým sa mení a dopĺňa zákon č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov"
+identifier: "198/2023 Z. z."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2023/198/"
+type: act
+jurisdiction: sk
+language: sk
+date: 2023-06-07
+last_amended: 2023-10-01
+status: in_force
+consolidated_version: "/SK/ZZ/2023/198/20231001"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2023/198/20231001"
+retrieved: 2026-10-12
+---
+
+# Zákon, ktorým sa mení a dopĺňa zákon č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov
+
+**198**
+
+**ZÁKON**
+
+**zo 16. mája 2023,**
+
+**ktorým sa mení a dopĺňa zákon č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov**
+
+Národná rada Slovenskej republiky sa uzniesla na tomto zákone:
+
+## Čl. I
+
+Zákon č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení zákona č. 733/2004 Z. z., zákona č. 747/2004 Z. z., zákona č. 171/2005 Z. z., zákona č. 517/2005 Z. z., zákona č. 120/2006 Z. z., zákona č. 460/2007 Z. z., zákona č. 538/2007 Z. z., zákona č. 465/2008 Z. z., zákona č. 535/2008 Z. z., zákona č. 467/2009 Z. z., zákona č. 527/2010 Z. z., zákona č. 406/2011 Z. z., zákona č. 460/2011 Z. z., zákona č. 548/2011 Z. z., zákona č. 68/2012 Z. z., zákona č. 286/2012 Z. z., zákona č. 343/2012 Z. z., zákona č. 347/2013 Z. z., zákona č. 484/2013 Z. z., zákona č. 268/2014 Z. z., zákona č. 333/2014 Z. z., zákona č. 361/2014 Z. z., zákona č. 79/2015 Z. z., zákona č. 243/2017 Z. z., zákona č. 292/2017 Z. z., zákona č. 112/2018 Z. z., zákona č. 312/2018 Z. z., zákona č. 221/2019 Z. z., zákona č. 369/2019 Z. z., zákona č. 460/2019 Z. z., zákona č. 354/2020 Z. z., zákona č. 470/2021 Z. z., zákona č. 92/2002 Z. z., zákona č. 178/2022 Z. z., zákona č. 249/2022 Z. z., zákona č. 335/2022 Z. z. a zákona č. 2/2023 Z. z. sa mení a dopĺňa takto:
+
+1. V § 12 ods. 2 sa na konci pripája táto veta: „Ročná sadzba dane zo stavieb určená podľa predchádzajúcej vety sa vzťahuje na sadzby dane zo stavieb určené v obci, ak obec nemá určenú jednotlivú časť v zmysle § 17a, na sadzby dane zo stavieb určené v jednotlivej časti obce, ak má obec určené jednotlivé časti v zmysle § 17a, a na sadzby dane zo stavieb určené v jednotlivom katastrálnom území, ak má obec viac katastrálnych území.“.
+
+2. V § 104g ods. 3 sa slová „roku 2024“ nahrádzajú slovami „roku 2027“.
+
+## Čl. II
+
+Tento zákon nadobúda účinnosť 1. októbra 2023.
+
+Zuzana Čaputová v. r.
+
+v z. Peter Pčolinský v. r.
+
+Ľudovít Ódor v. r.

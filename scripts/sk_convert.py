@@ -337,11 +337,12 @@ def short_title(title):
     if idx and min(idx) < 200:
         t = t[min(idx):].lstrip(" ,")
     else:
-        t = re.sub(r"^(Ústavný zákon|Zákon|Nariadenie vlády|Vyhláška)\s*", "", t)
+        t = re.sub(r"^(Ústavný zákon|Zákon|Nariadenie vlády|Vyhláška)\b[\s,]*", "", t)
     return t
 
 
 CS_CHARS = re.compile(r"[ěřůĚŘŮ]")
+SK_CHARS = re.compile(r"[äôľĺŕÄÔĽĹŔ]")
 
 
 def yaml_str(s):
@@ -402,7 +403,8 @@ def convert(raw, out_dir, retrieved):
         if rel in written:
             rel = rel[:-3] + f"-{ver}.md"
         written.add(rel)
-        lang = "cs" if len(CS_CHARS.findall(text)) > 20 else "sk"
+        ncs, nsk = len(CS_CHARS.findall(text)), len(SK_CHARS.findall(text))
+        lang = "cs" if ncs > 20 and ncs > 2 * nsk else "sk"
         fm = [
             "---",
             f"title: {yaml_str(title)}",
@@ -414,7 +416,9 @@ def convert(raw, out_dir, retrieved):
         ]
         if d.get("vyhlaseny"):
             fm.append(f"date: {d['vyhlaseny'][:10]}")
-        if d.get("ucinnyOd"):
+        if re.fullmatch(r"\d{8}", ver):
+            fm.append(f"last_amended: {ver[:4]}-{ver[4:6]}-{ver[6:]}")
+        elif d.get("ucinnyOd"):
             fm.append(f"last_amended: {d['ucinnyOd'][:10]}")
         fm.append("status: in_force")
         if d.get("_status") == "not_yet_effective":

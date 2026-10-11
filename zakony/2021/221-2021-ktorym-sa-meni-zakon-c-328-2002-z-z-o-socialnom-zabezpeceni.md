@@ -1,0 +1,42 @@
+---
+title: "Zákon, ktorým sa mení zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov"
+identifier: "221/2021 Z. z."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2021/221/"
+type: act
+jurisdiction: sk
+language: sk
+date: 2021-06-02
+last_amended: 2021-07-01
+status: in_force
+consolidated_version: "/SK/ZZ/2021/221/20210701"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2021/221/20210701"
+retrieved: 2026-10-12
+---
+
+# Zákon, ktorým sa mení zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov
+
+**221**
+
+**ZÁKON**
+
+**z 13. mája 2021,**
+
+**ktorým sa mení zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov**
+
+Národná rada Slovenskej republiky sa uzniesla na tomto zákone:
+
+## Čl. I
+
+Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení zákona č. 447/2002 Z. z, zákona č. 534/2002 Z. z., zákona č. 463/2003 Z. z., zákona č. 365/2004 Z. z., zákona č. 732/2004 Z. z., zákona č. 592/2006 Z. z., zákona č. 274/2007 Z. z., zákona č. 519/2007 Z. z., zákona č. 643/2007 Z. z., zákona č. 61/2008 Z. z., zákona č. 445/2008 Z. z., zákona č. 449/2008 Z. z., zákona č. 58/2009 Z. z., zákona č. 59/2009 Z. z., zákona č. 70/2009 Z. z., zákona č. 82/2009 Z. z., zákona č. 285/2009 Z. z., zákona č. 543/2010 Z. z., zákona č. 220/2011 Z. z., zákona č. 185/2012 Z. z., zákona č. 80/2013 Z. z, zákona č. 140/2015 Z. z., zákona č. 281/2015 Z. z., zákona č. 125/2016 Z. z., zákona č. 190/2018 Z. z., zákona č. 35/2019 Z. z., zákona č. 153/2019 Z. z., zákona č. 466/2019 Z. z., zákona č. 46/2020 Z. z., zákona č. 296/2020 Z. z., zákona č. 365/2020 Z. z. a zákona č. 426/2020 Z. z. sa mení takto:
+
+V § 10 ods. 18 a 19 sa slová „vo výške nemocenského podľa § 8“ nahrádzajú slovami „vo výške 100 % čistého denného služobného platu ustanoveného v § 12, najviac vo výške 75 % maximálneho denného vymeriavacieho základu na určenie nemocenskej dávky podľa všeobecných predpisov o sociálnom poistení<sup>5</sup>)“.
+
+## Čl. II
+
+Tento zákon nadobúda účinnosť 1. júla 2021.
+
+Zuzana Čaputová v. r.
+
+Boris Kollár v. r.
+
+Eduard Heger v. r.

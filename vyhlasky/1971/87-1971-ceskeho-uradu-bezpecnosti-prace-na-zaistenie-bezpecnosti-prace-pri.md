@@ -4,7 +4,7 @@ identifier: "87/1971 Zb."
 eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1971/87/"
 type: decree
 jurisdiction: sk
-language: cs
+language: sk
 date: 1971-09-16
 last_amended: 1971-10-01
 status: in_force

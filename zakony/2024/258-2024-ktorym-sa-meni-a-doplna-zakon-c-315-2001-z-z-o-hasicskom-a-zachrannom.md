@@ -1,0 +1,70 @@
+---
+title: "Zákon, ktorým sa mení a dopĺňa zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov"
+identifier: "258/2024 Z. z."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2024/258/"
+type: act
+jurisdiction: sk
+language: sk
+date: 2024-10-09
+last_amended: 2025-01-01
+status: in_force
+consolidated_version: "/SK/ZZ/2024/258/20250101"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2024/258/20250101"
+retrieved: 2026-10-12
+---
+
+# Zákon, ktorým sa mení a dopĺňa zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov
+
+**258**
+
+**ZÁKON**
+
+**z 25. septembra 2024,**
+
+**ktorým sa mení a dopĺňa zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov**
+
+Národná rada Slovenskej republiky sa uzniesla na tomto zákone:
+
+## Čl. I
+
+Zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení zákona č. 438/2002 Z. z., zákona č. 666/2002 Z. z., zákona č. 424/2003 Z. z., zákona č. 451/2003 Z. z., zákona č. 462/2003 Z. z., zákona č. 180/2004 Z. z., zákona č. 215/2004 Z. z., zákona č. 365/2004 Z. z., zákona č. 382/2004 Z. z., zákona č. 447/2004 Z. z., zákona č. 729/2004 Z. z., zákona č. 254/2005 Z. z., zákona č. 561/2005 Z. z., zákona č. 404/2006 Z. z., zákona č. 256/2007 Z. z., zákona č. 327/2007 Z. z., zákona č. 330/2007 Z. z., zákona č. 519/2007 Z. z., zákona č. 614/2007 Z. z., zákona č. 445/2008 Z. z., zákona č. 591/2008 Z. z., zákona č. 82/2009 Z. z., zákona č. 199/2009 Z. z., zákona č. 602/2009 Z. z., zákona č. 151/2010 Z. z., zákona č. 543/2010 Z. z., zákona č. 48/2011 Z. z., zákona č. 400/2011 Z. z., zákona č. 345/2012 Z. z., zákona č. 80/2013 Z. z., zákona č. 190/2013 Z. z., zákona č. 37/2014 Z. z., zákona č. 307/2014 Z. z., zákona č. 129/2015 Z. z., zákona č. 375/2015 Z. z., zákona č. 125/2016 Z. z., zákona č. 177/2018 Z. z., zákona č. 347/2018 Z. z., zákona č. 319/2019 Z. z., zákona č. 466/2019 Z. z., zákona č. 73/2020 Z. z., zákona č. 76/2021 Z. z., zákona č. 310/2021 Z. z., zákona č. 412/2021 Z. z., zákona č. 125/2022 Z. z., zákona č. 127/2022 Z. z., zákona č. 222/2022 Z. z., zákona č. 350/2022 Z. z. a zákona č. 413/2022 Z. z. sa mení a dopĺňa takto:
+
+1. § 33 znie:
+
+> **„§ 33**
+>
+> (1) Pri vzniku služobného pomeru patria príslušníkovi bezplatne tieto naturálne náležitosti:
+>
+> a) rovnošata a jej súčasti,
+>
+> b) osobné ochranné pracovné prostriedky a ďalší materiál nevyhnutný na vykonávanie štátnej služby.
+>
+> (2) Služobný úrad poskytuje príslušníčke raz za rok peňažný príspevok vo výške 30 % hodnoty rovnošaty a jej súčastí na nákup súčastí, ktoré služobný úrad nezabezpečuje.
+>
+> (3) Po uplynutí prvého roku služobného pomeru patrí príslušníkovi každý rok náhrada formou nepeňažného plnenia na obnovu naturálnych náležitostí vo výške 50 % hodnoty rovnošaty a jej súčastí.
+>
+> (4) Hodnotu rovnošaty a jej súčastí podľa reálnych nákupných cien ustanoví každý rok všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
+>
+> (5) Nárok na náhradu formou nepeňažného plnenia na obnovu naturálnych náležitostí príslušník uplatní do 24 mesiacov odo dňa vzniku nároku, inak zanikne.
+>
+> (6) Náhrada formou nepeňažného plnenia na obnovu naturálnych náležitostí sa pri skončení služobného pomeru preplatí príslušníkovi najviac do výšky 40 % hodnoty rovnošaty a jej súčastí.
+>
+> (7) Naturálne náležitosti, peňažný príspevok a náhrada formou nepeňažného plnenia na obnovu naturálnych náležitostí nepatria príslušníkom za čas, ktorý sa nezapočítava do času výsluhy rokov v hodnosti podľa § 34 ods. 4.
+>
+> (8) Naturálne náležitosti, peňažný príspevok, náhrada formou nepeňažného plnenia na obnovu naturálnych náležitostí a preplatenie náhrady podľa odseku 6 nepodliehajú dani z príjmu zo závislej činnosti fyzických osôb.
+>
+> (9) Podrobnosti o druhoch rovnošiat a ich súčastiach, ich poskytovaní, nosení, vyobrazení a o vykonávaní štátnej služby v občianskom odeve upraví ministerstvo služobným predpisom.“.
+
+2. § 97 sa dopĺňa odsekom 3, ktorý znie:
+
+> „(3) Na účely výpočtu priemerného týždenného služobného času, ktorý vrátane služobnej pohotovosti podľa § 92 ods. 1 a ods. 2 písm. a) a štátnej služby nadčas v období šiestich mesiacov nesmie prekročiť 48 hodín, sa ako vykonávanie štátnej služby neposudzujú časy podľa odseku 1 písm. a) až d), okrem rekondičného pobytu podľa § 161 ods. 4 písm. a), a odseku 1 písm. h) až l); čerpanie dovolenky podľa § 93 ods. 1 prvej a druhej vety a čas podľa odseku 1 písm. j) prvého bodu sa na účely výpočtu priemerného týždenného služobného času do obdobia šiestich mesiacov nezapočítavajú.“.
+
+## Čl. II
+
+Tento zákon nadobúda účinnosť 1. novembra 2024 okrem čl. I prvého bodu, ktorý nadobúda účinnosť 1. januára 2025.
+
+Peter Pellegrini v. r.
+
+v z. Peter Žiga v. r.
+
+Robert Fico v. r.

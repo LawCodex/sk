@@ -4,7 +4,7 @@ identifier: "59/1992 Zb."
 eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1992/59/"
 type: act
 jurisdiction: sk
-language: cs
+language: sk
 date: 1992-02-28
 last_amended: 1992-02-28
 status: in_force

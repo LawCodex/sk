@@ -4,7 +4,7 @@ identifier: "97/1949 Zb."
 eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1949/97/"
 type: decree
 jurisdiction: sk
-language: cs
+language: sk
 date: 1949-04-15
 last_amended: 1949-04-15
 status: in_force

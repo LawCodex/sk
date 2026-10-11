@@ -1,0 +1,48 @@
+---
+title: "Ústavný zákon, ktorým sa dopĺňa Ústava Slovenskej republiky č. 460/1992 Zb."
+identifier: "44/2017 Z. z."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2017/44/"
+type: constitutional_act
+jurisdiction: sk
+language: sk
+date: 2017-02-27
+last_amended: 2017-02-27
+status: in_force
+consolidated_version: "/SK/ZZ/2017/44/20170227"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2017/44/20170227"
+retrieved: 2026-10-12
+---
+
+# Ústavný zákon, ktorým sa dopĺňa Ústava Slovenskej republiky č. 460/1992 Zb.
+
+**44**
+
+**ÚSTAVNÝ ZÁKON**
+
+**z 2. februára 2017,**
+
+**ktorým sa dopĺňa Ústava Slovenskej republiky č. 460/1992 Zb.**
+
+Národná rada Slovenskej republiky sa uzniesla na tomto ústavnom zákone:
+
+## Čl. I
+
+Ústava Slovenskej republiky č. 460/1992 Zb. v znení ústavného zákona č. 244/1998 Z. z., ústavného zákona č. 9/1999 Z. z., ústavného zákona č. 90/2001 Z. z., ústavného zákona č. 140/2004 Z. z., ústavného zákona č. 323/2004 Z. z., ústavného zákona č. 463/2005 Z. z., ústavného zákona č. 92/2006 Z. z., ústavného zákona č. 210/2006 Z. z., ústavného zákona č. 100/2010 Z. z., ústavného zákona č. 356/2011 Z. z., ústavného zákona č. 232/2012 Z. z., ústavného zákona č. 161/2014 Z. z., ústavného zákona č. 306/2014 Z. z. a ústavného zákona č. 427/2015 Z. z. sa dopĺňa takto:
+
+Za čl. 154d sa vkladá čl. 154e, ktorý znie:
+
+> **„Čl. 154e**
+>
+> (1) Poslancov zastupiteľstiev vyšších územných celkov a predsedov vyšších územných celkov volia vo voľbách v roku 2017 obyvatelia, ktorí majú trvalý pobyt v územnom obvode vyššieho územného celku, na základe všeobecného, rovného a priameho volebného práva tajným hlasovaním na päťročné obdobie.
+>
+> (2) Ustanovenia čl. 69 ods. 5 druhej vety a ods. 6 prvej vety sa pre volebné obdobie poslancov zastupiteľstiev vyšších územných celkov a predsedov vyšších územných celkov pre volebné obdobie začínajúce v roku 2017 nepoužijú.“.
+
+## Čl. II
+
+Tento ústavný zákon nadobúda účinnosť dňom vyhlásenia.
+
+Andrej Kiska v. r.
+
+Andrej Danko v. r.
+
+Robert Fico v. r.

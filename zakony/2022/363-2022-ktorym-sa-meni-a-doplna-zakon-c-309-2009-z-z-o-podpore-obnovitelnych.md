@@ -1,0 +1,2019 @@
+---
+title: "Zákon, ktorým sa mení a dopĺňa zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a ktorým sa menia a dopĺňajú niektoré zákony"
+identifier: "363/2022 Z. z."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2022/363/"
+type: act
+jurisdiction: sk
+language: sk
+date: 2022-11-08
+last_amended: 2023-12-31
+status: in_force
+consolidated_version: "/SK/ZZ/2022/363/20231231"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2022/363/20231231"
+retrieved: 2026-10-12
+---
+
+# Zákon, ktorým sa mení a dopĺňa zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a ktorým sa menia a dopĺňajú niektoré zákony
+
+**363**
+
+**ZÁKON**
+
+**z 19. októbra 2022,**
+
+**ktorým sa mení a dopĺňa zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a ktorým sa menia a dopĺňajú niektoré zákony**
+
+Národná rada Slovenskej republiky sa uzniesla na tomto zákone:
+
+## Čl. I
+
+Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení zákona č. 492/2010 Z. z., zákona č. 558/2010 Z. z., zákona č. 136/2011 Z. z., zákona č. 189/2012 Z. z., zákona č. 373/2012 Z. z., zákona č. 30/2013 Z. z., zákona č. 218/2013 Z. z., zákona č. 382/2013 Z. z., zákona č. 321/2014 Z. z., zákona č. 173/2015 Z. z., zákona č. 181/2017 Z. z., zákona č. 268/2017 Z. z., zákona č. 309/2018 Z. z., zákona č. 377/2018 Z. z., zákona č. 362/2019 Z. z., zákona č. 277/2020 Z. z., zákona č. 395/2020 Z. z., zákona č. 419/2020 Z. z., zákona č. 296/2021 Z. z., zákona č. 85/2022 Z. z. a zákona č. 249/2022 Z. z. sa mení a dopĺňa takto:
+
+1. V § 1 sa písmeno b) dopĺňa piatym bodom, ktorý znie:
+
+> „5. tepla z paliva vyrobeného z biomasy,“.
+
+2. V § 2 ods. 1 písmeno a) znie:
+
+> „a) obnoviteľným zdrojom energie nefosílny zdroj energie, a to vodná energia, veterná energia, slnečná energia, geotermálna energia, energia z okolia, biomasa, bioplyn, skládkový plyn, plyn z čistiarní odpadových vôd a energia prílivu, vĺn a iná energia oceánu,“.
+
+3. V § 2 ods. 1 písmená d) a e) znejú:
+
+> „d) biomasou biologicky rozložiteľné časti výrobkov, odpadu a zvyškov biologického pôvodu z poľnohospodárstva vrátane rastlinných a živočíšnych látok, z lesného hospodárstva a príbuzných odvetví vrátane rybného hospodárstva a akvakultúry a biologicky rozložiteľné časti odpadu vrátane priemyselného a komunálneho odpadu biologického pôvodu,
+>
+> e) bioplynom plynné palivo vyrobené z biomasy,“.
+
+4. V § 2 ods. 1 písmená h) až j) znejú:
+
+> „h) poľnohospodárskou biomasou biomasa, ktorá je produktom poľnohospodárstva,
+>
+> i) lesnou biomasou biomasa, ktorá je produktom lesníctva,
+>
+> j) palivom z biomasy plynné palivo a tuhé palivo vyrobené z biomasy,“.
+
+5. V § 2 sa odsek 1 dopĺňa písmenom m), ktoré znie:
+
+> „m) energiou z okolia prirodzene sa vyskytujúca tepelná energia a energia akumulovaná v prostredí s obmedzenými hranicami, ktorá môže byť uložená v okolitom vzduchu okrem odvetrávaného vzduchu alebo v povrchovej vode a odpadovej vode.“.
+
+6. V § 2 ods. 3 písm. a) sa na konci pripájajú tieto slová: „ktorá nepresahuje výrobu elektriny v zariadení výrobcu elektriny v štvrťhodinovom rozlíšení,“.
+
+7. V § 2 ods. 3 písm. d) sa na konci vypúšťajú slová „jednotkových výkonov fotovoltických panelov zariadenia“ a vkladajú sa slová „menovitých výkonov meničov na strane striedavého napätia“.
+
+8. V § 2 ods. 3 písm. k) sa slová „10 kW“ nahrádzajú slovami „10,8 kW“.
+
+9. V § 2 sa odsek 3 dopĺňa písmenami p) a q), ktoré znejú:
+
+> „p) zmluvou o nákupe elektriny z obnoviteľných zdrojov energie zmluva, ktorou sa odberateľ elektriny zaväzuje odoberať elektrinu vyrobenú z obnoviteľných zdrojov energie priamo od výrobcu elektriny,
+>
+> q) partnerským obchodovaním predaj elektriny z obnoviteľných zdrojov energie s vopred určenými podmienkami automatického uskutočnenia a vyrovnania transakcie priamo medzi účastníkmi trhu s elektrinou na základe zmluvy o dodávke elektriny<sup>3ad</sup>) alebo zmluvy o nákupe elektriny z obnoviteľných zdrojov energie alebo nepriamo prostredníctvom agregátora na základe zmluvy o agregácii.<sup>3ae</sup>)“.
+
+Poznámky pod čiarou k odkazom 3ad a 3ae znejú:
+
+> „<sup>3ad</sup>) § 26 ods. 1 zákona č. 251/2012 Z. z. v znení zákona č. 256/2022 Z. z.
+>
+> <sup>3ae</sup>) § 26 ods. 18 zákona č. 251/2012 Z. z. v znení neskorších predpisov.“.
+
+10. V § 2 odsek 4 znie:
+
+> „(4) Pri podpore obnoviteľných zdrojov energie v doprave sa na účely tohto zákona rozumie
+>
+> a) pohonnou látkou látka používaná na dopravné účely, ktorou je najmä
+>
+> 1. motorový benzín podľa osobitného predpisu,<sup>3af</sup>)
+>
+> 2. motorová nafta podľa osobitného predpisu,<sup>3ag</sup>)
+>
+> 3. ropný plyn podľa osobitného predpisu,<sup>3ah</sup>)
+>
+> 4. zemný plyn podľa osobitného predpisu<sup>3ai</sup>) stlačený alebo skvapalnený,
+>
+> 5. palivo s obsahom recyklovaného uhlíka,
+>
+> 6. biopalivo,
+>
+> 7. plynné palivo vyrobené z biomasy,
+>
+> 8. kvapalné palivo a plynné palivo z obnoviteľných zdrojov nebiologického pôvodu,
+>
+> 9. vodík,
+>
+> 10. zmes látok podľa prvého bodu až deviateho bodu,
+>
+> b) palivom s obsahom recyklovaného uhlíka kvapalné alebo plynné palivo vyrobené z kvapalných alebo tuhých odpadových tokov neobnoviteľného pôvodu, ktoré nie sú vhodné na materiálové zhodnotenie podľa osobitného predpisu,<sup>3aj</sup>) a z plynu zo spracovania odpadu a spalín, ktoré sú neobnoviteľného pôvodu a ktoré sú nevyhnutným a neúmyselným dôsledkom výrobného procesu v priemyselných zariadeniach,
+>
+> c) biopalivom kvapalné palivo určené pre dopravu vyrobené z biomasy,
+>
+> d) kvapalným a plynným palivom z obnoviteľných zdrojov nebiologického pôvodu kvapalné alebo plynné palivo používané v doprave, ktorého energetický obsah pochádza z iného obnoviteľného zdroja energie ako biomasa,
+>
+> e) udržateľnou pohonnou látkou látka podľa písmena a) piateho bodu až ôsmeho bodu, ktorá spĺňa kritériá trvalej udržateľnosti,
+>
+> f) bioetyltercbutyléterom etyltercbutyléter vyrobený z bioetanolu s obsahom bioetanolu 47 % objemu; podiel obnoviteľnej energie bioetyltercbutyléteru je 37 % z jeho energetického obsahu,
+>
+> g) bioetanolom etanol vyrobený z biomasy,
+>
+> h) metylesterom mastných kyselín ester vyrobený z rastlinného alebo živočíšneho tuku.<sup>3a</sup>)“.
+
+Poznámky pod čiarou k odkazom 3af až 3aj znejú:
+
+> „<sup>3af</sup>) § 6 ods. 1 písm. a) zákona č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov.
+>
+> <sup>3ag</sup>) § 6 ods. 1 písm. d) zákona č. 98/2004 Z. z. v znení neskorších predpisov.
+>
+> <sup>3ah</sup>) § 6 ods. 1 písm. f) zákona č. 98/2004 Z. z. v znení neskorších predpisov.
+>
+> <sup>3ai</sup>) § 28 zákona č. 609/2007 Z. z. o spotrebnej dani z elektriny, uhlia a zemného plynu a o zmene a doplnení zákona č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov.
+>
+> <sup>3aj</sup>) § 6 zákona č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+11. V § 2 sa vypúšťa odsek 5.
+
+Doterajšie odseky 6 a 7 sa označujú ako odseky 5 a 6.
+
+12. V § 2 ods. 6 písm. a) sa slová „dopravné účely“ nahrádzajú slovami „na dopravu“.
+
+13. V § 2 ods. 6 písmená j) a k) znejú:
+
+> „j) nepotravinárskym celulózovým materiálom surovina zložená najmä z celulózy a hemicelulózy s nižším obsahom lignínu ako lignocelulózový materiál, ktorá zahŕňa
+>
+> 1. zvyšky potravinových a krmivových plodín,
+>
+> 2. trávnaté energetické plodiny s nízkym obsahom škrobu,
+>
+> 3. krycie plodiny pestované pred hlavnými plodinami a po nich,
+>
+> 4. úhorové plodiny,
+>
+> 5. priemyselné zvyšky vrátane potravinových a krmivových plodín po extrakcii rastlinných tukov, cukrov, škrobov a bielkovín,
+>
+> 6. materiál z biologického odpadu,
+>
+> k) splnením kritérií trvalej udržateľnosti splnenie kritérií udržateľnosti a úspory emisií skleníkových plynov podľa § 19b ods. 1 písm. a).“.
+
+14. V § 2 sa odsek 6 dopĺňa písmenami l) až q), ktoré znejú:
+
+> „l) potravinárskymi a krmovinárskymi plodinami plodiny bohaté na škrob, cukornaté plodiny alebo olejniny vypestované na poľnohospodárskej pôde ako hlavná plodina okrem zvyškov, odpadu a lignocelulózového materiálu a dočasné plodiny, najmä medziplodiny a krycie plodiny, ak používanie takýchto dočasných plodín nevyvoláva dopyt po ďalšej pôde,
+>
+> m) obnoviteľným plynom
+>
+> 1. obnoviteľný vodík,
+>
+> 2. plynné palivo vyrobené z biomasy, ktorým je najmä bioplyn a biometán,
+>
+> 3. skládkový plyn,
+>
+> 4. plyn z čistiarní odpadových vôd,
+>
+> 5. obnoviteľný syntetický plyn,
+>
+> n) obnoviteľným vodíkom vodík, ktorého energetický obsah pochádza z obnoviteľných zdrojov energie,
+>
+> o) obnoviteľným syntetickým plynom plyn, pri výrobe ktorého bola použitá energia z obnoviteľného zdroja energie, pričom jeho energetická hodnota zodpovedá energii z obnoviteľných zdrojov energie použitých na jeho výrobu,
+>
+> p) uvedením zariadenia na výrobu obnoviteľného plynu do prevádzky úspešné vykonanie funkčnej skúšky pripojenia zariadenia na výrobu obnoviteľného plynu po jeho výstavbe alebo po ukončení rekonštrukcie alebo modernizácie zariadenia na účel dosiahnutia výroby obnoviteľného plynu alebo trvalé užívanie zariadenia na výrobu obnoviteľného plynu na základe právoplatného kolaudačného rozhodnutia,<sup>3</sup>)
+>
+> q) povinnosťou využitia energie z obnoviteľných zdrojov systém podpory, v rámci ktorého sa vyžaduje od výrobcov energie, aby do svojej výroby zahrnuli určený podiel energie z obnoviteľných zdrojov, od dodávateľov energie sa vyžaduje, aby do svojich dodávok zahrnuli určený podiel energie z obnoviteľných zdrojov a od spotrebiteľov energie sa vyžaduje, aby do svojej spotreby zahrnuli určený podiel energie z obnoviteľných zdrojov vrátane systémov umožňujúcich splniť tieto požiadavky prostredníctvom zelených certifikátov.“.
+
+15. V § 3 odsek 2 znie:
+
+> „(2) Podpora podľa odseku 1 písm. a) prvého bodu sa vzťahuje na zariadenie výrobcu elektriny bez ohľadu na jeho výkon. Podpora podľa odseku 1 písm. a) druhého bodu a tretieho bodu sa vzťahuje na zariadenie výrobcu elektriny, ktorého inštalovaný výkon je nižší ako 400 kW a pri zariadení výrobcu elektriny uvedeného do prevádzky po 31. decembri 2025 nižší ako 200 kW.“.
+
+16. V § 3 ods. 3 a ods. 4 písm. a) a § 3d ods. 1 sa slovo „čističiek“ nahrádza slovom „čistiarní“.
+
+17. V § 3 odsek 8 znie:
+
+> „(8) Pri zariadení výrobcu elektriny využívajúcom biomasu alebo produkt jej spracovania sa podpora podľa odseku 1 písm. c) a e) vzťahuje na množstvo elektriny vyrobenej vysoko účinnou kombinovanou výrobou určené podľa § 19 ods. 1 písm. a), ak palivá z biomasy a biokvapaliny používané v zariadeniach podľa § 14h ods. 2 spĺňajú kritériá trvalej udržateľnosti. Ak ide o zariadenie využívajúce odpad, podpora podľa odseku 1 písm. c) a e) sa vzťahuje len na tú časť elektriny, pri výrobe ktorej je preukázané splnenie povinnosti v oblasti triedeného zberu.<sup>7</sup>)“.
+
+Poznámka pod čiarou k odkazu 7 znie:
+
+> „<sup>7</sup>) § 3 ods. 8 zákona č. 79/2015 Z. z.“.
+
+18. § 3 sa dopĺňa odsekmi 17 až 18, ktoré znejú:
+
+> „(17) Na účel vyhodnotenia celkovej účinnosti kombinovanej výroby sa nezapočítava prevádzka zariadenia na kombinovanú výrobu, počas ktorej vyrába regulačnú elektrinu pre prevádzkovateľa sústavy pri poskytovaní podporných služieb alebo dodávke negarantovanej regulačnej elektriny.
+>
+> (18) Podpora podľa odseku 1 písm. c) sa nevzťahuje na elektrinu vyrobenú z obnoviteľného syntetického plynu.“.
+
+19. § 3a vrátane nadpisu znie:
+
+> **„§ 3a — Spôsob podpory a podmienky podpory obnoviteľného plynu**
+>
+> (1) Podpora obnoviteľného plynu sa zabezpečuje
+>
+> a) prednostnou distribúciou biometánu distribučnou sieťou,
+>
+> b) vydaním záruky pôvodu pre obnoviteľný plyn,
+>
+> c) vydaním potvrdenia o množstve biometánu,
+>
+> d) podporou výroby elektriny podľa odseku 2 na základe uplatnenia potvrdenia o množstve biometánu.
+>
+> (2) Výrobca elektriny v zariadení na kombinovanú výrobu bez ohľadu na jeho celkový inštalovaný výkon, ktorý najmenej 60 % z vyrobeného tepla dodá centralizovaným zásobovaním teplom a doručí zúčtovateľovi podpory potvrdenie o pôvode elektriny vyrobenej vysoko účinnou kombinovanou výrobou a potvrdenie o pôvode elektriny z obnoviteľných zdrojov energie preukazujúce spotrebu biometánu alebo bioplynu v zariadení na kombinovanú výrobu, má právo na doplatok na množstvo elektriny vyrobenej vysoko účinnou kombinovanou výrobou z biometánu určené podľa § 19 ods. 1 písm. a). Výška doplatku podľa prvej vety je rovnaká ako výška doplatku na elektrinu vyrobenú z biometánu, pričom pri výpočte doplatku sa vychádza z ceny elektriny určenej úradom podľa § 6 ods. 7. Množstvo biometánu preukazujúce spotrebu biometánu alebo bioplynu pri podpore elektriny nemôže presiahnuť výšku spotreby plynných palív použitých na výrobu elektriny.
+>
+> (3) Na elektrinu, na ktorú si výrobca elektriny uplatňuje právo na podporu podľa odseku 2, nemožno súčasne uplatniť ďalšiu podporu doplatkom.
+>
+> (4) Právo na podporu podľa odseku 2 si výrobca elektriny môže uplatniť bez ohľadu na rok uvedenia zariadenia na výrobu elektriny do prevádzky, ak od uvedenia zariadenia na výrobu obnoviteľného plynu do prevádzky neuplynulo viac ako 15 rokov.
+>
+> (5) Podpora podľa odseku 2 sa pri zariadení výrobcu elektriny podľa § 14h ods. 2 vzťahuje len na elektrinu, pre ktorú uplatnené potvrdenie o množstve biometánu preukazuje splnenie kritérií trvalej udržateľnosti.
+>
+> (6) Pri poskytovaní investičnej pomoci alebo inej podpory z národného systému podpory pre zariadenia na výrobu obnoviteľného plynu sa zohľadní pri určení intenzity pomoci trhová hodnota záruk pôvodu pre obnoviteľný plyn. Ustanovenie prvej vety sa nepoužije v súťažnom ponukovom konaní podľa osobitného predpisu.<sup>9aa</sup>)“.
+
+Poznámka pod čiarou k odkazu 9aa znie:
+
+> „<sup>9aa</sup>) Nariadenie Komisie (EÚ) č. 651/2014 zo 17. júna 2014 o vyhlásení určitých kategórií pomoci za zlučiteľné s vnútorným trhom podľa článkov 107 a 108 zmluvy (Ú. v. EÚ L 187, 26. 6. 2014) v platnom znení.“.
+
+20. V § 3b ods. 1 úvodnej vete sa slovo „biometánu“ nahrádza slovom „obnoviteľného plynu“.
+
+21. Poznámka pod čiarou k odkazu 9b znie:
+
+> „<sup>9b</sup>) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
+>
+> Zákon č. 251/2012 Z. z. v znení neskorších predpisov.
+>
+> Zákon č. 79/2015 Z. z. v znení neskorších predpisov.
+>
+> Zákon č. 137/2010 Z. z. o ovzduší v znení neskorších predpisov.“.
+
+22. V § 3c ods. 5 písmeno a) znie:
+
+> „a) dosiahnutá celková účinnosť kombinovanej výroby je najmenej 80 % pri zariadeniach na kombinovanú výrobu podľa § 2 ods. 2 písm. a) prvého bodu a tretieho bodu a 75 % pri ostatných zariadeniach na kombinovanú výrobu,“.
+
+23. § 3d sa dopĺňa odsekom 8, ktorý znie:
+
+> „(8) Ak je vydané cenové rozhodnutie so zníženou cenou elektriny podľa § 6 ods. 13, predchádzajúce cenové rozhodnutie použité na určenie výšky doplatku sa zrušuje.“.
+
+24. V § 4 ods. 1 písm. f) úvodnej vete sa slová „odseku 14“ nahrádzajú slovami „odseku 12“.
+
+25. V § 4 sa odsek 2 dopĺňa písmenom i), ktoré znie:
+
+> „i) overenie zúčtovateľom podpory pri oznámení uplatnenia podpory podľa písmena a), že výrobca elektriny
+>
+> 1. nie je podnikom v ťažkostiach podľa osobitného predpisu<sup>11aae</sup>) a
+>
+> 2. vrátil poskytnutú podporu alebo inú štátnu pomoc na základe predchádzajúceho rozhodnutia Európskej komisie, v ktorom bola táto pomoc označená za neoprávnenú a nezlučiteľnú s vnútorným trhom.“.
+
+Poznámka pod čiarou k odkazu 11aae znie:
+
+> „<sup>11aae</sup>) Čl. 2 ods. 18 nariadenia (EÚ) č. 651/2014 v platnom znení.“.
+
+26. V § 4 ods. 3 písm. b) sa na konci pripájajú tieto slová: „okrem prípadu, keď mu zúčtovateľ podpory doručením písomnej výzvy, na základe potvrdenia o pôvode elektriny z obnoviteľných zdrojov energie alebo potvrdenia o pôvode elektriny vyrobenej vysoko účinnou kombinovanou výrobou zmeneného, zrušeného alebo opraveného úradom vymáha rozdiel vyplatenej podpory podľa § 5b ods. 6 alebo vrátenie doplatku alebo príplatku podľa § 5b ods. 7, umožní vrátiť podporu po tomto termíne,“.
+
+27. V § 4 sa odsek 3 dopĺňa písmenom g), ktoré znie:
+
+> „g) umožniť organizátorovi krátkodobého trhu s elektrinou alebo ním písomne poverenej osobe prístup k určenému meradlu, ktoré slúži na meranie vyrobenej elektriny.“.
+
+28. V § 4 sa vypúšťajú odseky 8 a 9.
+
+Doterajšie odseky 10 až 15 sa označujú ako odseky 8 až 13.
+
+29. V § 4 ods. 12 sa slová „31. januára“ nahrádzajú slovami „31. augusta“.
+
+30. § 4 sa dopĺňa odsekom 14, ktorý znie:
+
+> „(14) Prevádzkovaním zariadenia na uskladňovanie elektriny v odovzdávacom mieste zariadenia výrobcu elektriny nie je dotknuté právo výrobcu elektriny na podporu podľa § 3.“.
+
+31. V § 4a ods. 3 sa za prvú vetu vkladá nová druhá veta, ktorá znie: „Ak prevádzkovateľ distribučnej sústavy nezašle stanovisko v lehote podľa prvej vety, žiadateľ môže uviesť malý zdroj do prevádzky po oznámení podľa odseku 5.“.
+
+32. V § 4b odsek 1 znie:
+
+> „(1) Výrobcom elektriny v lokálnom zdroji je aktívny odberateľ,<sup>11ba</sup>) ktorý uzatvoril s prevádzkovateľom distribučnej sústavy zmluvu o pripojení lokálneho zdroja do distribučnej sústavy.<sup>11b</sup>)“.
+
+Poznámka pod čiarou k odkazu 11ba znie:
+
+> „<sup>11ba</sup>) § 4 ods. 6 zákona č. 251/2012 Z. z. v znení neskorších predpisov.“.
+
+33. V § 4b ods. 3 písm. a) sa slová „podľa osobitného predpisu<sup>11c</sup>)“ nahrádzajú slovami „podľa osobitného predpisu;<sup>11c</sup>) pripojenie miestnej distribučnej sústavy do regionálnej distribučnej sústavy na účely pripojenia lokálneho zdroja do miestnej distribučnej sústavy podľa odseku 2 písm. a) je bezplatné,“.
+
+34. V § 4b odsek 5 znie:
+
+> „(5) Prevádzkovateľ distribučnej sústavy je povinný oznámiť stanovisko k rezervovanej kapacite na pripojenie lokálneho zdroja do 15 pracovných dní odo dňa doručenia žiadosti o stanovisko. Stanovisko prevádzkovateľa distribučnej sústavy k rezervovanej kapacite na pripojenie lokálneho zdroja platí 12 mesiacov od jeho vydania. V prípade, že sa stanovisko vydáva pre lokálny zdroj, na ktorého výstavbu je potrebné osvedčenie na výstavbu energetického zariadenia na základe osobitného predpisu<sup>11ca</sup>) a osvedčenie bolo vydané v priebehu šiestich mesiacov od vydania stanoviska prevádzkovateľa distribučnej sústavy, platnosť tohto stanoviska sa predlžuje na dobu platnosti vydaného osvedčenia. Prevádzkovateľ distribučnej sústavy je povinný nesúhlasné stanovisko k rezervovanej kapacite na pripojenie lokálneho zdroja písomne odôvodniť. Vzor žiadosti o stanovisko k rezervovanej kapacite na pripojenie lokálneho zdroja zverejní prevádzkovateľ distribučnej sústavy na svojom webovom sídle.“.
+
+Poznámka pod čiarou k odkazu 11ca znie:
+
+> „<sup>11ca</sup>) § 12 ods. 2 zákona č. 251/2012 Z. z. v znení neskorších predpisov.“.
+
+35. V § 4b ods. 13 sa na konci pripájajú tieto vety: „Výrobca elektriny v lokálnom zdroji má právo dodávať elektrinu odberateľovi elektriny aj na základe zmluvy o nákupe elektriny z obnoviteľných zdrojov energie alebo prostredníctvom partnerského obchodovania. Tým nie sú dotknuté ustanovenia o oprávnení na podnikanie v energetike podľa osobitného predpisu.<sup>11f</sup>)“.
+
+Poznámka pod čiarou k odkazu 11f znie:
+
+> „<sup>11f</sup>) Napríklad § 6 zákona č. 251/2012 Z. z. v znení neskorších predpisov.“.
+
+36. V § 4b ods. 19 sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „to neplatí, ak je výrobca elektriny podnikom v ťažkostiach podľa osobitného predpisu<sup>11aae</sup>) alebo je voči nemu nárokované vrátenie štátnej pomoci na základe predchádzajúceho rozhodnutia Európskej komisie, v ktorom bola táto pomoc označená za neoprávnenú a nezlučiteľnú s vnútorným trhom.“.
+
+37. § 4b sa dopĺňa odsekom 20, ktorý znie:
+
+> „(20) Ak inštalovaný výkon lokálnych zdrojov dosiahne aspoň 8 % z celkového inštalovaného výkonu zariadení na výrobu elektriny na území Slovenskej republiky a úrad prostredníctvom analýzy nákladov a prínosov preukáže, že neuplatňovanie tarify za prevádzkovanie systému má za následok neprimerané zaťaženie dlhodobej finančnej udržateľnosti systému podpory elektriny alebo vytvára väčší stimul, ako je potrebný na dosiahnutie nákladovo efektívneho rozvoja elektriny z obnoviteľných zdrojov energie, úrad pozastaví na kalendárny rok nasledujúci po zverejnení analýzy nákladov a prínosov vydávanie potvrdení o výrobe elektriny v lokálnom zdroji.“.
+
+38. § 4b sa dopĺňa odsekom 21, ktorý znie:
+
+> „(21) Stanovisko prevádzkovateľa distribučnej sústavy k rezervovanej kapacite sa nevyžaduje pre lokálny zdroj s celkovým inštalovaným výkonom najviac 100 kW, ak žiadateľ o jeho pripojenie technicky zabezpečí, že elektrina vyrobená v lokálnom zdroji podľa prvej vety nebude dodávaná do sústavy. Tým nie je dotknuté právo výrobcu elektriny v lokálnom zdroji podľa prvej vety požiadať o zvýšenie maximálnej rezervovanej kapacity na účely dodávania elektriny vyrobenej v lokálnom zdroji do sústavy.<sup>11d</sup>)“.
+
+39. V § 5 odsek 1 znie:
+
+> „(1) Prevádzkovateľ distribučnej sústavy je povinný po úhrade ceny za pripojenie do distribučnej sústavy v lehote 30 dní od podania žiadosti o pripojenie pripojiť zariadenie výrobcu elektriny z obnoviteľných zdrojov energie do distribučnej sústavy, ak takéto zariadenie spĺňa technické podmienky<sup>10</sup>) a obchodné podmienky pripojenia do sústavy.“.
+
+40. V § 5 ods. 7 sa číslo „30“ nahrádza číslom „15“ a číslo „10“ sa nahrádza číslom „7“.
+
+41. § 5 sa dopĺňa odsekom 10, ktorý znie:
+
+> „(10) Prevádzkovateľ regionálnej distribučnej sústavy je povinný na svojom webovom sídle zverejňovať v dvojtýždňových intervaloch úplné údaje o čerpaní voľnej kapacity pripojenia do sústavy pre zariadenia na výrobu elektriny, a to najmä čas prijatia žiadosti, typ zariadenia, inštalovaný výkon, lokalita pripojenia a doba platnosti stanoviska.“.
+
+42. § 5 sa dopĺňa odsekom 11, ktorý znie:
+
+> „(11) Prevádzkovateľ distribučnej sústavy s počtom odberných miest viac ako 100 je povinný umožniť výrobcovi elektriny komunikovať s prevádzkovateľom distribučnej sústavy v elektronickej forme, najmä umožniť elektronickú komunikáciu v súvislosti s celým procesom pripojenia zariadenia výrobcu elektriny do distribučnej sústavy.“.
+
+43. V § 5b ods. 8 sa slová „verejnej správy.<sup>15ad</sup>)“ nahrádzajú bodkou.
+
+44. V § 6 ods. 5 sa na konci vypúšťa bodka a pripájajú sa tieto slová: „a ceny emisných kvót, ktoré sa použili na plnenie povinnosti podľa osobitného predpisu.<sup>15ad</sup>)“.
+
+Poznámka pod čiarou k odkazu 15ad znie:
+
+> „<sup>15ad</sup>) § 21 ods. 1 písm. b) zákona č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+45. V § 6 ods. 14 písm. d) sa na konci bodka nahrádza bodkočiarkou a dopĺňajú sa slová „nevyhnutná oprava alebo úprava technologickej časti zariadenia výrobcu elektriny sa nepovažuje za rekonštrukciu ani modernizáciu podľa § 3c ods. 1 a 2,“.
+
+46. V § 7 ods. 5 písm. a) sa slová „meno, sídlo a meno a priezvisko štatutárneho orgánu alebo mená a priezviská členov štatutárneho orgánu“ nahrádzajú slovami „meno a sídlo“.
+
+47. V § 7 ods. 5 písm. d) a ods. 7 písm. b) sa slová „inštalovaný výkon“ nahrádzajú slovami „celkový inštalovaný výkon“.
+
+48. V § 7 sa odsek 7 dopĺňa písmenom j), ktoré znie:
+
+> „j) označenie spôsobu podpory podľa § 3 ods. 1 a obdobia trvania podpory pre zariadenie výrobcu elektriny.“.
+
+49. V § 7 sa za odsek 7 vkladá nový odsek 8, ktorý znie:
+
+> „(8) Úrad na účel vydania potvrdenia o pôvode elektriny z obnoviteľných zdrojov energie posudzuje jednotlivé spôsoby podpory pre zariadenie výrobcu elektriny podľa § 3 ods. 1 a obdobie ich trvania samostatne; úrad pri vydávaní potvrdenia o pôvode elektriny z obnoviteľných zdrojov energie postupuje podľa § 3 ods. 7.“.
+
+Doterajšie odseky 8 až 10 sa označujú ako odseky 9 až 11.
+
+50. V § 8 sa odsek 5 dopĺňa písmenom l), ktoré znie:
+
+> „l) spôsob podpory podľa § 3 ods. 1 a obdobie trvania podpory pre zariadenie výrobcu elektriny.“.
+
+51. V § 8 sa za odsek 8 vkladá nový odsek 9, ktorý znie:
+
+> „(9) Úrad na účel vydania potvrdenia o pôvode elektriny vyrobenej vysoko účinnou kombinovanou výrobou posudzuje jednotlivé spôsoby podpory pre zariadenie výrobcu elektriny podľa § 3 ods. 1 a obdobie ich trvania samostatne; úrad pri vydávaní potvrdenia o pôvode elektriny vyrobenej vysoko účinnou kombinovanou výrobou postupuje podľa § 3 ods. 7.“.
+
+Doterajší odsek 9 sa označuje ako odsek 10.
+
+52. § 8a a 8b vrátane nadpisov znejú:
+
+> **„§ 8a — Záruka pôvodu energie**
+>
+> (1) Zárukou pôvodu energie je záruka pôvodu
+>
+> a) elektriny,
+>
+> b) tepla alebo chladu vyrobeného z obnoviteľných zdrojov energie.
+>
+> (2) Záruka pôvodu elektriny je doklad preukazujúci, že elektrina bola vyrobená v zariadení na výrobu elektriny zo zdroja uvedeného v záruke. Záruka sa používa na účely preukázania, že daný podiel alebo množstvo elektriny boli vyrobené zo zdroja energie uvedeného v záruke.
+>
+> (3) Záruka pôvodu tepla alebo chladu zodpovedá množstvu tepla, ktoré bolo výrobcom tepla vyrobené v zariadení na výrobu tepla a dodané do systému centralizovaného zásobovania teplom alebo priamo dodané koncovému odberateľovi.
+>
+> (4) Záruka pôvodu energie slúži na preukázanie podielu alebo množstva energie v energetickom mixe dodávateľa koncovému odberateľovi a energie dodávanej spotrebiteľovi v rámci zmluvných vzťahov. Preukázanie dodávanej energie sa uskutočňuje zárukou pôvodu energie zodpovedajúcou príslušnej forme energie.
+>
+> (5) Záruka pôvodu energie obsahuje najmä
+>
+> a) zdroj energie, z ktorého bola elektrina, teplo alebo chlad vyrobené,
+>
+> b) počiatočný a koncový dátum výroby elektriny, tepla alebo chladu,
+>
+> c) označenie, miesto, technológiu a celkový inštalovaný výkon zariadenia, v ktorom boli elektrina, teplo alebo chlad vyrobené,
+>
+> d) výšku investičnej pomoci alebo inej podpory z národného systému podpory a druh systému podpory, ak ju zariadenie získalo,
+>
+> e) dátum uvedenia zariadenia do prevádzky a dátum ukončenia rekonštrukcie alebo modernizácie technologickej časti zariadenia,
+>
+> f) dátum a členský štát, v ktorom bola záruka pôvodu energie vydaná,
+>
+> g) identifikačné číslo.
+>
+> (6) Záruka pôvodu elektriny vyrobenej vysoko účinnou kombinovanou výrobou okrem náležitostí podľa odseku 3 obsahuje aj
+>
+> a) inštalovaný elektrický výkon a tepelný výkon zariadenia, v ktorom bola elektrina vyrobená,
+>
+> b) množstvo a výhrevnosť paliva, ktoré bolo použité v procese premeny na využiteľnú energiu,
+>
+> c) množstvo vyrobeného tepla a vykonanej mechanickej práce,
+>
+> d) úsporu primárnej energie.
+>
+> (7) Na účely odseku 4 možno záruku pôvodu energie použiť do 12 mesiacov od dátumu výroby elektriny, tepla alebo chladu.
+>
+> (8) Záruka pôvodu energie sa vydáva v hodnote 1 MWh alebo jej celých násobkoch.
+>
+> **§ 8b — Vydanie, prevod, uznanie a zrušenie záruky pôvodu energie**
+>
+> (1) Organizátor krátkodobého trhu s elektrinou v elektronickej evidencii
+>
+> a) na žiadosť vytvára a vedie účty žiadateľov, s ktorými má uzatvorenú zmluvu (ďalej len „držiteľ účtu“),
+>
+> b) eviduje vydané záruky pôvodu energie,
+>
+> c) eviduje prevody záruk pôvodu energie medzi držiteľmi účtov prostredníctvom ním organizovaného trhu a prevody záruk pôvodu energie medzi držiteľom účtu a účastníkom z iného členského štátu,
+>
+> d) eviduje použitie záruk pôvodu energie,
+>
+> e) eviduje uznanie záruk pôvodu energie vydaných v inom členskom štáte,
+>
+> f) ruší záruky pôvodu energie po ich uplatnení alebo po uplynutí doby, počas ktorej ich možno použiť.
+>
+> (2) Záruku pôvodu elektriny na žiadosť vydá organizátor krátkodobého trhu s elektrinou v elektronickej podobe výrobcovi elektriny z obnoviteľných zdrojov energie alebo vysoko účinnou kombinovanou výrobou, ak
+>
+> a) žiadateľom je držiteľ účtu,
+>
+> b) žiadateľ uvedie v žiadosti všetky údaje v elektronickej evidencii,
+>
+> c) elektrina je evidovaná v elektronickej evidencii,
+>
+> d) nejde o elektrinu, na ktorú žiadateľ uplatnil právo na podporu podľa § 3 ods. 1 písm. c) alebo písm. e),
+>
+> e) žiadateľ nie je v omeškaní so splnením splatného peňažného záväzku zo zmluvy o činnostiach spojených s vydávaním a použitím záruk pôvodu elektriny,
+>
+> f) nejde o elektrinu vyrobenú v zariadení výrobcu elektriny, ktorému sa poskytla investičná pomoc inak ako na základe súťažného konania; množstvo elektriny podľa tohto písmena sa určí ako súčin intenzity poskytnutej investičnej pomoci<sup>15f</sup>) a množstva vyrobenej elektriny za obdobie uvedené v žiadosti.
+>
+> (3) Organizátor krátkodobého trhu s elektrinou vydá záruku pôvodu elektriny v elektronickej podobe pre každú megawatthodinu elektriny aj na elektrinu, na ktorú bolo uplatnené právo na podporu podľa § 3 ods. 1 písm. c) alebo písm. e) alebo elektrinu vyrobenú v zariadení, na ktoré sa poskytla investičná pomoc inak ako na základe súťažného konania, v rozsahu intenzity poskytnutej investičnej pomoci. Organizátor krátkodobého trhu s elektrinou takto vydané záruky pôvodu eviduje v elektronickej evidencii na vlastnom oddelenom účte a vykonáva jeho správu.
+>
+> (4) Záruku pôvodu elektriny z obnoviteľných zdrojov energie vydá organizátor krátkodobého trhu s elektrinou aj výrobcovi elektriny kombinovanou výrobou, ak k žiadosti priloží potvrdenie o pôvode elektriny z obnoviteľných zdrojov energie a preukáže spotrebu biometánu.
+>
+> (5) Ak je elektrina vyrábaná vysoko účinnou kombinovanou výrobou a z obnoviteľných zdrojov energie, organizátor krátkodobého trhu s elektrinou vydá jednu záruku pôvodu elektriny, v ktorej môže uviesť obe vlastnosti.
+>
+> (6) Organizátor krátkodobého trhu s elektrinou môže vydať záruku pôvodu elektriny aj pre elektrinu vyrobenú z iných zdrojov energie ako je uvedené v odseku 2.
+>
+> (7) Záruku pôvodu tepla alebo chladu vyrobeného z obnoviteľných zdrojov energie vydá na žiadosť organizátor krátkodobého trhu s elektrinou v elektronickej podobe pre teplo alebo chlad z obnoviteľných zdrojov energie, ak
+>
+> a) žiadateľom je držiteľ účtu,
+>
+> b) žiadateľ uvedie v žiadosti všetky údaje v elektronickej evidencii,
+>
+> c) teplo alebo chlad je evidované v elektronickej evidencii a je vyrobené z obnoviteľných zdrojov energie,
+>
+> d) žiadateľ nie je v omeškaní so splnením splatného peňažného záväzku zo zmluvy o činnostiach spojených s vydávaním a použitím záruk pôvodu.
+>
+> (8) Organizátor krátkodobého trhu s elektrinou organizuje trh s vydanými zárukami pôvodu energie.
+>
+> (9) Držiteľ účtu má právo prostredníctvom obchodu uskutočneného na trhu so zárukami pôvodu energie previesť záruku pôvodu energie na iného účastníka trhu vrátane účastníka trhu z iného členského štátu.
+>
+> (10) Organizátor krátkodobého trhu s elektrinou zruší záruku pôvodu energie do 6 mesiacov od jej použitia alebo uplatnenia. Ak záruka pôvodu energie nie je použitá alebo uplatnená, organizátor krátkodobého trhu s elektrinou ju zruší do 18 mesiacov od dátumu výroby príslušnej jednotky energie a následne príslušnú energiu začlení do výpočtu energetického mixu dodávky.
+>
+> (11) Množstvo energie zodpovedajúce zárukám pôvodu energie, ktoré dodávateľ elektriny previedol na iného účastníka trhu s elektrinou, sa odpočíta z podielu elektriny v jeho dodávke elektriny.
+>
+> (12) Organizátor krátkodobého trhu s elektrinou zruší evidenciu alebo prevod záruky pôvodu alebo evidenciu uznania záruk pôvodu, ak sa preukáže, že k nim došlo v rozpore s týmto zákonom.
+>
+> (13) Záruka pôvodu, ktorá bola vydaná v inom členskom štáte na základe mechanizmu zaručujúceho presnosť a spoľahlivosť vydávania záruk pôvodu, sa považuje za uznanú záruku pôvodu, ak bola prevedená na účet držiteľa účtu registrovaného v elektronickej evidencii. Ak existujú opodstatnené pochybnosti o jej presnosti, spoľahlivosti alebo vierohodnosti, organizátor krátkodobého trhu s elektrinou nezaeviduje prevod záruky pôvodu vydanej v inom členskom štáte a vyzve žiadateľa, aby v ním určenej lehote odstránil pochybnosti o presnosti, spoľahlivosti alebo vierohodnosti záruky pôvodu. Ak sa v určenej lehote pochybnosti neodstránia, organizátor krátkodobého trhu s elektrinou neumožní evidenciu prevodu záruky pôvodu a oznámi žiadateľovi dôvody. Záruka pôvodu vydaná v inom členskom štáte sa považuje za nespoľahlivú, ak už bola v štáte vydania alebo v inom členskom štáte uplatnená na preukázanie pôvodu elektriny dodanej koncovému odberateľovi.
+>
+> (14) Záruka pôvodu energie vydaná v treťom štáte sa uzná, len ak
+>
+> a) je medzi Európskou úniou a týmto štátom uzatvorená dohoda o vzájomnom uznávaní záruk pôvodu a
+>
+> b) ide o štát, z ktorého sa priamo dováža energia do členského štátu alebo do ktorého sa priamo vyváža energia z členského štátu.
+>
+> (15) Ak organizátor krátkodobého trhu s elektrinou záruku pôvodu podľa odseku 13 neuzná, oznámi dôvody neuznania ministerstvu, ktoré informuje Európsku komisiu o dôvodoch neuznania záruky pôvodu vydanej v inom členskom štáte. Ak Európska komisia rozhodne o tom, že neuznanie záruky pôvodu bolo v rozpore s právnymi predpismi Európskej únie, je organizátor krátkodobého trhu s elektrinou povinný bezodkladne po oznámení rozhodnutia Európskej komisie vykonať evidenciu prevodu záruky pôvodu.
+>
+> (16) Podrobnosti o postupe pri vydávaní záruk pôvodu, evidencii záruk pôvodu, organizovaní trhu so zárukami pôvodu, pravidlách pre obchodovanie so zárukami pôvodu a uznávaní prevodov záruk pôvodu upraví organizátor krátkodobého trhu s elektrinou vo svojom prevádzkovom poriadku.
+>
+> (17) Dohľad nad evidenciou, prevodom a zrušením záruk pôvodu a nad evidenciou uznania záruk pôvodu vykonáva úrad. Organizátor krátkodobého trhu s elektrinou, výrobca elektriny a dodávateľ elektriny sú povinní poskytnúť úradu potrebnú súčinnosť pri výkone dohľadu. Pri zrušení evidencie alebo prevodu záruky pôvodu sa postupuje primerane podľa odseku 15.“.
+
+Poznámka pod čiarou k odkazu 15f znie:
+
+> „<sup>15f</sup>) Čl. 2 ods. 26 nariadenia (EÚ) č. 651/2014 v platnom znení.“.
+
+53. V § 9a ods. 1 sa slová „Národnom akčnom pláne pre energiu z obnoviteľných zdrojov“ nahrádzajú slovami „integrovanom národnom energetickom a klimatickom pláne“.
+
+54. V § 9a ods. 4 druhá veta znie: „Spoločný projekt podľa prvej vety a odseku 7 môže presiahnuť rok 2030.“.
+
+55. V § 9a ods. 7 sa na konci pripája táto veta: „Tento podiel alebo toto množstvo nepresiahne podiel alebo množstvo elektriny z obnoviteľných zdrojov energie skutočne vyvážané do Európskej únie a spotrebované v nej a zodpovedá množstvu a podmienkam ustanoveným všeobecne záväzným právnym predpisom vydaným podľa § 19 ods. 1 písm. j).“.
+
+56. V § 9a ods. 9 úvodnej vete sa slovo „troch“ nahrádza slovom „dvanástich“.
+
+57. § 10 vrátane nadpisu znie:
+
+> **„§ 10 — Práva a povinnosti výrobcu obnoviteľného plynu**
+>
+> (1) Výrobca obnoviteľného plynu má právo
+>
+> a) uzatvoriť s prevádzkovateľom distribučnej siete zmluvu o prístupe do distribučnej siete, zmluvu o pripojení k distribučnej sieti a zmluvu o distribúcii obnoviteľného plynu, ak sú splnené technické podmienky a obchodné podmienky<sup>10</sup>) prístupu a pripojenia k distribučnej sieti a technické podmienky distribúcie plynu prevádzkovateľa distribučnej siete,
+>
+> b) na vydanie záruky pôvodu obnoviteľného plynu podľa § 12aa,
+>
+> c) na prednostnú a povinnú distribúciu biometánu prevádzkovateľom distribučnej siete,
+>
+> d) na vydanie potvrdenia o množstve biometánu podľa § 12a.
+>
+> (2) Výrobca obnoviteľného plynu je povinný
+>
+> a) zabezpečiť, aby obnoviteľný plyn dodávaný do distribučnej siete zodpovedal kvalitatívnym parametrom podľa technických podmienok prevádzkovateľa distribučnej siete, ku ktorej je zariadenie pripojené a aby pri príprave obnoviteľného plynu neprekročila maximálna emisia metánu do ovzdušia hodnotu 1 %,
+>
+> b) uzatvoriť zmluvu o dodávke plynu s odberateľom plynu,
+>
+> c) písomne oznámiť bez zbytočného odkladu prevádzkovateľovi distribučnej siete uzatvorenie zmluvy o dodávke plynu a každú zmenu odberateľa plynu,
+>
+> d) zabezpečiť kontinuálne meranie množstva obnoviteľného plynu a kvality obnoviteľného plynu vrátane vyhodnocovania a odovzdávania potrebných údajov prevádzkovateľovi distribučnej siete, ak sa nedohodne s prevádzkovateľom distribučnej siete inak,
+>
+> e) umožniť prevádzkovateľovi distribučnej siete montáž určeného meradla a umožniť prístup k určenému meradlu na vykonanie kontroly funkčnosti určeného meradla a kontroly stavu dodaného množstva obnoviteľného plynu.“.
+
+58. V § 11 ods. 1 prvej vete sa vypúšťajú slová „na základe predloženia potvrdenia o pôvode biometánu“.
+
+59. V § 11 odsek 2 znie:
+
+> „(2) Prevádzkovateľ distribučnej siete odovzdá na žiadosť prevádzkovateľovi registra obnoviteľných plynov údaje potrebné na vydanie a použitie záruk pôvodu pre obnoviteľný plyn.“.
+
+60. V § 11 sa vypúšťa odsek 3.
+
+61. V § 11a ods. 2 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak sa prevádzkovateľ zariadenia na výrobu biometánu a prevádzkovateľ distribučnej siete nedohodnú inak.“.
+
+62. V § 11a odsek 4 znie:
+
+> „(4) Prevádzkovateľ distribučnej siete je povinný na svojom webovom sídle zverejniť pre zariadenie na výrobu biometánu transparentné a nediskriminačné podmienky pripojenia do distribučnej siete, poplatky spojené s jeho pripojením a postup uľahčujúci jeho pripojenie.“.
+
+63. Za § 11a sa vkladá § 11b, ktorý vrátane nadpisu znie:
+
+> **„§ 11b — Register obnoviteľných plynov**
+>
+> (1) Na účely evidencie výroby obnoviteľných plynov a vydávania záruk pôvodu obnoviteľného plynu prevádzkovateľ distribučnej siete, ktorý na základe rozhodnutia ministerstva podľa osobitného predpisu<sup>16a</sup>) plní úlohy plynárenského dispečingu na vymedzenom území, (ďalej len „prevádzkovateľ registra“) zriaďuje a vedie register obnoviteľných plynov.
+>
+> (2) V registri obnoviteľných plynov sa vedú údaje, ktoré poskytne výrobca obnoviteľného plynu pri vydaní záruky pôvodu obnoviteľného plynu a údaje o prevodoch a uznaných zárukách pôvodu obnoviteľného plynu.
+>
+> (3) Prevádzkovateľ registra má právo kontrolovať u výrobcu obnoviteľného plynu správnosť údajov potrebných na vydanie záruky pôvodu obnoviteľného plynu.
+>
+> (4) Prevádzkovateľ registra na účel spracúvania údajov podľa tohto zákona a elektronickej komunikácie s účastníkmi trhu s plynom zriaďuje a prevádzkuje informačný systém. Prevádzkovateľ registra je oprávnený elektronicky komunikovať s účastníkmi trhu s plynom.
+>
+> (5) Náklady vzniknuté prevádzkovateľovi registra spojené so zriadením a prevádzkou registra obnoviteľných plynov sú oprávnenými nákladmi prevádzkovateľa registra a úrad ich zohľadní v konaní o cenovej regulácii.<sup>16b</sup>) Služby prevádzkovateľa registra súvisiace s prevádzkou registra obnoviteľných plynov poskytované výrobcom obnoviteľného plynu a ďalším účastníkom trhu s plynom sú regulovanou činnosťou podľa osobitného predpisu.<sup>16b</sup>)“.
+
+Poznámky pod čiarou k odkazom 16a a 16b znejú:
+
+> „<sup>16a</sup>) § 66 ods. 2 zákona č. 251/2012 Z. z.
+>
+> <sup>16b</sup>) 11 ods. 2 písm. g) zákona č. 250/2012 Z. z. v znení zákona č. 363/2022 Z. z.“.
+
+64. § 12 vrátane nadpisu znie:
+
+> **„§ 12 — Záruka pôvodu obnoviteľného plynu**
+>
+> (1) Záruka pôvodu obnoviteľného plynu je doklad preukazujúci, že plyn bol vyrobený z obnoviteľného zdroja energie.
+>
+> (2) Záruka pôvodu obnoviteľného plynu obsahuje najmä
+>
+> a) zdroj energie, z ktorého bol obnoviteľný plyn vyrobený,
+>
+> b) druh obnoviteľného plynu podľa § 2 ods. 6 písm. m),
+>
+> c) počiatočný a koncový dátum výroby obnoviteľného plynu,
+>
+> d) označenie, miesto, technológiu a kapacitu výroby zariadenia na výrobu obnoviteľného plynu,
+>
+> e) informáciu o tom, či zariadenie na výrobu obnoviteľného plynu získalo podporu z podporných programov financovaných z prostriedkov štátneho rozpočtu,
+>
+> f) dátum uvedenia zariadenia na výrobu obnoviteľného plynu do prevádzky,
+>
+> g) dátum a členský štát, v ktorom bola vydaná záruka pôvodu obnoviteľného plynu,
+>
+> h) identifikačné číslo,
+>
+> i) informáciu o splnení kritérií trvalej udržateľnosti.
+>
+> (3) Záruku pôvodu obnoviteľného plynu možno použiť do 12 mesiacov od dátumu výroby obnoviteľného plynu.
+>
+> (4) Použitím záruky pôvodu obnoviteľného plynu sa rozumie jej uplatnenie na preukázanie podielu alebo množstva energie z obnoviteľného plynu dodanej v energetickom mixe dodávateľa plynu koncovému odberateľovi.“.
+
+65. V § 12a odseky 1 až 3 znejú:
+
+> „(1) Prevádzkovateľ registra vydá potvrdenie o množstve biometánu výrobcovi biometánu v elektronickej podobe, a to za každú megawatthodinu biometánu vpusteného do distribučnej siete. Podmienkou vydania potvrdenia o množstve biometánu je predchádzajúce vydanie záruky pôvodu obnoviteľného plynu výrobcovi biometánu na množstvo biometánu, na ktoré žiada vydať potvrdenie o množstve biometánu.
+>
+> (2) Vydaním potvrdenia o množstve biometánu sa zrušuje záruka pôvodu obnoviteľného plynu použitá na preukázanie splnenia podmienky podľa odseku 1.
+>
+> (3) Vydanie potvrdenia o množstve biometánu, prevod potvrdenia o množstve biometánu podľa odseku 5 a zrušenie potvrdenia o množstve biometánu podľa odseku 7 sa eviduje v registri obnoviteľných plynov.“.
+
+66. V § 12a odsek 5 znie:
+
+> „(5) Ak výrobca biometánu dodá výrobcovi elektriny kombinovanou výrobou biometán na základe zmluvy o dodávke plynu, potvrdenie o množstve biometánu sa prevedie na výrobcu elektriny kombinovanou výrobou.“.
+
+67. V § 12a ods. 6 sa za slovo „sa“ vkladajú slová „na účel podpory podľa § 3a ods. 2“.
+
+68. Za § 12a sa vkladá § 12aa, ktorý vrátane nadpisu znie:
+
+> **„§ 12aa — Vydanie, aukcia, prevod, uznanie a zrušenie záruky pôvodu obnoviteľného plynu**
+>
+> (1) Prevádzkovateľ registra v registri obnoviteľných plynov
+>
+> a) vytvára a vedie účty účastníkov trhu s plynom, a to najmä výrobcov obnoviteľného plynu, dodávateľov plynu a odberateľov plynu, s ktorými má uzatvorenú zmluvu o činnostiach spojených s vydávaním a použitím záruk pôvodu obnoviteľného plynu (ďalej len „držiteľ účtu v registri“),
+>
+> b) eviduje vydané záruky pôvodu obnoviteľného plynu,
+>
+> c) eviduje prevody záruky pôvodu obnoviteľného plynu medzi držiteľmi účtov v registri a prevody záruky pôvodu držiteľa účtu do iného členského štátu alebo z iného členského štátu,
+>
+> d) eviduje uplatnenie záruky pôvodu obnoviteľného plynu dodávateľom plynu alebo odberateľom plynu,
+>
+> e) eviduje uznanie záruky pôvodu obnoviteľného plynu vydanej v inom členskom štáte,
+>
+> f) ruší a eviduje zrušenie záruky pôvodu obnoviteľného plynu po
+>
+> 1. uplatnení záruky pôvodu obnoviteľného plynu,
+>
+> 2. uplynutí doby, počas ktorej možno použiť záruku pôvodu obnoviteľného plynu, alebo
+>
+> 3. vydaní potvrdenia o množstve biometánu podľa § 12a ods. 2.
+>
+> (2) Záruku pôvodu obnoviteľného plynu vydá prevádzkovateľ registra v elektronickej podobe pre každú megawatthodinu obnoviteľného plynu na žiadosť výrobcu obnoviteľného plynu, ak žiadateľ
+>
+> a) je držiteľ účtu v registri obnoviteľných plynov, ktorý pri vytvorení účtu predložil doklad vydaný odborne spôsobilou osobou na účely overovania výpočtu podľa § 14d potvrdzujúci výrobu obnoviteľného plynu,
+>
+> b) uvedie všetky údaje v elektronickej evidencii,
+>
+> c) spĺňa podmienky vydania záruky pôvodu obnoviteľného plynu podľa odseku 5,
+>
+> d) nie je v omeškaní so splnením splatného peňažného záväzku podľa zmluvy o činnostiach spojených s vydávaním a použitím záruk pôvodu obnoviteľného plynu.
+>
+> (3) Podmienka podľa odseku 2 písm. b) je pre údaj o množstve energie splnená, ak žiadateľ o vydanie záruky pôvodu obnoviteľného plynu meria množstvo biometánu vpustené do distribučnej siete určeným meradlom a v súlade s technickými podmienkami distribúcie plynu prevádzkovateľa distribučnej siete. Namerané údaje sa zasielajú prevádzkovateľovi distribučnej siete v súlade s prevádzkovým poriadkom<sup>16c</sup>) prevádzkovateľa registra.
+>
+> (4) Ak obnoviteľný plyn nie je vpúšťaný do distribučnej siete, alebo je vpúšťaný do nadväzujúcej distribučnej siete, kde je aj spotrebovaný, výrobca obnoviteľného plynu preukazuje množstvo energie obnoviteľného plynu, na ktoré sa má vydať záruka pôvodu obnoviteľného plynu, spôsobom, ktorý umožňuje objektívnu kontrolu vyrobeného množstva energie pri vydaní záruky pôvodu obnoviteľného plynu a počas jej platnosti. Ak prevádzkovateľ registra má pochybnosti o dopyte po obnoviteľnom plyne, môže požadovať od výrobcu obnoviteľného plynu aj preukázanie tohto dopytu. Spôsob preukázania množstva energie obnoviteľného plynu podľa prvej vety upraví prevádzkovateľ registra vo svojom prevádzkovom poriadku.<sup>16c</sup>)
+>
+> (5) Podmienkou vydania záruky pôvodu obnoviteľného plynu je
+>
+> a) dodržanie určenej kvality vyrobeného obnoviteľného plynu v súlade s prevádzkovým poriadkom prevádzkovateľa registra,<sup>16c</sup>)
+>
+> b) oznámenie množstva technologickej vlastnej spotreby obnoviteľného plynu prevádzkovateľovi registra, ak nie je technologická vlastná spotreba obnoviteľného plynu meraná,
+>
+> c) umožnenie kontroly údajov potrebných na vydanie a použitie záruky pôvodu obnoviteľného plynu prevádzkovateľovi registra obnoviteľných plynov vrátane kontroly na mieste a prístupu k meradlám a
+>
+> d) vykonávanie auditu podľa podmienok a v intervaloch určených prevádzkovateľom registra v jeho prevádzkovom poriadku.
+>
+> (6) Ak žiadateľom o vydanie záruky pôvodu obnoviteľného plynu je výrobca elektriny s právom na podporu, prevádzkovateľ registra je povinný overiť u zúčtovateľa podpory, či obnoviteľný plyn, na ktorý sa vydáva záruka pôvodu, bol použitý na výrobu elektriny, na ktorú bola poskytnutá podpora doplatkom alebo príplatkom. Ak prevádzkovateľ registra zistí, že podpora doplatkom alebo príplatkom bola poskytnutá, záruku pôvodu obnoviteľného plynu nevydá a ak už bola záruka pôvodu obnoviteľného plynu vydaná, bezodkladne ju zruší. Zúčtovateľ podpory je povinný poskytnúť prevádzkovateľovi registra bezodkladne informácie nevyhnutné na účel overenia podľa prvej vety.
+>
+> (7) Ak prevádzkovateľ registra eviduje na vlastnom oddelenom účte záruky pôvodu obnoviteľného plynu, je povinný raz za polrok usporiadať aukciu a výnos z tejto aukcie zaslať zúčtovateľovi podpory do 30 dní od uskutočnenia aukcie.
+>
+> (8) Záruku pôvodu obnoviteľného plynu možno previesť na iného účastníka trhu s plynom prostredníctvom obchodu uskutočneného na trhu so zárukami pôvodu obnoviteľného plynu organizovanom prevádzkovateľom registra.
+>
+> (9) Prevádzkovateľ registra zruší záruku pôvodu obnoviteľného plynu po jej uplatnení dodávateľom plynu alebo koncovým odberateľom plynu<sup>16d</sup>) alebo po uplynutí 18 mesiacov od dátumu výroby obnoviteľného plynu.
+>
+> (10) Prevádzkovateľ registra zruší evidenciu alebo prevod záruky pôvodu obnoviteľného plynu alebo evidenciu uznania záruky pôvodu obnoviteľného plynu, ak sa preukáže, že k nim došlo v rozpore s týmto zákonom.
+>
+> (11) Záruka pôvodu obnoviteľného plynu, ktorá bola vydaná v inom členskom štáte na základe mechanizmu zaručujúceho presnosť a spoľahlivosť vydávania záruk pôvodu obnoviteľného plynu, sa považuje za uznanú záruku pôvodu obnoviteľného plynu, ak bola prevedená na účet držiteľa účtu registrovaného v elektronickej evidencii. Ak existujú opodstatnené pochybnosti o jej presnosti, spoľahlivosti alebo vierohodnosti, prevádzkovateľ registra nezaeviduje prevod záruky pôvodu obnoviteľného plynu vydanej v inom členskom štáte a vyzve žiadateľa, aby v ním určenej lehote odstránil pochybnosti o presnosti, spoľahlivosti alebo vierohodnosti záruky pôvodu obnoviteľného plynu. Ak sa v určenej lehote pochybnosti neodstránia, prevádzkovateľ registra neumožní evidenciu prevodu záruky pôvodu obnoviteľného plynu a oznámi žiadateľovi dôvody. Záruka pôvodu obnoviteľného plynu vydaná v inom členskom štáte sa považuje za nespoľahlivú, ak už bola v štáte vydania alebo v inom členskom štáte uplatnená na preukázanie pôvodu obnoviteľného plynu dodaného koncovému odberateľovi.
+>
+> (12) Záruka pôvodu obnoviteľného plynu vydaná v treťom štáte sa uzná, len ak
+>
+> a) je medzi Európskou úniou a týmto štátom uzatvorená dohoda o vzájomnom uznávaní záruk pôvodu a
+>
+> b) ide o štát, z ktorého sa priamo dováža energia do členského štátu alebo do ktorého sa priamo vyváža energia z členského štátu.
+>
+> (13) Ak prevádzkovateľ registra záruku pôvodu obnoviteľného plynu podľa odseku 11 neuzná, oznámi dôvody neuznania ministerstvu, ktoré informuje Európsku komisiu o dôvodoch neuznania záruky pôvodu obnoviteľného plynu vydanej v inom členskom štáte. Ak Európska komisia rozhodne o tom, že neuznanie záruky pôvodu obnoviteľného plynu bolo v rozpore s právnymi predpismi Európskej únie, je prevádzkovateľ registra povinný bezodkladne po oznámení rozhodnutia Európskej komisie vykonať evidenciu prevodu záruky pôvodu obnoviteľného plynu.
+>
+> (14) Podrobnosti o postupe pri vydaní a evidencii záruk pôvodu obnoviteľného plynu, organizovaní trhu so zárukami pôvodu obnoviteľného plynu, pravidlách pre obchodovanie so zárukami pôvodu obnoviteľného plynu a uznávaní prevodov záruk pôvodu obnoviteľného plynu upraví prevádzkovateľ registra vo svojom prevádzkovom poriadku.
+>
+> (15) Dohľad nad evidenciou, prevodom a zrušením záruk pôvodu obnoviteľného plynu a nad evidenciou uznania záruk pôvodu obnoviteľného plynu vykonáva úrad. Prevádzkovateľ registra, výrobca obnoviteľného plynu a dodávateľ plynu sú povinní poskytnúť úradu potrebnú súčinnosť pri výkone dohľadu. Pri zrušení evidencie alebo prevodu záruky pôvodu obnoviteľného plynu sa postupuje primerane podľa odseku 13.
+>
+> (16) Ak úrad pri výkone dohľadu nad vydávaním záruky pôvodu obnoviteľného plynu zistí, že nie je možné preukázať množstvo energie obnoviteľného plynu, prevádzkovateľ registra záruku pôvodu obnoviteľného plynu nevydá dovtedy, kým nie je možné spoľahlivo preukázať splnenie podmienky evidencie podľa odseku 2 písm. b).“.
+
+Poznámky pod čiarou k odkazom 16c a 16d znejú:
+
+> „<sup>16c</sup>) § 19 ods. 7 zákona č. 251/2012 Z. z. v znení zákona č. 256/2022 Z. z.
+>
+> <sup>16d</sup>) § 3 písm. c) jedenásty bod zákona č. 251/2012 Z. z.“.
+
+69. § 12b vrátane nadpisu znie:
+
+> **„§ 12b — Zmena, zrušenie a oprava potvrdenia**
+>
+> (1) Úrad na žiadosť výrobcu elektriny s právom na podporu, výrobcu elektriny v lokálnom zdroji alebo z vlastného podnetu zmení alebo zruší potvrdenie o pôvode elektriny z obnoviteľných zdrojov energie, potvrdenie o pôvode elektriny vyrobenej vysoko účinnou kombinovanou výrobou alebo potvrdenie o výrobe elektriny v lokálnom zdroji, ak sa preukáže, že bolo vydané na základe nesprávnych údajov alebo nepravdivých údajov alebo sa zmenili podmienky alebo skutočnosti, na základe ktorých bolo potvrdenie vydané. V konaní z vlastného podnetu úrad umožní výrobcovi elektriny s právom na podporu a výrobcovi elektriny v lokálnom zdroji vyjadriť sa k dôvodom zmeny alebo zrušenia potvrdenia o pôvode elektriny z obnoviteľných zdrojov energie, potvrdenia o pôvode elektriny vyrobenej vysoko účinnou kombinovanou výrobou alebo potvrdenia o výrobe elektriny v lokálnom zdroji. Ustanovenia § 4b ods. 7 až 11, § 7 a 8 sa použijú primerane.
+>
+> (2) Proti zmene alebo zrušeniu potvrdenia o pôvode elektriny z obnoviteľných zdrojov energie, potvrdenia o pôvode elektriny vyrobenej vysoko účinnou kombinovanou výrobou alebo potvrdenia o výrobe elektriny v lokálnom zdroji môže podať výrobca elektriny s právom na podporu a výrobca elektriny v lokálnom zdroji v lehote 15 dní od doručenia potvrdenia alebo oznámenia o zrušení potvrdenia námietku predsedovi úradu. Na konanie o námietkach sa § 13 použije primerane.
+>
+> (3) Chyby v písaní, v počítaní a iné zrejmé nesprávnosti v písomnom vyhotovení potvrdenia o pôvode elektriny z obnoviteľných zdrojov energie, potvrdenia o pôvode elektriny vyrobenej vysoko účinnou kombinovanou výrobou a potvrdenia o výrobe elektriny v lokálnom zdroji úrad kedykoľvek aj bez návrhu opraví a upovedomí o tom výrobcu elektriny s právom na podporu alebo výrobcu elektriny v lokálnom zdroji.“.
+
+70. V § 13 odsek 1 znie:
+
+> „(1) Ak úrad potvrdenie o pôvode elektriny z obnoviteľných zdrojov energie, potvrdenie o pôvode elektriny vyrobenej vysoko účinnou kombinovanou výrobou alebo potvrdenie o výrobe elektriny v lokálnom zdroji nevydá, výrobca elektriny s právom na podporu alebo výrobca elektriny v lokálnom zdroji má právo podať písomné námietky predsedovi úradu do 15 dní odo dňa doručenia oznámenia o nevydaní potvrdenia o pôvode elektriny z obnoviteľných zdrojov energie, potvrdenia o pôvode elektriny vyrobenej vysoko účinnou kombinovanou výrobou alebo potvrdenia o výrobe elektriny v lokálnom zdroji.“.
+
+71. Za § 13a sa vkladá § 13b, ktorý vrátane nadpisu znie:
+
+> **„§ 13b — Kontaktné miesto pre usmernenie administratívneho postupu**
+>
+> (1) Ministerstvo určí príspevkovú organizáciu vo svojej pôsobnosti, ktorá plní úlohy kontaktného miesta pre usmernenie administratívneho postupu (ďalej len „kontaktné miesto“).
+>
+> (2) Kontaktné miesto poskytuje informácie o
+>
+> a) podmienkach výstavby, rekonštrukcie alebo modernizácie zariadenia výrobcu elektriny podľa osobitného predpisu,<sup>17aaa</sup>)
+>
+> b) postupoch vybavovania náležitostí spojených s možnosťou získania oprávnenia na výstavbu, rekonštrukciu alebo modernizáciu zariadenia výrobcu elektriny alebo prevádzkovanie zariadenia výrobcu elektriny v konaní podľa osobitného predpisu,<sup>17aaa</sup>)
+>
+> c) kontaktoch na orgány, ktoré sú príslušné na rozhodovanie vo veciach podľa písmena b),
+>
+> d) všeobecne dostupných spôsoboch riešenia sporov súvisiacich so vznikom oprávnenia na výstavbu, rekonštrukciu alebo modernizáciu zariadenia výrobcu elektriny alebo prevádzkovanie zariadenia výrobcu elektriny,
+>
+> e) ohľadom založenia, prevádzky a rozvoja občianskych energetických spoločenstiev a komunít vyrábajúcich energiu z obnoviteľných zdrojov energie.
+>
+> (3) Poskytovanie informácií podľa odseku 2 nemá charakter právneho poradenstva. Informácie sa poskytujú v štátnom jazyku transparentným spôsobom bezodkladne po prijatí žiadosti, a to do nadobudnutia právoplatnosti rozhodnutia orgánu, ktorý je príslušný na rozhodovanie vo veciach podľa odseku 2. Žiadosť môže byť doručená aj elektronickými prostriedkami. Kontaktné miesto môže pri poskytovaní informácií spolupracovať s inými štátnymi orgánmi.
+>
+> (4) Kontaktné miesto zverejní a pravidelne aktualizuje na svojom webovom sídle
+>
+> a) príručku postupov pre žiadateľov o vydanie oprávnenia na výstavbu, rekonštrukciu alebo modernizáciu a prevádzkovanie zariadenia na výrobu elektriny z obnoviteľných zdrojov energie vrátane malých projektov a projektov aktívneho odberateľa,
+>
+> b) kontaktné miesta pre žiadosti podľa písmena a).
+>
+> (5) Ak sú pri čerpaní podpory podľa tohto zákona určené technické špecifikácie, ktoré má spĺňať zariadenie výrobcu elektriny, kontaktné miesto zabezpečuje, aby technické špecifikácie boli
+>
+> a) jasne vymedzené a
+>
+> b) vyjadrené technickými normami vytvorenými európskymi normalizačnými organizáciami, ak boli takéto normy vydané.“.
+
+Poznámka pod čiarou k odkazu 17aaa znie:
+
+> „<sup>17aaa</sup>) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
+>
+> Zákon č. 251/2012 Z. z. v znení neskorších predpisov.“.
+
+72. V § 14 ods. 1 písmená b) a c) znejú:
+
+> „b) posudzuje potenciál energie z obnoviteľných zdrojov energie a využívania odpadového tepla a chladu v odvetví vykurovania a chladenia; posúdenie zahŕňa aj priestorovú analýzu vhodných oblastí pre využívanie obnoviteľných zdrojov energie s nízkym rizikom pre životné prostredie a posúdenie potenciálu pre malé projekty v domácnostiach, pričom je súčasťou druhého komplexného posúdenia potenciálu efektívneho vykurovania a chladenia<sup>17ab</sup>) a jeho aktualizácií,
+>
+> c) posudzuje aspoň raz za päť rokov efektívnosť systémov podpory výroby elektriny z obnoviteľných zdrojov energie a ich vplyv na rôzne skupiny spotrebiteľov a investície; v posúdení sa zohľadňuje vplyv možných zmien na systémy podpory a jeho výsledky ministerstvo zohľadní pri dlhodobom plánovaní, ktorým sa riadia rozhodnutia o podpore a návrhy novej podpory,“.
+
+Poznámka pod čiarou k odkazu 17ab znie:
+
+> „<sup>17ab</sup>) § 6 zákona č. 321/2014 Z. z. v znení zákona č. 419/2020 Z. z.“.
+
+73. V § 14 ods. 1 písm. d) sa za slovo „biopalív“ vkladajú slová „a s obsahom palív z obnoviteľných zdrojov nebiologického pôvodu“.
+
+74. V § 14 ods. 1 písmeno e) znie:
+
+> „e) určuje a každoročne do 30. júna na svojom webovom sídle zverejňuje inštalovaný výkon nových zariadení na výrobu elektriny z obnoviteľných zdrojov energie a vysoko účinnou kombinovanou výrobou, na ktoré sa vzťahuje podpora podľa § 3 ods. 1 písm. c); takto určenú hodnotu inštalovaného výkonu nových zariadení na výrobu elektriny možno zvýšiť aj v priebehu kalendárneho roka, na ktorý boli určené, pričom zmeny zverejní ministerstvo na svojom webovom sídle.“.
+
+75. V § 14 sa odsek 1 dopĺňa písmenami f) a g), ktoré znejú:
+
+> „f) zverejňuje každoročne do 30. júna, alebo ak je to potrebné pre zohľadnenie najnovšieho vývoja trhu alebo predpokladaného rozdelenia podpory, na svojom webovom sídle dlhodobý orientačný harmonogram poskytovania podpory s predpokladaným rozdelením podpory najmenej na nasledujúcich päť rokov alebo, pri obmedzení finančných prostriedkov určených na podporu, na nasledujúce tri roky, ktorý zahŕňa najmä orientačný časový plán rozdelenia podpory, frekvenciu verejných súťaží, predpokladaný inštalovaný výkon a rozpočet alebo maximálnu jednotkovú podporu a predpokladané oprávnené technológie,
+>
+> g) rozhoduje pri pochybnostiach, či bola investičná pomoc poskytnutá na základe súťažného konania.“.
+
+76. V § 14 sa vypúšťajú odseky 2 až 4 a 6.
+
+Poznámky pod čiarou k odkazom 17ae a 17af sa vypúšťajú.
+
+Doterajší odsek 5 sa označuje ako odsek 2.
+
+77. § 14 sa dopĺňa odsekmi 3 až 10, ktoré znejú:
+
+> „(3) Ministerstvo vypracováva integrovaný národný energetický a klimatický plán,<sup>17ac</sup>) ktorého súčasťou je aj určenie cieľov v oblasti využívania obnoviteľných zdrojov energie ako príspevku Slovenskej republiky k splneniu celkového záväzného cieľa Európskej únie. Ministerstvo zabezpečuje jeho aktualizáciu a vypracovanie správ o pokroku pri jeho plnení.
+>
+> (4) Ministerstvo posudzuje existujúce prekážky v rozvoji komunít vyrábajúcich energiu z obnoviteľných zdrojov energie<sup>17aca</sup>) a potenciál ich rozvoja. Pri navrhovaní systémov podpory zohľadňuje osobitosti komunít vyrábajúcich energiu z obnoviteľných zdrojov energie tak, aby sa mohli uchádzať o podporu na rovnakej úrovni ako iní účastníci trhu.
+>
+> (5) Ministerstvo na svojom webovom sídle zverejňuje informácie o podporných opatreniach pre spotrebiteľov vrátane spotrebiteľov s nízkym príjmom, zraniteľných spotrebiteľov, aktívnych odberateľov, komunít vyrábajúcich energiu z obnoviteľných zdrojov, stavbárov, inštalatérov, architektov, dodávateľov vykurovacích, chladiacich a elektrických zariadení a systémov, a dodávateľov stavbárov, inštalatérov, architektov a dodávateľov vykurovacích, chladiacich a elektrických zariadení a systémov a vozidiel, v ktorých možno využiť energiu z obnoviteľných zdrojov energie, pre dodávateľov vozidiel, v ktorých je možné využiť energiu z obnoviteľných zdrojov, a pre dodávateľov inteligentných dopravných systémov.
+>
+> (6) Ministerstvo pri vypracovaní integrovaného národného energetického a klimatického plánu a politík v oblasti využívania obnoviteľných zdrojov energie, cieľov v doprave a uplatňovania kritérií trvalej udržateľnosti primerane zohľadňuje hierarchiu odpadového hospodárstva tak, aby sa zabránilo negatívnym vplyvom na trh so surovinami. Ak je to vhodné, ministerstvo pri vypracovaní integrovaného národného energetického a klimatického plánu navrhuje opatrenia uprednostňujúce najlepšie dostupné technológie, s cieľom dosiahnuť podiel energie z obnoviteľných zdrojov v odvetví vykurovania a chladenia o orientačnú hodnotu 1,3 percentuálneho bodu ako ročný priemer vypočítaný za obdobia rokov 2021 až 2025 a 2026 až 2030, počnúc podielom energie z obnoviteľných zdrojov v odvetví vykurovania a chladenia v roku 2020, vyjadreným ako vnútroštátny podiel na konečnej energetickej spotrebe; zvýšenie sa obmedzuje na orientačnú hodnotu 1,1 percentuálneho bodu, ak sa pri výpočte nepoužije odpadové teplo a chlad.
+>
+> (7) Ministerstvo navrhuje opatrenia na dosiahnutie podielu energie z obnoviteľných zdrojov energie na hrubej konečnej energetickej spotrebe aspoň 14 %. Ak podiel podľa prvej vety počas jedného roka klesne pod 14 %, ministerstvo navrhne dodatočné opatrenia na odstránenie tohto rozdielu do jedného roka.
+>
+> (8) Ministerstvo posudzuje právne prekážky uzatvárania dlhodobých zmlúv o nákupe energie z obnoviteľných zdrojov, odstraňuje neodôvodnené prekážky, uľahčuje prijímanie týchto zmlúv a zabezpečuje, aby tieto zmluvy nepodliehali neprimeraným alebo diskriminačným postupom alebo poplatkom.
+>
+> (9) Ministerstvo posúdi existujúce neodôvodnené prekážky a možnosti samospotreby elektriny z obnoviteľných zdrojov energie a navrhne podporný rámec pre uľahčenie rozvoja aktívnych odberateľov na
+>
+> a) zabezpečenie prístupnosti samospotreby energie z obnoviteľných zdrojov pre všetkých koncových odberateľov vrátane tých, ktorí žijú v domácnostiach s nízkym príjmom alebo v zraniteľných domácnostiach,
+>
+> b) odstránenie neodôvodnených prekážok financovania projektov na trhu a uľahčenie prístupu k finančným prostriedkom,
+>
+> c) odstránenie neodôvodnených právnych prekážok samospotreby energie z obnoviteľných zdrojov, a to aj pre nájomcov,
+>
+> d) podporu majiteľov budov pri vytváraní príležitosti na samospotrebu energie z obnoviteľných zdrojov, a to aj pre nájomcov,
+>
+> e) poskytnutie nediskriminačného prístupu k príslušným systémom podpory a ku všetkým segmentom trhu s elektrinou samospotrebiteľom energie z obnoviteľných zdrojov v súvislosti so samovyrobenou elektrinou z obnoviteľných zdrojov, ktorú dodávajú do sústavy,
+>
+> f) zabezpečenie, aby samospotrebitelia energie z obnoviteľných zdrojov primeraným a vyváženým spôsobom prispievali k spoločnému znášaniu celkových nákladov na sústavu pri dodávaní elektriny do sústavy.
+>
+> (10) Ministerstvo vytvorí podporný rámec na propagáciu a uľahčenie rozvoja komunít vyrábajúcich energiu z obnoviteľných zdrojov, prostredníctvom ktorého zabezpečí, aby
+>
+> a) sa odstránili neodôvodnené právne alebo administratívne prekážky pre komunity vyrábajúce energiu z obnoviteľných zdrojov,
+>
+> b) príslušný prevádzkovateľ distribučnej sústavy spolupracoval s komunitami vyrábajúcimi energiu z obnoviteľných zdrojov s cieľom uľahčiť prenos energie v rámci komunít vyrábajúcich energiu z obnoviteľných zdrojov,
+>
+> c) sa na komunity vyrábajúce energiu z obnoviteľných zdrojov vzťahovali nediskriminačné, primerané a transparentné postupy vrátane postupov registrácie a udeľovania povolení, sieťové poplatky zodpovedajúce nákladom a poplatky, odvody a dane, ktorými sa zabezpečí, aby primeraným, spravodlivým a vyváženým spôsobom prispievali k spoločnému znášaniu celkových nákladov na sústavu v súlade s transparentnou analýzou nákladov a prínosov, ktorá sa týka distribuovaných zdrojov energie,
+>
+> d) sa na komunity vyrábajúce energiu z obnoviteľných zdrojov vzťahovalo nediskriminačné zaobchádzanie, pokiaľ ide o ich činnosti, práva a povinnosti ako koncových odberateľov, výrobcov, dodávateľov, prevádzkovateľov distribučných sústav alebo iných účastníkov trhu,
+>
+> e) sa do komunít vyrábajúcich energiu z obnoviteľných zdrojov mohli zapojiť všetci spotrebitelia vrátane spotrebiteľov s nízkym príjmom alebo zo zraniteľných domácností,
+>
+> f) boli dostupné nástroje na uľahčenie prístupu k financovaniu a informáciám,
+>
+> g) sa orgánom verejnej moci poskytovala podpora v oblasti regulácie a budovania kapacít pri podporovaní a zriaďovaní komunít vyrábajúcich energiu z obnoviteľných zdrojov, a pri pomoci týmto orgánov na priamu účasť,
+>
+> h) boli zavedené pravidlá na zabezpečenie rovnakého a nediskriminačného zaobchádzania so spotrebiteľmi zapojenými do komunity vyrábajúcej energiu z obnoviteľných zdrojov.“.
+
+Poznámky pod čiarou k odkazom 17ac a 17aca znejú:
+
+> „<sup>17ac</sup>) Čl. 3 ods. 1 a 2 a Príloha I nariadenia Európskeho parlamentu a Rady (EÚ) 2018/1999 z 11. decembra 2018 o riadení energetickej únie a opatrení v oblasti klímy, ktorým sa menia nariadenia Európskeho parlamentu a Rady (ES) č. 663/2009 a (ES) č. 715/2009, smernice Európskeho parlamentu a Rady 94/22/ES, 98/70/ES, 2009/31/ES, 2009/73/ES, 2010/31/EÚ, 2012/27/EÚ a 2013/30/EÚ, smernice Rady 2009/119/ES a (EÚ) 2015/652 a ktorým sa zrušuje nariadenie Európskeho parlamentu a Rady (EÚ) č. 525/2013 (Ú. v. EÚ L 328, 21. 12. 2018) v platnom znení.
+>
+> <sup>17aca</sup>) § 11a ods. 2 zákona č. 251/2012 Z. z. v znení zákona č. 256/2022 Z. z.“.
+
+78. § 14a až 14d vrátane nadpisov znejú:
+
+> **„§ 14a — Povinnosť plnenia referenčných hodnôt pri uvádzaní pohonných látok na trh**
+>
+> (1) Pri uvádzaní pohonných látok na trh je minimálny energetický obsah (ďalej len „referenčná hodnota“)
+>
+> a) primiešaných udržateľných pohonných látok z celkového energetického obsahu motorovej nafty a motorového benzínu uvedeného na trh
+>
+> 1. 8,2 % pre rok 2022,
+>
+> 2. 8,6 % pre rok 2023,
+>
+> 3. 8,8 % pre rok 2024,
+>
+> 4. 9,2 % pre rok 2025,
+>
+> 5. 9,5 % pre rok 2026,
+>
+> 6. 10,0 % pre rok 2027,
+>
+> 7. 10,4 % pre rok 2028,
+>
+> 8. 10,8 % pre rok 2029,
+>
+> 9. 11,4 % pre rok 2030,
+>
+> b) udržateľných pohonných látok z celkového energetického obsahu stlačeného zemného plynu a skvapalneného zemného plynu uvedeného na trh
+>
+> 1. 2,0 % pre rok 2023,
+>
+> 2. 3,0 % pre rok 2024,
+>
+> 3. 4,0 % pre rok 2025,
+>
+> 4. 6,0 % pre rok 2026,
+>
+> 5. 8,0 % pre rok 2027,
+>
+> 6. 10,0 % pre rok 2028,
+>
+> 7. 12,0 % pre rok 2029,
+>
+> 8. 14,0 % pre rok 2030.
+>
+> (2) Právnická osoba alebo fyzická osoba, ktorá uvádza na trh pohonné látky, je povinná zabezpečiť splnenie referenčnej hodnoty podľa odseku 1 za kalendárny rok. Uvedením na trh sa na účely tohto zákona rozumie
+>
+> a) pri pohonnej látke uvedenej v § 2 ods. 4 písm. a) prvom bode a druhom bode jej
+>
+> 1. uvedenie do daňového voľného obehu<sup>17a</sup>) osobou podľa osobitného predpisu,<sup>17b</sup>)
+>
+> 2. prepravenie na územie Slovenskej republiky mimo pozastavenia dane na podnikateľské účely,<sup>17c</sup>)
+>
+> b) pri pohonnej látke uvedenej v § 2 ods. 4 písm. a) štvrtého bodu vznik daňovej povinnosti podľa osobitného predpisu,<sup>17d</sup>)
+>
+> c) výroba plynného paliva z biomasy a jeho predaj ako pohonnej látky.
+>
+> (3) Právnická osoba alebo fyzická osoba podľa odseku 2, ktorá uvádza na trh motorovú naftu alebo motorový benzín, je povinná v kalendárnom štvrťroku uvádzať na trh
+>
+> a) motorovú naftu s objemom metylesteru mastných kyselín minimálne 6,9 %,
+>
+> b) motorový benzín s objemom bioetanolovej zložky minimálne 9 %; na účely tohto zákona sa bioetanolovou zložkou rozumie bioetyltercbutyléter alebo zmes bioetyltercbutyléteru a bioetanolu, pričom zmes musí obsahovať podiel bioetyltercbutyléteru najmenej 3 %, čo predstavuje objem 1,41 % bioetanolovej zložky a z objemu bioetyltercbutyléteru sa do objemu bioetanolovej zložky zmesi započítava 47 %.
+>
+> (4) Právnická osoba alebo fyzická osoba, ktorá uvádza na trh pohonné látky s obsahom udržateľných pohonných látok, je povinná
+>
+> a) vydať potvrdenie o udržateľnosti podľa § 14b prostredníctvom elektronickej evidencie palív v doprave podľa § 14g do 25 dní po skončení kalendárneho štvrťroka,
+>
+> b) zabezpečiť overenie plnenia kritérií trvalej udržateľnosti,
+>
+> c) vyhotoviť správu o plnení povinnosti primiešania udržateľných pohonných látok prostredníctvom elektronickej evidencie palív v doprave podľa § 14g do 40 dní po skončení kalendárneho štvrťroka.
+>
+> (5) Finančné riaditeľstvo Slovenskej republiky na účel kontroly plnenia povinností právnických osôb a fyzických osôb podľa odseku 2 zašle za kalendárny štvrťrok do 40 dní po skončení príslušného kalendárneho štvrťroka ministerstvu a Slovenskému hydrometeorologickému ústavu súhrnnú informáciu, v ktorej uvedie
+>
+> a) zoznam osôb podľa odseku 2 obsahujúci obchodné meno, sídlo a identifikačné číslo právnickej osoby alebo meno, priezvisko, adresu trvalého pobytu a identifikačné číslo fyzickej osoby, ak sa tento zoznam zasiela prvýkrát alebo ak došlo v priebehu príslušného kalendárneho štvrťroka k zmene v tomto zozname,
+>
+> b) množstvo pohonnej látky uvedenej v § 2 ods. 4 písm. a) prvom bode a druhom bode, ktoré osoba podľa osobitného predpisu<sup>17b</sup>) uviedla do daňového voľného obehu,<sup>17a</sup>)
+>
+> c) množstvo pohonnej látky uvedenej v § 2 ods. 4 písm. a) prvom bode a druhom bode, ktoré osoba podľa osobitného predpisu<sup>17c</sup>) prepravila na územie Slovenskej republiky mimo pozastavenia dane na podnikateľské účely,
+>
+> d) množstvo pohonnej látky uvedenej v § 2 ods. 4 písm. a) prvom bode a druhom bode, z ktorého bola vrátená daň podľa osobitného predpisu<sup>17f</sup>) osobe podľa písmen b) a c) z množstva podľa písmen b) a c),
+>
+> e) množstvo pohonnej látky uvedenej v § 2 ods. 4 písm. a) štvrtom bode, z ktorého vznikla daňová povinnosť podľa osobitného predpisu.<sup>17d</sup>)
+>
+> (6) Povinnosti podľa odsekov 1 a 3 sa nevzťahujú na
+>
+> a) skladovanie a predaj leteckých pohonných látok v priestoroch letísk,
+>
+> b) minerálny olej uvádzaný na trh, ak ide o stav ropnej núdze alebo plnenie medzinárodných záväzkov v oblasti ropnej bezpečnosti,
+>
+> c) minerálny olej určený na použitie pre ozbrojené sily Slovenskej republiky a pre ozbrojené sily iných štátov, ktoré sú stranami Severoatlantickej zmluvy, a ich civilnými zamestnancami v rámci aktivít podľa medzinárodnej zmluvy,<sup>17h</sup>) ktorou je Slovenská republika viazaná,
+>
+> d) minerálny olej určený na použitie pre ozbrojené sily iných členských štátov, na použitie týmito ozbrojenými silami a ich civilnými zamestnancami pri obrannom úsilí v rámci spoločnej bezpečnostnej a obrannej politiky Európskej únie,
+>
+> e) minerálny olej, ktorým je lodná prevádzková látka podľa osobitného predpisu,<sup>17ha</sup>)
+>
+> f) minerálny olej, ktorý tvorí núdzové zásoby ropy a ropných výrobkov podľa osobitného predpisu.<sup>17hb</sup>)
+>
+> (7) Na účely plnenia povinností podľa odseku 2 sa započítavajú len udržateľné pohonné látky, pre ktoré bolo vydané potvrdenie o udržateľnosti podľa § 14b a spĺňajú podmienku evidencie podľa odseku 8.
+>
+> (8) Podmienka evidencie udržateľnej pohonnej látky je splnená, ak právnická osoba alebo fyzická osoba vloží údaje o udržateľnej pohonnej látke do elektronickej evidencie palív v doprave podľa § 14g do dvadsiateho piateho dňa kalendárneho mesiaca nasledujúceho po kalendárnom štvrťroku, v ktorom ju dodala na trh a splní povinnosť podľa § 14h ods. 15.
+>
+> (9) Na účely plnenia referenčnej hodnoty podľa odseku 1 písm. a) sa započítava energetický obsah
+>
+> a) pokročilých biopalív podľa prílohy č. 1 dvojnásobne,
+>
+> b) biopalív z použitých kuchynských olejov a rastlinných tukov alebo živočíšnych tukov zaradených do kategórií 1 a 2 podľa osobitného predpisu<sup>17g</sup>) alebo z ich zmesí dvojnásobne, najviac však do výšky 1,76 % z celkového energetického obsahu motorovej nafty a motorového benzínu uvedeného na trh,
+>
+> c) biopalív vyrobených z potravinárskych a krmovinárskych plodín do výšky 6 % z celkového energetického obsahu motorovej nafty a motorového benzínu uvedeného na trh,
+>
+> d) kvapalných a plynných palív v doprave z obnoviteľných zdrojov nebiologického pôvodu aj vtedy, ak boli použité ako medziprodukty na výrobu motorovej nafty alebo motorového benzínu,
+>
+> e) biopalív vyrobených z kvapalných palív z biomasy spoločne spracovaných v rafinérii s fosílnymi palivami,
+>
+> f) biopalív, biokvapalín alebo palív z biomasy vyrobených z potravinárskych alebo krmovinárskych plodín, pri ktorých hrozí vysoké riziko nepriamej zmeny využívania pôdy a pri ktorých bolo pozorované významné rozšírenie oblasti výroby na pôdu s vysokými zásobami uhlíka, ak tieto palivá nie sú certifikované ako biopalivá, biokvapaliny alebo palivá z biomasy s nízkym rizikom nepriamej zmeny využívania pôdy od 1. januára 2023 vo výške 0 %.
+>
+> (10) Na účely plnenia referenčnej hodnoty podľa odseku 1 písm. b) sa energetický obsah
+>
+> a) plynných palív z biomasy vyrobených zo surovín alebo palív uvedených v prílohe č. 1 započítava dvojnásobne,
+>
+> b) plynných palív z biomasy vyrobených z potravinárskych a krmovinárskych plodín započíta do výšky 6 % celkového energetického obsahu stlačeného zemného plynu a skvapalneného zemného plynu uvedeného na trh,
+>
+> c) kvapalných a plynných palív z obnoviteľných zdrojov nebiologického pôvodu započítava aj vtedy, ak boli použité ako medziprodukty na výrobu stlačeného zemného plynu alebo skvapalneného zemného plynu,
+>
+> d) obnoviteľného plynu deklarovaný zárukou pôvodu obnoviteľného plynu obsahujúcou potvrdenie o udržateľnosti podľa § 14b, započíta držiteľovi, ktorý záruku pôvodu pre obnoviteľný plyn na účely plnenia referenčnej hodnoty zruší.
+>
+> (11) Právnická osoba alebo fyzická osoba podľa odseku 2, ktorá uvádza na trh stlačený zemný plyn alebo skvapalnený zemný plyn, je povinná za kalendárny rok uviesť udržateľné pohonné látky zo surovín uvedených v prílohe č. 1 minimálne v referenčnej hodnote, ktorá je
+>
+> a) 0,5 % pre rok 2023,
+>
+> b) 0,65 % pre rok 2024,
+>
+> c) 1,05 % pre roky 2025 a 2026,
+>
+> d) 1,40 % pre roky 2027 a 2028,
+>
+> e) 1,75 % pre rok 2029,
+>
+> f) 2,1 % pre rok 2030.
+>
+> (12) Právnická osoba alebo fyzická osoba, ktorá vyrába 100-percentné biopalivo, je povinná každoročne do 31. marca oznámiť ministerstvu
+>
+> a) informácie o spôsobe výroby biopaliva,
+>
+> b) objemy biopalív vyrobených na území Slovenskej republiky za predchádzajúci kalendárny rok,
+>
+> c) objemy biopalív uvedených na trh za predchádzajúci kalendárny rok,
+>
+> d) emisie skleníkových plynov počas životného cyklu na jednotku energie vrátane predbežných stredných hodnôt odhadovaných emisií z biopalív vyplývajúcich z nepriamej zmeny využívania pôdy.
+>
+> (13) Právnická osoba alebo fyzická osoba, ktorá prepravuje na územie Slovenskej republiky pohonné látky s obsahom biopaliva mimo pozastavenia dane na podnikateľské účely,<sup>17c</sup>) a právnická osoba, ktorá takéto pohonné látky dováža na územie Slovenskej republiky z iných členských štátov alebo z tretích štátov, je povinná každoročne do 31. marca oznámiť ministerstvu
+>
+> a) informácie o pôvode biopaliva,
+>
+> b) objemy biopalív prepravených alebo dovezených na územie Slovenskej republiky za predchádzajúci kalendárny rok,
+>
+> c) objemy biopalív uvedených na trh za predchádzajúci kalendárny rok,
+>
+> d) emisie skleníkových plynov počas životného cyklu na jednotku energie vrátane predbežných stredných hodnôt odhadovaných emisií z biopalív vyplývajúcich z nepriamej zmeny využívania pôdy.
+>
+> (14) Údaje podľa odseku 12 písm. b) a c) a odseku 13 písm. b) a c) sa oznamujú v členení podľa surovín:
+>
+> a) obilniny a iné plodiny bohaté na škrob,
+>
+> b) cukornaté plodiny,
+>
+> c) olejniny.
+>
+> **§ 14b — Potvrdenie o udržateľnosti**
+>
+> (1) Potvrdenie o udržateľnosti je doklad, ktorým sa preukazuje súlad s kritériami udržateľnosti a úspory emisií skleníkových plynov podľa § 19b ods. 1 písm. a). Potvrdenie o udržateľnosti vydáva právnická osoba alebo fyzická osoba, ktorá uvádza na trh pohonné látky s obsahom udržateľných pohonných látok alebo biokvapalinu, a dodávateľ paliva z biomasy, výrobca elektriny alebo výrobca tepla podľa § 14i. Potvrdenie môže vydať aj právnická osoba alebo fyzická osoba, ktorá uvádza na trh pohonnú látku vrátane vodíka, ktorá je vyrobená z biomasy a z obnoviteľných zdrojov nebiologického pôvodu, alebo palivo s obsahom recyklovaného uhlíka.
+>
+> (2) Potvrdenie o udržateľnosti možno vydať len pod dohľadom
+>
+> a) právnickej osoby alebo fyzickej osoby s odbornou spôsobilosťou podľa § 14d,
+>
+> b) právnickej osoby alebo fyzickej osoby uznanej v inom členskom štáte na účely overovania potvrdenia o udržateľnosti alebo
+>
+> c) dobrovoľného certifikačného systému uznaného členským štátom alebo Európskou komisiou (ďalej len „dobrovoľný certifikačný systém“).
+>
+> (3) Dohľadom podľa odseku 2 sa rozumie overovanie splnenia kritérií trvalej udržateľnosti vrátane dodržania systému hmotnostnej bilancie. Podmienkou pre vykonávanie dohľadu je registrácia v registri odborne spôsobilých osôb na účely overovania výpočtu podľa § 14d ods. 10.
+>
+> (4) Prílohou potvrdenia o udržateľnosti na účel jeho overenia podľa odseku 3 je vyhlásenie pestovateľa alebo dodávateľa biomasy alebo suroviny o splnení kritérií trvalej udržateľnosti určených pre pestovanie alebo výrobu základnej suroviny. Potvrdenie o udržateľnosti sa po overení môže používať bez prílohy podľa prvej vety.
+>
+> (5) Ak sa zmenia podmienky, ktoré môžu ovplyvniť splnenie kritérií trvalej udržateľnosti, právnická osoba alebo fyzická osoba podľa odseku 1 vydá potvrdenie o udržateľnosti bezodkladne po zmene podmienok. Za zmenu podmienok podľa prvej vety sa považuje zmena pestovateľa alebo dodávateľa biomasy, zmena technológie výroby vrátane subdodávateľov, zvýšená prepravná vzdialenosť alebo iná skutočnosť, ktorá ovplyvňuje výpočet úspory emisií skleníkových plynov.
+>
+> (6) Úspora emisií skleníkových plynov vyplývajúca z využitia udržateľnej pohonnej látky, biokvapaliny a paliva z biomasy sa vypočíta podľa metodiky určenej Ministerstvom životného prostredia Slovenskej republiky (ďalej len „ministerstvo životného prostredia“) alebo podľa metodiky uznanej iným členským štátom. Tieto metodiky sa na účel výpočtu emisií skleníkových plynov počas životného cyklu udržateľných pohonných látok, biokvapalín a palív z biomasy považujú za rovnocenné.
+>
+> (7) Na účely tohto zákona sa uznávajú potvrdenia o udržateľnosti overené právnickými osobami alebo fyzickými osobami uznanými na tieto účely v iných členských štátoch alebo vydané pod dohľadom dobrovoľného certifikačného systému.
+>
+> (8) Potvrdenie o udržateľnosti možno vydať aj pre pohonnú látku vrátane vodíka, ktorá je vyrobená z biomasy a z obnoviteľných zdrojov nebiologického pôvodu.
+>
+> **§ 14c — Povinnosť znižovania emisií skleníkových plynov v doprave**
+>
+> (1) Právnická osoba alebo fyzická osoba, ktorá uvádza na trh v Slovenskej republike pohonnú látku používanú na pohon cestných vozidiel, dráhových vozidiel, necestných strojov, plavidiel vnútrozemskej vodnej dopravy, poľnohospodárskych traktorov a lesných traktorov, rekreačných plavidiel alebo dodáva elektrinu používanú na pohon v cestných vozidlách, je povinná monitorovať, každoročne vypracovať a do 31. mája nasledujúceho kalendárneho roka zaslať Slovenskému hydrometeorologickému ústavu na overenie správu o úrovni tvorby emisií skleníkových plynov počas životného cyklu na jednotku energie z pohonnej látky a dodávanej energie za predchádzajúci kalendárny rok.
+>
+> (2) Správa podľa odseku 1 obsahuje
+>
+> a) celkový objem každého typu pohonnej látky alebo dodávanej energie spolu s údajom o mieste ich nákupu a pôvode,
+>
+> b) emisie skleníkových plynov počas životného cyklu na jednotku energie,
+>
+> c) údaje potrebné na identifikáciu pohonnej látky alebo dodávanej energie,
+>
+> d) spôsob dosahovania úspor emisií skleníkových plynov,
+>
+> e) spôsob výpočtu úspor emisií skleníkových plynov,
+>
+> f) ďalšie údaje podľa § 19b ods. 1 písm. r).
+>
+> (3) Právnická osoba alebo fyzická osoba, ktorá je malým podnikom<sup>17j</sup>) alebo stredným podnikom,<sup>17k</sup>) môže pri podávaní správy podľa odseku 2 použiť zjednodušenú metodiku podľa § 19b ods. 1 písm. f).
+>
+> (4) Právnická osoba alebo fyzická osoba, ktorá uvádza pohonnú látku na trh v Slovenskej republike, je povinná
+>
+> a) znížiť priemerné ročné emisie skleníkových plynov počas životného cyklu na jednotku energie z pohonných látok a dodávanej energie o 6 % v porovnaní s referenčnou hodnotou 94,1 g CO<sub>2ekv</sub>/MJ,
+>
+> b) plniť priebežné ciele podľa § 19b ods. 1 písm. k).
+>
+> (5) Povinnosť podľa odseku 4 sa nevzťahuje na právnickú osobu alebo fyzickú osobu, ktorá uvádza na trh v Slovenskej republike pohonnú látku podľa § 14a ods. 6.
+>
+> (6) Právnická osoba alebo fyzická osoba môže povinnosť podľa odseku 4 splniť aj dodávkami udržateľných pohonných látok na trh v Slovenskej republike na využitie v leteckej doprave alebo vnútrozemskej vodnej doprave, ak spĺňajú kritériá trvalej udržateľnosti.
+>
+> (7) Právnická osoba alebo fyzická osoba môže povinnosti podľa odsekov 1 a 4 plniť spoločne s inými právnickými osobami alebo fyzickými osobami na základe zmluvy. Zmluva musí byť predložená Slovenskému hydrometeorologickému ústavu spolu so správou podľa odseku 2 a musí obsahovať vzájomné rozdelenie zodpovednosti pre prípad nesplnenia cieľov podľa odseku 4.
+>
+> (8) Dodávateľ elektriny využívanej v cestných vozidlách môže prispieť k plneniu povinnosti znížiť emisie skleníkových plynov počas životného cyklu na jednotku energie podľa odseku 4, ak preukáže, že môže náležite merať alebo iným spôsobom podľa § 19b ods. 1 písm. m) sledovať množstvo elektriny dodávanej na využívanie v týchto vozidlách. Pri výpočte úspor emisií skleníkových plynov sa použije vnútroštátna priemerná určená hodnota intenzity emisií skleníkových plynov za životný cyklus elektriny zverejnená ministerstvom životného prostredia podľa § 14e písm. k).
+>
+> (9) Právnická osoba alebo fyzická osoba môže na účel splnenia povinnosti podľa odseku 4 použiť aj zníženie emisií skleníkových plynov v predvýrobnej fáze dosiahnuté za kalendárny rok v inom štáte. Zníženie emisií skleníkových plynov v predvýrobnej fáze je možné započítať, ak
+>
+> a) opatrenia na zníženie emisií skleníkových plynov boli zavedené po 1. januári 2011,
+>
+> b) množstvo zníženia emisií skleníkových plynov bolo overené autorizovanou osobou, osobou s akreditáciou alebo iným oprávnením podľa právneho poriadku členského štátu a
+>
+> c) množstvo zníženia emisií skleníkových plynov nebolo zohľadnené pri plnení iných záväzkov v Slovenskej republike, ani v inom štáte.
+>
+> **§ 14d — Odborná spôsobilosť na účely overovania výpočtu emisií skleníkových plynov**
+>
+> (1) Odborná spôsobilosť na účely overovania výpočtu emisií skleníkových plynov (ďalej len „overovanie výpočtu emisií“) je preukázanie kvalifikačných predpokladov, odbornej praxe a výsledkov úspešne vykonanej skúšky odbornej spôsobilosti na účely overovania výpočtu emisií.
+>
+> (2) Ministerstvo životného prostredia vydá osvedčenie o odbornej spôsobilosti na účely overovania výpočtu emisií fyzickej osobe, ktorá
+>
+> a) podá žiadosť o vydanie osvedčenia o odbornej spôsobilosti na účely overovania výpočtu emisií,
+>
+> b) spĺňa kvalifikačné predpoklady na výkon činnosti,
+>
+> c) absolvuje skúšku odbornej spôsobilosti na účely overovania výpočtu emisií,
+>
+> d) je spôsobilá na právne úkony v plnom rozsahu.
+>
+> (3) Kvalifikačné predpoklady podľa odseku 2 písm. b) sú:
+>
+> a) vysokoškolské vzdelanie druhého stupňa v príslušnom študijnom odbore a najmenej trojročná odborná prax,
+>
+> b) vysokoškolské vzdelanie prvého stupňa v príslušnom študijnom odbore a najmenej päťročná odborná prax, alebo
+>
+> c) stredné odborné vzdelanie v príslušnom učebnom odbore vzdelávacieho programu a najmenej osemročná odborná prax.
+>
+> (4) Ministerstvo životného prostredia vydá osvedčenie o odbornej spôsobilosti na účely overovania výpočtu emisií právnickej osobe, ak odborný zamestnanec právnickej osoby splní podmienky podľa odseku 2.
+>
+> (5) Platnosť osvedčenia o odbornej spôsobilosti na účely overovania výpočtu emisií je päť rokov od jeho vydania.
+>
+> (6) Platnosť osvedčenia o odbornej spôsobilosti na účely overenia výpočtu emisií podľa odseku 5 sa predĺži o ďalších päť rokov, ak odborne spôsobilá osoba na účely overovania výpočtu emisií absolvuje preskúšanie odbornej spôsobilosti, ktoré vykonáva ministerstvo životného prostredia.
+>
+> (7) Ministerstvo životného prostredia rozhodne o odobratí osvedčenia o odbornej spôsobilosti na účely overovania výpočtu emisií, ak odborne spôsobilá osoba na účely overovania výpočtu emisií (ďalej len „odborne spôsobilá osoba na účely overovania výpočtu“)
+>
+> a) si neplní povinnosti podľa odsekov 12 a 13 riadne a včas,
+>
+> b) písomne požiada o zrušenie odbornej spôsobilosti na účely overovania výpočtu emisií.
+>
+> (8) Proti rozhodnutiu o odobratí osvedčenia o odbornej spôsobilosti na účely overovania výpočtu emisií sa odborne spôsobilá osoba na účely overovania výpočtu môže odvolať do 15 dní odo dňa doručenia písomného rozhodnutia o odobratí osvedčenia o odbornej spôsobilosti na účely overovania výpočtu emisií. Ministerstvo životného prostredia vyradí osobu, ktorej bolo odobraté osvedčenie o odbornej spôsobilosti na účely overovania výpočtu emisií z registra odborne spôsobilých osôb na účely overovania výpočtu.
+>
+> (9) Odborná spôsobilosť na účely overovania výpočtu emisií zaniká
+>
+> a) pozbavením spôsobilosti na právne úkony odborne spôsobilej osoby na účely overovania výpočtu alebo obmedzením jej spôsobilosti na právne úkony,
+>
+> b) smrťou odborne spôsobilej osoby na účely overovania výpočtu.
+>
+> (10) Ministerstvo životného prostredia písomne oznámi výsledky skúšky odbornej spôsobilosti na účely overovania výpočtu emisií a preskúšania odbornej spôsobilosti na účely overovania výpočtu emisií do 10 dní od ich konania.
+>
+> (11) Ministerstvo životného prostredia vedie, aktualizuje a zverejňuje register odborne spôsobilých osôb na účely overovania výpočtu na svojom webovom sídle. Na tieto účely možno do registra zaevidovať právnickú osobu alebo fyzickú osobu certifikovanú v niektorom z členských štátov. Ministerstvo životného prostredia zaeviduje takúto osobu do registra po tom, čo mu boli doručené doklady vydané v súlade s právnymi predpismi členského štátu.
+>
+> (12) Odborne spôsobilá osoba na účely overovania výpočtu je povinná
+>
+> a) vykonávať činnosť v súlade s osvedčením o odbornej spôsobilosti na účely overovania výpočtu emisií transparentne a nestranne,
+>
+> b) umožniť kontrolu výkonu svojej činnosti zo strany Slovenského hydrometeorologického ústavu alebo ministerstva životného prostredia,
+>
+> c) bezodkladne oznámiť zmenu údajov uvedených v žiadosti o vydanie osvedčenia o odbornej spôsobilosti na účely overovania výpočtu emisií,
+>
+> d) najmenej raz ročne skontrolovať plnenie kritérií trvalej udržateľnosti a hmotnostnej bilancie u právnických osôb a fyzických osôb, u ktorých vykonáva dohľad podľa § 14b ods. 3,
+>
+> e) pri kontrole dodávateľa biomasy a dodávateľa suroviny na výrobu udržateľnej pohonnej látky, biokvapaliny a paliva z biomasy skontrolovať plnenie kritérií trvalej udržateľnosti a hmotnostnej bilancie najmenej u 3 % pestovateľov a dodávateľov biomasy, od ktorých biomasu odobral,
+>
+> f) pri kontrole výrobcu alebo dovozcu kvapalných alebo plynných produktov určených na výrobu udržateľných pohonných látok, biokvapalín a plynného paliva z biomasy a výrobcu alebo dovozcu udržateľných pohonných látok, biokvapalín a paliva z biomasy, ktorý odoberal biomasu priamo od pestovateľov alebo dodávateľov, skontrolovať plnenie kritérií trvalej udržateľnosti a hmotnostnej bilancie najmenej u 3 % pestovateľov alebo dodávateľov biomasy alebo suroviny nebiologického pôvodu, od ktorých biomasu priamo odobral,
+>
+> g) vypracovať správy o výsledkoch kontroly podľa písmen d) až f) a tieto uchovávať najmenej päť rokov,
+>
+> h) bezodkladne oznámiť Slovenskému hydrometeorologickému ústavu zistené závažné nedostatky pri kontrole,
+>
+> i) zasielať Slovenskému hydrometeorologickému ústavu súhrnnú správu o vykonaných kontrolách alebo oznámenie o nevykonaní žiadnej kontroly v kalendárnom roku do 15. marca nasledujúceho kalendárneho roka.
+>
+> (13) Ak ide o udržateľné pohonné látky, ktorých energetický obsah sa započítava dvojnásobne, alebo biokvapaliny a plynné palivá z biomasy vyrobené zo surovín uvedených v prílohe č. 1, odborne spôsobilá osoba na účely overovania výpočtu je povinná
+>
+> a) najmenej dvakrát ročne skontrolovať plnenie kritérií trvalej udržateľnosti a hmotnostnej bilancie a overiť, že nedošlo k úmyselným úpravám odpadov a zvyškov po spracovaní u právnických osôb a fyzických osôb, ktoré sú prvým miestom zhromažďovania, skladovania alebo vytrieďovania týchto surovín a ktorým overuje potvrdenie o udržateľnosti,
+>
+> b) pri kontrole dodávateľa biomasy skontrolovať plnenie kritérií trvalej udržateľnosti a hmotnostnej bilancie najmenej u 5 % pestovateľov a dodávateľov biomasy vyrobenej zo surovín podľa § 2 ods. 6 písm. h), i) okrem drevitých energetických plodín alebo písm. j) prvého bodu a druhého bodu a 25 % pestovateľov a dodávateľov ostatnej biomasy, od ktorých dodávateľ tieto suroviny odobral,
+>
+> c) pri kontrole výrobcu alebo dovozcu kvapalných alebo plynných produktov určených na výrobu udržateľných pohonných látok, biokvapalín a plynného paliva z biomasy a výrobcu alebo dovozcu udržateľných pohonných látok, biokvapalín a plynného paliva z biomasy, ktorý odoberal biomasu priamo od pestovateľov alebo dodávateľov, skontrolovať plnenie kritérií trvalej udržateľnosti a hmotnostnej bilancie najmenej u 5 % pestovateľov a dodávateľov biomasy vyrobenej zo surovín podľa § 2 ods. 6 písm. h), i) okrem drevitých energetických plodín alebo písm. j) prvého bodu a druhého bodu a 25 % pestovateľov alebo dodávateľov ostatnej biomasy, od ktorých výrobca alebo dovozca tieto suroviny priamo odobral.
+>
+> (14) Právnická osoba alebo fyzická osoba plniaca úlohu podľa § 14b ods. 3, ktorá vykonáva nezávislý dohľad v rámci dobrovoľného certifikačného systému na území Slovenskej republiky, je povinná
+>
+> a) požiadať o zaevidovanie do registra odborne spôsobilých osôb na účely overovania výpočtu,
+>
+> b) vykonávať činnosť v súlade s rozhodnutím o uznaní dobrovoľného certifikačného systému transparentne a nestranne,
+>
+> c) používať národné hodnoty na účel výpočtu emisií skleníkových plynov zverejnené ministerstvom životného prostredia,
+>
+> d) umožniť kontrolu výkonu svojej činnosti Slovenským hydrometeorologickým ústavom alebo ministerstvom životného prostredia,
+>
+> e) oznámiť bezodkladne zmenu údajov uvedených v žiadosti o zaevidovanie do registra odborne spôsobilých osôb na účely overovania výpočtu,
+>
+> f) najmenej raz ročne skontrolovať plnenie kritérií trvalej udržateľnosti a hmotnostnej bilancie u právnických osôb a fyzických osôb, u ktorých vykonáva dohľad podľa § 14b ods. 3,
+>
+> g) vypracovať správu o výsledkoch kontroly podľa písmena f) a uchovávať ju najmenej päť rokov,
+>
+> h) oznámiť bezodkladne Slovenskému hydrometeorologickému ústavu zistené závažné nedostatky pri kontrole,
+>
+> i) zasielať Slovenskému hydrometeorologickému ústavu súhrnnú správu o vykonaných kontrolách na území Slovenskej republiky alebo oznámenie o nevykonaní žiadnej kontroly v kalendárnom roku do 15. marca nasledujúceho kalendárneho roka.“.
+
+Poznámky pod čiarou k odkazom 17a, 17b a 17d znejú:
+
+> „<sup>17a</sup>) § 2 ods. 1 písm. i) prvý bod až tretí bod zákona č. 98/2004 Z. z. v znení neskorších predpisov.
+>
+> <sup>17b</sup>) § 13 ods. 1 písm. g) a h), § 21 a § 25 zákona č. 98/2004 Z. z. v znení neskorších predpisov.
+>
+> <sup>17d</sup>) § 33 ods. 1 písm. c) a § 39a ods. 3 písm. a) a c) zákona č. 609/2007 Z. z. v znení neskorších predpisov.“.
+
+Poznámky pod čiarou k odkazom 17ga a 17i sa vypúšťajú.
+
+79. V § 14e písmeno j) znie:
+
+> „j) vykonáva dohľad nad plnením povinností právnickej osoby alebo fyzickej osoby, ktorá vykonáva nezávislý dohľad v rámci dobrovoľného certifikačného systému.“.
+
+80. § 14e sa dopĺňa písmenami k) a l), ktoré znejú:
+
+> „k) zverejňuje národné hodnoty na účel výpočtu emisií skleníkových plynov,
+>
+> l) predkladá Európskej komisii informáciu o opatreniach zabezpečujúcich spoľahlivý systém preukazovania kritérií trvalej udržateľnosti.“.
+
+81. Za § 14e sa vkladá § 14ea, ktorý vrátane nadpisu znie:
+
+> **„§ 14ea — Pôsobnosť Slovenského hydrometeorologického ústavu**
+>
+> Slovenský hydrometeorologický ústav
+>
+> a) vykonáva dohľad nad činnosťou odborne spôsobilých osôb na účely overovania výpočtu a činnosťou právnických osôb alebo fyzických osôb plniacich povinnosť podľa § 14b ods. 3, ktoré vykonávajú nezávislý dohľad v rámci dobrovoľného certifikačného systému na území Slovenskej republiky,
+>
+> b) rozhoduje v sporných prípadoch týkajúcich sa výpočtu emisií skleníkových plynov počas životného cyklu udržateľných pohonných látok, biokvapalín a plynného paliva z biomasy,
+>
+> c) zabezpečuje každoročné overovanie správ, ktoré mu predkladajú právnické osoby alebo fyzické osoby podľa § 14c ods. 1 a archivuje ich,
+>
+> d) archivuje kópie potvrdení o udržateľnosti a iné údaje poskytnuté právnickými osobami alebo fyzickými osobami, ktoré uvádzajú na trh v Slovenskej republike pohonné látky alebo biokvapaliny a plynné palivá z biomasy,
+>
+> e) organizuje školenia odborne spôsobilých osôb na účely overovania výpočtu,
+>
+> f) kontroluje plnenie povinností právnických osôb a fyzických osôb podľa § 14c,
+>
+> g) oznamuje Európskej komisii údaje o pohonných látkach a dodanej energii,
+>
+> h) vedie elektronickú evidenciu palív v doprave podľa § 14g, usmerňuje a kontroluje plnenie povinností právnickými osobami a fyzickými osobami podľa § 14h, upravuje údaje vložené do elektronickej evidencie palív v doprave podľa § 14g ods. 3 a zverejňuje informácie týkajúce sa elektronickej evidencie palív v doprave na svojom webovom sídle,
+>
+> i) poskytuje údaje z elektronickej evidencie palív v doprave podľa § 14g ministerstvu, Ministerstvu pôdohospodárstva a rozvoja vidieka Slovenskej republiky, Slovenskej obchodnej inšpekcii, Slovenskej lesnícko-drevárskej inšpekcii a Finančnému riaditeľstvu Slovenskej republiky na účely kontroly plnenia povinností ustanovených týmto zákonom,
+>
+> j) zabezpečuje výmenu informácií o množstve a vlastnostiach trvalej udržateľnosti s vnútroštátnymi evidenciami iných členských štátov pri dovoze a vývoze udržateľnej pohonnej látky a určenou databázou Európskej únie,
+>
+> k) zabezpečuje výmenu údajov s dobrovoľnými certifikačnými systémami a odborne spôsobilými osobami na účely overovania výpočtu s cieľom minimalizovať riziko viacnásobného uplatnenia jednotlivých dodávok udržateľných pohonných látok a biokvapalín,
+>
+> l) informuje ostatné členské štáty, ak má podozrenie, že nie je zabezpečená vierohodnosť a spoľahlivosť vydaných potvrdení o udržateľnosti alebo odhalí konanie, ktoré k nemu vedie,
+>
+> m) zverejňuje na svojom webovom sídle informácie o geografickom pôvode a druhu surovín použitých na výrobu udržateľných pohonných látok za každú právnickú osobu alebo fyzickú osobu, ktorá uvádza na trh udržateľnú pohonnú látku, a každoročne tieto údaje aktualizuje.“.
+
+82. V § 14f odseky 1 a 2 znejú:
+
+> „(1) Pokročilým biopalivom sa na účely tohto zákona rozumie biopalivo vyrobené zo surovín uvedených v prílohe č. 1.
+>
+> (2) Právnická osoba alebo fyzická osoba, na ktorú sa vzťahuje povinnosť podľa § 14a ods. 1 písm. a), je povinná uvádzať na trh pohonné látky s obsahom pokročilých biopalív minimálne v referenčnej hodnote vypočítanej z celkového energetického obsahu zmesi pohonných látok uvedených na trh, ktorá je
+>
+> a) 0,1 % pre rok 2019,
+>
+> b) 0,5 % pre rok 2020,
+>
+> c) 0,3 % pre roky 2021 a 2022,
+>
+> d) 0,5 % pre rok 2023,
+>
+> e) 0,65 % pre rok 2024,
+>
+> f) 1,05 % pre roky 2025 a 2026,
+>
+> g) 1,40 % pre roky 2027 a 2028,
+>
+> h) 1,75 % pre rok 2029,
+>
+> i) 2,1 % pre rok 2030.“.
+
+83. Za § 14f sa vkladajú § 14g až 14i, ktoré vrátane nadpisov znejú:
+
+> **„§ 14g — Elektronická evidencia palív v doprave**
+>
+> (1) Elektronickú evidenciu palív v doprave zriaďuje a vedie Slovenský hydrometeorologický ústav na evidovanie množstva, pôvodu a druhu biomasy alebo suroviny a vlastností trvalej udržateľnosti vrátane emisií skleníkových plynov udržateľných pohonných látok, pohonných látok s obsahom udržateľnej pohonnej látky, biokvapalín a plynných palív z biomasy vyrobených v Slovenskej republike, dovezených na územie Slovenskej republiky, vyvezených z územia Slovenskej republiky alebo uvedených na trh v Slovenskej republike osobami podľa § 14a ods. 2, vrátane každého nadobudnutia a dodania udržateľných pohonných látok, pohonných látok s obsahom udržateľnej pohonnej látky osobami podľa § 14a ods. 2, na vydávanie potvrdení o udržateľnosti podľa § 14b a na vyhotovovanie hlásení o plnení povinnosti primiešavania udržateľných pohonných látok.
+>
+> (2) Údaje do elektronickej evidencie palív v doprave vkladá právnická osoba alebo fyzická osoba zapojená do životného cyklu udržateľnej pohonnej látky od okamihu jej výroby alebo dovozu na územie Slovenskej republiky najneskôr do dvadsiateho piateho dňa kalendárneho mesiaca nasledujúceho po kalendárnom štvrťroku, v ktorom ju dodá na trh.
+>
+> (3) Údaje vložené do elektronickej evidencie palív v doprave môže upravovať Slovenský hydrometeorologický ústav na žiadosť právnickej osoby alebo fyzickej osoby podľa odseku 2 do piatich mesiacov od ich vloženia do elektronickej evidencie palív v doprave.
+>
+> (4) Údaje vložené do elektronickej evidencie palív v doprave overuje odborne spôsobilá osoba na účely overovania výpočtu alebo právnická osoba alebo fyzická osoba, ktorá vykonáva nezávislý dohľad v rámci dobrovoľného certifikačného systému.
+>
+> (5) Údaje vložené do elektronickej evidencie palív v doprave sa uchovávajú 10 rokov, pričom prístup k nim má zriaďovateľ elektronickej evidencie palív v doprave.
+>
+> (6) Poplatok na pokrytie nákladov spojených s vedením elektronickej evidencie palív v doprave ustanovených podľa § 19b ods. 1 písm. s) platí právnická osoba alebo fyzická osoba podľa odseku 2 Slovenskému hydrometeorologickému ústavu. Osobám podľa § 14ea písm. i) sa údaje z elektronickej evidencie palív v doprave poskytujú bezodplatne.
+>
+> (7) Na účely tohto zákona sa elektronická evidencia palív v doprave považuje za nedostupnú, ak je evidencia nedostupná u jej zriaďovateľa a nie je možné vydať potvrdenie o udržateľnosti podľa § 14b prostredníctvom evidencie, vyhotoviť hlásenie o plnení povinnosti primiešavania udržateľných pohonných látok prostredníctvom evidencie, alebo vložiť údaje o udržateľnej pohonnej látke do evidencie.
+>
+> (8) Ak je elektronická evidencia palív v doprave nedostupná, povinnosti podľa § 14a ods. 4 písm. a) a c) sa považujú za splnené, ak právnická osoba alebo fyzická osoba, ktorá uvádza na trh pohonné látky s obsahom udržateľných pohonných látok, do dvadsiateho piateho dňa kalendárneho mesiaca nasledujúceho po príslušnom kalendárnom štvrťroku
+>
+> a) podá ministerstvu hlásenie o množstve pohonných látok uvedených na trh za uplynulý kalendárny štvrťrok vyhotovené podľa vzoru, ktorý zverejní ministerstvo na svojom webovom sídle; prílohou hlásenia je potvrdenie o udržateľnosti podľa § 14b ods. 1 a
+>
+> b) zašle Slovenskému hydrometeorologickému ústavu rovnopis potvrdenia o udržateľnosti podľa § 14b ods. 1.
+>
+> (9) Ak sa elektronická evidencia palív v doprave po nedostupnosti sprístupní, právnická osoba alebo fyzická osoba je povinná postupovať podľa odseku 2 a § 14a ods. 4 a doplniť chýbajúce údaje do evidencie do 10 pracovných dní od zverejnenia oznámenia o sprístupnení evidencie na webovom sídle Slovenského hydrometeorologického ústavu. Ak je elektronická evidencia palív v doprave nedostupná dlhšie ako päť pracovných dní, správca evidencie určí lehotu na doplnenie chýbajúcich údajov do evidencie a zverejní ju na svojom webovom sídle. Táto lehota nesmie byť kratšia ako 10 pracovných dní.
+>
+> **§ 14h — Preukazovanie kritérií udržateľnosti a úspor emisií skleníkových plynov pre biopalivá, biokvapaliny a palivá z biomasy**
+>
+> (1) Energia z biopalív, biokvapalín a palív z biomasy využívaných v zariadeniach podľa odsekov 2 a 3 sa zohľadňuje na účely plnenia povinností podľa tohto zákona, posudzovania oprávnenosti finančnej podpory a plnenia cieľa pre obnoviteľné zdroje energie uvedeného v integrovanom národnom energetickom a klimatickom pláne, ak biopalivá, biokvapaliny a palivá z biomasy spĺňajú kritériá trvalej udržateľnosti.
+>
+> (2) Splnenie kritérií trvalej udržateľnosti palív z biomasy sa vyžaduje pre zariadenia na výrobu elektriny a zariadenia na výrobu tepla s celkovým menovitým tepelným príkonom aspoň
+>
+> a) 20 MW, ak sa používajú tuhé palivá z biomasy, alebo
+>
+> b) 2 MW, ak sa používajú plynné palivá z biomasy.
+>
+> (3) Splnenie kritérií trvalej udržateľnosti palív z biomasy sa vyžaduje aj pre zariadenia na výrobu elektriny a zariadenia na výrobu tepla, ak je splnenie kritérií trvalej udržateľnosti podmienkou poskytnutia finančných prostriedkov na ich výstavbu, rekonštrukciu alebo modernizáciu z mechanizmu na podporu obnovy a odolnosti<sup>17l</sup>) alebo z fondov Európskej únie.<sup>17m</sup>)
+>
+> (4) Splnenie kritérií trvalej udržateľnosti preukazuje výrobca biopaliva, biokvapaliny alebo palív z biomasy vydaním potvrdenia o udržateľnosti, v ktorom uvedie aj výšku úspor emisií skleníkových plynov.
+>
+> (5) Splnenie kritérií udržateľnosti preukazuje pestovateľ alebo dodávateľ biomasy vyhlásením pestovateľa alebo dodávateľa biomasy. Náležitosti vyhlásenia pestovateľa alebo dodávateľa biomasy ustanoví všeobecne záväzný právny predpis, ktorý vydá Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky.
+>
+> (6) Právnická osoba alebo fyzická osoba, ktorá je dodávateľom biomasy alebo suroviny alebo ktorá vyrába biopalivo, biokvapalinu alebo palivo z biomasy, má právo vydať potvrdenie o udržateľnosti, ak sa voči nej vykonáva dohľad podľa § 14b ods. 3.
+>
+> (7) Právnická osoba alebo fyzická osoba je povinná pri vydaní potvrdenia o udržateľnosti použiť systém hmotnostnej bilancie a uchovávať jeho prílohu podľa § 14b ods. 4 aspoň päť rokov.
+>
+> (8) Biopalivá, biokvapaliny a palivá z biomasy vyrábané z odpadu a zo zvyškov, ktoré pochádzajú z poľnohospodárskej pôdy, spĺňajú kritériá udržateľnosti, ak dodávatelia suroviny na ich výrobu dodržiavajú povinnosti týkajúce sa kontroly bilancie uhlíka a riadenia kvality pôdy a uhlíka v pôde podľa osobitného predpisu.<sup>17n</sup>)
+>
+> (9) Biopalivá, biokvapaliny a palivá z biomasy vyrobené z lesnej biomasy vrátane stromov, ktoré boli vyťažené ako súčasť opatrení na ochranu lesa alebo ako súčasť opatrení spojených s odstraňovaním následkov pôsobenia škodlivých činiteľov v lesoch spĺňajú kritériá udržateľnosti, ak má dodávateľ lesnej biomasy hospodárske opatrenie odsúhlasené orgánom štátnej správy lesného hospodárstva alebo schválený program starostlivosti o lesy.<sup>17o</sup>)
+>
+> (10) Ak lesná biomasa pochádza zo štátu, ktorý nemá zavedenú právnu úpravu podľa odseku 9, pestovateľ alebo dodávateľ lesnej biomasy je povinný splnenie kritérií udržateľnosti preukázať vyhlásením pestovateľa alebo dodávateľa biomasy, že má na úrovni lesnej zdrojovej oblasti zavedené systémy riadenia, ktoré zabezpečujú, že
+>
+> a) operácie zberu a ťažby sú zákonné,
+>
+> b) les v oblastiach zberu a ťažby sa obnovuje,
+>
+> c) sa chránia oblasti určené medzinárodným právom, vnútroštátnym právom alebo príslušným orgánom na ochranu prírody vrátane mokradí a rašelinísk, ak sa neposkytnú dôkazy, že zber a ťažba tejto suroviny nie je v rozpore s takouto ochranou prírody,
+>
+> d) ťažba a zber sa uskutočňuje s ohľadom na zachovanie kvality pôdy a biodiverzity s cieľom minimalizovať negatívne dopady a
+>
+> e) zberom a ťažbou sa zachováva alebo zlepšuje dlhodobá produkčná kapacita lesa.
+>
+> (11) Pestovateľ biomasy nesmie vydať vyhlásenie pestovateľa alebo dodávateľa biomasy, ak biomasa nespĺňa kritériá udržateľnosti biomasy podľa tohto paragrafu alebo podľa § 19b ods. 1 písm. a). Ak biomasa nespĺňa kritériá udržateľnosti biomasy podľa tohto paragrafu alebo podľa § 19b ods. 1 písm. a), vyhlásenie pestovateľa alebo dodávateľa biomasy vydané v inom štáte sa neuzná.
+>
+> (13) Splnenie kritérií udržateľnosti podľa odsekov 8 a 9 je možné preukázať aj dokladom preukazujúcim splnenie kritérií trvalej udržateľnosti uznaným v inom členskom štáte alebo vydaným pod dohľadom v rámci dobrovoľného certifikačného systému.
+>
+> (14) Právnická osoba alebo fyzická osoba zapojená do životného cyklu výroby udržateľnej pohonnej látky, biokvapaliny a paliva z biomasy od pestovania alebo vzniku suroviny po jej dodanie na trh v Slovenskej republike, je povinná
+>
+> a) poskytovať svojmu odberateľovi presné, úplné a pravdivé informácie o pôvode biomasy alebo suroviny,
+>
+> b) viesť evidenciu o hmotnostnej bilancii a pohybe biomasy alebo suroviny a uchovávať ju najmenej päť rokov,
+>
+> c) poskytnúť na žiadosť Slovenskej obchodnej inšpekcii, Slovenskej lesnícko-drevárskej inšpekcii, Ministerstvu pôdohospodárstva a rozvoja vidieka Slovenskej republiky, Finančnému riaditeľstvu Slovenskej republiky, Slovenskému hydrometeorologickému ústavu a ministerstvu životného prostredia informácie nevyhnutné na preukázanie plnenia kritérií trvalej udržateľnosti, princípov hmotnostnej bilancie biomasy alebo suroviny a informácie nevyhnutné na výpočet úspor emisií skleníkových plynov viažuci sa na životný cyklus paliva z biomasy od začiatku životného cyklu do aktuálnej etapy životného cyklu.
+>
+> (15) Ak ministerstvo životného prostredia zverejní na svojom webovom sídle oznámenie o zriadení databázy Európskou komisiou na účel sledovania kvapalných a plynných palív v doprave, ktoré spĺňajú podmienku na to, aby sa započítavali do cieľa alebo ktoré sa zohľadňujú na účely uvedené v § 14h ods. 1 na úrovni Európskej únie, právnická osoba alebo fyzická osoba uvedená v oznámení je povinná vkladať údaje do tejto databázy. Povinnosť podľa prvej vety sa považuje za splnenú, ak sú údaje vložené do elektronickej evidencie palív v doprave podľa § 14g a ministerstvo životného prostredia poverí Slovenský hydrometeorologický ústav zasielať údaje evidované v elektronickej evidencii palív v doprave podľa § 14g do databázy podľa prvej vety.
+>
+> (16) Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky určí príspevkovú organizáciu vo svojej pôsobnosti, ktorá spravuje a aktualizuje databázu území, na ktorých vypestovaná biomasa spĺňa kritériá udržateľnosti a zároveň v nich možno očakávať, že emisie skleníkových plynov z pestovania poľnohospodárskych surovín nepresahujú limitné hodnoty pre emisie skleníkových plynov podľa § 19b ods. 1 písm. a).
+>
+> **§ 14i — Povinnosti výrobcu elektriny a výrobcu tepla z biomasy**
+>
+> (1) Ak sa pre zariadenie podľa § 14h vyžaduje splnenie kritérií trvalej udržateľnosti pre biokvapalinu alebo palivo z biomasy, výrobca elektriny a výrobca tepla je povinný
+>
+> a) do 31. januára vykonať bilanciu spotreby biokvapaliny a palív z biomasy za predchádzajúci kalendárny rok,
+>
+> b) do 31. januára zverejniť na svojom webovom sídle informácie o geografickom pôvode a druhu biomasy použitej na výrobu biokvapalín alebo palív z biomasy za každého dodávateľa paliva a každoročne tieto údaje aktualizovať.
+>
+> (2) Výrobca elektriny a výrobca tepla podľa odseku 1 preukazuje splnenie kritérií trvalej udržateľnosti
+>
+> a) potvrdením o udržateľnosti získaným od dodávateľa palív z biomasy alebo
+>
+> b) potvrdením o udržateľnosti, ktoré výrobca elektriny alebo výrobca tepla vydal pre biokvapalinu alebo palivo z biomasy, ktoré ním boli vyrobené a využité v jeho zariadení.
+>
+> (3) Výrobca elektriny a výrobca tepla je povinný päť rokov archivovať
+>
+> a) potvrdenie o udržateľnosti a
+>
+> b) vyhlásenia pestovateľa alebo dodávateľa biomasy, ak na ich základe vydal potvrdenie o udržateľnosti.
+>
+> (4) Výrobca elektriny a výrobca tepla môže preukázať splnenie kritérií trvalej udržateľnosti aj vyhlásením pestovateľa alebo dodávateľa biomasy, ak bolo zariadenie uvedené do prevádzky pred 1. januárom 2021. Vyhlásenie pestovateľa alebo dodávateľa biomasy je povinný archivovať päť rokov.
+>
+> (5) Práva a povinnosti výrobcu elektriny podľa tohto paragrafu sa vzťahujú aj na výrobcu elektriny kombinovanou výrobou.“.
+
+Poznámky pod čiarou k odkazom 17l až 17o znejú:
+
+> „<sup>17l</sup>) Zákon č. 368/2021 Z. z. o mechanizme na podporu obnovy a odolnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+>
+> <sup>17m</sup>) Napríklad zákon č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 121/2022 Z. z. o príspevkoch z fondov Európskej únie a o zmene a doplnení niektorých zákonov.
+>
+> <sup>17n</sup>) Napríklad § 7 zákona č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení zákona č. 57/2013 Z. z., vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 508/2004 Z. z., ktorou sa vykonáva § 27 zákona č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení vyhlášky č. 59/2013 Z. z.
+>
+> <sup>17o</sup>) § 40 ods. 1 zákona č. 326/2005 Z. z. o lesoch v znení neskorších predpisov.“.
+
+84. V § 16 ods. 1 písm. h) sa slová „ods. 9“ nahrádzajú slovami „ods. 10“ a slová „ods. 8“ sa nahrádzajú slovami „ods. 9“.
+
+85. V § 16 ods. 1 písmeno j) znie:
+
+> „j) prevádzkovateľ distribučnej siete, ktorý neodovzdá údaje podľa § 11 ods. 2,“.
+
+86. V § 16 ods. 1 písmeno l) znie:
+
+> „l) prevádzkovateľ distribučnej siete, ktorý na svojom webovom sídle nezverejní informácie podľa § 11a ods. 4,“.
+
+87. V § 16 ods. 1 písmená o) a p) znejú:
+
+> „o) právnická osoba alebo fyzická osoba podľa § 14a ods. 2, ktorá nevydá potvrdenie o udržateľnosti podľa § 14a ods. 4 písm. a),
+>
+> p) právnická osoba alebo fyzická osoba, ktorá vloží do elektronickej evidencie palív v doprave nepravdivé údaje,“.
+
+88. V § 16 ods. 1 písmená r) a s) znejú:
+
+> „r) právnická osoba alebo fyzická osoba podľa § 14a ods. 2, ktorá nezabezpečí overenie plnenia kritérií trvalej udržateľnosti podľa § 14a ods. 4 písm. b),
+>
+> s) právnická osoba alebo fyzická osoba, ktorá nepoužije systém hmotnostnej bilancie pri vydaní potvrdenia o udržateľnosti podľa § 14h ods. 7,“.
+
+89. V § 16 ods. 1 písm. t) sa slová „ods. 3“ nahrádzajú slovami „ods. 1“.
+
+90. V § 16 ods. 1 písmeno v) znie:
+
+> „v) právnická osoba alebo fyzická osoba, ktorá poruší ustanovenie § 14h ods. 14 písm. a),“.
+
+91. V § 16 ods. 1 písmená ad) a ae) znejú:
+
+> „ad) právnická osoba alebo fyzická osoba, ktorá nevyhotoví správu o plnení povinnosti primiešania udržateľných pohonných látok podľa § 14a ods. 4 písm. c),
+>
+> ae) odborne spôsobilá osoba na účely overovania výpočtu, ktorá poruší povinnosti podľa § 14d ods. 12,“.
+
+92. V § 16 ods. 1 písm. af) sa slová „ods. 6“ nahrádzajú slovami „ods. 4“.
+
+93. V § 16 ods. 1 písm. ag) sa za slovo „podľa“ vkladajú slová „§ 14a ods. 11 alebo“.
+
+94. V § 16 ods. 1 písm. ah) sa slová „ods. 10“ nahrádzajú slovami „ods. 8“.
+
+95. V § 16 ods. 1 písm. an) sa vypúšťajú slová „tretej vety“.
+
+96. V § 16 ods. 1 písmeno ao) znie:
+
+> „ao) právnická osoba alebo fyzická osoba, ktorá nesplní povinnosti podľa § 14h a 14i,“.
+
+97. V § 16 ods. 1 písmeno ap) znie:
+
+> „ap) prevádzkovateľ distribučnej sústavy, ktorý poruší povinnosti podľa § 4b ods. 5 a 6 alebo povinnosť podľa § 5 ods. 10.“.
+
+98. V § 16 ods. 2 písmeno b) znie:
+
+> „b) od 10 000 eur do 200 000 eur za správny delikt podľa odseku 1 písm. e) a ap),“.
+
+99. V § 16 ods. 2 písmená f) a g) znejú:
+
+> „f) vypočítanú ako súčin nedosiahnutého zníženia emisií skleníkových plynov podľa § 14c ods. 4 v kilogramoch CO<sub>2ekv</sub> a sumy 0,37 eura za správny delikt podľa odseku 1 písm. af),
+>
+> g) vypočítanú ako súčin energetického obsahu udržateľnej pohonnej látky neuvedenej na trh v MJ a sumy 0,05 eura za správny delikt podľa odseku 1 písm. aa) a ag),“.
+
+100. V § 16 ods. 2 písmeno i) znie:
+
+> „i) od 500 eur do 10 000 eur za správny delikt podľa odseku 1 písm. ao),“.
+
+101. V § 16 ods. 2 sa vypúšťa písmeno j).
+
+102. V § 18i ods. 5 sa na konci prvej vety bodka nahrádza čiarkou a pripájajú sa tieto slová: „a to aj opakovane.“.
+
+103. Za § 18l sa vkladá § 18m, ktorý vrátane nadpisu znie:
+
+> **„§ 18m — Prechodné ustanovenia k úpravám účinným od 1. decembra 2022**
+>
+> (1) Ustanovenie § 2 ods. 3 písm. d) v znení účinnom od 1. decembra 2022 sa vzťahuje iba na nové zariadenia výrobcov elektriny uvedené do prevádzky po 1. decembri 2022.
+>
+> (2) Pre zariadenia výrobcov elektriny uvedené do prevádzky pred 1. decembrom 2022 sa výkonové obmedzenia podľa § 3 ods. 2 nepoužijú.
+>
+> (3) Nároky výrobcov elektriny s právom na podporu týkajúce sa práva na podporu podľa § 3 ods. 1 písm. c), ktoré vzniklo za obdobie do 31. decembra 2019 a ktoré neboli uplatnené u prevádzkovateľov regionálnych distribučných sústav do 30. novembra 2022, sú výrobcovia elektriny oprávnení uplatniť u zúčtovateľa podpory. Finančné záväzky výrobcov elektriny s právom na podporu týkajúce sa práva na podporu podľa § 3 ods. 1 písm. c), ktoré vznikli za obdobie do 31. decembra 2019 a ktoré neboli uhradené prevádzkovateľom regionálnej distribučnej sústavy do 30. novembra 2022, sú výrobcovia elektriny povinní uhradiť zúčtovateľovi podpory. Zúčtovateľ podpory vysporiada nároky podľa prvej vety alebo finančné záväzky podľa druhej vety na základe cenového rozhodnutia úradu, opatrenia uloženého úradom na odstránenie a nápravu nedostatkov zistených pri vykonávaní kontroly, potvrdenia o pôvode elektriny z obnoviteľných zdrojov energie alebo potvrdenia o pôvode elektriny vyrobenej vysoko účinnou kombinovanou výrobou.
+>
+> (4) Ak zariadeniu vzniklo právo na podporu podľa § 3 odseku 1 písm. c) a e) na elektrinu z lesnej biomasy a toto právo trvá aj po 30. novembri 2022, doplatok a príplatok sa vzťahuje len na tú časť elektriny vyrobenú z lesnej biomasy, ktorá spĺňa kritériá trvalej udržateľnosti a pochádza z energetických porastov alebo z odpadu z priemyslu spracovania dreva.
+>
+> (5) Ministerstvo posúdi efektívnosť systémov podpory pre elektrinu z obnoviteľných zdrojov energie a ich významných distribučných vplyvov na rôzne skupiny spotrebiteľov a investície prvýkrát do 31. decembra 2025.
+>
+> (6) Ak prevádzkovateľ distribučnej sústavy vydal stanovisko k rezervovanej kapacite na pripojenie lokálneho zdroja do 30. novembra 2022 a toto stanovisko je k 1. decembru 2022 platné, platnosť stanoviska k rezervovanej kapacite na pripojenie lokálneho zdroja sa predlžuje o ďalších šesť mesiacov.
+>
+> (7) Úrad môže pozastaviť vydávanie potvrdení o výrobe elektriny v lokálnom zdroji podľa § 4b ods. 20 najskôr od 1. januára 2027.
+>
+> (8) Výkon v lokálnych zdrojoch na kalendárny rok 2023 určený podľa § 14 ods. 1 písm. e) v znení účinnom do 30. novembra 2022 môže ministerstvo zvýšiť aj v priebehu kalendárneho roka 2023.
+>
+> (9) Do zriadenia elektronickej evidencie palív v doprave podľa § 14g sa povinnosti podľa § 14a ods. 4 písm. a) a c) považujú za splnené, ak právnická osoba alebo fyzická osoba najneskôr do dvadsiateho piateho dňa kalendárneho mesiaca nasledujúceho po príslušnom kalendárnom štvrťroku
+>
+> a) podá ministerstvu hlásenie o množstve pohonných látok uvedených na trh za uplynulý kalendárny štvrťrok vyhotovené podľa vzoru, ktorý zverejní ministerstvo na svojom webovom sídle; prílohou hlásenia je potvrdenie o udržateľnosti podľa § 14b ods. 1 a
+>
+> b) zašle Slovenskému hydrometeorologickému ústavu rovnopis potvrdenia o udržateľnosti podľa § 14b ods. 1.
+>
+> (10) Palivá z biomasy dodané na trh v roku 2022 sa považujú za palivá z biomasy spĺňajúce kritériá trvalej udržateľnosti.
+>
+> (11) Osvedčenia o odbornej spôsobilosti na účely overovania výpočtu emisií vydané pred 1. decembrom 2022 zostávajú v platnosti. Odborne spôsobilá osoba na účely overovania výpočtu môže na základe takéhoto osvedčenia vykonávať len činnosti v rozsahu uvedenom v osvedčení.“.
+
+104. V § 19 ods. 1 písm. i) sa vypúšťajú slová „uvedených v Národnom akčnom pláne pre energiu z obnoviteľných zdrojov“.
+
+105. V § 19 sa odsek 2 dopĺňa písmenom m), ktoré znie:
+
+> „m) spôsob, postup a podmienky zmeny ceny elektriny a ponúknutej ceny elektriny podľa § 6 ods. 5.“.
+
+106. V §19b ods. 1 písmeno a) znie:
+
+> „a) kritériá udržateľnosti a úspory emisií skleníkových plynov pre biopalivá, biokvapaliny, palivá z biomasy a iné pohonné látky, úspory emisií skleníkových plynov z paliva s obsahom recyklovaného uhlíka a paliva z obnoviteľných zdrojov nebiologického pôvodu a limitné hodnoty pre emisie skleníkových plynov z pestovania poľnohospodárskych surovín pri zachovaní kritérií trvalej udržateľnosti,“.
+
+107. V § 19b ods. 1 písmeno h) znie:
+
+> „h) systém hmotnostnej bilancie pre biopalivá, biokvapaliny a palivá z biomasy,“.
+
+108. V § 19b ods. 1 písmeno n) znie:
+
+> „n) podrobnosti vydávania potvrdenia o udržateľnosti,“.
+
+109. V § 19b sa odsek 1 dopĺňa písmenom s), ktoré znie:
+
+> „s) sadzobník poplatkov na pokrytie nákladov spojených s vedením elektronickej evidencie palív v doprave podľa § 14g.“.
+
+110. V §19b odsek 2 znie:
+
+> „(2) Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky ustanoví všeobecne záväzným právnym predpisom náležitosti vyhlásenia pestovateľa biomasy.“.
+
+111. Doterajšia príloha č. 1a sa označuje ako príloha č. 1 a vrátane nadpisu znie:
+
+> **„Príloha č. 1 k zákonu č. 309/2009 Z. z.**
+>
+> **Suroviny alebo palivá na výrobu pokročilého biopaliva**
+>
+> 1. riasy, ak sa pestujú na pôde v rybníkoch alebo vo fotobioreaktoroch,
+>
+> 2. biomasová časť zmesového komunálneho odpadu okrem separovaného odpadu z domácností, na ktorý sa vzťahujú ciele recyklácie podľa osobitného predpisu,<sup>21</sup>)
+>
+> 3. biologicky rozložiteľný odpad zo záhrad a parkov, odpad z potravín a kuchynský odpad z domácnosti, ktorý podlieha triedenému zberu,
+>
+> 4. pomerná časť biomasy v rámci priemyselného odpadu nevhodného na použitie v potravinovom alebo krmivovom reťazci vrátane materiálu z malopredaja alebo veľkopredaja a agropotravinárskeho a rybolovného odvetvia a odvetvia akvakultúry s výnimkou použitého kuchynského oleja a živočíšnych tukov,
+>
+> 5. slama,
+>
+> 6. maštaľný hnoj a kal z kanalizácie a čistiarní odpadových vôd,
+>
+> 7. odpadové vody zo spracovania palmového oleja a trsy prázdnych palmových plodov,
+>
+> 8. destilačný zvyšok po spracovaní talového oleja,
+>
+> 9. G-fáza vznikajúca pri výrobe biodieslu,
+>
+> 10. bagasa,
+>
+> 11. hroznové výlisky a vínne kaly,
+>
+> 12. škrupiny orechov,
+>
+> 13. plevy,
+>
+> 14. odzrnené kukuričné klasy,
+>
+> 15. biomasová časť odpadu a zvyškov z lesníctva a drevárskeho priemyslu, ako je kôra, konáre, tenčina, lístie, ihličie, vrcholce stromov, piliny, hobliny, čierny lúh, hnedý lúh, kal s obsahom vlákien, lignín a talový olej,
+>
+> 16. ďalší nepotravinársky celulózový materiál,
+>
+> 17. ďalší lignocelulózový materiál okrem piliarskych a dyhárenských výrezov.“.
+
+Poznámka pod čiarou k odkazu 21 znie:
+
+> „<sup>21</sup>) Príloha č. 3 časť V. zákona č. 79/2015 Z. z.“.
+
+112. V prílohe č. 2 sa vypúšťa prvý bod.
+
+Doterajší druhý bod až siedmy bod sa označujú ako prvý bod až šiesty bod.
+
+113. Príloha č. 2 sa dopĺňa siedmym bodom, ktorý znie:
+
+> „7. Smernica Európskeho parlamentu a Rady (EÚ) 2018/2001 z 11. decembra 2018 o podpore využívania energie z obnoviteľných zdrojov (prepracované znenie) (Ú. v. EÚ L 328, 21. 12. 2018) v znení korigenda.“.
+
+## Čl. II
+
+Zákon č. 657/2004 Z. z. o tepelnej energetike v znení zákona č. 99/2007 Z. z., zákona č. 309/2009 Z. z., zákona č. 136/2010 Z. z., zákona č. 184/2011 Z. z., zákona č. 251/2012 Z. z., zákona č. 100/2014 Z. z., zákona č. 321/2014 Z. z., zákona č. 439/2015 Z. z., zákona č. 91/2016 Z. z., zákona č. 125/2016 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 293/2016 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 175/2018 Z. z., zákona č. 177/2018 Z. z., zákona č. 198/2020 Z. z., zákona č. 419/2020 Z. z., zákona č. 282/2021 Z. z. a zákona č. 249/2022 Z. z. sa mení a dopĺňa takto:
+
+1. V § 1 ods. 1 písm. g) sa slová „centrálnom zdroji tepla v budove“ nahrádzajú slovami „decentralizovanom zdroji tepla“.
+
+2. V § 1 ods. 3 písmeno c) znie:
+
+> „c) výroba tepla v decentralizovanom zdroji tepla v objekte spotreby tepla, v ktorom fyzická osoba alebo právnická osoba vykonávajúca správu bytového domu<sup>1a</sup>) rozpočítava množstvo vyrobeného tepla konečným spotrebiteľom a vlastníci bytov a nebytových priestorov neprenechali decentralizovaný zdroj tepla do užívania inej osobe,“.
+
+3. V § 2 písm. a) sa za slovo „vykurovanie“ vkladá čiarka a slovo „chladenie“.
+
+4. V § 2 písm. c) sa za slovo „teplo“ vkladajú slová „alebo na zachytenie odpadového tepla alebo energie z okolia<sup>1b</sup>) okrem zariadenia na zachytenie energie z odvetrávaného vzduchu“.
+
+Poznámka pod čiarou k odkazu 1b znie:
+
+> „<sup>1b</sup>) § 2 ods. 1 písm. m) zákona č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení zákona č. 363/2022 Z. z.“.
+
+5. V § 2 písm. n) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „súčasťou tepelnej prípojky nie je odovzdávacia stanica tepla, a to ani ak je umiestnená v objekte spotreby tepla,“.
+
+6. V § 2 písm. u) sa vypúšťajú slová „okrem rodinného domu,“.
+
+7. V § 2 písmená v) a w) znejú:
+
+> „v) decentralizovaným zdrojom tepla zariadenie na výrobu tepla určené na vykurovanie, chladenie, spoločnú prípravu teplej úžitkovej vody alebo iné využitie výlučne pre objekt spotreby tepla, v ktorom je umiestnené,
+>
+> w) zariadením na spotrebu tepla vnútorné zariadenie objektu spotreby tepla určené na odber tepla pre jedného koncového odberateľa; zariadením na spotrebu tepla nie je odovzdávacia stanica tepla, a to ani ak je umiestnená v objekte spotreby tepla,“.
+
+8. V § 2 písm. y) sa slovo „dodávka“ nahrádza slovom „rozvod“.
+
+9. V § 2 písmená z) a aa) znejú:
+
+> „z) účinným centralizovaným zásobovaním teplom centralizované zásobovanie teplom, ktorým sa zabezpečuje rozvod aspoň 50 % tepla vyrobeného z obnoviteľných zdrojov energie, 50 % odpadového tepla, 75 % využiteľného tepla vyrobeného kombinovanou výrobou elektriny a tepla alebo 50 % tepla vyrobeného ich kombináciou,
+>
+> aa) účinným centralizovaným zásobovaním teplom z obnoviteľných zdrojov centralizované zásobovanie teplom, ktorým sa zabezpečuje rozvod aspoň 75 % tepla vyrobeného z obnoviteľných zdrojov energie,“.
+
+10. V § 2 písmená ad) a ae) znejú:
+
+> „ad) primárnym rozvodom tepla časť zariadenia na rozvod tepla, ktorá slúži na prepravu tepla zo zariadenia na výrobu tepla alebo z odovzdávacej stanice tepla, ktorá nie je umiestnená v objekte spotreby tepla alebo je určená pre viacero objektov spotreby tepla, do odovzdávacej stanice tepla,
+>
+> ae) sekundárnym rozvodom tepla časť zariadenia na rozvod tepla, ktorá slúži na prepravu tepla z odovzdávacej stanice tepla, ktorá nie je umiestnená v objekte spotreby tepla alebo je určená pre viacero objektov spotreby tepla, do zariadenia na spotrebu tepla.“.
+
+11. § 2 sa dopĺňa písmenami af) a ag), ktoré znejú:
+
+> „af) odpadovým teplom teplo, ktoré nevyhnutne vzniká ako vedľajší produkt v priemyselných zariadeniach, energetických zariadeniach alebo v terciárnom sektore, a ktoré by sa bez prístupu k centralizovanému zásobovaniu teplom nevyužité rozptýlilo do ovzdušia alebo do vody, ak sa používa alebo bude používať proces kombinovanej výroby elektriny a tepla, alebo ak použitie tohto procesu nie je možné,
+>
+> ag) bytovou odovzdávacou stanicou tepla časť zariadení na spotrebu tepla v objekte spotreby tepla, ktorá slúži na úpravu parametrov teplonosnej látky odovzdanej z centralizovaného zásobovania teplom alebo decentralizovaného zdroja tepla na vykurovanie alebo prípravu teplej úžitkovej vody u konečného spotrebiteľa.“.
+
+12. V § 3 ods. 5 sa číslo „30“ nahrádza číslom „60“.
+
+13. V § 4 odsek 5 znie:
+
+> „(5) Držiteľ osvedčenia o odbornej spôsobilosti je povinný zúčastniť sa aktualizačnej odbornej prípravy najneskôr v piatom kalendárnom roku odo dňa
+>
+> a) vydania osvedčenia o odbornej spôsobilosti,
+>
+> b) absolvovania predchádzajúcej aktualizačnej odbornej prípravy.“.
+
+14. V § 4 sa za odsek 5 vkladá nový odsek 6, ktorý znie:
+
+> „(6) Aktualizačnú odbornú prípravu vykonáva ministerstvo alebo právnická osoba určená ministerstvom. O účasti na aktualizačnej odbornej príprave vydá ministerstvo alebo právnická osoba určená ministerstvom potvrdenie. Po uplynutí piatich rokov od vydania osvedčenia o odbornej spôsobilosti je držiteľ osvedčenia o odbornej spôsobilosti povinný preukazovať spolu s osvedčením o odbornej spôsobilosti aj potvrdenie o účasti na aktualizačnej odbornej príprave.“.
+
+Doterajší odsek 6 sa označuje ako odsek 7.
+
+15. Nadpis druhej časti znie:
+
+> **„PODNIKANIE V TEPELNEJ ENERGETIKE A VÝSTAVBA SÚSTAVY TEPELNÝCH ZARIADENÍ“.**
+>
+> |  |
+> |---|
+>
+> “.
+
+16. V § 5 ods. 3 písmeno f) znie:
+
+> „f) návrh na vymedzené územie s jeho vyznačením na katastrálnej mape.“.
+
+17. V § 5 ods. 7 písmeno b) znie:
+
+> „b) u plánovaných tepelných zariadení osvedčenie na výstavbu sústavy tepelných zariadení alebo jej časti podľa § 12 ods. 1.“.
+
+18. V § 5 ods. 8 sa za slovo „povolenia“ vkladajú slová „a návrhu na vymedzené územie“.
+
+19. V § 5 ods. 9 sa slovo „obvodného“ nahrádza slovom „okresného“.
+
+20. § 8 sa dopĺňa odsekom 4, ktorý znie:
+
+> „(4) Úrad môže vykonať zmeny v povolení aj z vlastného podnetu, ak sa zmenili podmienky alebo skutočnosti, na základe ktorých bolo povolenie vydané.“.
+
+21. V § 9 ods. 2 písmeno b) znie:
+
+> „b) porušil závažným spôsobom alebo opakovane povinnosti ustanovené v § 10 ods. 16, § 15 ods. 1 písm. a) a c), § 19 ods. 3 alebo § 26 ods. 1,“.
+
+22. V § 9 ods. 2 sa vypúšťa písmeno d).
+
+Doterajšie písmená e) až h) sa označujú ako písmená d) až g).
+
+23. § 9 sa dopĺňa odsekom 5, ktorý znie:
+
+> „(5) Úrad môže vydať predbežné opatrenie podľa § 43 Správneho poriadku, ktorým uloží vlastníkovi sústavy tepelných zariadení alebo jej časti povinnosť poskytnúť svoju sústavu tepelných zariadení alebo jej časť inému úradom určenému držiteľovi povolenia na účel prevádzkovania a zabezpečenia zásobovania teplom na vymedzenom území, ak hrozí prerušenie alebo obmedzenie dodávky tepla na vymedzenom území alebo stav núdze v tepelnej energetike a úrad začal konanie o zrušení povolenia. Predbežné opatrenie stráca účinnosť uplynutím 30 dní odo dňa právoplatnosti rozhodnutia úradu o zrušení povolenia; ak úrad v tejto lehote podal na súd návrh podľa odseku 4, účinnosť predbežného opatrenia trvá až do právoplatnosti rozhodnutia súdu o návrhu úradu podľa odseku 4.“.
+
+24. V § 10 ods. 1 písm. d) sa za slovo „tepla“ vkladá čiarka a slová „stavby vodovodných potrubí, technológií a iných objektov umožňujúcich využívanie energetického potenciálu vôd<sup>12b</sup>) alebo geotermálnej energie v zariadeniach na výrobu tepla využívajúcich obnoviteľné zdroje energie“.
+
+Poznámka pod čiarou k odkazu 12b znie:
+
+> „<sup>12b</sup>) § 52 ods. 1 písm. l) zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení zákona č. 51/2018 Z. z.“.
+
+25. V § 11 ods. 4 písmeno c) znie:
+
+> „c) druh a výkon decentralizovaného zdroja tepla, prostredníctvom ktorého vykonáva činnosti podľa odseku 1.“.
+
+26. V § 12 odsek 1 znie:
+
+> „(1) Výstavbu sústavy tepelných zariadení alebo jej časti možno uskutočniť len na základe osvedčenia na výstavbu sústavy tepelných zariadení alebo jej časti (ďalej len „osvedčenie“), ktoré vydáva ministerstvo alebo obec. O vydanie osvedčenia môže písomne požiadať fyzická osoba alebo právnická osoba.“.
+
+27. V § 12 sa za odsek 1 vkladajú nové odseky 2 a 3, ktoré znejú:
+
+> „(2) Osvedčenie sa nevyžaduje pri výstavbe
+>
+> a) decentralizovaného zdroja tepla využívajúceho výlučne obnoviteľné zdroje energie alebo odpadové teplo,
+>
+> b) decentralizovaného zdroja tepla s inštalovaným výkonom do 100 kW, ktorý využíva aj iné energetické zdroje ako obnoviteľné zdroje energie alebo odpadové teplo, ak objekt spotreby tepla nie je pripojený do sústavy tepelných zariadení držiteľa povolenia na rozvod tepla, ktorý zabezpečuje centralizované zásobovanie teplom; zvýšiť inštalovaný výkon nad 100 kW možno len na základe osvedčenia,
+>
+> c) zariadenia na rozvod tepla, ktoré predstavuje rozšírenie, rekonštrukciu alebo modernizáciu existujúceho zariadenia na rozvod tepla v časti vymedzeného územia držiteľa povolenia na rozvod tepla alebo v území bezprostredne nadväzujúcom na vymedzené územie.
+>
+> (3) Ministerstvo vydáva osvedčenie pri výstavbe zariadenia na výrobu tepla s inštalovaným výkonom vyšším ako 10 MW a pri výstavbe zariadenia na rozvod tepla, ktorá sa má uskutočniť na území viac ako jednej obce; ministerstvo v konaní o vydanie osvedčenia posudzuje súlad žiadosti o vydanie osvedčenia s energetickou politikou Slovenskej republiky. Ak nie sú splnené podmienky podľa prvej vety, vydáva osvedčenie obec podľa § 31 písm. c).“.
+
+Doterajšie odseky 2 až 12 sa označujú ako odseky 4 až 14.
+
+28. V § 12 ods. 4 úvodnej vete sa za slovo „ministerstvo“ vkladajú slová „alebo obec“.
+
+29. V § 12 ods. 4 písm. g) sa vypúšťajú slová „na vymedzenom území“ a slová „a centrálnych okrskových zdrojov tepla“ sa nahrádzajú slovami „a dopadov na koncových odberateľov, ktorým sa dodáva teplo z iných dotknutých sústav tepelných zariadení“.
+
+30. V § 12 odseky 5 až 7 znejú:
+
+> „(5) Ministerstvo alebo obec osvedčenie podľa odseku 1 nevydá, ak sa výstavbou sústavy tepelných zariadení zníži odber tepla z existujúceho účinného centralizovaného zásobovania teplom a v porovnaní s týmto existujúcim zásobovaním tepla sa preukázateľne na základe energetického auditu podľa osobitného predpisu<sup>12e</sup>)
+>
+> a) zhorší vplyv na životné prostredie najmä zvýšením emisií znečisťujúcich látok do ovzdušia alebo zvýšením emisií skleníkových plynov alebo
+>
+> b) zníži podiel tepla z obnoviteľných zdrojov energie alebo odpadového tepla v dodávke tepla.
+>
+> (6) Pri žiadosti o vydanie osvedčenia je účastníkom konania osoba, ktorá podala žiadosť o vydanie osvedčenia a držiteľ povolenia na rozvod tepla v dotknutých sústavách tepelných zariadení.
+>
+> (7) Osvedčenie je dokladom pre územné konanie a stavebné konanie a dokladom k žiadosti o pripojenie zariadenia na výrobu tepla do distribučnej siete.“.
+
+31. V § 12 sa vypúšťajú odseky 10 a 11.
+
+Doterajšie odseky 12 až 14 sa označujú ako odseky 10 až 12.
+
+32. V § 12 ods. 12 sa vypúšťajú slová „a záväzné stanovisko obce podľa odseku 8“.
+
+33. V § 13 ods. 1 písmená a) a b) znejú:
+
+> „a) fyzická osoba
+>
+> 1. meno, priezvisko, trvalý pobyt alebo pobyt,
+>
+> 2. umiestnenie sústavy tepelných zariadení alebo jej časti, jej technický popis a celkový inštalovaný výkon sústavy tepelných zariadení, zdroj energie a orientačný návrh priestoru výstavby sústavy tepelných zariadení alebo jej časti,
+>
+> 3. dobu, na ktorú požaduje vydať osvedčenie,
+>
+> 4. podnikateľský zámer, predpoklady hospodárnosti a energetickej účinnosti sústavy tepelných zariadení alebo jej časti, na ktoré žiada vydať osvedčenie, a doklady potrebné na vyhodnotenie skutočností podľa § 12 ods. 4 a 5,
+>
+> 5. písomnú správu o energetickom audite,<sup>12f</sup>) ak sa výstavbou sústavy tepelných zariadení alebo jej časti zníži odber tepla z existujúceho účinného centralizovaného zásobovania teplom,
+>
+> b) právnická osoba
+>
+> 1. obchodné meno, sídlo, identifikačné číslo, ak jej bolo pridelené, právnu formu, meno a priezvisko, trvalý pobyt alebo pobyt členov štatutárneho orgánu,
+>
+> 2. umiestnenie sústavy tepelných zariadení alebo jej časti, jej technický popis a celkový inštalovaný výkon sústavy tepelných zariadení, zdroj energie a orientačný návrh priestoru výstavby sústavy tepelných zariadení alebo jej časti,
+>
+> 3. dobu, na ktorú sa požaduje vydať osvedčenie,
+>
+> 4. podnikateľský zámer, predpoklady hospodárnosti a energetickej účinnosti sústavy tepelných zariadení alebo jej časti, na ktoré žiada vydať osvedčenie, a doklady potrebné na vyhodnotenie skutočností podľa § 12 ods. 4 a 5,
+>
+> 5. písomnú správu o energetickom audite,<sup>12f</sup>) ak sa výstavbou sústavy tepelných zariadení alebo jej časti zníži odber tepla z existujúceho účinného centralizovaného zásobovania teplom.“.
+
+34. V § 13 sa vypúšťajú odseky 2, 5 a 6.
+
+Doterajšie odseky 3 a 4 sa označujú ako odseky 2 a 3.
+
+35. V § 13 odsek 2 znie:
+
+> „(2) Ak žiadosť o vydanie osvedčenia podľa odseku 1 nie je úplná, ministerstvo alebo obec vyzve žiadateľa, aby v určenej lehote žiadosť doplnil, inak konanie zastaví.“.
+
+36. V § 13 ods. 3 úvodnej vete sa za slovo „Ministerstvo“ vkladajú slová „alebo obec“.
+
+37. V § 13 ods. 3 písmeno c) znie:
+
+> „c) umiestnenie sústavy tepelných zariadení alebo jej časti, jej technický popis a celkový inštalovaný výkon sústavy tepelných zariadení, zdroj energie a orientačný návrh priestoru výstavby sústavy tepelných zariadení alebo jej časti,“.
+
+38. V § 15 ods. 1 písm. a) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „dodávateľ môže po dohode s odberateľom dodávať teplo za dohodnutú odplatu aj mimo určeného času a v inej ako určenej kvalite,“.
+
+39. V § 15 ods. 1 písm. c) sa za slovo „okrem“ vkladajú slová „dodávateľa z účinného centralizovaného zásobovania teplom pri dodávke tepla do objektu spotrebu tepla koncového odberateľa, ktorý skončil odber tepla dohodou alebo na základe zákona z dôvodov podľa § 20 ods. 2 písm. d) a“.
+
+40. V § 15 sa odsek 1 dopĺňa písmenom d), ktoré znie:
+
+> „d) sprístupniť a pri významnej zmene aktualizovať na svojom webovom sídle informácie o energetickej hospodárnosti a podiele obnoviteľných zdrojov energie vo vykurovaní a chladení.“.
+
+41. V § 15 ods. 2 sa za slovo „vyrába“ vkladajú slová „teplo z obnoviteľných zdrojov energie alebo“.
+
+Poznámka pod čiarou k odkazu 14a znie:
+
+> „<sup>14a</sup>) Napríklad § 4 ods. 5, § 14h ods. 2 a 3 zákona č. 309/2009 Z. z. v znení neskorších predpisov.“.
+
+42. V § 17 ods. 1 písm. e) sa za slovo „umožniť“ vkladá slovo „koncovému“.
+
+43. V § 17 ods. 1 písmeno f) znie:
+
+> „f) rozpočítavať náklady na množstvo dodaného tepla v teplej vode podľa pravidiel rozpočítavania; náklady na množstvo tepla dodaného v teplej vode sa rozdelia na základnú zložku a spotrebnú zložku.“.
+
+44. V § 17 ods. 4 písmená b) a c) znejú:
+
+> „b) zabezpečiť obstaranie, zapojenie, udržiavanie a overovanie určených meradiel s diaľkovým odpočtom na meranie množstva teplej úžitkovej vody spotrebovanej konečným spotrebiteľom v súlade s osobitným predpisom;<sup>2</sup>) to neplatí, ak vlastník budovy preukáže, že inštalácia funkcie diaľkového odpočtu nie je nákladovo primeraná alebo technicky možná,
+>
+> c) oznámiť konečnému spotrebiteľovi najmenej sedem dní pred uskutočnením odčítania údajov na určenom meradle na meranie množstva teplej vody termín odčítania spotreby, ak určené meradlo nie je vybavené funkciou diaľkového odpočtu,“.
+
+45. V § 17 ods. 4 písmeno e) znie:
+
+> „e) rozpočítavať náklady na množstvo dodaného tepla v teplej vode podľa pravidiel rozpočítavania; náklady na množstvo dodaného tepla v teplej vode sa rozdelia na základnú zložku a spotrebnú zložku.“.
+
+46. V § 17 ods. 5 písm. a) sa za slová „písm. a) a b)“ vkladá čiarka a slová „odseku 9“.
+
+47. V § 17 ods. 6 sa za slovo „vode“ vkladajú slová „vrátane pomeru základnej zložky a spotrebnej zložky nákladov na množstvo tepla dodaného v teplej vode“.
+
+48. § 17 sa dopĺňa odsekmi 9 a 10, ktoré znejú:
+
+> „(9) Fyzická osoba alebo právnická osoba, ktorá vykonáva činnosť podľa § 1 ods. 3 písm. c), je povinná
+>
+> a) merať množstvo spotrebovaného tepla na prípravu teplej vody určeným meradlom v mieste jej prípravy,
+>
+> b) merať na vstupe do decentralizovaného zdroja tepla určeným meradlom množstvo dodanej studenej vody.
+>
+> (10) Ustanovenia odseku 4 písm. b) a d) a odseku 9 sa nepoužijú, ak koneční spotrebitelia v objekte spotreby tepla používajú bytové odovzdávacie stanice tepla.“.
+
+49. V § 18 ods. 4 písm. b) sa číslo „15“ nahrádza slovom „sedem“ a na konci sa pripájajú tieto slová: „ak určené meradlo spotreby tepla alebo pomerový rozdeľovač vykurovacích nákladov nie sú vybavené funkciou diaľkového odpočtu,“.
+
+50. V § 18 ods. 4 písmeno d) znie:
+
+> „d) rozpočítavať náklady na množstvo dodaného tepla podľa pravidiel rozpočítavania; náklady na množstvo dodaného tepla na vykurovanie sa rozdelia na základnú zložku a spotrebnú zložku.“.
+
+51. V § 18 ods. 6 úvodnej vete sa slová „efektívnosti pri používaní energie<sup>14e</sup>)“ nahrádzajú slovami „energetickej efektívnosti<sup>14e</sup>)“.
+
+52. V § 18 ods. 7 písm. e) sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak určené meradlo alebo pomerový rozdeľovač vykurovacích nákladov nie sú vybavené funkciou diaľkového odpočtu,“.
+
+53. V § 18 odsek 11 znie:
+
+> „(11) Pravidlá rozpočítavania nákladov na množstvo dodaného tepla alebo množstvo tepla vyrobeného v decentralizovanom zdroji tepla vrátane pomeru základnej zložky a spotrebnej zložky a ekonomicky oprávnených nákladov na teplo vyrobené v decentralizovanom zdroji tepla ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.“.
+
+54. § 18 sa dopĺňa odsekom 12, ktorý znie:
+
+> „(12) Fyzická osoba alebo právnická osoba, ktorá vykonáva činnosť podľa § 1 ods. 3 písm. c), je povinná
+>
+> a) merať množstvo vyrobeného tepla v decentralizovanom zdroji tepla v budove určeným meradlom podľa osobitného predpisu,<sup>2</sup>)
+>
+> b) zabezpečiť overovanie určeného meradla podľa osobitného predpisu<sup>2</sup>) a zabezpečiť určené meradlo proti neoprávnenému zásahu na náklady vlastníka budovy,
+>
+> c) umožniť vlastníkmi na tento účel poverenej osobe v dohodnutom termíne vykonávať kontrolu množstva vyrobeného tepla v decentralizovanom zdroji tepla,
+>
+> d) vykonať mesačné odpočty určených meradiel na decentralizovanom zdroji tepla,
+>
+> e) oznámiť obvyklým spôsobom termín výmeny určeného meradla na decentralizovanom zdroji tepla a zaznamenať údaje o tomto meradle.“.
+
+55. Za § 18 sa vkladá § 18a, ktorý vrátane nadpisu znie:
+
+> **„§ 18a — Prechod na účinné centralizované zásobovanie teplom**
+>
+> (1) Držiteľ povolenia na rozvod tepla v centralizovanom zásobovaní teplom má právo predložiť ministerstvu na schválenie návrh plánu prechodu na účinné centralizované zásobovanie teplom (ďalej len „plán prechodu“).
+>
+> (2) Náležitosti návrhu plánu prechodu sú uvedené v prílohe č. 2. Ak návrh plánu prechodu neobsahuje náležitosti podľa prvej vety, ministerstvo vyzve držiteľa povolenia na rozvod tepla na doplnenie návrhu v určenej lehote. Ak držiteľa povolenia na rozvod tepla návrh plánu prechodu v určenej lehote nedoplní, ministerstvo návrh plánu prechodu odmietne. Plán prechodu sa považuje za schválený, ak ministerstvo nevyzve držiteľa povolenia na rozvod tepla na jeho doplnenie v lehote 30 dní od predloženia návrhu plánu prechodu ministerstvu alebo od doplnenia návrhu plánu prechodu, ak ministerstvo vyzvalo držiteľa povolenia na rozvod tepla na doplnenie podľa druhej vety.
+>
+> (3) Ministerstvo zverejňuje na svojom webovom sídle zoznam schválených plánov prechodu.
+>
+> (4) Držiteľ povolenia na rozvod tepla v centralizovanom zásobovaní teplom so schváleným plánom prechodu je povinný každoročne do 30. septembra oznámiť ministerstvu plnenie plánu prechodu.“.
+
+56. V § 19 odsek 2 znie:
+
+> „(2) Zmluva o dodávke a odbere tepla musí obsahovať
+>
+> a) dohodnuté odberné miesto alebo odberné miesta,
+>
+> b) požadovaný maximálny tepelný príkon na odbernom mieste, a ak ide o dodávku tepla koncovému odberateľovi, aj technické parametre zariadenia na spotrebu tepla,
+>
+> c) objednané množstvo tepla na príslušný kalendárny rok alebo spôsob jeho určenia,
+>
+> d) technické parametre teplonosnej látky,
+>
+> e) vykurovaciu krivku, odberový diagram alebo spôsob ich určenia,
+>
+> f) cenu tepla alebo spôsob jej určenia a spôsob platby za dodané teplo vrátane výšky a termínu zálohových platieb, ak sa zálohové platby dohodli,
+>
+> g) náhradný spôsob určenia množstva dodaného tepla, ak dôjde k poruche určeného meradla,
+>
+> h) povinnosť odberateľa oznámiť dodávateľovi najneskôr do 31. augusta kalendárneho roka množstvo objednaného tepla na príslušný kalendárny rok podľa jednotlivých odberných miest na vykurovanie alebo prípravu teplej úžitkovej vody, ak sa nedohodol iný spôsob určovania množstva objednaného tepla.“.
+
+57. V § 19 ods. 3 písm. b) sa slová „zmene alebo doplnení uzatvorenej zmluvy podľa odseku 2 písm. j) v lehote 30 dní“ nahrádzajú slovami „uzatvorení zmluvy o dodávke a odbere tepla v lehote 90 dní“.
+
+58. V § 20 ods. 2 písmeno c) znie:
+
+> „c) objekt spotreby tepla nie je pripojený do sústavy tepelných zariadení dodávateľa z účinného centralizovaného zásobovania teplom a koncový odberateľ splní podmienky podľa odseku 4, “.
+
+59. V § 20 sa odsek 2 dopĺňa písmenom d), ktoré znie:
+
+> „d) objekt spotreby tepla je pripojený do sústavy tepelných zariadení dodávateľa z účinného centralizovaného zásobovania teplom okrem účinného centralizovaného zásobovania teplom z obnoviteľných zdrojov a koncový odberateľ si zabezpečí teplo vyrobené výlučne z obnoviteľných zdrojov energie alebo odpadového tepla v decentralizovanom zdroji tepla, ak so skončením odberu tepla nie je spojené odpojenie objektu spotreby tepla od sústavy tepelných zariadení dodávateľa z účinného centralizovaného zásobovania teplom.“.
+
+60. V § 20 odsek 3 znie:
+
+> „(3) Ak je so skončením odberu tepla spojené odpojenie objektu spotreby tepla od sústavy tepelných zariadení dodávateľa, odberateľ môže skončiť odber tepla len vtedy, ak uhradí dodávateľovi ekonomicky oprávnené náklady vyvolané odpojením odberateľa od sústavy tepelných zariadení dodávateľa.“.
+
+61. V § 20 ods. 4 sa slová „viac ako 10 % a menej ako 60 %“ nahrádzajú slovami „menej ako 50 %“ a vypúšťa sa druhá veta.
+
+62. V § 20 ods. 5 sa na konci pripája táto veta: „Ekonomicky oprávnené náklady vyvolané odpojením odberateľa od sústavy tepelných zariadení dodávateľa zahŕňajú náklady, ktoré vznikli priamo v dôsledku fyzického odpojenia objektu spotreby tepla od sústavy tepelných zariadení dodávateľa, a náhradu neamortizovanej časti prostriedkov potrebných na výrobu a rozvod tepla odberateľovi, ktorý sa odpája od sústavy tepelných zariadení dodávateľa.“.
+
+63. § 20 sa dopĺňa odsekom 6, ktorý znie:
+
+> „(6) Koncový odberateľ môže skončiť odber tepla len na úrovni celého objektu spotreby tepla.“.
+
+64. § 21 vrátane nadpisu znie:
+
+> **„§ 21 — Povinný odber tepla**
+>
+> (1) Držiteľ povolenia na rozvod tepla, ktorý zabezpečuje centralizované zásobovanie teplom, je povinný na zabezpečenie svojich zmluvne dohodnutých dodávok tepla na vymedzenom území odoberať za schválenú cenu<sup>14</sup>) teplo vyrobené z obnoviteľných zdrojov energie alebo odpadové teplo od držiteľa povolenia na výrobu tepla, ktorý teplo takto vyrába, ak
+>
+> a) držiteľ povolenia na výrobu tepla splní technické podmienky pripojenia<sup>15a</sup>) určené v prevádzkovom predpise držiteľa povolenia na rozvod tepla (ďalej len „technické podmienky“),
+>
+> b) sa tým nezvýši cena tepla pre odberateľov držiteľa povolenia na rozvod tepla.
+>
+> (2) Držiteľ povolenia na rozvod tepla je povinný na zabezpečenie svojich zmluvne dohodnutých dodávok tepla na vymedzenom území odoberať za schválenú cenu<sup>14</sup>) teplo od držiteľa povolenia na výrobu tepla, ktorý teplo vyrába vysoko účinnou kombinovanou výrobou elektriny a tepla,<sup>12d</sup>) ak
+>
+> a) držiteľ povolenia na výrobu tepla splní technické podmienky,
+>
+> b) sa dodávkou tepla od držiteľa povolenia na výrobu tepla do sústavy tepelných zariadení držiteľa povolenia na rozvod tepla nezhorší energetická účinnosť jej prevádzky a neobmedzí existujúca dodávka tepla z obnoviteľných zdrojov energie, z odpadového tepla alebo zo zariadení na výrobu tepla vysoko účinnou kombinovanou výrobou elektriny a tepla,
+>
+> c) sa tým nezvýši cena tepla pre odberateľov držiteľa povolenia na rozvod tepla,
+>
+> d) je dodávka tepla od držiteľa povolenia na výrobu tepla, ktorý teplo vyrába vysoko účinnou kombinovanou výrobou elektriny a tepla, pre držiteľa povolenia na rozvod tepla rovnako ekonomicky efektívna ako odber tepla z iných zariadení na výrobu tepla.
+>
+> (3) Ak držiteľ povolenia na rozvod tepla odmietne odoberať teplo podľa odseku 1 alebo odseku 2, je povinný o tom do 30 dní písomne informovať ministerstvo a oznámiť mu dôvody tohto odmietnutia spolu s informáciou o podmienkach, za ktorých je možný odber tepla, a opatreniach, ktoré je potrebné prijať na umožnenie odberu tepla. Povinnosť podľa odseku 1 sa nevzťahuje na držiteľa povolenia na rozvod tepla, ktorý prevádzkuje účinné centralizované zásobovanie teplom. Povinnosť podľa odseku 2 sa nevzťahuje na držiteľa povolenia na rozvod tepla, ktorý je držiteľom povolenia na výrobu tepla a na vymedzenom území vyrába teplo z obnoviteľných zdrojov energie, odpadového tepla alebo vysoko účinnou kombinovanou výrobou elektriny a tepla.
+>
+> (4) Ak sa na vymedzenom území alebo na území bezprostredne nadväzujúcom na vymedzené územie plánuje vybudovať nový objekt spotreby tepla s projektovanou ročnou potrebou tepla vyššou ako 30 MWh a dodávateľ na tomto vymedzenom území dodáva teplo z účinného centralizovaného zásobovania teplom, musí sa nový objekt spotreby tepla pripojiť k účinnému centralizovanému zásobovaniu teplom a potreba tepla sa musí prednostne pokryť od dodávateľa z účinného centralizovaného zásobovania teplom. To neplatí, ak to nie je technicky možné alebo nákladovo efektívne.
+>
+> (5) Ak sa na vymedzenom území alebo na území bezprostredne nadväzujúcom na vymedzené územie uskutočňuje hĺbková obnova<sup>15b</sup>) existujúceho objektu spotreby tepla s ročnou spotrebou tepla vyššou ako 30 MWh a dodávateľ na tomto vymedzenom území dodáva teplo z účinného centralizovaného zásobovania teplom z obnoviteľných zdrojov energie, musí sa takýto objekt spotreby tepla pripojiť k účinnému centralizovanému zásobovaniu teplom z obnoviteľných zdrojov energie a potreba tepla sa musí prednostne pokryť od dodávateľa z účinného centralizovaného zásobovania teplom z obnoviteľných zdrojov energie. To neplatí, ak to nie je technicky možné alebo nákladovo efektívne alebo ak iné technické riešenie pokrytia potreby tepla zabezpečí vyššiu mieru plnenia požiadaviek na energetickú hospodárnosť objektu spotreby tepla.<sup>15c</sup>)
+>
+> (6) Technické podmienky obsahujú najmä podmienky
+>
+> a) pripojenia do sústavy tepelných zariadení držiteľa povolenia na rozvod tepla,
+>
+> b) technickej súčinnosti zariadenia na výrobu tepla a sústavy tepelných zariadení držiteľa povolenia na rozvod tepla,
+>
+> c) odpojenia zariadenia na výrobu tepla zo sústavy tepelných zariadení držiteľa povolenia na rozvod tepla,
+>
+> d) riadenia sústavy tepelných zariadení držiteľa povolenia na rozvod tepla,
+>
+> e) technickej bezpečnosti sústavy tepelných zariadení, spôsob vypracovania a zverejnenia minimálnych technicko-konštrukčných a prevádzkových požiadaviek na pripojenie do sústavy tepelných zariadení držiteľa povolenia na rozvod tepla.
+>
+> (7) Technické podmienky vypracované držiteľom povolenia na rozvod tepla musia byť primerané a nediskriminačné. Technické podmienky zverejní držiteľ povolenia na rozvod tepla na svojom webovom sídle tak, aby boli prístupné všetkým účastníkom trhu s teplom aspoň jeden mesiac pred nadobudnutím ich účinnosti, a súčasne ich predloží ministerstvu. Technické podmienky sú záväzné pre účastníkov trhu s teplom.
+>
+> (8) Ministerstvo môže požiadať držiteľa povolenia na rozvod tepla o zmenu technických podmienok, ak sú technické podmienky v rozpore s týmto zákonom alebo osobitnými predpismi. Držiteľ povolenia na rozvod tepla je povinný predložiť ministerstvu do 30 dní odo dňa doručenia odôvodnenej žiadosti ministerstva podľa prvej vety návrh zmeny technických podmienok v rozsahu požadovanom ministerstvom. Ak ministerstvo nepožiada držiteľa povolenia na rozvod tepla o zmenu návrhu zmeny technických podmienok do 30 dní od jeho predloženia ministerstvu, držiteľ povolenia na rozvod tepla je povinný zmeniť technické podmienky v súlade s návrhom predloženým ministerstvu.“.
+
+Poznámky pod čiarou k odkazom 15b a 15c znejú:
+
+> „<sup>15b</sup>) § 2 ods. 8 zákona č. 555/2005 Z. z. v znení neskorších predpisov.
+>
+> <sup>15c</sup>) § 3 ods. 1 zákona č. 555/2005 Z. z.“.
+
+65. V § 24 ods. 2 sa na konci pripája táto veta: „Oprávnenia k cudzím nehnuteľnostiam a obmedzenia ich užívania zostávajú preložkou nedotknuté.“.
+
+66. V § 24 odsek 3 znie:
+
+> „(3) Zriadenie tepelnej prípojky a odovzdávacej stanice tepla v objekte spotreby tepla, ich opravu a údržbu zabezpečuje alebo vykonáva za úhradu dodávateľ, ak sa dodávateľ s odberateľom nedohodnú inak. Ak sa dodávateľ s odberateľom nedohodnú inak, vlastníkom zariadenia na výrobu tepla v objekte spotreby tepla, odovzdávacej stanice tepla v objekte spotreby tepla a tepelnej prípojky je ten, kto uhradil náklady na ich zriadenie.“.
+
+67. V § 25 ods. 2 písmeno d) znie:
+
+> „d) zabezpečiť jedenkrát ročne preukázanie splnenia podmienky účinného centralizovaného zásobovania teplom alebo účinného centralizovaného zásobovania teplom z obnoviteľných zdrojov energie.“.
+
+68. V § 25 ods. 4 sa za slovo „teplom“ vkladajú slová „alebo účinného centralizovaného zásobovania teplom z obnoviteľných zdrojov energie“.
+
+69. V § 25 ods. 6 sa vypúšťajú slová „postup pri výpočte preukazujúcom splnenie podmienky účinného centralizovaného zásobovania teplom,“.
+
+70. V § 25 ods. 8 sa vypúšťajú slová „a d)“.
+
+71. § 25 sa dopĺňa odsekom 9, ktorý znie:
+
+> „(9) Postup pri výpočte preukazujúcom splnenie podmienky účinného centralizovaného zásobovania teplom a účinného centralizovaného zásobovania teplom z obnoviteľných zdrojov energie ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.“.
+
+72. V § 26 ods. 1 písm. d) sa za slovo „elektriny“ vkladajú slová „alebo dodávka vody“.
+
+73. V § 26 ods. 5 sa za slovo „obmedzení“ vkladajú slová „alebo prerušení“ a slová „dôvodu zneužitia podmienok uvedených v odseku 1“ sa nahrádzajú slovami „dôvodov, ktoré zavinil dodávateľ“.
+
+74. V § 28 ods. 4 sa za slovo „informovať“ vkladajú slová „ministerstvo, úrad,“.
+
+75. V § 29 ods. 1 písm. d) sa slová „§ 4 ods. 6“ nahrádzajú slovami „§ 4 ods. 7“ a za slová „§ 16 ods. 2“ sa vkladá čiarka a slová „§ 25 ods. 9“.
+
+76. V § 29 ods. 2 písm. a) sa slová „výstavbu sústavy tepelných zariadení s celkovým inštalovaným tepelným výkonom 10 MW a viac“ nahrádzajú slovami „výstavbu sústavy tepelných zariadení podľa § 12 ods. 3“.
+
+77. V § 29 sa odsek 2 dopĺňa písmenom c), ktoré znie:
+
+> „c) o schválení plánu prechodu podľa § 18a ods. 2.“.
+
+78. V § 29 ods. 3 sa za slová „písm. b)“ vkladajú slová „a c)“.
+
+79. V § 30 písm. c) sa slová „Štátnej energetickej inšpekcií“ nahrádzajú slovami „Slovenskej obchodnej inšpekcii“.
+
+80. § 30 sa dopĺňa písmenom e), ktoré znie:
+
+> „e) vydáva predbežné opatrenia podľa § 9 ods. 5.“.
+
+81. V § 31 písmená b) a c) znejú:
+
+> „b) aktualizuje aspoň raz za päť rokov koncepciu rozvoja obce v oblasti tepelnej energetiky a po prerokovaní obecným zastupiteľstvom schválenú časť aktualizovanej koncepcie rozvoja obce v oblasti tepelnej energetiky doplní do územno-plánovacej dokumentácie obce postupom podľa osobitného predpisu;<sup>13</sup>) ak je to vhodné, najmä ak nie je dostupné účinné centralizované zásobovanie teplom, obec zahrnie do plánovania obecnej infraštruktúry vykurovanie a chladenie z obnoviteľných zdrojov energie alebo odpadového tepla a na tieto účely vedie konzultácie s prevádzkovateľmi dotknutých sústav tepelných zariadení s cieľom zohľadniť vplyv programov energetickej efektívnosti a reakcie na dopyt vrátane dopytu po decentralizovanom zdroji tepla využívajúcom obnoviteľné zdroje energie a na plány prevádzkovateľov dotknutých sústav tepelných zariadení,
+>
+> c) rozhoduje<sup>20a</sup>) o vydaní osvedčenia obce na výstavbu sústavy tepelných zariadení alebo jej časti, ak o nich nerozhoduje ministerstvo podľa § 12 ods. 3, pričom v konaní posudzuje súlad žiadosti o vydanie osvedčenia s koncepciou rozvoja obce v oblasti tepelnej energetiky; ak koncepcia rozvoja obce v oblasti tepelnej energetiky nie je súčasťou záväznej časti územnoplánovacej dokumentácie obce, obec rozhoduje<sup>20a</sup>) o vydaní osvedčenia na základe individuálneho posúdenia opodstatnenosti výstavby,“.
+
+82. V § 35 ods. 1 písm. a) sa za slovo „zariadení“ vkladajú slová „alebo jej časti“.
+
+83. V § 35 ods. 1 písm. b) sa vypúšťajú slová „12 ods. 9,“ a slová „§ 18 ods. 1, 2 a 3“ sa nahrádzajú slovami „§ 18 ods. 1 až 4, § 18a ods. 4“.
+
+84. V § 35 ods. 1 písm. c) sa slová „§ 17 ods. 3 a 4, § 18 ods. 4, 6 a 7“ nahrádzajú slovami „§ 17 ods. 3 až 5, 7 až 9, § 18 ods. 6 až 10 a 12“.
+
+85. V § 35 sa odsek 1 dopĺňa písmenom d), ktoré znie:
+
+> „d) od 33 000 eur do 5 000 000 eur za porušenie povinností uložených predbežným opatrením úradu podľa § 9 ods. 5.“.
+
+86. Za § 38ad sa vkladá § 38ae, ktorý vrátane nadpisu znie:
+
+> **„§ 38ae — Prechodné ustanovenia k úpravám účinným od 1. decembra 2022**
+>
+> (1) Za účinné centralizované zásobovanie teplom z obnoviteľných zdrojov energie sa do 31. decembra 2025 považuje centralizované zásobovanie teplom, ktorým sa zabezpečuje rozvod aspoň 65 % tepla vyrobeného z obnoviteľných zdrojov energie.
+>
+> (2) Osvedčenia ministerstva o súlade pripravovanej výstavby sústavy tepelných zariadení alebo jej časti s Energetickou politikou Slovenskej republiky a záväzné stanoviská obcí o súlade pripravovanej výstavby sústavy tepelných zariadení s koncepciou rozvoja obce v oblasti tepelnej energetiky vydané podľa tohto zákona v znení účinnom do 30. novembra 2022 zostávajú v platnosti do uplynutia doby, na ktorú boli vydané. Pri predĺžení ich trvania sa postupuje podľa tohto zákona v znení účinnom od 1. decembra 2022.
+>
+> (3) Konania o vydanie osvedčenia o súlade pripravovanej výstavby sústavy tepelných zariadení alebo jej časti s Energetickou politikou Slovenskej republiky a konania o vydanie záväzného stanoviska obce o súlade pripravovanej výstavby sústavy tepelných zariadení s koncepciou rozvoja obce v oblasti tepelnej energetiky začaté a právoplatne neukončené do 30. novembra 2022 sa dokončia podľa tohto zákona v znení účinnom do 30. novembra 2022.
+>
+> (4) Zmluvy o dodávke a odbere tepla uzatvorené podľa tohto zákona v znení účinnom do 30. novembra 2022 zostávajú v platnosti.
+>
+> (5) Koncový odberateľ, ktorý rozpočítava množstvo tepla dodané v teplej úžitkovej vode konečnému spotrebiteľovi, a fyzická osoba alebo právnická osoba, ktorá vykonáva činnosť podľa § 1 ods. 3 písm. c), sú povinní zabezpečiť, aby určené meradlo bolo vybavené funkciou diaľkového odpočtu podľa § 17 ods. 4 písm. b) do 1. januára 2027.
+>
+> (6) Držiteľ povolenia na rozvod tepla v centralizovanom zásobovaní teplom so schváleným plánom prechodu sa na účely tohto zákona považuje za držiteľa povolenia na rozvod tepla v účinnom centralizovanom zásobovaní teplom, najdlhšie však do 31. decembra 2025.
+>
+> (7) Fyzická osoba alebo právnická osoba, ktorá vykonáva činnosť podľa § 1 ods. 3 písm. c) je povinná merať množstvo vyrobeného tepla v decentralizovanom zdroji tepla v budove určeným meradlom podľa § 17 ods. 9 a § 18 ods. 12 písm. a) od 1. januára 2024.
+>
+> (8) Dodávateľ, ktorý dodáva teplo v teplej vode, je povinný merať množstvo dodanej teplej vody na odbernom mieste určeným meradlom<sup>2</sup>) podľa § 17 ods. 1 písm. b) od 1. januára 2025.“.
+
+87. Príloha sa dopĺňa tretím bodom, ktorý znie:
+
+> „3. Smernica Európskeho parlamentu a Rady (EÚ) 2018/2001 z 11. decembra 2018 o podpore využívania energie z obnoviteľných zdrojov (prepracované znenie) (Ú. v. EÚ L 328, 21. 12. 2018).“.
+
+88. Doterajšia príloha sa označuje ako príloha č. 1 a dopĺňa sa príloha č. 2, ktorá vrátane nadpisu znie:
+
+> **„Príloha č. 2 k zákonu č. 657/2004 Z. z.**
+>
+> **Náležitosti návrhu plánu prechodu**
+>
+> Návrh plánu prechodu obsahuje
+>
+> 1. identifikačné údaje držiteľa povolenia na rozvod tepla v centralizovanom zásobovaní teplom,
+>
+> 2. stručný popis zariadení na výrobu tepla, z ktorých sa dodáva teplo do centralizovaného zásobovania teplom,
+>
+> 3. množstvo tepla v megawatthodinách dodané do zariadení na rozvod tepla centralizovaného zásobovania teplom za posledné tri kalendárne roky pred podaním návrhu plánu prechodu v členení na
+>
+> a) teplo z obnoviteľných zdrojov energie vrátane inej formy obnoviteľnej energie použitej na výrobu tepla,
+>
+> b) odpadové teplo z priemyselných procesov,
+>
+> c) odpadové teplo z terciálnej sféry,
+>
+> d) teplo z kombinovanej výroby elektriny a tepla,
+>
+> e) teplo z iných zdrojov,
+>
+> 4. percentuálny podiel množstva tepla podľa bodu 3. písm. a) až d) k celkovému množstvu tepla dodaného do rozvodu tepla v príslušnom kalendárnom roku,
+>
+> 5. stručný popis predpokladaného postupu výstavby, modernizácie alebo rekonštrukcie zariadení na výrobu tepla, z ktorých sa dodáva teplo do zariadení na rozvod tepla centralizovaného zásobovania teplom alebo predpokladané pripojenie nových dodávateľov tepla do zariadení na rozvod centralizovaného zásobovania teplom vrátane koncových odberateľov, ktorí si zabezpečia teplo vyrobené výlučne z obnoviteľných zdrojov energie alebo odpadového tepla v decentralizovanom zdroji,
+>
+> 6. predpokladaný percentuálny podiel množstvo tepla dodaného do zariadení na rozvod tepla centralizovaného zásobovania teplom v členení podľa bodu 3 v roku podania návrhu plánu prechodu a každom nasledujúcom kalendárnom roku po podaní návrhu plánu prechodu do roku 2025 vrátane,
+>
+> 7. predpokladané zvýšené finančné náklady na prechod na účinný systém centralizovaného zásobovania teplom v členení na investičné náklady a prevádzkové náklady,
+>
+> 8. spôsob zabezpečenia financovania plánu prechodu a predpokladaný vplyv na cenu pre koncového odberateľa po roku 2025.“.
+
+89. Slová „teplá úžitková voda“ vo všetkých tvaroch sa v celom texte zákona nahrádzajú slovami „teplá voda“ v príslušnom tvare.
+
+90. Slová „pomerový rozdeľovač tepla“ vo všetkých tvaroch sa v celom texte zákona nahrádzajú slovami „pomerový rozdeľovač vykurovacích nákladov“ v príslušnom tvare.
+
+## Čl. III
+
+Zákon č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení zákona č. 435/2013 Z. z., zákona č. 321/2014 Z. z., zákona č. 391/2015 Z. z., zákona č. 164/2017 Z. z., zákona č. 177/2018 Z. z., zákona č. 309/2018 Z. z., zákona č. 221/2019 Z. z., zákona č. 297/2019 Z. z., zákona č. 198/2020 Z. z., zákona č. 276/2020 Z. z., zákona č. 419/2020 Z. z., zákona č. 516/2021 Z. z., zákona č. 85/2022 Z. z., zákona č. 256/2022 Z. z. a zákona č. 324/2022 Z. z. sa mení a dopĺňa takto:
+
+1. V § 10 sa písmeno f) dopĺňa dvadsiatym prvým bodom, ktorý znie:
+
+> „21. potvrdenia o pôvode elektriny z obnoviteľných zdrojov energie, potvrdenia o pôvode elektriny vyrobenej vysokoúčinnou kombinovanou výrobou, potvrdenia o pôvode biometánu a potvrdenia o cene podľa § 14 ods. 8,“.
+
+2. V § 11 ods. 2 sa dopĺňa písmenom g), ktoré znie:
+
+> „g) poskytovanie služieb súvisiacich s prevádzkou registra obnoviteľných plynov.<sup>21ba</sup>)“.
+
+Poznámka pod čiarou k odkazu 21ba znie:
+
+> „<sup>21ba</sup>) § 11b zákona č. 309/2009 Z. z. v znení zákona č. 363/2022 Z. z.“.
+
+3. V § 11 ods. 3 písm. a) až c) sa na konci pripájajú tieto slová: „okrem chladu“.
+
+4. V § 15 sa za odsek 6 vkladá nový odsek 7, ktorý znie:
+
+> „(7) Prevádzkovateľ distribučnej siete, ktorý na základe rozhodnutia ministerstva podľa osobitného predpisu<sup>34a</sup>) plní úlohy plynárenského dispečingu na vymedzenom území je povinný návrh prevádzkového poriadku alebo návrh jeho zmien, ktoré súvisia s prevádzkou registra obnoviteľných plynov,<sup>21ba</sup>) pred ich predložením úradu na schválenie konzultovať s výrobcami obnoviteľného plynu, dodávateľmi plynu, dodávateľmi obnoviteľného plynu a s relevantnými odberateľmi obnoviteľného plynu. Vyhodnotenie konzultácie je súčasťou predloženého návrhu prevádzkového poriadku alebo návrhu jeho zmien.“.
+
+Poznámka pod čiarou k odkazu 34a znie:
+
+> „<sup>34a</sup>) § 66 ods. 2 zákona č. 251/2012 Z. z.“.
+
+Doterajší odsek 7 sa označuje ako odsek 8.
+
+5. Príloha sa dopĺňa šiestym bodom, ktorý znie:
+
+> „6. Smernica Európskeho parlamentu a Rady (EÚ) 2018/2001 z 11. decembra 2018 o podpore využívania energie z obnoviteľných zdrojov (prepracované znenie) (Ú. v. EÚ L 328, 21. 12. 2018) v znení korigenda.“.
+
+## Čl. IV
+
+Tento zákon nadobúda účinnosť 1. decembra 2022 okrem čl. I bodov 78 a 83, ktoré nadobúdajú účinnosť 1. januára 2023 a okrem čl. I bodu 42, ktorý nadobúda účinnosť 31. decembra 2023.
+
+Zuzana Čaputová v. r.
+
+Boris Kollár v. r.
+
+Eduard Heger v. r.

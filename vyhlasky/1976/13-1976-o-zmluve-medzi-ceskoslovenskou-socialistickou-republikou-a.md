@@ -4,7 +4,7 @@ identifier: "13/1976 Zb."
 eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1976/13/"
 type: decree
 jurisdiction: sk
-language: cs
+language: sk
 date: 1976-02-23
 last_amended: 1976-02-23
 status: in_force

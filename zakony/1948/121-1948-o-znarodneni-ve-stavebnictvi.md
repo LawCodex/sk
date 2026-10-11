@@ -4,7 +4,7 @@ identifier: "121/1948 Zb."
 eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1948/121/"
 type: act
 jurisdiction: sk
-language: cs
+language: sk
 date: 1948-06-03
 last_amended: 1992-01-01
 status: in_force

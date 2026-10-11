@@ -4,7 +4,7 @@ identifier: "42/1946 Zb."
 eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1946/42/"
 type: decree
 jurisdiction: sk
-language: cs
+language: sk
 date: 1946-03-07
 last_amended: 1946-03-07
 status: in_force

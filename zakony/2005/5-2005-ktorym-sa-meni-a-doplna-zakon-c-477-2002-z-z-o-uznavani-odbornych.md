@@ -4,7 +4,7 @@ identifier: "5/2005 Z. z."
 eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2005/5/"
 type: act
 jurisdiction: sk
-language: cs
+language: sk
 date: 2005-01-14
 last_amended: 2008-09-01
 status: in_force

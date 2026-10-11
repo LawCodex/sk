@@ -1,0 +1,142 @@
+---
+title: "Nariadenie vlády Slovenskej republiky, ktorým sa mení a dopĺňa nariadenie vlády Slovenskej republiky č. 103/2020 Z. z. o niektorých opatreniach v oblasti dotácií v pôsobnosti Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky v čase mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti s ochorením COVID-19 v znení neskorších predpisov"
+identifier: "293/2022 Z. z."
+eli: "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2022/293/"
+type: government_regulation
+jurisdiction: sk
+language: sk
+date: 2022-08-26
+last_amended: 2022-09-01
+status: in_force
+consolidated_version: "/SK/ZZ/2022/293/20220901"
+source: "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2022/293/20220901"
+retrieved: 2026-10-12
+---
+
+# Nariadenie vlády Slovenskej republiky, ktorým sa mení a dopĺňa nariadenie vlády Slovenskej republiky č. 103/2020 Z. z. o niektorých opatreniach v oblasti dotácií v pôsobnosti Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky v čase mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti s ochorením COVID-19 v znení neskorších predpisov
+
+**293**
+
+**NARIADENIE VLÁDY**
+
+**Slovenskej republiky**
+
+**z 24. augusta 2022,**
+
+**ktorým sa mení a dopĺňa nariadenie vlády Slovenskej republiky č. 103/2020 Z. z. o niektorých opatreniach v oblasti dotácií v pôsobnosti Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky v čase mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti s ochorením COVID-19 v znení neskorších predpisov**
+
+Vláda Slovenskej republiky podľa § 15a zákona č. 544/2010 Z. z. o dotáciách v pôsobnosti Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky v znení zákona č. 89/2020 Z. z. (ďalej len „zákon“) nariaďuje:
+
+## Čl. I
+
+Nariadenie vlády Slovenskej republiky č.103/2020 Z. z. o niektorých opatreniach v oblasti dotácií v pôsobnosti Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky v čase mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti s ochorením COVID-19 v znení nariadenia vlády Slovenskej republiky č. 271/2020 Z. z., nariadenia vlády Slovenskej republiky č. 301/2020 Z. z., nariadenia vlády Slovenskej republiky č. 156/2021 Z. z., nariadenia vlády Slovenskej republiky č. 367/2021 Z. z., nariadenia vlády Slovenskej republiky č. 411/2021 Z. z., nariadenia vlády Slovenskej republiky č. 514/2021 Z. z., nariadenia vlády Slovenskej republiky č. 160/2022 Z. z. a nariadenia vlády Slovenskej republiky č. 228/2022 Z. z. sa mení a dopĺňa takto:
+
+1. V § 4 ods. 8 úvodná veta znie: „Dotáciu podľa odseku 7 možno poskytnúť vo výške 405 eur na zamestnanca v pracovnom pomere, ktorý v čase krízovej situácie vykonával počas obdobia výskytu a šírenia ochorenia COVID-19 u poskytovateľa sociálnej služby podľa písmena a) alebo v centre pre deti a rodiny podľa písmena b) (ďalej len „obdobie výskytu a šírenia ochorenia COVID-19 v zariadení“) ohláseného podľa odseku 9 pracovnú činnosť v priamom fyzickom kontakte s klientom s ochorením COVID-19 potvrdeným lekárom, s ktorým má tento klient uzatvorenú dohodu o poskytovaní zdravotnej starostlivosti, a ktorý je zamestnancom“.
+
+2. V § 4 sa za odsek 8 vkladá nový odsek 9, ktorý znie:
+
+> „(9) Poskytovateľ sociálnej služby podľa odseku 8 písm. a) alebo centrum pre deti a rodiny podľa odseku 8 písm. b) ohlási ministerstvu, ako subjektu hospodárskej mobilizácie,<sup>2ba</sup>) začiatok a skončenie obdobia výskytu a šírenia ochorenia COVID-19 v zariadení spôsobom určeným ministerstvom.“.
+
+Doterajšie odseky 9 až 16 sa označujú ako odseky 10 až 17.
+
+Poznámka pod čiarou k odkazu 2ba znie:
+
+> „<sup>2ba</sup>) § 6 nariadenia vlády Slovenskej republiky č. 183/2021 Z. z. na vykonanie niektorých opatrení hospodárskej mobilizácie v súvislosti s vyhlásenou mimoriadnou situáciou na zabezpečenie riešenia koronavírusu COVID-19.“.
+
+3. V § 4 odsek 10 znie:
+
+> „(10) Dotáciu podľa odseku 7 možno poskytnúť po skončení obdobia výskytu a šírenia ochorenia COVID-19 v zariadení. Ak bolo obdobie výskytu a šírenia ochorenia COVID-19 v zariadení ohlásené podľa odseku 9 viackrát v kalendárnom mesiaci, dotáciu podľa odseku 7 možno poskytnúť len raz.“.
+
+4. V § 4 odsek 12 znie:
+
+> „(12) Dotáciu podľa odseku 7 možno poskytnúť, ak žiadosť spĺňa náležitosti podľa druhej vety a tretej vety a odseku 11 a je písomne doručená ministerstvu najneskôr do troch mesiacov odo dňa skončenia obdobia výskytu a šírenia ochorenia COVID-19 v zariadení. Ministerstvo určí a na svojom webovom sídle zverejní vzor žiadosti o dotáciu podľa odseku 7. Súčasťou žiadosti o dotáciu podľa odseku 7 je aj zoznam zamestnancov podľa odseku 8, s uvedením ich osobných údajov v rozsahu meno, priezvisko, pracovného zaradenia a konkretizácie pracovnej činnosti vykonávanej zamestnancom v priamom fyzickom kontakte s klientom podľa odseku 8.“.
+
+5. V 4 ods. 15 až 17 sa slová „odseku 13“ nahrádzajú slovami „odseku 14“.
+
+6. Za § 11c sa vkladajú § 11d až 11f, ktoré vrátane nadpisov § 11e a 11f znejú:
+
+> **„§ 11d**
+>
+> (1) Dotáciu na podporu humanitárnej pomoci podľa § 9 zákona možno v čase krízovej situácie jednorazovo poskytnúť v rozpočtovom roku 2022
+>
+> a) na plnenie poskytované zamestnávateľom zamestnancovi za vykonávanie pracovných činností vyplývajúcich z dohodnutého druhu práce, ktoré nie je úhradou dohodnutej mzdy alebo platu v pracovnej zmluve, a
+>
+> b) na preddavok na poistné na povinné verejné zdravotné poistenie, poistné na sociálne poistenie a na príspevky na starobné dôchodkové sporenie, ktoré sú platené zamestnávateľom z plnenia podľa písmena a).
+>
+> (2) Dotáciu podľa odseku 1 možno poskytnúť na zamestnanca zamestnávateľa, ktorý
+>
+> a) je poskytovateľom sociálnej služby podľa § 3 ods. 2 písm. a) zákona (ďalej len „neverejný poskytovateľ sociálnej služby“),
+>
+> b) je zapojený do národného projektu, ktorého obsahom je podpora a zvyšovanie kvality terénnej sociálnej práce alebo terénna sociálna práca a terénna práca v obciach s prítomnosťou marginalizovaných rómskych komunít a ktorý nie je poskytovateľom sociálnej služby<sup>2a</sup>) alebo obcou,
+>
+> c) vykonáva opatrenia sociálnoprávnej ochrany detí a sociálnej kurately na základe udelenej akreditácie.
+>
+> (3) Dotáciu podľa odseku 1 možno poskytnúť na zamestnanca, ak
+>
+> a) jeho pracovný pomer trvá k 31. augustu 2022 a
+>
+> b) v sledovanom období od 1. januára 2022 do 31. augusta 2022 nemá za celý čas trvania pracovného pomeru ospravedlnenú neprítomnosť v práci z dôvodu prekážky v práci na strane tohto zamestnanca.
+>
+> (4) Dotáciu podľa odseku 1 možno poskytnúť na zamestnanca neverejného poskytovateľa sociálnej služby, ktorý je vedený v evidencii zamestnancov poskytovateľa sociálnej služby v informačnom systéme sociálnych služieb.<sup>5</sup>)
+>
+> (5) Dotácia podľa odseku 1 sa na zamestnanca, ktorý je v pracovnom pomere dohodnutom na
+>
+> a) ustanovený týždenný pracovný čas, poskytne vo výške 676 eur,
+>
+> b) kratší pracovný čas v rozsahu najmenej polovice ustanoveného týždenného pracovného času, poskytne vo výške 338 eur.
+>
+> (6) Na dotáciu podľa odseku 1 sa ustanovenie § 9 zákona nevzťahuje.
+>
+> (7) Žiadosť o dotáciu podľa odseku 1 sa doručuje ministerstvu určeným spôsobom najneskôr do 30. septembra 2022; spôsob doručovania žiadosti o dotáciu podľa odseku 1 ministerstvo určí a zverejní na svojom webovom sídle. Na žiadosť doručenú po ustanovenej lehote sa neprihliada.
+>
+> (8) Žiadateľ o poskytnutie dotácie podľa odseku 1 doručuje jednu žiadosť a vykoná jedno zúčtovanie za všetky
+>
+> a) druhy sociálnych služieb, ktoré poskytuje,
+>
+> b) činnosti, ktoré vykonáva v rámci národného projektu podľa odseku 2 písm. b),
+>
+> c) opatrenia sociálnoprávnej ochrany detí a sociálnej kurately podľa odseku 2 písm. c), ktoré vykonáva.
+>
+> (9) Ministerstvo určí a na svojom webovom sídle zverejní vzor žiadosti o dotáciu podľa odseku 1. Prílohou k žiadosti o dotáciu podľa odseku 1 je doklad preukazujúci splnenie podmienok podľa osobitného predpisu.<sup>4</sup>) Podmienky, že žiadateľ nemá evidované nedoplatky na poistnom na sociálne poistenie, zdravotná poisťovňa neeviduje voči nemu pohľadávky po splatnosti, má vysporiadané finančné vzťahy so štátnym rozpočtom voči daňovému úradu a colnému úradu, neporušil v predchádzajúcich troch rokoch zákaz nelegálneho zamestnávania, nie je voči nemu vedené konkurzné konanie, nie je v konkurze, v reštrukturalizácii a nebol proti nemu zamietnutý návrh na vyhlásenie konkurzu pre nedostatok majetku, ustanovené osobitným predpisom<sup>4</sup>) sa na účel poskytnutia dotácie podľa odseku 1 považujú za splnené. Ak žiadateľ nepreukáže splnenie podmienok podľa druhej vety ku dňu zúčtovania dotácie podľa odseku 1, je povinný poskytnutú dotáciu vrátiť.
+>
+> (10) Ministerstvo posudzuje žiadosť o dotáciu podľa odseku 1 a schvaľuje jej poskytnutie a sumu. Hodnotenie žiadosti o dotáciu podľa odseku 1 zahŕňa formálne hodnotenie žiadosti, ktorým sa overuje úplnosť tejto žiadosti a doloženie príloh k žiadosti. Odborné hodnotenie žiadosti o dotáciu podľa odseku 1 sa nevykonáva.
+>
+> (11) Ak ministerstvo schváli dotáciu podľa odseku 1, vyplatí ju na účet žiadateľa v banke alebo pobočke zahraničnej banky do piatich pracovných dní odo dňa zverejnenia schválenej žiadosti na webovom sídle ministerstva.
+>
+> (12) Žiadateľ, ktorému bola poskytnutá dotácia podľa odseku 1, zúčtuje poskytnutú dotáciu a vráti nevyčerpanú časť dotácie najneskôr do 30. novembra 2022, inak dotáciu podľa odseku 1 vráti v sume poskytnutej ministerstvom. Ministerstvo určí a na svojom webovom sídle zverejní vzor tlačiva na zúčtovanie dotácie podľa odseku 1.
+>
+> **§ 11e — Prechodné ustanovenie účinné dňom vyhlásenia**
+>
+> Ministerstvo zverejní na svojom webovom sídle do desiatich dní odo dňa vyhlásenia tohto nariadenia vlády
+>
+> a) vzor žiadosti o dotáciu podľa § 11d ods. 9,
+>
+> b) spôsob doručovania žiadosti o dotáciu podľa § 11d ods. 7,
+>
+> c) vzor tlačiva na zúčtovanie dotácie podľa § 11d ods. 12.
+>
+> **§ 11f — Prechodné ustanovenia k úpravám účinným od 1. septembra 2022**
+>
+> (1) Posudzovanie žiadosti o dotáciu podľa § 4 ods. 7 a 8 v znení účinnom do 31. augusta 2022, ktoré nebolo ukončené do 31. augusta 2022, sa dokončí podľa tohto nariadenia vlády v znení účinnom do 31. augusta 2022.
+>
+> (2) Dotáciu podľa § 4 ods. 7 a 8 v znení účinnom od 1. septembra 2022 možno poskytnúť aj za obdobie výskytu a šírenia ochorenia COVID-19 v zariadení, ktoré začalo najskôr 1. júna 2022 a skončilo najneskôr 31. augusta 2022, ak
+>
+> a) žiadosť o poskytnutie dotácie podľa § 4 ods. 7 a 8 v znení účinnom do 31. augusta 2022 nebola doručená do 31. augusta 2022 a
+>
+> b) poskytovateľ sociálnej služby podľa § 4 ods. 8 písm. a) alebo centrum pre deti a rodiny podľa § 4 ods. 8 písm. b)
+>
+> 1. ohlási do 30. septembra 2022 začiatok a skončenie obdobia výskytu a šírenia ochorenia COVID-19 v zariadení spôsobom podľa § 4 ods. 9 v znení účinnom od 1. septembra 2022 a
+>
+> 2. doručí do 1. decembra 2022 žiadosť o dotáciu podľa § 4 ods. 12 v znení účinnom od 1. septembra 2022.
+>
+> (3) Vzor žiadosti o dotáciu podľa § 4 ods. 12 v znení účinnom od 1. septembra 2022 ministerstvo zverejní na svojom webovom sídle do 9. septembra 2022.“.
+
+Poznámka pod čiarou k odkazu 5 znie:
+
+> „<sup>5</sup>) § 105a ods. 2 písm. f) zákona č. 448/2008 Z. z. v znení zákona č. 280/2019 Z. z.“.
+
+## Čl. II
+
+Toto nariadenie vlády nadobúda účinnosť dňom vyhlásenia okrem bodov 1 až 5 a § 11f v bode 6, ktoré nadobúdajú účinnosť 1. septembra 2022.
+
+Eduard Heger v. r.
